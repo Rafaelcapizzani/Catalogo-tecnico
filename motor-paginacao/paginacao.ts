@@ -102,6 +102,8 @@ export interface Item {
   tabelado?: boolean;
   /** Ajuste manual; quando preenchido, vence o cálculo automático. */
   tipologiaManual?: Tipologia;
+  /** Grupo dentro da família (ex.: 2 planos, montante, mão de amigo); menor vem antes. */
+  grupo?: number;
 }
 
 export interface Espaco {
@@ -127,7 +129,8 @@ export type Pagina =
   | { tipo: "tabelado"; numero: number; titulo: string; blocos: BlocoTabela[]; codigos: string[] };
 
 /**
- * Ordem dos perfis dentro de cada família (decisão do cliente, 26/11/2026):
+ * Ordem dos perfis dentro de cada família (decisões do cliente, 26/11/2026):
+ * 0º grupo (2, 3, 4, 5 planos, montante, mão de amigo, demais — campo grupo),
  * 1º tipologia (mesma tipologia junta; da maior para a menor, assim as sobras
  *    de uma página podem receber as tipologias menores que vêm depois),
  * 2º tamanho do desenho (área, do maior para o menor),
@@ -151,6 +154,7 @@ export function ordenarItens(itens: Item[]): Item[] {
   return familias.flatMap((f) =>
     grupos.get(f)!.slice().sort(
       (a, b) =>
+        (a.grupo ?? 99) - (b.grupo ?? 99) ||
         chave(a) - chave(b) ||
         b.larguraMm * b.alturaMm - a.larguraMm * a.alturaMm ||
         a.codigo.localeCompare(b.codigo, "pt-BR", { numeric: true }),

@@ -4,7 +4,7 @@
  * e devolve as páginas montadas.
  *
  * Uso: node --experimental-strip-types catalogo-pdf/layout.ts entrada.json saida.json
- *   entrada: { reducaoMaxima: number, itens: [{codigo, familia, larguraMm, alturaMm, tipologia?}] }
+ *   entrada: { reducaoMaxima: number, itens: [{codigo, familia, larguraMm, alturaMm, tipologia?, grupo?}] }
  *   (tipologia preenchida = usa essa, ex.: a tipologia atual do catálogo antigo)
  */
 import { readFileSync, writeFileSync } from "node:fs";
@@ -21,6 +21,7 @@ const lista: Item[] = itens.map((i: any) => ({
   classificador: 0,
   larguraMm: i.larguraMm,
   alturaMm: i.alturaMm,
+  grupo: i.grupo,
   // sem desenho: ocupa um espaço 1-6 com o aviso "sob consulta"
   tipologiaManual: i.tipologia ? i.tipologia : i.larguraMm ? sugerirTipologia(i.larguraMm, i.alturaMm, reducaoMaxima).tipologia : "1-6",
 }));

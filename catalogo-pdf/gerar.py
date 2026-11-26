@@ -28,6 +28,9 @@ import qrcode
 import qrcode.image.svg
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+import sys  # noqa: E402
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from grupos import grupo  # noqa: E402
 AQUI = os.path.join(RAIZ, "catalogo-pdf")
 
 # Área útil do motor (mm) e posição dela na folha A4
@@ -93,6 +96,7 @@ def montar(args):
                 "familia": linha,
                 "larguraMm": m["largura_mm"] if m else 0,
                 "alturaMm": m["altura_mm"] if m else 0,
+                "grupo": grupo(p.get("descricao")),
                 "tipologia": atual.get(p["codigo"]) if args.atual and atual.get(p["codigo"], "TABELADO") != "TABELADO" else None,
             })
 

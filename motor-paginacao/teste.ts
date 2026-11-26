@@ -78,6 +78,12 @@ assert.equal(sugerirTipologia(170, 220).tipologia, "1-1");
   assert.deepEqual(o.map((i) => i.codigo), ["LG-5", "LG-1", "LG-2", "LG-9"]);
 }
 
+// 10. Grupo vem antes da tipologia
+{
+  const o = ordenarItens([{ ...perfil("A", "1-3 H"), grupo: 2 }, { ...perfil("B", "1-6"), grupo: 1 }]);
+  assert.deepEqual(o.map((i) => i.codigo), ["B", "A"]);
+}
+
 console.log("Todos os testes passaram.");
 for (const t of Object.keys(CELULAS) as Tipologia[]) {
   const a = areaDesenho(t);
