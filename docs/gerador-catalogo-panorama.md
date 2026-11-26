@@ -41,6 +41,7 @@ Analisado em 23/11/2026 a partir dos arquivos em "Gerador Catalogo/". Atualizado
 - Descrições padronizadas (folhas → planos, acentuação, maiúsculas): planilha dados/descricoes-atual-x-sugerida.xlsx para o cliente aprovar (337 de 931 mudam; 84 sem descrição). O catálogo usa as descrições atuais até a aprovação.
 - ALINHAMENTO (APROVADO 26/11): na mesma coluna da página, os desenhos começam na mesma margem esquerda (a do mais largo) e o conjunto fica centralizado (catalogo-pdf/gerar.py).
 - LG-050 girado 90° horário a pedido do cliente (scripts/girar_desenho.py; números das cotas mantidos na orientação original; registro em dados/rotacoes.json).
+- LG-133, LG-144 e LG-145 (relato do cliente 26/11): linhas e cotas de desenhos vizinhos removidas (dados/correcoes-desenhos.json; no LG-133 saíram também os números 8,1 e 33 que eram de outro perfil — scripts/limpar_desenhos.py ganhou "remover_textos").
 - LG-234 é de 3 folhas: descrição corrigida em dados/descricoes-corrigidas.json (vale até o ERP ser corrigido).
 - Em avaliação (26/11): ordem das tipologias encadeando as compatíveis (1-1, 1-3 V, 1-2 V, 1-2 H, 1-3 H, 1-4, 1-6) ganha ~2 páginas; nova tipologia 1-9 (3×3, desenho até 57×61 mm) ganharia ~12 páginas em escala real (243 perfis cabem nela); encaixe livre de várias tipologias na mesma sobra.
 - Segundo momento: encaixe livre em qualquer área; misturar linhas diferentes numa página do catálogo personalizado.

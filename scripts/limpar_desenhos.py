@@ -110,6 +110,22 @@ def limpar(svg, retangulos):
     return svg, sum(len(v) for v in alvo.values())
 
 
+def remover_textos(svg, retangulos):
+    """Remove números de cota (glifos <use>) cuja origem cai dentro de um retângulo."""
+    n = 0
+    def troca(m):
+        nonlocal n
+        t = re.search(r'matrix\(([^)]*)\)', m.group(0))
+        if not t:
+            return m.group(0)
+        v = [float(x) for x in re.split(r'[ ,]+', t.group(1).strip())]
+        if any(r[0] <= v[4] <= r[2] and r[1] <= v[5] <= r[3] for r in retangulos):
+            n += 1
+            return ""
+        return m.group(0)
+    return re.sub(r'<use\b[^>]*?/>', troca, svg), n
+
+
 def abrir_vaos(svg, vaos):
     """Abre vão na linha de cota onde ela atravessa o número.
 
@@ -211,8 +227,9 @@ def aplicar():
             if info.filename in arqs:
                 cod, c = arqs[info.filename]
                 svg, n = limpar(dados.decode("utf-8"), c.get("remover", []))
+                svg, t = remover_textos(svg, c.get("remover_textos", []))
                 svg, v = abrir_vaos(svg, c.get("vaos", []))
-                print(f"{cod}: {n} traço(s) removido(s), {v} vão(s) aberto(s)")
+                print(f"{cod}: {n} traço(s) removido(s), {t} glifo(s) removido(s), {v} vão(s) aberto(s)")
                 dados = svg.encode("utf-8")
             novos.append((info, dados))
         tmp = zp + ".tmp"
