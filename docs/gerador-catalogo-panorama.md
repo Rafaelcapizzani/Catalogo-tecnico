@@ -39,6 +39,9 @@ Analisado em 23/11/2026 a partir dos arquivos em "Gerador Catalogo/". Atualizado
 - ORDEM dentro de cada linha (APROVADO 26/11, noite): 1º tipologia (mesma tipologia junta, da maior para a menor), 2º tamanho do desenho (área, maior primeiro), 3º código. Substitui a ordem do classificador. Gold: 43 → 28 páginas em escala real; catálogo inteiro (793 perfis sem tabelados) ≈ 247 páginas em escala real e ≈ 202 com redução até 80%.
 - GRUPOS por descrição (APROVADO 26/11, noite) vêm ANTES da tipologia: 2 planos, 3 planos, 4 planos, 5 planos, montante, mão de amigo, demais ("correr N folhas" = N planos; "mão de amigo" vence "montante"). Ordem final: grupo → tipologia → tamanho → código (catalogo-pdf/grupos.py). Gold: 32 páginas em escala real.
 - Descrições padronizadas (folhas → planos, acentuação, maiúsculas): planilha dados/descricoes-atual-x-sugerida.xlsx para o cliente aprovar (337 de 931 mudam; 84 sem descrição). O catálogo usa as descrições atuais até a aprovação.
+- ALINHAMENTO (APROVADO 26/11): na mesma coluna da página, os desenhos começam na mesma margem esquerda (a do mais largo) e o conjunto fica centralizado (catalogo-pdf/gerar.py).
+- LG-050 girado 90° horário a pedido do cliente (scripts/girar_desenho.py; números das cotas mantidos na orientação original; registro em dados/rotacoes.json).
+- LG-234 é de 3 folhas: descrição corrigida em dados/descricoes-corrigidas.json (vale até o ERP ser corrigido).
 - Em avaliação (26/11): ordem das tipologias encadeando as compatíveis (1-1, 1-3 V, 1-2 V, 1-2 H, 1-3 H, 1-4, 1-6) ganha ~2 páginas; nova tipologia 1-9 (3×3, desenho até 57×61 mm) ganharia ~12 páginas em escala real (243 perfis cabem nela); encaixe livre de várias tipologias na mesma sobra.
 - Segundo momento: encaixe livre em qualquer área; misturar linhas diferentes numa página do catálogo personalizado.
 - Áreas para o desenho (configuráveis, reserva de 16 mm p/ código+peso e 6 mm p/ descrição): 1-1 183×228; 1-2 H 183×103; 1-2 V 89×228; 1-3 H 183×61; 1-3 V 57×228; 1-4 89×103; 1-6 89×61 mm.
@@ -67,6 +70,7 @@ Analisado em 23/11/2026 a partir dos arquivos em "Gerador Catalogo/". Atualizado
 - Número do WhatsApp; PDF do catálogo (aguardando liberação); destino dos pedidos de orçamento (a discutir); validar os 123 pesos; revisar a organização (28 itens); export MySQL ItensEstoque atualizado (Danilo).
 
 ## Pendências para o time do ERP
+- LG-234: descrição está "correr 2 folhas", o correto é 3 folhas (informado pelo cliente 26/11).
 - LG-129E: cadastro duplicado (sem descrição), é o mesmo perfil do LG-129 — avaliar inativar no ERP. Já fora do catálogo (dados/fora-do-catalogo.json).
 - CANCELAR o cadastro de "tipologia da página" no ERP (campo tipologia_da_pagina): a tipologia passa a ser calculada e ajustada no site. Não remover antes de o site novo assumir a paginação (o ASP atual ainda lê esse campo).
 

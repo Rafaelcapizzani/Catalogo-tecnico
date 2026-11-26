@@ -84,6 +84,10 @@ def montar(args):
     medidas = json.load(open(os.path.join(RAIZ, "dados", "medidas-desenhos.json"), encoding="utf-8"))
     atual = json.load(open(os.path.join(RAIZ, "dados", "tipologia-atual.json"), encoding="utf-8"))
     fora = json.load(open(os.path.join(RAIZ, "dados", "fora-do-catalogo.json"), encoding="utf-8"))
+    # correções de descrição informadas pelo cliente (valem até o ERP ser corrigido)
+    for cod, desc in json.load(open(os.path.join(RAIZ, "dados", "descricoes-corrigidas.json"), encoding="utf-8")).items():
+        if cod in perfis:
+            perfis[cod]["descricao"] = desc
 
     itens = []
     for linha in args.linhas:
@@ -159,7 +163,24 @@ body {{ font-family: 'Bahnschrift', sans-serif; color: #3d3d3d; }}
 Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p>
 <div class="barra"></div></div>""")
 
+    def tamanho(e):
+        m = medidas.get(e["codigo"])
+        if not m:
+            return None
+        aw = e["largura"] - 2 * RES_LAT
+        ah = e["altura"] - RES_TOPO - RES_BASE
+        esc = min(1.0, aw / m["largura_mm"], ah / m["altura_mm"])
+        return m["largura_mm"] * esc, m["altura_mm"] * esc, esc
+
     for np_, pag in enumerate(paginas, 1):
+        # Alinhamento: na mesma coluna da página, os desenhos começam na mesma
+        # margem esquerda (a do mais largo), e o conjunto fica centralizado.
+        maior_na_coluna = {}
+        for e in pag["espacos"]:
+            t = tamanho(e)
+            if t:
+                k = (round(e["x"], 1), round(e["largura"], 1))
+                maior_na_coluna[k] = max(maior_na_coluna.get(k, 0), t[0])
         espacos = []
         for e in pag["espacos"]:
             p = perfis[e["codigo"]]
@@ -169,9 +190,9 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
             if m:
                 aw = e["largura"] - 2 * RES_LAT
                 ah = e["altura"] - RES_TOPO - RES_BASE
-                escala = min(1.0, aw / m["largura_mm"], ah / m["altura_mm"])
-                w, h = m["largura_mm"] * escala, m["altura_mm"] * escala
-                x = RES_LAT + (aw - w) / 2
+                w, h, escala = tamanho(e)
+                larg_col = maior_na_coluna[(round(e["x"], 1), round(e["largura"], 1))]
+                x = RES_LAT + (aw - larg_col) / 2
                 y = RES_TOPO + (ah - h) / 2
                 src = "data:image/svg+xml;base64," + base64.b64encode(svg_do_desenho(m)).decode()
                 corpo = (f'<img class="des" src="{src}" style="left:{x:.2f}mm;top:{y:.2f}mm;'

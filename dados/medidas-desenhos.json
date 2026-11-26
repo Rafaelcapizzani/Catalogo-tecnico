@@ -2866,17 +2866,17 @@
  "AP-0603": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-0603.svg",
-  "largura_mm": 44.5,
-  "altura_mm": 246.1,
+  "largura_mm": 29.4,
+  "altura_mm": 242.6,
   "svg_mm": [
    47.2,
    246.0
   ],
   "recorte": [
    5.25,
-   0.0,
-   126.25,
-   697.5
+   2.75,
+   83.25,
+   687.75
   ]
  },
  "AP-061": {
@@ -8194,17 +8194,17 @@
  "LG-050": {
   "pacote": "gold",
   "arquivo": "gold/LG-050.svg",
-  "largura_mm": 78.1,
-  "altura_mm": 63.9,
+  "largura_mm": 65.3,
+  "altura_mm": 77.9,
   "svg_mm": [
-   80.1,
-   65.7
+   65.7,
+   80.1
   ],
   "recorte": [
+   1.25,
    2.75,
-   2.5,
-   221.25,
-   181.25
+   185.0,
+   220.75
   ]
  },
  "LG-051": {
@@ -8466,17 +8466,17 @@
  "LG-071": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/LG-071.svg",
-  "largura_mm": 66.8,
-  "altura_mm": 209.5,
+  "largura_mm": 60.1,
+  "altura_mm": 202.7,
   "svg_mm": [
    67.0,
    209.5
   ],
   "recorte": [
-   0.5,
-   0.0,
-   189.25,
-   594.0
+   8.5,
+   12.25,
+   170.5,
+   574.5
   ]
  },
  "LG-072": {
@@ -8530,17 +8530,17 @@
  "LG-076": {
   "pacote": "gold",
   "arquivo": "gold/LG-076_LG-0076.svg",
-  "largura_mm": 52.5,
-  "altura_mm": 81.6,
+  "largura_mm": 50.4,
+  "altura_mm": 79.9,
   "svg_mm": [
    52.4,
    82.6
   ],
   "recorte": [
-   0.0,
-   0.0,
-   148.75,
-   231.25
+   2.75,
+   4.75,
+   143.0,
+   226.5
   ]
  },
  "LG-077": {
@@ -8690,16 +8690,16 @@
  "LG-124": {
   "pacote": "gold",
   "arquivo": "gold/LG-124_LG124.svg",
-  "largura_mm": 46.1,
+  "largura_mm": 45.1,
   "altura_mm": 112.1,
   "svg_mm": [
    47.1,
    114.8
   ],
   "recorte": [
-   0.0,
+   3.0,
    4.75,
-   130.75,
+   127.75,
    317.75
   ]
  },
@@ -8754,17 +8754,17 @@
  "LG-129": {
   "pacote": "gold",
   "arquivo": "gold/LG-129_LG129.svg",
-  "largura_mm": 55.3,
-  "altura_mm": 106.6,
+  "largura_mm": 54.3,
+  "altura_mm": 105.0,
   "svg_mm": [
    56.4,
    107.6
   ],
   "recorte": [
-   0.0,
-   0.0,
-   156.75,
-   302.25
+   2.75,
+   4.5,
+   154.0,
+   297.75
   ]
  },
  "LG-129E": {
@@ -8994,17 +8994,17 @@
  "LG-176": {
   "pacote": "gold",
   "arquivo": "gold/LG-176_LG176.svg",
-  "largura_mm": 71.1,
-  "altura_mm": 122.0,
+  "largura_mm": 69.0,
+  "altura_mm": 120.3,
   "svg_mm": [
    71.0,
    123.0
   ],
   "recorte": [
-   0.0,
-   0.0,
-   201.5,
-   345.75
+   3.25,
+   4.75,
+   195.5,
+   341.0
   ]
  },
  "LG-201": {
@@ -11827,7 +11827,7 @@
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/SU-231.svg",
   "largura_mm": 104.5,
-  "altura_mm": 48.9,
+  "altura_mm": 49.0,
   "svg_mm": [
    109.4,
    56.4
@@ -11836,7 +11836,7 @@
    8.5,
    10.25,
    296.25,
-   138.5
+   139.0
   ]
  },
  "SU-238": {

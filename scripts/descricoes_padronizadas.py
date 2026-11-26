@@ -67,6 +67,10 @@ def sugerir(desc):
 
 def main():
     perfis = json.loads(zipfile.ZipFile(os.path.join(RAIZ, "dados", "catalogo-base-de-dados.zip")).read("perfis.json"))["perfis"]
+    corr = json.load(open(os.path.join(RAIZ, "dados", "descricoes-corrigidas.json"), encoding="utf-8"))
+    for p in perfis:
+        if p["codigo"] in corr:
+            p["descricao"] = corr[p["codigo"]]
     linhas = []
     for p in sorted(perfis, key=lambda p: (p["aplicacao"], p["linha"], p["codigo"])):
         sug, regras = sugerir(p.get("descricao"))
