@@ -1,0 +1,4314 @@
+{
+ "CG-104": {
+  "origem": "Geral Alcoa pág. PDF 78",
+  "peso_kg_m": "0,802",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "50,8",
+    "x": 12.0,
+    "y": 76.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "38,1",
+    "x": 90.72,
+    "y": 164.04,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PC-006": {
+  "origem": "Geral Alcoa pág. PDF 75",
+  "peso_kg_m": "0,456",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "48",
+    "x": 73.2,
+    "y": 6.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "26,5",
+    "x": 174.24,
+    "y": 72.84,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CA-001": {
+  "origem": "Geral Alcoa pág. PDF 110",
+  "peso_kg_m": "0,682",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "30",
+    "x": 9.12,
+    "y": 45.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56",
+    "x": 117.0,
+    "y": 104.4,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DS-023": {
+  "origem": "Geral Alcoa pág. PDF 108",
+  "peso_kg_m": "0,100",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "7,2",
+    "x": 76.8,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "7,8",
+    "x": 9.0,
+    "y": 34.92,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "16,5",
+    "x": 62.16,
+    "y": 66.84,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-202": {
+  "origem": "Geral Alcoa pág. PDF 277",
+  "peso_kg_m": "1,821",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "75",
+    "x": 148.68,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "60",
+    "x": 8.28,
+    "y": 109.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "97,2",
+    "x": 293.88,
+    "y": 157.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "18",
+    "x": 148.2,
+    "y": 321.24,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-231": {
+  "origem": "Geral Alcoa pág. PDF 280",
+  "peso_kg_m": "1,062",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "75",
+    "x": 108.6,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "18",
+    "x": 109.08,
+    "y": 182.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,3",
+    "x": 226.2,
+    "y": 99.84,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CA-002": {
+  "origem": "Geral Alcoa pág. PDF 110",
+  "peso_kg_m": "0,150",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "6,5",
+    "x": 113.76,
+    "y": 25.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "29,5",
+    "x": 45.48,
+    "y": 62.16,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DS-152": {
+  "origem": "Geral Alcoa pág. PDF 104",
+  "peso_kg_m": "0,765",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "38",
+    "x": 85.68,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "38",
+    "x": 167.04,
+    "y": 90.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8",
+    "x": 6.6,
+    "y": 134.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 85.2,
+    "y": 161.64,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "LM-002": {
+  "origem": "Geral Alcoa pág. PDF 114",
+  "peso_kg_m": "0,975",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "150",
+    "x": 234.6,
+    "y": 6.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 8.52,
+    "y": 61.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "6,5",
+    "x": 479.4,
+    "y": 105.0,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CX-1225": {
+  "origem": "Geral Alcoa pág. PDF 110",
+  "peso_kg_m": "0,222",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "25",
+    "x": 8.64,
+    "y": 39.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 52.2,
+    "y": 97.32,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-507": {
+  "origem": "Geral Alcoa pág. PDF 47",
+  "peso_kg_m": "0,746",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "47",
+    "x": 104.76,
+    "y": 6.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "16",
+    "x": 57.48,
+    "y": 20.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 193.92,
+    "y": 76.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56",
+    "x": 116.52,
+    "y": 152.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "32,5",
+    "x": 12.24,
+    "y": 82.08,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DS-030": {
+  "origem": "Geral Alcoa pág. PDF 112",
+  "peso_kg_m": "0,200",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "28",
+    "x": 75.24,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14",
+    "x": 6.84,
+    "y": 46.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35",
+    "x": 141.36,
+    "y": 75.72,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-101": {
+  "origem": "Geral Alcoa pág. PDF 91",
+  "peso_kg_m": "0,336",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "30",
+    "x": 69.84,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14",
+    "x": 6.84,
+    "y": 46.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,3",
+    "x": 93.48,
+    "y": 88.92,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-032": {
+  "origem": "Geral Alcoa pág. PDF 54",
+  "peso_kg_m": "0,150",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "13",
+    "x": 69.84,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13",
+    "x": 18.24,
+    "y": 51.24,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-011": {
+  "origem": "Geral Alcoa pág. PDF 61",
+  "peso_kg_m": "0,840",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "15",
+    "x": 53.4,
+    "y": 7.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "16",
+    "x": 94.8,
+    "y": 7.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "39",
+    "x": 8.52,
+    "y": 87.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 205.08,
+    "y": 100.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56",
+    "x": 109.68,
+    "y": 166.92,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PC-002": {
+  "origem": "Geral Alcoa pág. PDF 75",
+  "peso_kg_m": "0,650",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "50,8",
+    "x": 107.16,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25,4",
+    "x": 12.24,
+    "y": 71.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 165.6,
+    "y": 134.76,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CL-015": {
+  "origem": "Geral Alcoa pág. PDF 50",
+  "peso_kg_m": "0,210",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "13",
+    "x": 54.36,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "4",
+    "x": 141.24,
+    "y": 9.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 8.52,
+    "y": 54.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "33",
+    "x": 82.44,
+    "y": 98.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PC-003": {
+  "origem": "Geral Alcoa pág. PDF 74",
+  "peso_kg_m": "1,103",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "76,2",
+    "x": 149.16,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "38,2",
+    "x": 12.36,
+    "y": 88.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 240.84,
+    "y": 164.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-012": {
+  "origem": "Geral Alcoa pág. PDF 61",
+  "peso_kg_m": "0,840",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "8,5",
+    "x": 70.32,
+    "y": 6.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 8.64,
+    "y": 68.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "39",
+    "x": 205.08,
+    "y": 82.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56",
+    "x": 101.52,
+    "y": 155.4,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-508": {
+  "origem": "Geral Alcoa pág. PDF 50",
+  "peso_kg_m": "0,756",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "25",
+    "x": 70.68,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56",
+    "x": 8.28,
+    "y": 107.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "38",
+    "x": 126.84,
+    "y": 108.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 85.68,
+    "y": 199.08,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-008": {
+  "origem": "Geral Alcoa pág. PDF 61",
+  "peso_kg_m": "0,692",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "12",
+    "x": 42.0,
+    "y": 8.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 8.64,
+    "y": 70.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56",
+    "x": 103.2,
+    "y": 141.48,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-300": {
+  "origem": "Geral Alcoa pág. PDF 102",
+  "peso_kg_m": "1,510",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "60,2",
+    "x": 110.76,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "80",
+    "x": 232.32,
+    "y": 147.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13",
+    "x": 207.6,
+    "y": 162.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10,3",
+    "x": 10.68,
+    "y": 161.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-106": {
+  "origem": "Geral Alcoa pág. PDF 91",
+  "peso_kg_m": "0,260",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "28",
+    "x": 8.52,
+    "y": 42.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "18",
+    "x": 108.0,
+    "y": 57.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17,7",
+    "x": 62.28,
+    "y": 100.68,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-010": {
+  "origem": "Geral Alcoa pág. PDF 62",
+  "peso_kg_m": "0,765",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "30",
+    "x": 75.0,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56",
+    "x": 8.28,
+    "y": 105.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 138.72,
+    "y": 134.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 96.48,
+    "y": 179.88,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "LB-036": {
+  "origem": "Geral Alcoa pág. PDF 85",
+  "peso_kg_m": "0,841",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "150",
+    "x": 265.56,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "6,2",
+    "x": 9.48,
+    "y": 34.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "37,5",
+    "x": 106.2,
+    "y": 35.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "37,5",
+    "x": 213.24,
+    "y": 35.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "167,7",
+    "x": 254.64,
+    "y": 104.04,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "VZ-024": {
+  "origem": "Geral Alcoa pág. PDF 80",
+  "peso_kg_m": "0,271",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "8,5",
+    "x": 48.96,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 79.44,
+    "y": 53.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "74",
+    "x": 7.92,
+    "y": 120.12,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-001": {
+  "origem": "Geral Alcoa pág. PDF 52",
+  "peso_kg_m": "0,322",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "10",
+    "x": 92.16,
+    "y": 6.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23,5",
+    "x": 12.6,
+    "y": 50.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,5",
+    "x": 132.84,
+    "y": 62.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 74.16,
+    "y": 104.76,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-542": {
+  "origem": "Geral Alcoa pág. PDF 49",
+  "peso_kg_m": "0,704",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "25",
+    "x": 78.72,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 28.92,
+    "y": 40.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 131.76,
+    "y": 71.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "58",
+    "x": 8.4,
+    "y": 104.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "49",
+    "x": 154.56,
+    "y": 116.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "16",
+    "x": 77.64,
+    "y": 205.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PC-004": {
+  "origem": "Geral Alcoa pág. PDF 74",
+  "peso_kg_m": "0,755",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "50,8",
+    "x": 109.44,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "38,2",
+    "x": 12.36,
+    "y": 86.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 164.64,
+    "y": 158.76,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-549": {
+  "origem": "Geral Alcoa pág. PDF 54",
+  "peso_kg_m": "0,555",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "12,5",
+    "x": 49.8,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 123.72,
+    "y": 57.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40",
+    "x": 8.4,
+    "y": 78.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 68.04,
+    "y": 156.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "33,5",
+    "x": 145.44,
+    "y": 88.08,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-026": {
+  "origem": "Geral Alcoa pág. PDF 65",
+  "peso_kg_m": "0,780",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "30",
+    "x": 71.28,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 94.32,
+    "y": 24.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 133.68,
+    "y": 70.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "60",
+    "x": 8.4,
+    "y": 101.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21",
+    "x": 74.28,
+    "y": 206.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-023": {
+  "origem": "Geral Alcoa pág. PDF 64",
+  "peso_kg_m": "0,615",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "30",
+    "x": 61.2,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "28",
+    "x": 139.56,
+    "y": 63.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 120.48,
+    "y": 74.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21",
+    "x": 61.92,
+    "y": 124.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,5",
+    "x": 58.56,
+    "y": 152.4,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MB-001": {
+  "origem": "Geral Alcoa pág. PDF 115",
+  "peso_kg_m": "0,460",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "11,49",
+    "x": 11.52,
+    "y": 78.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13",
+    "x": 11.4,
+    "y": 114.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22,5",
+    "x": 94.56,
+    "y": 6.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13,9",
+    "x": 147.72,
+    "y": 6.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "37,5",
+    "x": 189.84,
+    "y": 76.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50,3",
+    "x": 99.72,
+    "y": 153.0,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-014": {
+  "origem": "Geral Alcoa pág. PDF 71",
+  "peso_kg_m": "0,375",
+  "tamanho_pt": 9.6,
+  "cotas": [
+   {
+    "valor": "38,2",
+    "x": 58.2,
+    "y": 6.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14",
+    "x": 137.16,
+    "y": 47.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-013": {
+  "origem": "Geral Alcoa pág. PDF 71",
+  "peso_kg_m": "0,260",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "42",
+    "x": 65.88,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 146.28,
+    "y": 63.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "37,4",
+    "x": 66.0,
+    "y": 105.72,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-012": {
+  "origem": "Geral Alcoa pág. PDF 71",
+  "peso_kg_m": "1,274",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "80",
+    "x": 151.2,
+    "y": 117.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40",
+    "x": 59.28,
+    "y": 258.6,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BG-001": {
+  "origem": "Geral Alcoa pág. PDF 35",
+  "peso_kg_m": "0,108",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "11",
+    "x": 31.44,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 78.24,
+    "y": 48.84,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CG-003": {
+  "origem": "Geral Alcoa pág. PDF 76",
+  "peso_kg_m": "0,509",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "50",
+    "x": 102.24,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14",
+    "x": 6.72,
+    "y": 48.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "26,2",
+    "x": 106.32,
+    "y": 89.64,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-228": {
+  "origem": "Geral Alcoa pág. PDF 285",
+  "peso_kg_m": "0,594",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "40",
+    "x": 89.28,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,7",
+    "x": 10.2,
+    "y": 61.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "33,5",
+    "x": 192.72,
+    "y": 83.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50",
+    "x": 105.24,
+    "y": 147.72,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-033": {
+  "origem": "Geral Alcoa pág. PDF 63",
+  "peso_kg_m": "1,030",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "12",
+    "x": 140.4,
+    "y": 32.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "80",
+    "x": 8.4,
+    "y": 127.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 75.12,
+    "y": 266.76,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-025": {
+  "origem": "Geral Alcoa pág. PDF 65",
+  "peso_kg_m": "0,793",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "12",
+    "x": 135.84,
+    "y": 34.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56",
+    "x": 8.28,
+    "y": 95.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 77.52,
+    "y": 190.08,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-248": {
+  "origem": "Geral Alcoa pág. PDF 57",
+  "peso_kg_m": "1,000",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "17",
+    "x": 199.2,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13",
+    "x": 297.12,
+    "y": 54.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 6.96,
+    "y": 87.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "42",
+    "x": 141.72,
+    "y": 116.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23",
+    "x": 232.2,
+    "y": 116.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "83",
+    "x": 155.28,
+    "y": 138.36,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-014": {
+  "origem": "Geral Alcoa pág. PDF 46",
+  "peso_kg_m": "0,499",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "10",
+    "x": 33.36,
+    "y": 65.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 8.64,
+    "y": 79.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40",
+    "x": 84.6,
+    "y": 143.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "16,5",
+    "x": 78.12,
+    "y": 7.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,5",
+    "x": 121.44,
+    "y": 6.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "4",
+    "x": 158.16,
+    "y": 42.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "32,2",
+    "x": 166.2,
+    "y": 71.04,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-023": {
+  "origem": "Geral Alcoa pág. PDF 51",
+  "peso_kg_m": "0,568",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "20",
+    "x": 87.12,
+    "y": 6.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13",
+    "x": 26.16,
+    "y": 51.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 187.56,
+    "y": 73.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "60",
+    "x": 88.92,
+    "y": 133.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-671": {
+  "origem": "Geral Alcoa pág. PDF 44",
+  "peso_kg_m": "1,127",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "35",
+    "x": 107.76,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35",
+    "x": 207.12,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 284.52,
+    "y": 6.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35",
+    "x": 64.8,
+    "y": 181.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50",
+    "x": 185.52,
+    "y": 181.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "105",
+    "x": 161.4,
+    "y": 199.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "52,5",
+    "x": 363.96,
+    "y": 93.96,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-661": {
+  "origem": "Geral Alcoa pág. PDF 44",
+  "peso_kg_m": "1,190",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "105",
+    "x": 190.44,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50",
+    "x": 209.4,
+    "y": 23.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 307.56,
+    "y": 23.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "37,5",
+    "x": 11.76,
+    "y": 92.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "33",
+    "x": 87.24,
+    "y": 158.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35",
+    "x": 183.84,
+    "y": 158.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "101",
+    "x": 186.24,
+    "y": 181.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12,5",
+    "x": 386.4,
+    "y": 53.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-115": {
+  "origem": "Geral Alcoa pág. PDF 100",
+  "peso_kg_m": "0,265",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "64,4",
+    "x": 69.48,
+    "y": 93.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11,9",
+    "x": 32.04,
+    "y": 203.16,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-021": {
+  "origem": "Geral Alcoa pág. PDF 54",
+  "peso_kg_m": "0,225",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "15",
+    "x": 58.56,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "29,2",
+    "x": 12.12,
+    "y": 61.68,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-012": {
+  "origem": "Geral Alcoa pág. PDF 48",
+  "peso_kg_m": "0,425",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "22",
+    "x": 61.56,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 9.24,
+    "y": 37.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40",
+    "x": 120.48,
+    "y": 80.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 63.72,
+    "y": 155.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-015": {
+  "origem": "Geral Alcoa pág. PDF 46",
+  "peso_kg_m": "0,519",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "28",
+    "x": 47.04,
+    "y": 6.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 109.2,
+    "y": 50.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 133.32,
+    "y": 63.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,5",
+    "x": 71.52,
+    "y": 142.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "16",
+    "x": 30.12,
+    "y": 143.88,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-502": {
+  "origem": "Geral Alcoa pág. PDF 47",
+  "peso_kg_m": "0,700",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "4",
+    "x": 17.28,
+    "y": 6.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 84.96,
+    "y": 21.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56",
+    "x": 8.28,
+    "y": 95.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "47",
+    "x": 125.4,
+    "y": 108.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 69.24,
+    "y": 193.32,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CG-012": {
+  "origem": "Geral Alcoa pág. PDF 78",
+  "peso_kg_m": "0,544",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "35,1",
+    "x": 152.88,
+    "y": 54.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25,5",
+    "x": 94.8,
+    "y": 120.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "28,3",
+    "x": 19.08,
+    "y": 52.08,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CG-021": {
+  "origem": "Geral Alcoa pág. PDF 78",
+  "peso_kg_m": "0,329",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "25",
+    "x": 112.8,
+    "y": 55.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14",
+    "x": 71.88,
+    "y": 111.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "19,2",
+    "x": 15.96,
+    "y": 51.12,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CL-022": {
+  "origem": "Geral Alcoa pág. PDF 92",
+  "peso_kg_m": "0,111",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "17",
+    "x": 34.56,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 33.6,
+    "y": 79.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,6",
+    "x": 85.68,
+    "y": 39.0,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SU-192": {
+  "origem": "Geral Alcoa pág. PDF 184",
+  "peso_kg_m": "0,520",
+  "tamanho_pt": 9.86,
+  "cotas": [
+   {
+    "valor": "21",
+    "x": 132.03,
+    "y": 53.29,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "5,2",
+    "x": 244.58,
+    "y": 89.79,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,6",
+    "x": 245.18,
+    "y": 116.79,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 22.33,
+    "y": 117.29,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 72.73,
+    "y": 182.79,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10,2",
+    "x": 196.18,
+    "y": 182.09,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "53,8",
+    "x": 134.48,
+    "y": 199.34,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-016": {
+  "origem": "Geral Alcoa pág. PDF 46",
+  "peso_kg_m": "0,428",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "28",
+    "x": 75.96,
+    "y": 6.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 8.88,
+    "y": 52.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 136.44,
+    "y": 64.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40",
+    "x": 58.92,
+    "y": 131.16,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-524": {
+  "origem": "Geral Alcoa pág. PDF 54",
+  "peso_kg_m": "0,430",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "25",
+    "x": 70.32,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23,5",
+    "x": 12.48,
+    "y": 56.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "3",
+    "x": 133.92,
+    "y": 135.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "28",
+    "x": 73.8,
+    "y": 153.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,5",
+    "x": 135.72,
+    "y": 67.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10,5",
+    "x": 12.36,
+    "y": 102.72,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-011": {
+  "origem": "Geral Alcoa pág. PDF 46",
+  "peso_kg_m": "0,425",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "25",
+    "x": 69.24,
+    "y": 6.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 120.0,
+    "y": 73.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40",
+    "x": 8.28,
+    "y": 78.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "31",
+    "x": 142.44,
+    "y": 91.32,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-111": {
+  "origem": "Geral Alcoa pág. PDF 96",
+  "peso_kg_m": "0,188",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "37,6",
+    "x": 54.84,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11,5",
+    "x": 126.12,
+    "y": 40.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,2",
+    "x": 56.16,
+    "y": 71.16,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SU-191": {
+  "origem": "Geral Alcoa pág. PDF 192",
+  "peso_kg_m": "0,533",
+  "tamanho_pt": 9.71,
+  "cotas": [
+   {
+    "valor": "43,6",
+    "x": 118.67,
+    "y": 58.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "5,2",
+    "x": 241.47,
+    "y": 66.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 10.47,
+    "y": 121.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22,6",
+    "x": 34.72,
+    "y": 121.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,6",
+    "x": 243.62,
+    "y": 120.25,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,5",
+    "x": 78.87,
+    "y": 174.9,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "53,8",
+    "x": 136.87,
+    "y": 197.05,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-504": {
+  "origem": "Geral Alcoa pág. PDF 47",
+  "peso_kg_m": "0,652",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "47",
+    "x": 95.4,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 54.24,
+    "y": 26.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 183.12,
+    "y": 78.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56",
+    "x": 82.44,
+    "y": 137.4,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-516": {
+  "origem": "Geral Alcoa pág. PDF 41",
+  "peso_kg_m": "0,833",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "35,1",
+    "x": 143.88,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 225.48,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13",
+    "x": 96.48,
+    "y": 28.92,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22",
+    "x": 277.08,
+    "y": 48.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "6",
+    "x": 52.08,
+    "y": 56.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13,5",
+    "x": 155.16,
+    "y": 60.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "6",
+    "x": 6.72,
+    "y": 83.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 33.12,
+    "y": 105.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "70",
+    "x": 147.84,
+    "y": 147.96,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-002": {
+  "origem": "Geral Alcoa pág. PDF 52",
+  "peso_kg_m": "0,351",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "30",
+    "x": 75.36,
+    "y": 6.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 8.76,
+    "y": 47.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17",
+    "x": 144.21,
+    "y": 101.43,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-005": {
+  "origem": "Geral Alcoa pág. PDF 53",
+  "peso_kg_m": "0,422",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "25",
+    "x": 85.08,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 141.48,
+    "y": 111.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "3,5",
+    "x": 73.32,
+    "y": 156.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,5",
+    "x": 141.36,
+    "y": 65.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "43,5",
+    "x": 12.0,
+    "y": 77.28,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-007": {
+  "origem": "Geral Alcoa pág. PDF 89",
+  "peso_kg_m": "0,326",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "25",
+    "x": 63.24,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14",
+    "x": 6.72,
+    "y": 46.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35",
+    "x": 78.6,
+    "y": 88.44,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-517": {
+  "origem": "Geral Alcoa pág. PDF 226",
+  "peso_kg_m": "0,577",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "35",
+    "x": 120.36,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 198.96,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "3,5",
+    "x": 194.64,
+    "y": 24.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14",
+    "x": 250.2,
+    "y": 55.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 7.08,
+    "y": 91.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "70",
+    "x": 125.88,
+    "y": 134.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-030": {
+  "origem": "Geral Alcoa pág. PDF 63",
+  "peso_kg_m": "1,318",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "100",
+    "x": 9.72,
+    "y": 144.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "82",
+    "x": 152.28,
+    "y": 147.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 84.48,
+    "y": 305.88,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-026": {
+  "origem": "Geral Alcoa pág. PDF 51",
+  "peso_kg_m": "0,488",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "40",
+    "x": 8.16,
+    "y": 58.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22",
+    "x": 122.16,
+    "y": 60.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 66.36,
+    "y": 131.16,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CG-077": {
+  "origem": "Geral Alcoa pág. PDF 223",
+  "peso_kg_m": "0,842",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "33,5",
+    "x": 12.48,
+    "y": 49.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11,4",
+    "x": 216.84,
+    "y": 51.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "24,5",
+    "x": 36.6,
+    "y": 60.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50,8",
+    "x": 124.68,
+    "y": 126.48,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CM-029": {
+  "origem": "Geral Alcoa pág. PDF 28",
+  "peso_kg_m": "0,364",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "36",
+    "x": 77.4,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "26",
+    "x": 8.4,
+    "y": 60.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22",
+    "x": 149.28,
+    "y": 66.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "2",
+    "x": 22.08,
+    "y": 118.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "29",
+    "x": 87.36,
+    "y": 118.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-225": {
+  "origem": "Geral Alcoa pág. PDF 280",
+  "peso_kg_m": "0,640",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "44,3",
+    "x": 89.28,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14",
+    "x": 6.72,
+    "y": 123.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "42,5",
+    "x": 180.96,
+    "y": 80.88,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-112": {
+  "origem": "Geral Alcoa pág. PDF 90",
+  "peso_kg_m": "0,197",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "17,5",
+    "x": 27.36,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 79.32,
+    "y": 54.84,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-034": {
+  "origem": "Geral Alcoa pág. PDF 64",
+  "peso_kg_m": "0,297",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "5,4",
+    "x": 9.24,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21",
+    "x": 72.36,
+    "y": 68.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,5",
+    "x": 107.64,
+    "y": 74.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 66.0,
+    "y": 151.68,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-019": {
+  "origem": "Geral Alcoa pág. PDF 64",
+  "peso_kg_m": "0,295",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "10",
+    "x": 54.24,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,1",
+    "x": 10.8,
+    "y": 70.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17",
+    "x": 67.44,
+    "y": 141.96,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BG-011": {
+  "origem": "Geral Alcoa pág. PDF 101",
+  "peso_kg_m": "0,101",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "14,5",
+    "x": 10.56,
+    "y": 41.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10,7",
+    "x": 45.24,
+    "y": 6.48,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-055": {
+  "origem": "Geral Alcoa pág. PDF 96",
+  "peso_kg_m": "0,660",
+  "tamanho_pt": 8.57,
+  "cotas": []
+ },
+ "CG-019": {
+  "origem": "Geral Alcoa pág. PDF 78",
+  "peso_kg_m": "0,173",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "4,8",
+    "x": 126.24,
+    "y": 5.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "32,3",
+    "x": 55.08,
+    "y": 9.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,1",
+    "x": 53.28,
+    "y": 59.16,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-012": {
+  "origem": "Geral Alcoa pág. PDF 89",
+  "peso_kg_m": "0,219",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "17,7",
+    "x": 29.04,
+    "y": 6.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 82.92,
+    "y": 65.16,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-107": {
+  "origem": "Geral Alcoa pág. PDF 91",
+  "peso_kg_m": "0,297",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "25",
+    "x": 66.6,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14",
+    "x": 6.84,
+    "y": 49.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35",
+    "x": 82.8,
+    "y": 92.04,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-028": {
+  "origem": "Geral Alcoa pág. PDF 63",
+  "peso_kg_m": "1,378",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "12",
+    "x": 154.8,
+    "y": 33.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "100",
+    "x": 9.72,
+    "y": 154.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 151.44,
+    "y": 270.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 88.32,
+    "y": 315.96,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SU-008": {
+  "origem": "Geral Alcoa pág. PDF 172",
+  "peso_kg_m": "0,244",
+  "tamanho_pt": 9.57,
+  "cotas": [
+   {
+    "valor": "25",
+    "x": 12.2,
+    "y": 74.55,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12,5",
+    "x": 45.8,
+    "y": 93.15,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "2,7",
+    "x": 123.45,
+    "y": 150.85,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "29,1",
+    "x": 187.4,
+    "y": 68.8,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-085": {
+  "origem": "Geral Alcoa pág. PDF 290",
+  "peso_kg_m": "0,255",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "60",
+    "x": 87.72,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50",
+    "x": 90.84,
+    "y": 81.24,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-088": {
+  "origem": "Geral Alcoa pág. PDF 294",
+  "peso_kg_m": "0,906",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "150",
+    "x": 243.0,
+    "y": 6.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 8.52,
+    "y": 75.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 479.52,
+    "y": 141.48,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-246": {
+  "origem": "Geral Alcoa pág. PDF 292",
+  "peso_kg_m": "0,766",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "103",
+    "x": 191.76,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21,5",
+    "x": 10.68,
+    "y": 65.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 373.32,
+    "y": 65.64,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-249": {
+  "origem": "Geral Alcoa pág. PDF 285",
+  "peso_kg_m": "0,605",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "55,9",
+    "x": 120.72,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20,5",
+    "x": 30.0,
+    "y": 69.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "62,9",
+    "x": 11.88,
+    "y": 129.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21,4",
+    "x": 221.52,
+    "y": 184.68,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-250": {
+  "origem": "Geral Alcoa pág. PDF 288",
+  "peso_kg_m": "0,836",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "123",
+    "x": 215.76,
+    "y": 6.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 419.28,
+    "y": 59.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23,3",
+    "x": 12.6,
+    "y": 68.76,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-261": {
+  "origem": "Geral Alcoa pág. PDF 285",
+  "peso_kg_m": "0,555",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "40",
+    "x": 93.24,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,7",
+    "x": 10.32,
+    "y": 58.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "33,5",
+    "x": 179.76,
+    "y": 85.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40",
+    "x": 90.72,
+    "y": 148.92,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-003": {
+  "origem": "Geral Alcoa pág. PDF 52",
+  "peso_kg_m": "0,242",
+  "tamanho_pt": 14.06,
+  "cotas": [
+   {
+    "valor": "29",
+    "x": 80.16,
+    "y": 7.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23,5",
+    "x": 13.44,
+    "y": 61.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 158.04,
+    "y": 77.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-018": {
+  "origem": "Geral Alcoa pág. PDF 53",
+  "peso_kg_m": "0,425",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "20",
+    "x": 144.48,
+    "y": 32.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23,5",
+    "x": 12.36,
+    "y": 93.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 71.76,
+    "y": 137.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "5",
+    "x": 114.72,
+    "y": 137.64,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-506": {
+  "origem": "Geral Alcoa pág. PDF 47",
+  "peso_kg_m": "0,786",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "47",
+    "x": 111.12,
+    "y": 6.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 66.36,
+    "y": 29.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 8.16,
+    "y": 69.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56",
+    "x": 95.88,
+    "y": 170.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "32,5",
+    "x": 204.6,
+    "y": 93.6,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CG-074": {
+  "origem": "Geral Alcoa pág. PDF 223",
+  "peso_kg_m": "0,270",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "49,2",
+    "x": 112.92,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,6",
+    "x": 10.56,
+    "y": 45.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "53",
+    "x": 113.04,
+    "y": 86.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CG-075": {
+  "origem": "Geral Alcoa pág. PDF 223",
+  "peso_kg_m": "0,520",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "20",
+    "x": 76.2,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 130.32,
+    "y": 50.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "33,3",
+    "x": 12.6,
+    "y": 73.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CG-083": {
+  "origem": "Geral Alcoa pág. PDF 222",
+  "peso_kg_m": "1,403",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "83,5",
+    "x": 154.44,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "60",
+    "x": 314.28,
+    "y": 114.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 288.96,
+    "y": 129.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23",
+    "x": 8.76,
+    "y": 166.92,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "51,4",
+    "x": 120.6,
+    "y": 215.16,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-100": {
+  "origem": "Geral Alcoa pág. PDF 97",
+  "peso_kg_m": "0,555",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "53",
+    "x": 102.36,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,5",
+    "x": 101.88,
+    "y": 25.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "45,6",
+    "x": 199.44,
+    "y": 100.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "39,6",
+    "x": 11.76,
+    "y": 110.04,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-102": {
+  "origem": "Geral Alcoa pág. PDF 97",
+  "peso_kg_m": "0,315",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "6",
+    "x": 44.4,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40,6",
+    "x": 11.76,
+    "y": 96.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12,2",
+    "x": 70.92,
+    "y": 190.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,2",
+    "x": 111.48,
+    "y": 99.48,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-024": {
+  "origem": "Geral Alcoa pág. PDF 43",
+  "peso_kg_m": "1,187",
+  "tamanho_pt": 9.6,
+  "cotas": [
+   {
+    "valor": "53",
+    "x": 276.96,
+    "y": 84.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "41",
+    "x": 6.84,
+    "y": 92.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "28,2",
+    "x": 91.8,
+    "y": 165.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "70",
+    "x": 142.32,
+    "y": 184.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "28,2",
+    "x": 192.36,
+    "y": 167.16,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-020": {
+  "origem": "Geral Alcoa pág. PDF 55",
+  "peso_kg_m": "0,224",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "16,5",
+    "x": 77.28,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 8.52,
+    "y": 66.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 72.48,
+    "y": 117.48,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-538": {
+  "origem": "Geral Alcoa pág. PDF 48",
+  "peso_kg_m": "1,041",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "12",
+    "x": 138.24,
+    "y": 34.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "85",
+    "x": 8.4,
+    "y": 135.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "38,5",
+    "x": 135.36,
+    "y": 202.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 71.64,
+    "y": 272.76,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-243": {
+  "origem": "Geral Alcoa pág. PDF 281",
+  "peso_kg_m": "1,108",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "60",
+    "x": 228.36,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "39",
+    "x": 351.0,
+    "y": 90.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14",
+    "x": 12.36,
+    "y": 135.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "97,2",
+    "x": 179.88,
+    "y": 182.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "28,5",
+    "x": 12.12,
+    "y": 76.32,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MB-002": {
+  "origem": "Geral Alcoa pág. PDF 115",
+  "peso_kg_m": "0,505",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "25,15",
+    "x": 124.68,
+    "y": 6.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "27,9",
+    "x": 198.96,
+    "y": 69.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "16",
+    "x": 180.6,
+    "y": 84.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13,9",
+    "x": 37.32,
+    "y": 123.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22,5",
+    "x": 87.84,
+    "y": 125.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50,3",
+    "x": 87.96,
+    "y": 140.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-113": {
+  "origem": "Geral Alcoa pág. PDF 99",
+  "peso_kg_m": "0,254",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "10",
+    "x": 29.16,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50",
+    "x": 66.12,
+    "y": 97.08,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MB-003": {
+  "origem": "Geral Alcoa pág. PDF 115",
+  "peso_kg_m": "0,287",
+  "tamanho_pt": 9.26,
+  "cotas": [
+   {
+    "valor": "14",
+    "x": 6.72,
+    "y": 29.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "51,3",
+    "x": 100.92,
+    "y": 74.76,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MB-004": {
+  "origem": "Geral Alcoa pág. PDF 117",
+  "peso_kg_m": "0,585",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "24",
+    "x": 75.96,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "24",
+    "x": 144.84,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13,5",
+    "x": 197.4,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "37,5",
+    "x": 236.88,
+    "y": 76.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "75",
+    "x": 116.64,
+    "y": 157.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MB-006": {
+  "origem": "Geral Alcoa pág. PDF 117",
+  "peso_kg_m": "0,392",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "14",
+    "x": 6.84,
+    "y": 27.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "76",
+    "x": 142.92,
+    "y": 74.28,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MB-005": {
+  "origem": "Geral Alcoa pág. PDF 117",
+  "peso_kg_m": "0,641",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "37,5",
+    "x": 165.0,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "28",
+    "x": 236.04,
+    "y": 62.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "24",
+    "x": 75.96,
+    "y": 121.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "24",
+    "x": 146.28,
+    "y": 121.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13,5",
+    "x": 200.28,
+    "y": 121.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "75",
+    "x": 112.8,
+    "y": 137.4,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MB-009": {
+  "origem": "Geral Alcoa pág. PDF 119",
+  "peso_kg_m": "0,176",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "6,1",
+    "x": 65.16,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "19,8",
+    "x": 10.56,
+    "y": 60.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,6",
+    "x": 48.24,
+    "y": 118.44,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MB-014": {
+  "origem": "Geral Alcoa pág. PDF 118",
+  "peso_kg_m": "0,287",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "16",
+    "x": 6.72,
+    "y": 41.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 70.92,
+    "y": 93.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21,5",
+    "x": 135.84,
+    "y": 33.6,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MB-013": {
+  "origem": "Geral Alcoa pág. PDF 118",
+  "peso_kg_m": "0,249",
+  "tamanho_pt": 9.6,
+  "cotas": [
+   {
+    "valor": "16",
+    "x": 118.8,
+    "y": 24.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 45.96,
+    "y": 77.28,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MB-011": {
+  "origem": "Geral Alcoa pág. PDF 119",
+  "peso_kg_m": "0,345",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "38,4",
+    "x": 12.24,
+    "y": 59.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "28,4",
+    "x": 105.48,
+    "y": 68.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,6",
+    "x": 62.16,
+    "y": 147.0,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MB-015": {
+  "origem": "Geral Alcoa pág. PDF 118",
+  "peso_kg_m": "0,342",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "32",
+    "x": 134.16,
+    "y": 47.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 67.2,
+    "y": 121.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,8",
+    "x": 10.2,
+    "y": 56.64,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MB-023": {
+  "origem": "Geral Alcoa pág. PDF 121",
+  "peso_kg_m": "0,080",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "6,5",
+    "x": 9.24,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 91.2,
+    "y": 46.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "9,2",
+    "x": 44.88,
+    "y": 93.24,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MB-016": {
+  "origem": "Geral Alcoa pág. PDF 120",
+  "peso_kg_m": "0,300",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "20",
+    "x": 84.84,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 6.96,
+    "y": 52.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "16",
+    "x": 142.92,
+    "y": 57.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 68.64,
+    "y": 116.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MB-017": {
+  "origem": "Geral Alcoa pág. PDF 120",
+  "peso_kg_m": "0,328",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "30",
+    "x": 75.84,
+    "y": 7.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17,4",
+    "x": 10.2,
+    "y": 60.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22,9",
+    "x": 147.0,
+    "y": 64.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 46.92,
+    "y": 113.64,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-211": {
+  "origem": "Geral Alcoa pág. PDF 100",
+  "peso_kg_m": "0,228",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "60",
+    "x": 8.28,
+    "y": 88.92,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11",
+    "x": 71.04,
+    "y": 117.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14",
+    "x": 71.04,
+    "y": 152.64,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-400": {
+  "origem": "Geral Alcoa pág. PDF 101",
+  "peso_kg_m": "0,224",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "38",
+    "x": 83.64,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "9,5",
+    "x": 9.24,
+    "y": 44.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "32",
+    "x": 84.48,
+    "y": 73.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,5",
+    "x": 84.96,
+    "y": 20.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "VZ-060": {
+  "origem": "Geral Alcoa pág. PDF 81",
+  "peso_kg_m": "0,394",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "30",
+    "x": 79.56,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 150.24,
+    "y": 58.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "69",
+    "x": 8.16,
+    "y": 114.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "3,45",
+    "x": 151.8,
+    "y": 133.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-077": {
+  "origem": "Geral Alcoa pág. PDF 65",
+  "peso_kg_m": "0,829",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "60",
+    "x": 122.28,
+    "y": 6.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 8.64,
+    "y": 71.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21",
+    "x": 25.68,
+    "y": 71.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22",
+    "x": 222.36,
+    "y": 72.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 189.36,
+    "y": 140.76,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CG-004": {
+  "origem": "Geral Alcoa pág. PDF 76",
+  "peso_kg_m": "0,280",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "53",
+    "x": 77.28,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "16,5",
+    "x": 177.6,
+    "y": 48.24,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CG-006": {
+  "origem": "Geral Alcoa pág. PDF 76",
+  "peso_kg_m": "0,493",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "29,7",
+    "x": 102.12,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 7.08,
+    "y": 47.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50",
+    "x": 103.92,
+    "y": 91.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CM-008": {
+  "origem": "Geral Alcoa pág. PDF 28",
+  "peso_kg_m": "0,178",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "28",
+    "x": 77.76,
+    "y": 6.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "24,5",
+    "x": 12.0,
+    "y": 64.08,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-103": {
+  "origem": "Geral Alcoa pág. PDF 96",
+  "peso_kg_m": "0,333",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "52",
+    "x": 98.88,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 7.08,
+    "y": 51.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "36",
+    "x": 96.6,
+    "y": 89.4,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-500": {
+  "origem": "Geral Alcoa pág. PDF 46",
+  "peso_kg_m": "0,480",
+  "tamanho_pt": 9.6,
+  "cotas": [
+   {
+    "valor": "25",
+    "x": 69.48,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40",
+    "x": 8.16,
+    "y": 77.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 126.84,
+    "y": 87.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 147.6,
+    "y": 122.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 86.4,
+    "y": 152.64,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-510": {
+  "origem": "Geral Alcoa pág. PDF 54",
+  "peso_kg_m": "0,173",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "13",
+    "x": 48.72,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 6.96,
+    "y": 45.48,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-515": {
+  "origem": "Geral Alcoa pág. PDF 41",
+  "peso_kg_m": "0,685",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "70",
+    "x": 131.4,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35",
+    "x": 121.68,
+    "y": 24.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 199.2,
+    "y": 24.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 6.84,
+    "y": 122.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "36,4",
+    "x": 254.28,
+    "y": 84.72,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-523": {
+  "origem": "Geral Alcoa pág. PDF 54",
+  "peso_kg_m": "0,430",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "25",
+    "x": 79.08,
+    "y": 6.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23,5",
+    "x": 12.36,
+    "y": 62.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,5",
+    "x": 155.76,
+    "y": 73.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 131.76,
+    "y": 77.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "3",
+    "x": 67.08,
+    "y": 139.92,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "28",
+    "x": 75.24,
+    "y": 158.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10,5",
+    "x": 12.36,
+    "y": 109.2,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-541": {
+  "origem": "Geral Alcoa pág. PDF 49",
+  "peso_kg_m": "0,832",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "32",
+    "x": 143.28,
+    "y": 80.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56",
+    "x": 8.28,
+    "y": 84.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30,5",
+    "x": 76.8,
+    "y": 173.64,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-544": {
+  "origem": "Geral Alcoa pág. PDF 50",
+  "peso_kg_m": "0,163",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "16,5",
+    "x": 45.84,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 94.08,
+    "y": 47.4,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-554": {
+  "origem": "Geral Alcoa pág. PDF 51",
+  "peso_kg_m": "0,290",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "30",
+    "x": 45.6,
+    "y": 6.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 109.8,
+    "y": 49.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "33,1",
+    "x": 131.88,
+    "y": 71.16,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CG-017": {
+  "origem": "Geral Alcoa pág. PDF 78",
+  "peso_kg_m": "0,358",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "6,5",
+    "x": 9.0,
+    "y": 42.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 162.72,
+    "y": 51.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "39,5",
+    "x": 84.72,
+    "y": 6.48,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-153": {
+  "origem": "Geral Alcoa pág. PDF 90",
+  "peso_kg_m": "0,213",
+  "tamanho_pt": 9.6,
+  "cotas": [
+   {
+    "valor": "17",
+    "x": 150.0,
+    "y": 27.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "43,2",
+    "x": 61.44,
+    "y": 73.68,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PC-010": {
+  "origem": "Geral Alcoa pág. PDF 225",
+  "peso_kg_m": "1,190",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "13",
+    "x": 56.88,
+    "y": 6.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "53",
+    "x": 8.64,
+    "y": 100.92,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "38",
+    "x": 273.12,
+    "y": 121.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "70",
+    "x": 141.6,
+    "y": 196.2,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-017": {
+  "origem": "Geral Alcoa pág. PDF 70",
+  "peso_kg_m": "1,860",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "100",
+    "x": 177.6,
+    "y": 143.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50",
+    "x": 77.88,
+    "y": 309.24,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-542": {
+  "origem": "Geral Alcoa pág. PDF 70",
+  "peso_kg_m": "0,350",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "52",
+    "x": 77.28,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 176.16,
+    "y": 55.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "45,2",
+    "x": 77.64,
+    "y": 95.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "4",
+    "x": 166.56,
+    "y": 72.48,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-543": {
+  "origem": "Geral Alcoa pág. PDF 70",
+  "peso_kg_m": "0,434",
+  "tamanho_pt": 9.6,
+  "cotas": [
+   {
+    "valor": "47,2",
+    "x": 78.12,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14",
+    "x": 170.52,
+    "y": 40.8,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SU-089": {
+  "origem": "Geral Alcoa pág. PDF 195",
+  "peso_kg_m": "0,355",
+  "tamanho_pt": 9.57,
+  "cotas": [
+   {
+    "valor": "32",
+    "x": 8.83,
+    "y": 123.87,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 78.13,
+    "y": 184.47,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 145.33,
+    "y": 106.57,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SU-190": {
+  "origem": "Geral Alcoa pág. PDF 188",
+  "peso_kg_m": "0,543",
+  "tamanho_pt": 9.71,
+  "cotas": [
+   {
+    "valor": "40,1",
+    "x": 118.27,
+    "y": 52.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "5,2",
+    "x": 240.12,
+    "y": 88.11,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 22.37,
+    "y": 118.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,6",
+    "x": 241.97,
+    "y": 115.11,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40,1",
+    "x": 116.77,
+    "y": 181.71,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10,2",
+    "x": 189.62,
+    "y": 181.11,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SI-369": {
+  "origem": "Geral Alcoa pág. PDF 207",
+  "peso_kg_m": "0,369",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "14",
+    "x": 96.72,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17",
+    "x": 6.96,
+    "y": 51.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 175.56,
+    "y": 57.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "37,4",
+    "x": 97.44,
+    "y": 109.8,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SI-348": {
+  "origem": "Geral Alcoa pág. PDF 207",
+  "peso_kg_m": "0,821",
+  "tamanho_pt": 9.6,
+  "cotas": [
+   {
+    "valor": "57,6",
+    "x": 82.44,
+    "y": 6.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14",
+    "x": 179.88,
+    "y": 66.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "36",
+    "x": 197.64,
+    "y": 100.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "47,4",
+    "x": 85.8,
+    "y": 175.2,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SU-281": {
+  "origem": "Geral Alcoa pág. PDF 182",
+  "peso_kg_m": "1,065",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "25,6",
+    "x": 71.4,
+    "y": 6.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "75",
+    "x": 8.52,
+    "y": 127.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "55,2",
+    "x": 115.32,
+    "y": 271.68,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "LB-069": {
+  "origem": "Geral Alcoa pág. PDF 87",
+  "peso_kg_m": "0,941",
+  "tamanho_pt": 10.97,
+  "cotas": [
+   {
+    "valor": "22",
+    "x": 173.88,
+    "y": 33.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "180,6",
+    "x": 223.2,
+    "y": 262.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "45",
+    "x": 62.88,
+    "y": 554.16,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CG-143": {
+  "origem": "Geral Alcoa pág. PDF 222",
+  "peso_kg_m": "2,098",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "57",
+    "x": 52.08,
+    "y": 25.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "73,6",
+    "x": 399.36,
+    "y": 105.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "51,4",
+    "x": 205.92,
+    "y": 327.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "106,9",
+    "x": 12.96,
+    "y": 158.4,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SI-349": {
+  "origem": "Geral Alcoa pág. PDF 207",
+  "peso_kg_m": "0,626",
+  "tamanho_pt": 9.6,
+  "cotas": [
+   {
+    "valor": "38",
+    "x": 85.32,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14",
+    "x": 191.04,
+    "y": 118.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "57,6",
+    "x": 84.48,
+    "y": 168.24,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CG-080": {
+  "origem": "Geral Alcoa pág. PDF 221",
+  "peso_kg_m": "0,176",
+  "tamanho_pt": 9.6,
+  "cotas": [
+   {
+    "valor": "5,8",
+    "x": 9.0,
+    "y": 24.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40,2",
+    "x": 83.28,
+    "y": 55.92,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "2937_BX-241": {
+  "origem": "Geral Alcoa pág. PDF 94",
+  "peso_kg_m": "0,228",
+  "tamanho_pt": 10.97,
+  "cotas": [
+   {
+    "valor": "20",
+    "x": 8.16,
+    "y": 61.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "19",
+    "x": 62.52,
+    "y": 118.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10,4",
+    "x": 104.58,
+    "y": 5.82,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-293": {
+  "origem": "Geral Alcoa pág. PDF 284",
+  "peso_kg_m": "0,677",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "40",
+    "x": 111.24,
+    "y": 28.92,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,7",
+    "x": 35.04,
+    "y": 69.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "33,5",
+    "x": 12.48,
+    "y": 94.92,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "55,5",
+    "x": 135.24,
+    "y": 6.48,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-545": {
+  "origem": "Geral Alcoa pág. PDF 50",
+  "peso_kg_m": "0,602",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "22",
+    "x": 76.8,
+    "y": 6.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 130.68,
+    "y": 29.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 24.48,
+    "y": 59.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44",
+    "x": 8.04,
+    "y": 80.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 74.16,
+    "y": 164.28,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-209": {
+  "origem": "Geral Alcoa pág. PDF 95",
+  "peso_kg_m": "0,282",
+  "tamanho_pt": 9.57,
+  "cotas": [
+   {
+    "valor": "11",
+    "x": 49.71,
+    "y": 6.53,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 101.41,
+    "y": 43.03,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "24",
+    "x": 37.11,
+    "y": 97.73,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CM-093": {
+  "origem": "Geral Alcoa pág. PDF 31",
+  "peso_kg_m": "0,765",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "130",
+    "x": 257.28,
+    "y": 20.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "32",
+    "x": 130.2,
+    "y": 44.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "27,3",
+    "x": 391.44,
+    "y": 45.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22,3",
+    "x": 398.52,
+    "y": 122.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20,9",
+    "x": 114.24,
+    "y": 138.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "59",
+    "x": 348.36,
+    "y": 140.04,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SU-083": {
+  "origem": "Geral Alcoa pág. PDF 194",
+  "peso_kg_m": "0,144",
+  "tamanho_pt": 12.86,
+  "cotas": [
+   {
+    "valor": "5,5",
+    "x": 84.2,
+    "y": 133.0,
+    "direcao": "horizontal"
+   }
+  ]
+ }
+}

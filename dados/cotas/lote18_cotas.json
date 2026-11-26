@@ -1,0 +1,27 @@
+{
+ "CM-067_MAC-0693": {
+  "origem": "Geral Hera pág. 37",
+  "peso_kg_m": "0,277",
+  "tamanho_pt": 7.62,
+  "cotas": [
+   {
+    "valor": "55",
+    "x": 106.99,
+    "y": 7.1,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12,9",
+    "x": 10.74,
+    "y": 44.9,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11,4",
+    "x": 209.07,
+    "y": 42.74,
+    "direcao": "horizontal"
+   }
+  ]
+ }
+}

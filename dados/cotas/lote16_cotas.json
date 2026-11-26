@@ -1,0 +1,219 @@
+{
+ "AP-050": {
+  "origem": "AP-050.pdf (PDF do cliente, 25/11)",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "16,2",
+    "x": 102.96,
+    "y": 16.91,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "128,8",
+    "x": 155.03,
+    "y": 237.34,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "19",
+    "x": 45.33,
+    "y": 333.86,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "16,6",
+    "x": 45.33,
+    "y": 283.4,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "PASSO = 106,8",
+    "x": 15.56,
+    "y": 268.52,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "AP-055": {
+  "origem": "AP-055_AP-054.pdf (PDF do cliente, 25/11)",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "39,35",
+    "x": 64.17,
+    "y": 59.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,6",
+    "x": 69.91,
+    "y": 39.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "49,85",
+    "x": 75.65,
+    "y": 121.85,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "9,3",
+    "x": 133.13,
+    "y": 16.97,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "7",
+    "x": 183.05,
+    "y": 88.68,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-054": {
+  "origem": "AP-055_AP-054.pdf (PDF do cliente, 25/11)",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "29,75",
+    "x": 50.57,
+    "y": 57.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35",
+    "x": 56.31,
+    "y": 37.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40,25",
+    "x": 62.05,
+    "y": 119.85,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "9,3",
+    "x": 105.91,
+    "y": 14.97,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "7",
+    "x": 155.84,
+    "y": 86.68,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-052_TRN-009": {
+  "origem": "TRN-009.pdf (PDF do cliente, 25/11)",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "33,5",
+    "x": 53.48,
+    "y": 77.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "7",
+    "x": 142.01,
+    "y": 49.21,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "R4,5",
+    "x": 87.5,
+    "y": 12.3,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SU-048_ISU-048": {
+  "origem": "SU-048.pdf (PDF do cliente, 25/11)",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "42,1",
+    "x": 131.13,
+    "y": 11.91,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17,6",
+    "x": 39.6,
+    "y": 177.46,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "65,9",
+    "x": 97.4,
+    "y": 200.13,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "42,4",
+    "x": 211.12,
+    "y": 103.8,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "39-182": {
+  "origem": "39-182.pdf (PDF do cliente, 25/11)",
+  "tamanho_pt": 8.29,
+  "cotas": [
+   {
+    "valor": "153,0",
+    "x": 14.0,
+    "y": 145.5,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "188,5",
+    "x": 187.3,
+    "y": 294.9,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-0201_FA-201": {
+  "origem": "fa-201.pdf (PDF do cliente, 25/11; desenho em imagem, vetorizado; cotas redesenhadas)",
+  "peso_kg_m": "1,795",
+  "tamanho_pt": 6.2,
+  "cotas": [
+   {
+    "valor": "55",
+    "x": 99.5,
+    "y": 9.34,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "37",
+    "x": 193.5,
+    "y": 9.34,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "113",
+    "x": 159.25,
+    "y": 179.06,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "58,5",
+    "x": 7.54,
+    "y": 100.4,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "30",
+    "x": 298.56,
+    "y": 129.65,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ }
+}

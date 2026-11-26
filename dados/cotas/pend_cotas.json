@@ -1,0 +1,4838 @@
+{
+ "25-539": {
+  "origem": "Geral Novaxx (OCR) pág. PDF 53",
+  "codigo_catalogo": "NX-0850 (equiv. 25-539)",
+  "peso_kg_m": "0,758",
+  "tamanho_pt": 9.26,
+  "cotas": [
+   {
+    "valor": "55,2",
+    "x": 189.48,
+    "y": 69.84,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "32-104": {
+  "origem": "Geral Decamp pág. PDF 32",
+  "codigo_catalogo": "Y-839",
+  "peso_kg_m": "0,840",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "49,8",
+    "x": 100.14,
+    "y": 10.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "60,0",
+    "x": 16.37,
+    "y": 108.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21,8",
+    "x": 60.35,
+    "y": 202.3,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "37-005": {
+  "origem": "Sapa (Box padronizados) pág. PDF 1",
+  "codigo_catalogo": "370005",
+  "peso_kg_m": "0,086",
+  "tamanho_pt": 7.89,
+  "cotas": [
+   {
+    "valor": "10,2",
+    "x": 45.36,
+    "y": 92.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17,5",
+    "x": 48.72,
+    "y": 21.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8",
+    "x": 94.92,
+    "y": 58.08,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "42-008": {
+  "origem": "Geral Novaxx (OCR) pág. PDF 84",
+  "codigo_catalogo": "NX-3152 (equiv. 42-008)",
+  "peso_kg_m": "0,409",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "47,2",
+    "x": 69.6,
+    "y": 82.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "32,6",
+    "x": 70.2,
+    "y": 6.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 156.6,
+    "y": 31.8,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "42-012": {
+  "origem": "Geral Novaxx (OCR) pág. PDF 86",
+  "codigo_catalogo": "NX-3332 (equiv. 42-012)",
+  "peso_kg_m": "0,836",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "34,4",
+    "x": 6.36,
+    "y": 85.08,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "46,4",
+    "x": 190.44,
+    "y": 68.28,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "42",
+    "x": 94.68,
+    "y": 150.0,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "42-021": {
+  "origem": "Geral Decamp pág. PDF 261",
+  "codigo_catalogo": "P-192",
+  "peso_kg_m": "0,730",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "42",
+    "x": 178.33,
+    "y": 64.22,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "42-023": {
+  "origem": "Geral Novaxx (OCR) pág. PDF 88",
+  "codigo_catalogo": "NX-3615 (equiv. 42-023)",
+  "peso_kg_m": "0,520",
+  "tamanho_pt": 9.26,
+  "cotas": [
+   {
+    "valor": "14,7",
+    "x": 181.68,
+    "y": 71.88,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "42",
+    "x": 100.44,
+    "y": 114.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "31",
+    "x": 5.88,
+    "y": 52.68,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "7",
+    "x": 5.88,
+    "y": 41.76,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "42-025": {
+  "origem": "Geral Novaxx (OCR) pág. PDF 85",
+  "codigo_catalogo": "NX-3990 (equiv. 42-025)",
+  "peso_kg_m": "0,882",
+  "tamanho_pt": 8.91,
+  "cotas": [
+   {
+    "valor": "42",
+    "x": 89.64,
+    "y": 6.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56",
+    "x": 165.12,
+    "y": 100.8,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "73",
+    "x": 6.0,
+    "y": 124.68,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "42-035": {
+  "origem": "Geral Novaxx (OCR) pág. PDF 86",
+  "codigo_catalogo": "NX-4145 (equiv. 42-035)",
+  "peso_kg_m": "1,172",
+  "tamanho_pt": 9.26,
+  "cotas": [
+   {
+    "valor": "42",
+    "x": 5.88,
+    "y": 90.84,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "56",
+    "x": 115.68,
+    "y": 5.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "73",
+    "x": 139.56,
+    "y": 168.36,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "42-178": {
+  "origem": "Geral Alumil pág. PDF 73",
+  "codigo_catalogo": "P-1178",
+  "peso_kg_m": "1,041",
+  "tamanho_pt": 9.6,
+  "cotas": [
+   {
+    "valor": "80,6",
+    "x": 16.56,
+    "y": 150.24,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "74,3",
+    "x": 163.2,
+    "y": 143.52,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "42",
+    "x": 85.68,
+    "y": 8.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "42-304": {
+  "origem": "Geral Decamp pág. PDF 28",
+  "codigo_catalogo": "U-1319",
+  "peso_kg_m": "0,259",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "16,40",
+    "x": 26.24,
+    "y": 7.38,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "60",
+    "x": 73.03,
+    "y": 116.33,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 34.89,
+    "y": 222.32,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "42-307": {
+  "origem": "Sapa (Box padronizados) pág. PDF 1",
+  "codigo_catalogo": "420307",
+  "peso_kg_m": "0,372",
+  "tamanho_pt": 7.89,
+  "cotas": [
+   {
+    "valor": "33,8",
+    "x": 48.6,
+    "y": 124.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "18,7",
+    "x": 120.24,
+    "y": 72.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12,5",
+    "x": 66.96,
+    "y": 6.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 26.04,
+    "y": 20.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "A-1058": {
+  "origem": "Geral Tera (OCR) pág. PDF 230",
+  "codigo_catalogo": "A-1058",
+  "peso_kg_m": "0,219",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "23,1",
+    "x": 82.8,
+    "y": 15.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 162.6,
+    "y": 68.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "3,3",
+    "x": 29.52,
+    "y": 67.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "7",
+    "x": 142.56,
+    "y": 61.92,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-002": {
+  "origem": "PDF do cliente (26/11) pág. PDF 1",
+  "codigo_catalogo": "PR-003E",
+  "peso_kg_m": "",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "9,6",
+    "x": 20.61,
+    "y": 12.31,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11",
+    "x": 68.98,
+    "y": 54.54,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-004": {
+  "origem": "PDF do cliente (26/11) pág. PDF 1",
+  "codigo_catalogo": "AP-004",
+  "peso_kg_m": "",
+  "tamanho_pt": 7.35,
+  "cotas": [
+   {
+    "valor": "18,8",
+    "x": 118.88,
+    "y": 31.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 118.78,
+    "y": 96.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 118.86,
+    "y": 156.41,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 118.78,
+    "y": 216.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "200",
+    "x": 12.63,
+    "y": 272.57,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 118.86,
+    "y": 275.93,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 118.78,
+    "y": 335.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 118.86,
+    "y": 395.45,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 118.78,
+    "y": 455.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "16,2",
+    "x": 118.91,
+    "y": 516.65,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,2",
+    "x": 77.5,
+    "y": 564.0,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-005": {
+  "origem": "Geral Império pág. PDF 73",
+  "codigo_catalogo": "A6 RP-004",
+  "peso_kg_m": "0,977",
+  "tamanho_pt": 8.43,
+  "cotas": [
+   {
+    "valor": "23,25",
+    "x": 20.68,
+    "y": 94.75,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "19,05",
+    "x": 311.05,
+    "y": 33.99,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-016": {
+  "origem": "Geral Império pág. PDF 194",
+  "codigo_catalogo": "A6 U-900",
+  "peso_kg_m": "5,697",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "120,6",
+    "x": 215.39,
+    "y": 24.99,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "45",
+    "x": 15.21,
+    "y": 117.03,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-025": {
+  "origem": "Geral Decamp pág. PDF 24",
+  "codigo_catalogo": "BX-250",
+  "peso_kg_m": "0,168",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "14",
+    "x": 40.2,
+    "y": 34.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22",
+    "x": 81.38,
+    "y": 82.04,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-026": {
+  "origem": "Geral Tera pág. PDF 124",
+  "codigo_catalogo": "BX-876",
+  "peso_kg_m": "0,054",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "6,02",
+    "x": 9.36,
+    "y": 40.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11,98",
+    "x": 50.76,
+    "y": 15.75,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,8",
+    "x": 50.88,
+    "y": 63.6,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-030": {
+  "origem": "Geral Hyspex pág. PDF 216",
+  "codigo_catalogo": "76500",
+  "peso_kg_m": "0,126",
+  "tamanho_pt": 10.22,
+  "cotas": [
+   {
+    "valor": "15",
+    "x": 56.55,
+    "y": 10.3,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13,9",
+    "x": 12.75,
+    "y": 52.78,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "7,7",
+    "x": 101.03,
+    "y": 48.55,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-036": {
+  "origem": "Geral Hyspex pág. PDF 220",
+  "codigo_catalogo": "76840",
+  "peso_kg_m": "0,619",
+  "tamanho_pt": 9.58,
+  "cotas": [
+   {
+    "valor": "49,5",
+    "x": 101.44,
+    "y": 8.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "60",
+    "x": 8.32,
+    "y": 115.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12,2",
+    "x": 68.06,
+    "y": 223.38,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21,5",
+    "x": 61.74,
+    "y": 246.26,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-037": {
+  "origem": "Geral Hyspex pág. PDF 219",
+  "codigo_catalogo": "76900",
+  "peso_kg_m": "0,241",
+  "tamanho_pt": 9.58,
+  "cotas": [
+   {
+    "valor": "16,4",
+    "x": 25.75,
+    "y": 8.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "60",
+    "x": 72.07,
+    "y": 115.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10,1",
+    "x": 35.68,
+    "y": 223.28,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-039": {
+  "origem": "Novaxx Luxxor 2.5 pág. PDF 49",
+  "codigo_catalogo": "NX-6440",
+  "peso_kg_m": "0,744",
+  "tamanho_pt": 7.68,
+  "cotas": [
+   {
+    "valor": "79,2",
+    "x": 200.78,
+    "y": 97.46,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "115,3",
+    "x": 196.67,
+    "y": 7.1,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,9",
+    "x": 382.89,
+    "y": 52.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11,1",
+    "x": 383.52,
+    "y": 90.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13,8",
+    "x": 10.53,
+    "y": 49.28,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-040": {
+  "origem": "Novaxx Luxxor 2.5 pág. PDF 50",
+  "codigo_catalogo": "NX-6443",
+  "peso_kg_m": "0,602",
+  "tamanho_pt": 7.68,
+  "cotas": [
+   {
+    "valor": "118,2",
+    "x": 106.02,
+    "y": 193.62,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "16,9",
+    "x": 59.47,
+    "y": 383.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "112,2",
+    "x": 12.75,
+    "y": 193.62,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,9",
+    "x": 58.09,
+    "y": 7.14,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-041": {
+  "origem": "Novaxx Luxxor 2.5 pág. PDF 50",
+  "codigo_catalogo": "NX-6444",
+  "peso_kg_m": "1,201",
+  "tamanho_pt": 7.68,
+  "cotas": [
+   {
+    "valor": "36,1",
+    "x": 87.32,
+    "y": 7.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "67,7",
+    "x": 131.32,
+    "y": 357.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "107,6",
+    "x": 12.75,
+    "y": 182.26,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-042": {
+  "origem": "Novaxx Luxxor 2.5 pág. PDF 51",
+  "codigo_catalogo": "NX-6446",
+  "peso_kg_m": "0,746",
+  "tamanho_pt": 7.68,
+  "cotas": [
+   {
+    "valor": "45",
+    "x": 79.52,
+    "y": 404.18,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "154,6",
+    "x": 12.77,
+    "y": 248.9,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,5",
+    "x": 56.01,
+    "y": 7.16,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-043": {
+  "origem": "Novaxx Luxxor 2.5 pág. PDF 51",
+  "codigo_catalogo": "NX-6447",
+  "peso_kg_m": "0,848",
+  "tamanho_pt": 7.68,
+  "cotas": [
+   {
+    "valor": "30",
+    "x": 75.79,
+    "y": 7.18,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "129,5",
+    "x": 141.03,
+    "y": 213.34,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23",
+    "x": 10.61,
+    "y": 62.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "83,5",
+    "x": 10.61,
+    "y": 213.34,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23",
+    "x": 10.61,
+    "y": 364.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 82.9,
+    "y": 419.5,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-044": {
+  "origem": "Novaxx Luxxor 2.5 pág. PDF 49",
+  "codigo_catalogo": "NX-6442",
+  "peso_kg_m": "0,990",
+  "tamanho_pt": 7.68,
+  "cotas": [
+   {
+    "valor": "35",
+    "x": 262.38,
+    "y": 11.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "51",
+    "x": 383.15,
+    "y": 50.74,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "115,3",
+    "x": 195.57,
+    "y": 145.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8",
+    "x": 9.41,
+    "y": 112.0,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-045": {
+  "origem": "Geral Novaxx (OCR) pág. PDF 100",
+  "codigo_catalogo": "NX-2620",
+  "peso_kg_m": "0,138",
+  "tamanho_pt": 8.91,
+  "cotas": [
+   {
+    "valor": "13,2",
+    "x": 56.16,
+    "y": 64.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,4",
+    "x": 6.0,
+    "y": 23.28,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "AP-053": {
+  "origem": "Geral Império pág. PDF 164",
+  "codigo_catalogo": "A5 1221",
+  "peso_kg_m": "0,114",
+  "tamanho_pt": 8.43,
+  "cotas": [
+   {
+    "valor": "12,3",
+    "x": 78.87,
+    "y": 23.94,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12,3",
+    "x": 36.22,
+    "y": 65.99,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-058": {
+  "origem": "Geral Novaxx (OCR) pág. PDF 130",
+  "codigo_catalogo": "NX-3597",
+  "peso_kg_m": "0,828",
+  "tamanho_pt": 9.26,
+  "cotas": [
+   {
+    "valor": "106",
+    "x": 152.16,
+    "y": 138.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40",
+    "x": 323.16,
+    "y": 59.64,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "30",
+    "x": 216.84,
+    "y": 16.2,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-059": {
+  "origem": "Geral Novaxx (OCR) pág. PDF 128",
+  "codigo_catalogo": "NX-3524",
+  "peso_kg_m": "0,656",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "30,2",
+    "x": 265.92,
+    "y": 75.12,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "85,7",
+    "x": 123.72,
+    "y": 6.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 144.36,
+    "y": 133.8,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-060": {
+  "origem": "Geral Alumil pág. PDF 149",
+  "codigo_catalogo": "AL-140",
+  "peso_kg_m": "1,233",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "29,32",
+    "x": 78.6,
+    "y": 72.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "36,8",
+    "x": 79.32,
+    "y": 218.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12,3",
+    "x": 150.96,
+    "y": 113.04,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "17,4",
+    "x": 85.8,
+    "y": 13.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56,6",
+    "x": 14.88,
+    "y": 111.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,2",
+    "x": 139.2,
+    "y": 168.72,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "8,2",
+    "x": 113.28,
+    "y": 196.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-0601": {
+  "origem": "Geral Decamp pág. PDF 221",
+  "codigo_catalogo": "PR-32.601",
+  "peso_kg_m": "4,609",
+  "tamanho_pt": 10.23,
+  "cotas": [
+   {
+    "valor": "236,0",
+    "x": 156.66,
+    "y": 355.11,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,8",
+    "x": 14.17,
+    "y": 544.75,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,6",
+    "x": 14.18,
+    "y": 418.54,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,6",
+    "x": 14.18,
+    "y": 291.9,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,6",
+    "x": 14.18,
+    "y": 165.47,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "28,8",
+    "x": 14.09,
+    "y": 61.45,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "28,8",
+    "x": 14.09,
+    "y": 648.78,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "37,0",
+    "x": 80.64,
+    "y": 10.67,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-0603": {
+  "origem": "Geral Decamp pág. PDF 221",
+  "codigo_catalogo": "PR-32.603",
+  "peso_kg_m": "2,705",
+  "tamanho_pt": 10.23,
+  "cotas": [
+   {
+    "valor": "235,9",
+    "x": 16.91,
+    "y": 356.31,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17,0",
+    "x": 65.05,
+    "y": 10.74,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-061": {
+  "origem": "Geral Decamp pág. PDF 75",
+  "codigo_catalogo": "TMF-085",
+  "peso_kg_m": "0,280",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "60",
+    "x": 97.09,
+    "y": 17.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "7,1",
+    "x": 197.74,
+    "y": 45.44,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-062": {
+  "origem": "Geral Decamp pág. PDF 134",
+  "codigo_catalogo": "DP-089",
+  "peso_kg_m": "0,743",
+  "tamanho_pt": 10.23,
+  "cotas": [
+   {
+    "valor": "25,5",
+    "x": 203.2,
+    "y": 54.59,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "60",
+    "x": 89.47,
+    "y": 110.16,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-063": {
+  "origem": "Geral Decamp pág. PDF 130",
+  "codigo_catalogo": "PR-018",
+  "peso_kg_m": "1,326",
+  "tamanho_pt": 10.23,
+  "cotas": [
+   {
+    "valor": "218,3",
+    "x": 125.61,
+    "y": 313.02,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20,3",
+    "x": 65.1,
+    "y": 639.26,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25,0",
+    "x": 14.13,
+    "y": 432.5,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "42,0",
+    "x": 14.21,
+    "y": 337.54,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-064": {
+  "origem": "Geral Decamp pág. PDF 137",
+  "codigo_catalogo": "A-082",
+  "peso_kg_m": "1,485",
+  "tamanho_pt": 10.23,
+  "cotas": [
+   {
+    "valor": "137,5",
+    "x": 197.86,
+    "y": 197.02,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "48",
+    "x": 103.95,
+    "y": 409.28,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-065": {
+  "origem": "Geral Império pág. PDF 194",
+  "codigo_catalogo": "A6 U-901",
+  "peso_kg_m": "4,504",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "116,2",
+    "x": 203.76,
+    "y": 9.43,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "45",
+    "x": 7.24,
+    "y": 147.81,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-066": {
+  "origem": "Geral Decamp pág. PDF 238",
+  "codigo_catalogo": "PR-32.611",
+  "peso_kg_m": "1,231",
+  "tamanho_pt": 10.23,
+  "cotas": [
+   {
+    "valor": "52,0",
+    "x": 108.73,
+    "y": 307.59,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "84,5",
+    "x": 204.18,
+    "y": 145.92,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "32,0",
+    "x": 137.07,
+    "y": 10.09,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "38,0",
+    "x": 18.72,
+    "y": 220.33,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-067": {
+  "origem": "Geral Decamp pág. PDF 127",
+  "codigo_catalogo": "PR-024",
+  "peso_kg_m": "1,642",
+  "tamanho_pt": 10.23,
+  "cotas": [
+   {
+    "valor": "150,4",
+    "x": 258.65,
+    "y": 32.05,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "165",
+    "x": 237.91,
+    "y": 11.38,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-068": {
+  "origem": "Geral Decamp pág. PDF 119",
+  "codigo_catalogo": "DP-073",
+  "peso_kg_m": "0,314",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "25,0",
+    "x": 51.11,
+    "y": 5.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "19,6",
+    "x": 110.57,
+    "y": 51.65,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20,6",
+    "x": 52.45,
+    "y": 97.05,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-071": {
+  "origem": "Geral Decamp pág. PDF 37",
+  "codigo_catalogo": "DP-043",
+  "peso_kg_m": "0,364",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "26,3",
+    "x": 42.08,
+    "y": 14.17,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,4",
+    "x": 102.02,
+    "y": 52.05,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17,5",
+    "x": 41.58,
+    "y": 90.45,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-072": {
+  "origem": "Geral Alumil pág. PDF 111",
+  "codigo_catalogo": "LG-601",
+  "peso_kg_m": "0,662",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "25,5",
+    "x": 15.72,
+    "y": 80.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "42,9",
+    "x": 93.84,
+    "y": 128.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 83.88,
+    "y": 14.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-073": {
+  "origem": "Geral Alumil pág. PDF 111",
+  "codigo_catalogo": "LG-602",
+  "peso_kg_m": "0,856",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "75,2",
+    "x": 125.88,
+    "y": 111.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25,5",
+    "x": 3.96,
+    "y": 56.76,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "15",
+    "x": 158.64,
+    "y": 7.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-074": {
+  "origem": "Geral Alumil pág. PDF 111",
+  "codigo_catalogo": "LG-603",
+  "peso_kg_m": "1,641",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "117,3",
+    "x": 113.4,
+    "y": 184.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25,5",
+    "x": 62.04,
+    "y": 369.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 13.8,
+    "y": 89.4,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-1046": {
+  "origem": "Maximus 20 (Stelman) pág. PDF 3",
+  "codigo_catalogo": "STL-1046",
+  "peso_kg_m": "0,610",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "50,0",
+    "x": 195.7,
+    "y": 72.31,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "62,7",
+    "x": 92.48,
+    "y": 163.76,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-1047": {
+  "origem": "Maximus 20 (Stelman) pág. PDF 4",
+  "codigo_catalogo": "STL-1047",
+  "peso_kg_m": "0,812",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "50,0",
+    "x": 281.25,
+    "y": 76.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "92,7",
+    "x": 137.96,
+    "y": 161.76,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-1057": {
+  "origem": "Maximus 20 (Stelman) pág. PDF 8",
+  "codigo_catalogo": "STL-1057",
+  "peso_kg_m": "0,412",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "44,9",
+    "x": 94.22,
+    "y": 12.42,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22,5",
+    "x": 174.0,
+    "y": 57.3,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12,0",
+    "x": 17.49,
+    "y": 58.9,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-1058": {
+  "origem": "Maximus 20 (Stelman) pág. PDF 8",
+  "codigo_catalogo": "STL-1058",
+  "peso_kg_m": "0,482",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "12,0",
+    "x": 140.45,
+    "y": 52.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "34,0",
+    "x": 10.9,
+    "y": 50.93,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,8",
+    "x": 74.49,
+    "y": 114.21,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-1059": {
+  "origem": "Maximus 20 (Stelman) pág. PDF 8",
+  "codigo_catalogo": "STL-1059",
+  "peso_kg_m": "0,397",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "20,0",
+    "x": 10.82,
+    "y": 52.66,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,8",
+    "x": 73.36,
+    "y": 94.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12,0",
+    "x": 139.2,
+    "y": 51.02,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-1329": {
+  "origem": "Geral Decamp pág. PDF 214",
+  "codigo_catalogo": "PR-30.001",
+  "peso_kg_m": "1,103",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "100,0",
+    "x": 155.91,
+    "y": 10.87,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30,0",
+    "x": 194.19,
+    "y": 67.39,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22,0",
+    "x": 16.36,
+    "y": 67.39,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-1413": {
+  "origem": "Geral Decamp pág. PDF 260",
+  "codigo_catalogo": "A-104",
+  "peso_kg_m": "0,870",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "42",
+    "x": 64.45,
+    "y": 170.23,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "53",
+    "x": 140.01,
+    "y": 79.66,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-2769": {
+  "origem": "Específica 3.2 (OCR) pág. PDF 3",
+  "codigo_catalogo": "ES32-752",
+  "peso_kg_m": null,
+  "tamanho_pt": 7.89,
+  "cotas": [
+   {
+    "valor": "104,9",
+    "x": 176.4,
+    "y": 259.92,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "32,2",
+    "x": 373.44,
+    "y": 180.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "83,3",
+    "x": 9.36,
+    "y": 136.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "41,9",
+    "x": 373.32,
+    "y": 81.48,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-2770": {
+  "origem": "Específica 3.2 (OCR) pág. PDF 3",
+  "codigo_catalogo": "ES32-721",
+  "peso_kg_m": null,
+  "tamanho_pt": 7.2,
+  "cotas": [
+   {
+    "valor": "120",
+    "x": 162.72,
+    "y": 5.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "83,3",
+    "x": 349.2,
+    "y": 139.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "42",
+    "x": 22.8,
+    "y": 194.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-2771": {
+  "origem": "Específica 3.2 (OCR) pág. PDF 2",
+  "codigo_catalogo": "ES32-749",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.23,
+  "cotas": [
+   {
+    "valor": "32,2",
+    "x": 369.0,
+    "y": 72.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "41,3",
+    "x": 11.76,
+    "y": 84.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "120",
+    "x": 191.76,
+    "y": 6.6,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-2773": {
+  "origem": "Específica 3.2 (OCR) pág. PDF 2",
+  "codigo_catalogo": "ES32-748",
+  "peso_kg_m": null,
+  "tamanho_pt": 7.2,
+  "cotas": [
+   {
+    "valor": "120",
+    "x": 191.64,
+    "y": 8.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "32,2",
+    "x": 13.56,
+    "y": 97.2,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-2774": {
+  "origem": "Específica 3.2 (OCR) pág. PDF 1",
+  "codigo_catalogo": "ES32-750",
+  "peso_kg_m": null,
+  "tamanho_pt": 7.2,
+  "cotas": [
+   {
+    "valor": "92,3",
+    "x": 155.04,
+    "y": 129.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "120",
+    "x": 162.96,
+    "y": 5.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10,9",
+    "x": 18.0,
+    "y": 129.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "32",
+    "x": 341.4,
+    "y": 71.4,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-2775": {
+  "origem": "Específica 3.2 (OCR) pág. PDF 1",
+  "codigo_catalogo": "ES32-751",
+  "peso_kg_m": null,
+  "tamanho_pt": 7.2,
+  "cotas": [
+   {
+    "valor": "125",
+    "x": 169.44,
+    "y": 5.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "92,3",
+    "x": 170.4,
+    "y": 150.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,9",
+    "x": 314.4,
+    "y": 150.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "36",
+    "x": 356.52,
+    "y": 87.96,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-003": {
+  "origem": "Geral ASA pág. PDF 214",
+  "codigo_catalogo": "U-1056",
+  "peso_kg_m": "0,228",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "14,0",
+    "x": 62.99,
+    "y": 10.73,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25,0",
+    "x": 19.48,
+    "y": 63.98,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-006": {
+  "origem": "Geral ASA pág. PDF 214",
+  "codigo_catalogo": "Y-107",
+  "peso_kg_m": "0,262",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "28,0",
+    "x": 10.9,
+    "y": 90.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17,9",
+    "x": 63.08,
+    "y": 8.18,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-029": {
+  "origem": "PDF do cliente (26/11) pág. PDF 1",
+  "codigo_catalogo": "BX-029",
+  "peso_kg_m": "0,223",
+  "tamanho_pt": 10.17,
+  "cotas": [
+   {
+    "valor": "11,7",
+    "x": 42.3,
+    "y": 13.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "27,8",
+    "x": 15.47,
+    "y": 65.08,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-099": {
+  "origem": "Geral Tera (OCR) pág. PDF 161",
+  "codigo_catalogo": "BX-099",
+  "peso_kg_m": "0,223",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "20,5",
+    "x": 126.0,
+    "y": 85.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "32",
+    "x": 109.32,
+    "y": 102.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21,5",
+    "x": 32.4,
+    "y": 42.84,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-100": {
+  "origem": "Geral Tera (OCR) pág. PDF 161",
+  "codigo_catalogo": "BX-100",
+  "peso_kg_m": "0,153",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "19,2",
+    "x": 53.76,
+    "y": 100.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17,2",
+    "x": 98.76,
+    "y": 59.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 63.72,
+    "y": 15.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "3",
+    "x": 25.32,
+    "y": 45.48,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-102": {
+  "origem": "Geral ASA pág. PDF 210",
+  "codigo_catalogo": "U-1002",
+  "peso_kg_m": "0,213",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "14,0",
+    "x": 74.18,
+    "y": 12.65,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25,0",
+    "x": 25.17,
+    "y": 71.62,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-105": {
+  "origem": "Geral ASA pág. PDF 210",
+  "codigo_catalogo": "I-154",
+  "peso_kg_m": "0,306",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "14,0",
+    "x": 57.77,
+    "y": 4.97,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30,0",
+    "x": 14.62,
+    "y": 70.59,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-108": {
+  "origem": "Geral ASA pág. PDF 211",
+  "codigo_catalogo": "Y-308",
+  "peso_kg_m": "0,278",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "26,0",
+    "x": 81.59,
+    "y": 12.18,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25,0",
+    "x": 21.87,
+    "y": 64.86,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-109": {
+  "origem": "Geral ASA pág. PDF 210",
+  "codigo_catalogo": "U-655",
+  "peso_kg_m": "0,645",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "49,4",
+    "x": 85.79,
+    "y": 16.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50,0",
+    "x": 178.53,
+    "y": 101.88,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-111": {
+  "origem": "Geral ASA pág. PDF 211",
+  "codigo_catalogo": "44-018 (I-155)",
+  "peso_kg_m": "0,389",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "46,3",
+    "x": 121.35,
+    "y": 101.49,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "27,5",
+    "x": 59.92,
+    "y": 13.74,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-155": {
+  "origem": "Geral Tera (OCR) pág. PDF 148",
+  "codigo_catalogo": "E-594",
+  "peso_kg_m": "0,240",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "17,2",
+    "x": 84.0,
+    "y": 41.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "39,6",
+    "x": 112.8,
+    "y": 120.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17",
+    "x": 28.08,
+    "y": 78.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "41,6",
+    "x": 111.6,
+    "y": 15.72,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-204": {
+  "origem": "Geral Tera (OCR) pág. PDF 158",
+  "codigo_catalogo": "L-537",
+  "peso_kg_m": "1,266",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "19,2",
+    "x": 147.12,
+    "y": 177.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "24",
+    "x": 82.8,
+    "y": 217.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "62",
+    "x": 28.2,
+    "y": 116.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "47",
+    "x": 114.96,
+    "y": 15.6,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-205": {
+  "origem": "Geral Tera (OCR) pág. PDF 158",
+  "codigo_catalogo": "E-305",
+  "peso_kg_m": "0,389",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "62",
+    "x": 103.56,
+    "y": 115.92,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 51.24,
+    "y": 15.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11",
+    "x": 64.08,
+    "y": 222.24,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CG-087": {
+  "origem": "Geral Tera (OCR) pág. PDF 134",
+  "codigo_catalogo": "CG-087",
+  "peso_kg_m": "0,841",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "23,6",
+    "x": 106.8,
+    "y": 69.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 28.32,
+    "y": 69.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 64.92,
+    "y": 15.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "2,4",
+    "x": 65.28,
+    "y": 58.2,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CL-009": {
+  "origem": "Geral Império pág. PDF 30",
+  "codigo_catalogo": "A6 L-468",
+  "peso_kg_m": "1,646",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "7",
+    "x": 15.12,
+    "y": 52.43,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "64",
+    "x": 125.34,
+    "y": 21.31,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "64",
+    "x": 244.63,
+    "y": 141.88,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CL-010": {
+  "origem": "Linha Gradil pág. PDF 48",
+  "codigo_catalogo": "CL010",
+  "peso_kg_m": "0,385",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "60",
+    "x": 87.28,
+    "y": 35.53,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CM-002": {
+  "origem": "Geral Decamp pág. PDF 139",
+  "codigo_catalogo": "Y-281",
+  "peso_kg_m": "0,301",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "26,6",
+    "x": 16.39,
+    "y": 69.79,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 75.17,
+    "y": 11.57,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CM-063": {
+  "origem": "Geral Tera (OCR) pág. PDF 141",
+  "codigo_catalogo": "CM-063",
+  "peso_kg_m": "0,173",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "18,5",
+    "x": 96.24,
+    "y": 107.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "26,5",
+    "x": 96.24,
+    "y": 15.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "24",
+    "x": 158.76,
+    "y": 62.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11,9",
+    "x": 32.31,
+    "y": 80.46,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CM-065": {
+  "origem": "Geral Decamp pág. PDF 146",
+  "codigo_catalogo": "DP-015",
+  "peso_kg_m": "0,214",
+  "tamanho_pt": 10.23,
+  "cotas": [
+   {
+    "valor": "16,7",
+    "x": 119.29,
+    "y": 93.3,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "47",
+    "x": 72.51,
+    "y": 8.5,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,4",
+    "x": 182.39,
+    "y": 52.14,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CX-001": {
+  "origem": "Geral Império pág. PDF 162",
+  "codigo_catalogo": "A5 CX-001",
+  "peso_kg_m": "0,424",
+  "tamanho_pt": 8.43,
+  "cotas": [
+   {
+    "valor": "37,4",
+    "x": 87.35,
+    "y": 110.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 87.35,
+    "y": 8.75,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "4,6",
+    "x": 129.02,
+    "y": 7.58,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14",
+    "x": 6.83,
+    "y": 58.62,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 162.71,
+    "y": 67.62,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CX-002": {
+  "origem": "Geral Tera pág. PDF 230",
+  "codigo_catalogo": "CX-137",
+  "peso_kg_m": "0,316",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "14",
+    "x": 28.68,
+    "y": 59.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 163.08,
+    "y": 65.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "31,2",
+    "x": 93.48,
+    "y": 98.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 85.44,
+    "y": 15.72,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CX-071": {
+  "origem": "Geral Tera (OCR) pág. PDF 140",
+  "codigo_catalogo": "CX-071",
+  "peso_kg_m": "2,537",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "26,5",
+    "x": 131.52,
+    "y": 179.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "47",
+    "x": 25.32,
+    "y": 85.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "51",
+    "x": 202.44,
+    "y": 15.84,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CX-085": {
+  "origem": "Geral Stelman pág. PDF 174",
+  "codigo_catalogo": "STL-421",
+  "peso_kg_m": "1,130",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "59,5",
+    "x": 13.42,
+    "y": 110.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "82,5",
+    "x": 143.17,
+    "y": 13.85,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13,9",
+    "x": 240.26,
+    "y": 199.69,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CX-5438": {
+  "origem": "Geral Tera pág. PDF 230",
+  "codigo_catalogo": "CX-186",
+  "peso_kg_m": "0,189",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "10,5",
+    "x": 9.36,
+    "y": 62.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "18,5",
+    "x": 65.28,
+    "y": 37.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 74.28,
+    "y": 15.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "6,1",
+    "x": 134.28,
+    "y": 68.28,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DS-024": {
+  "origem": "Nylkit Perfis vitrine (ED03) pág. PDF 1",
+  "codigo_catalogo": "DS-024",
+  "peso_kg_m": "0,125",
+  "tamanho_pt": 10.97,
+  "cotas": [
+   {
+    "valor": "12,5",
+    "x": 58.92,
+    "y": 6.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "4,4",
+    "x": 109.68,
+    "y": 6.78,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,1",
+    "x": 6.96,
+    "y": 33.6,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "DS-027": {
+  "origem": "Geral Novaxx (OCR) pág. PDF 323",
+  "codigo_catalogo": "NX-0370 (equiv. Y-680)",
+  "peso_kg_m": "0,105",
+  "tamanho_pt": 9.26,
+  "cotas": [
+   {
+    "valor": "14,4",
+    "x": 34.56,
+    "y": 6.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21",
+    "x": 70.44,
+    "y": 73.56,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "4,2",
+    "x": 57.48,
+    "y": 117.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "4",
+    "x": 70.44,
+    "y": 62.52,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "DS-033": {
+  "origem": "Geral Hyspex pág. PDF 191",
+  "codigo_catalogo": "72730",
+  "peso_kg_m": "0,166",
+  "tamanho_pt": 10.22,
+  "cotas": [
+   {
+    "valor": "53",
+    "x": 88.63,
+    "y": 116.61,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13,5",
+    "x": 185.81,
+    "y": 52.14,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "6",
+    "x": 21.83,
+    "y": 94.02,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22,9",
+    "x": 122.18,
+    "y": 93.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "47,6",
+    "x": 88.86,
+    "y": 10.32,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DS-034": {
+  "origem": "Geral Hyspex pág. PDF 191",
+  "codigo_catalogo": "72750",
+  "peso_kg_m": "0,273",
+  "tamanho_pt": 10.22,
+  "cotas": [
+   {
+    "valor": "76,5",
+    "x": 121.78,
+    "y": 117.22,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13,7",
+    "x": 252.52,
+    "y": 52.45,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "6",
+    "x": 21.73,
+    "y": 94.18,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "6",
+    "x": 88.4,
+    "y": 93.91,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22,9",
+    "x": 188.71,
+    "y": 94.54,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "71,1",
+    "x": 122.68,
+    "y": 10.27,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-021": {
+  "origem": "Geral Tera pág. PDF 171",
+  "codigo_catalogo": "DV-670",
+  "peso_kg_m": "0,264",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "34,6",
+    "x": 125.88,
+    "y": 35.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,3",
+    "x": 46.44,
+    "y": 96.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 28.44,
+    "y": 79.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "41",
+    "x": 125.88,
+    "y": 15.6,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-071": {
+  "origem": "Geral Tera pág. PDF 162",
+  "codigo_catalogo": "DV-092",
+  "peso_kg_m": "0,307",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "17,9",
+    "x": 32.28,
+    "y": 63.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 123.48,
+    "y": 67.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "45",
+    "x": 123.36,
+    "y": 14.16,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-072": {
+  "origem": "Geral Tera pág. PDF 162",
+  "codigo_catalogo": "DV-093",
+  "peso_kg_m": "0,384",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "45",
+    "x": 120.12,
+    "y": 14.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "29",
+    "x": 25.08,
+    "y": 74.28,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-073": {
+  "origem": "Geral Tera pág. PDF 162",
+  "codigo_catalogo": "DV-091",
+  "peso_kg_m": "0,389",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "27,9",
+    "x": 32.52,
+    "y": 87.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 211.08,
+    "y": 110.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "45",
+    "x": 117.36,
+    "y": 14.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "41",
+    "x": 117.36,
+    "y": 37.68,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-074": {
+  "origem": "Geral Tera pág. PDF 162",
+  "codigo_catalogo": "DV-090",
+  "peso_kg_m": "0,418",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "16,4",
+    "x": 222.12,
+    "y": 72.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "29,4",
+    "x": 25.2,
+    "y": 53.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "45",
+    "x": 128.88,
+    "y": 112.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13",
+    "x": 137.88,
+    "y": 20.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "7",
+    "x": 76.8,
+    "y": 84.24,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-108": {
+  "origem": "Geral Tera (OCR) pág. PDF 172",
+  "codigo_catalogo": "DV-108",
+  "peso_kg_m": "0,172",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "37,4",
+    "x": 93.6,
+    "y": 15.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,2",
+    "x": 92.76,
+    "y": 99.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,5",
+    "x": 92.88,
+    "y": 32.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 173.52,
+    "y": 69.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "3",
+    "x": 15.84,
+    "y": 54.48,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-110": {
+  "origem": "Geral Tera pág. PDF 173",
+  "codigo_catalogo": "DV-208",
+  "peso_kg_m": "0,316",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "19",
+    "x": 28.08,
+    "y": 39.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "45",
+    "x": 126.84,
+    "y": 96.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13",
+    "x": 134.52,
+    "y": 18.6,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-112": {
+  "origem": "Geral Tera (OCR) pág. PDF 163",
+  "codigo_catalogo": "DV-112",
+  "peso_kg_m": "0,254",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "10,4",
+    "x": 133.92,
+    "y": 45.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 69.24,
+    "y": 80.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35",
+    "x": 99.6,
+    "y": 15.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11,5",
+    "x": 10.56,
+    "y": 109.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21,5",
+    "x": 183.84,
+    "y": 95.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-087": {
+  "origem": "Linha Gradil pág. PDF 21",
+  "codigo_catalogo": "FC087",
+  "peso_kg_m": "1,025",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "50",
+    "x": 459.35,
+    "y": 78.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "150",
+    "x": 225.92,
+    "y": 170.53,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-258": {
+  "origem": "Linha Gradil pág. PDF 20",
+  "codigo_catalogo": "FC258",
+  "peso_kg_m": "0,486",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "9",
+    "x": 241.63,
+    "y": 17.3,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "75",
+    "x": 114.28,
+    "y": 51.75,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "LB-038": {
+  "origem": "Linha Portão II pág. PDF 23",
+  "codigo_catalogo": "LB038",
+  "peso_kg_m": "1,001",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "188,6",
+    "x": 267.84,
+    "y": 189.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "49,9",
+    "x": 223.8,
+    "y": 73.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22",
+    "x": 33.6,
+    "y": 167.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "LB-050": {
+  "origem": "Linha Portão II pág. PDF 23",
+  "codigo_catalogo": "LB050",
+  "peso_kg_m": "0,624",
+  "tamanho_pt": 9.6,
+  "cotas": [
+   {
+    "valor": "168",
+    "x": 282.36,
+    "y": 93.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "18,5",
+    "x": 70.08,
+    "y": 71.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "5,7",
+    "x": 23.88,
+    "y": 41.52,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "LG-056R": {
+  "origem": "Geral Decamp pág. PDF 251",
+  "codigo_catalogo": "PR-32.556",
+  "peso_kg_m": "0,707",
+  "tamanho_pt": 10.23,
+  "cotas": [
+   {
+    "valor": "44,5",
+    "x": 67.6,
+    "y": 170.83,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40,4",
+    "x": 154.16,
+    "y": 96.19,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "37,5",
+    "x": 67.45,
+    "y": 10.76,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "LG-071": {
+  "origem": "Geral Alumil pág. PDF 96",
+  "codigo_catalogo": "LG-071",
+  "peso_kg_m": "1,962",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "197,6",
+    "x": 168.96,
+    "y": 294.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23,3",
+    "x": 74.76,
+    "y": 18.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,6",
+    "x": 22.2,
+    "y": 306.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,6",
+    "x": 22.2,
+    "y": 426.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,6",
+    "x": 22.2,
+    "y": 165.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,6",
+    "x": 150.12,
+    "y": 166.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,6",
+    "x": 150.12,
+    "y": 420.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,6",
+    "x": 145.32,
+    "y": 297.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "28,8",
+    "x": 150.24,
+    "y": 67.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "34",
+    "x": 150.24,
+    "y": 535.08,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "LG-129E": {
+  "origem": "Geral Alumil pág. PDF 98",
+  "codigo_catalogo": "LG-129E",
+  "peso_kg_m": "1,275",
+  "tamanho_pt": 8.57,
+  "cotas": [
+   {
+    "valor": "28,5",
+    "x": 82.92,
+    "y": 251.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "43,7",
+    "x": 22.68,
+    "y": 157.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "100",
+    "x": 142.32,
+    "y": 157.92,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 81.36,
+    "y": 6.12,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MN-001": {
+  "origem": "Suprema Integrada pág. PDF 8",
+  "codigo_catalogo": "MN-001",
+  "peso_kg_m": "1,377",
+  "tamanho_pt": 9.26,
+  "cotas": [
+   {
+    "valor": "140",
+    "x": 218.28,
+    "y": 23.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,3",
+    "x": 436.44,
+    "y": 129.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22",
+    "x": 435.6,
+    "y": 78.24,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MN-002": {
+  "origem": "Suprema Integrada pág. PDF 16",
+  "codigo_catalogo": "MN-002",
+  "peso_kg_m": "0,669",
+  "tamanho_pt": 8.91,
+  "cotas": [
+   {
+    "valor": "110",
+    "x": 155.64,
+    "y": 70.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13",
+    "x": 332.04,
+    "y": 24.6,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MN-003": {
+  "origem": "Suprema Integrada pág. PDF 9",
+  "codigo_catalogo": "MN-003",
+  "peso_kg_m": "1,093",
+  "tamanho_pt": 8.91,
+  "cotas": [
+   {
+    "valor": "140",
+    "x": 256.68,
+    "y": 122.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22",
+    "x": 39.84,
+    "y": 64.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MN-005": {
+  "origem": "Suprema Integrada pág. PDF 14",
+  "codigo_catalogo": "MN-005",
+  "peso_kg_m": "0,783",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "107,5",
+    "x": 321.36,
+    "y": 181.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "83,4",
+    "x": 163.68,
+    "y": 15.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "6,1",
+    "x": 33.6,
+    "y": 73.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MN-006": {
+  "origem": "Suprema Integrada pág. PDF 14",
+  "codigo_catalogo": "MN-006",
+  "peso_kg_m": "0,878",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "107,3",
+    "x": 256.44,
+    "y": 173.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "74,5",
+    "x": 124.2,
+    "y": 330.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "4,6",
+    "x": 47.52,
+    "y": 221.64,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MN-007": {
+  "origem": "Suprema Integrada pág. PDF 17",
+  "codigo_catalogo": "MN-007",
+  "peso_kg_m": "0,710",
+  "tamanho_pt": 9.26,
+  "cotas": [
+   {
+    "valor": "55,5",
+    "x": 123.48,
+    "y": 9.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 14.28,
+    "y": 73.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 77.52,
+    "y": 136.2,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MN-008": {
+  "origem": "Suprema Integrada pág. PDF 12",
+  "codigo_catalogo": "MN-008",
+  "peso_kg_m": "1,385",
+  "tamanho_pt": 9.26,
+  "cotas": [
+   {
+    "valor": "183,1",
+    "x": 253.68,
+    "y": 293.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "61",
+    "x": 108.0,
+    "y": 5.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "52",
+    "x": 125.76,
+    "y": 583.68,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MN-010": {
+  "origem": "Suprema Integrada pág. PDF 10",
+  "codigo_catalogo": "MN-010",
+  "peso_kg_m": "1,495",
+  "tamanho_pt": 9.26,
+  "cotas": [
+   {
+    "valor": "140",
+    "x": 227.28,
+    "y": 206.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35",
+    "x": 323.4,
+    "y": 40.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "37",
+    "x": 86.16,
+    "y": 93.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56,83",
+    "x": 441.15,
+    "y": 110.4,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MN-015": {
+  "origem": "Suprema Integrada pág. PDF 17",
+  "codigo_catalogo": "MN-015",
+  "peso_kg_m": "0,881",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "61,7",
+    "x": 251.88,
+    "y": 149.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "61,7",
+    "x": 121.32,
+    "y": 33.39,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MN-023": {
+  "origem": "Suprema Integrada pág. PDF 8",
+  "codigo_catalogo": "MN-023",
+  "peso_kg_m": "0,688",
+  "tamanho_pt": 8.91,
+  "cotas": [
+   {
+    "valor": "16",
+    "x": 33.24,
+    "y": 83.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "90",
+    "x": 218.88,
+    "y": 81.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13",
+    "x": 366.84,
+    "y": 44.16,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MN-027": {
+  "origem": "Suprema Integrada pág. PDF 16",
+  "codigo_catalogo": "MN-027",
+  "peso_kg_m": "1,043",
+  "tamanho_pt": 8.91,
+  "cotas": [
+   {
+    "valor": "80",
+    "x": 137.16,
+    "y": 24.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 268.8,
+    "y": 81.84,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MN-030": {
+  "origem": "Suprema Integrada pág. PDF 9",
+  "codigo_catalogo": "MN-030",
+  "peso_kg_m": "1,900",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "140",
+    "x": 227.4,
+    "y": 259.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "76,7",
+    "x": 448.2,
+    "y": 134.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "28,8",
+    "x": 377.4,
+    "y": 83.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,6",
+    "x": 279.0,
+    "y": 83.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "37",
+    "x": 88.08,
+    "y": 161.16,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MN-031": {
+  "origem": "Suprema Integrada pág. PDF 13",
+  "codigo_catalogo": "MN-031",
+  "peso_kg_m": "1,331",
+  "tamanho_pt": 8.91,
+  "cotas": [
+   {
+    "valor": "167",
+    "x": 151.08,
+    "y": 268.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "33,6",
+    "x": 74.28,
+    "y": 23.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 86.52,
+    "y": 514.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MN-032": {
+  "origem": "Suprema Integrada pág. PDF 15",
+  "codigo_catalogo": "MN-032",
+  "peso_kg_m": "1,723",
+  "tamanho_pt": 9.26,
+  "cotas": [
+   {
+    "valor": "58,6",
+    "x": 107.64,
+    "y": 14.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "185",
+    "x": 227.04,
+    "y": 291.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50",
+    "x": 119.64,
+    "y": 571.08,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "MN-039": {
+  "origem": "Suprema Integrada pág. PDF 11",
+  "codigo_catalogo": "MN-039",
+  "peso_kg_m": "1,400",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "213,3",
+    "x": 19.8,
+    "y": 335.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "114,2",
+    "x": 73.8,
+    "y": 321.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,5",
+    "x": 73.32,
+    "y": 107.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23",
+    "x": 144.36,
+    "y": 24.12,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PC-000": {
+  "origem": "Geral Hera pág. PDF 228",
+  "codigo_catalogo": "MAC-1430",
+  "peso_kg_m": "0,473",
+  "tamanho_pt": 7.62,
+  "cotas": [
+   {
+    "valor": "49,5",
+    "x": 173.87,
+    "y": 74.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "49,5",
+    "x": 73.53,
+    "y": 166.2,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PC-009": {
+  "origem": "Geral Tera pág. PDF 127",
+  "codigo_catalogo": "D-080",
+  "peso_kg_m": "1,697",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "50,8",
+    "x": 25.2,
+    "y": 105.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "101,6",
+    "x": 202.8,
+    "y": 15.72,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PC-011": {
+  "origem": "Geral Tera pág. PDF 126",
+  "codigo_catalogo": "PC-026",
+  "peso_kg_m": "0,778",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "59,8",
+    "x": 134.64,
+    "y": 187.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50,8",
+    "x": 32.4,
+    "y": 97.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11",
+    "x": 64.8,
+    "y": 5.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "37",
+    "x": 236.4,
+    "y": 116.76,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PP-002": {
+  "origem": "Geral Hera pág. PDF 197",
+  "codigo_catalogo": "MAC-0135",
+  "peso_kg_m": "0,196",
+  "tamanho_pt": 7.62,
+  "cotas": [
+   {
+    "valor": "49,2",
+    "x": 103.45,
+    "y": 7.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "4,8",
+    "x": 8.42,
+    "y": 13.08,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PP-004": {
+  "origem": "Geral Hera pág. PDF 197",
+  "codigo_catalogo": "MAC-0138",
+  "peso_kg_m": "0,238",
+  "tamanho_pt": 7.62,
+  "cotas": [
+   {
+    "valor": "49,9",
+    "x": 101.14,
+    "y": 52.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "9,7",
+    "x": 8.47,
+    "y": 17.88,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PP-005": {
+  "origem": "Geral Alumil pág. PDF 156",
+  "codigo_catalogo": "AL-1313",
+  "peso_kg_m": "0,280",
+  "tamanho_pt": 8.57,
+  "cotas": [
+   {
+    "valor": "50,10",
+    "x": 73.44,
+    "y": 7.08,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PV-001": {
+  "origem": "Geral Tera pág. PDF 178",
+  "codigo_catalogo": "AL-097",
+  "peso_kg_m": "0,339",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "26,9",
+    "x": 101.16,
+    "y": 70.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 50.04,
+    "y": 142.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "7,1",
+    "x": 49.92,
+    "y": 15.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8",
+    "x": 49.92,
+    "y": 109.44,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PV-002": {
+  "origem": "Geral Tera pág. PDF 178",
+  "codigo_catalogo": "AL-096",
+  "peso_kg_m": "0,219",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "11,6",
+    "x": 70.32,
+    "y": 4.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 70.32,
+    "y": 64.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "7,8",
+    "x": 11.52,
+    "y": 33.96,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-001": {
+  "origem": "SP20 Selta pág. PDF 59",
+  "codigo_catalogo": "20SP-P01",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "70",
+    "x": 82.71,
+    "y": 140.07,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "80",
+    "x": 8.45,
+    "y": 141.49,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12,2",
+    "x": 45.58,
+    "y": 8.28,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-002": {
+  "origem": "SP20 Selta pág. PDF 35",
+  "codigo_catalogo": "20SP-M20",
+  "peso_kg_m": "0,352",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "17",
+    "x": 53.32,
+    "y": 7.42,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "54",
+    "x": 96.69,
+    "y": 115.99,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 76.84,
+    "y": 94.73,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 76.84,
+    "y": 137.25,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "62,6",
+    "x": 9.38,
+    "y": 115.99,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-004": {
+  "origem": "SP20 Selta pág. PDF 48",
+  "codigo_catalogo": "20SP-F04",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "35,5",
+    "x": 96.6,
+    "y": 7.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 118.57,
+    "y": 27.25,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 6.6,
+    "y": 94.99,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 26.44,
+    "y": 94.99,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12,5",
+    "x": 64.0,
+    "y": 162.74,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "33,8",
+    "x": 166.76,
+    "y": 94.99,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-008": {
+  "origem": "SP20 Selta pág. PDF 48",
+  "codigo_catalogo": "20SP-F01",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "12,5",
+    "x": 161.81,
+    "y": 7.41,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 219.21,
+    "y": 58.43,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 199.37,
+    "y": 58.43,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "47",
+    "x": 112.91,
+    "y": 106.62,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "16,4",
+    "x": 26.46,
+    "y": 60.42,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21",
+    "x": 6.61,
+    "y": 57.01,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-009": {
+  "origem": "SP20 Selta pág. PDF 48",
+  "codigo_catalogo": "20SP-F03",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "35,5",
+    "x": 96.66,
+    "y": 7.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 118.63,
+    "y": 27.25,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "26,9",
+    "x": 166.82,
+    "y": 85.21,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12,5",
+    "x": 64.06,
+    "y": 143.18,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 26.51,
+    "y": 94.99,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 6.66,
+    "y": 94.99,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-010": {
+  "origem": "SP20 Selta pág. PDF 52",
+  "codigo_catalogo": "20SP-F05",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "12,7",
+    "x": 57.11,
+    "y": 189.79,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "43",
+    "x": 98.0,
+    "y": 108.86,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "29,2",
+    "x": 9.35,
+    "y": 128.42,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10,8",
+    "x": 9.35,
+    "y": 63.22,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 53.71,
+    "y": 28.07,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17,3",
+    "x": 53.71,
+    "y": 8.23,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-011": {
+  "origem": "SP20 Selta pág. PDF 49",
+  "codigo_catalogo": "20SP-F06",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "35,5",
+    "x": 131.93,
+    "y": 7.37,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "33,5",
+    "x": 221.93,
+    "y": 74.7,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 202.09,
+    "y": 93.83,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "47",
+    "x": 115.63,
+    "y": 161.86,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12,5",
+    "x": 164.53,
+    "y": 142.02,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21,2",
+    "x": 9.34,
+    "y": 92.13,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "16,6",
+    "x": 29.18,
+    "y": 95.53,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-013": {
+  "origem": "SP20 Selta pág. PDF 50",
+  "codigo_catalogo": "20SP-F08",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "22,9",
+    "x": 166.84,
+    "y": 59.74,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 147.0,
+    "y": 75.19,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 54.87,
+    "y": 7.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "70",
+    "x": 6.68,
+    "y": 126.5,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,5",
+    "x": 76.84,
+    "y": 245.55,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-014": {
+  "origem": "SP20 Selta pág. PDF 52",
+  "codigo_catalogo": "20SP-F09",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "17,3",
+    "x": 53.74,
+    "y": 8.26,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 53.74,
+    "y": 28.11,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10,8",
+    "x": 9.38,
+    "y": 63.26,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "60",
+    "x": 98.1,
+    "y": 132.99,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "29,2",
+    "x": 9.38,
+    "y": 176.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12,7",
+    "x": 57.14,
+    "y": 237.87,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-015": {
+  "origem": "SP20 Selta pág. PDF 52",
+  "codigo_catalogo": "20SP-F10",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "17,3",
+    "x": 53.74,
+    "y": 8.25,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10,8",
+    "x": 9.38,
+    "y": 43.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21,2",
+    "x": 9.38,
+    "y": 97.26,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35",
+    "x": 98.1,
+    "y": 77.7,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 53.74,
+    "y": 147.15,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-016": {
+  "origem": "SP20 Selta pág. PDF 34",
+  "codigo_catalogo": "20SP-M01",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "15",
+    "x": 178.05,
+    "y": 7.43,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 114.27,
+    "y": 7.43,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50",
+    "x": 219.15,
+    "y": 98.11,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "60",
+    "x": 114.27,
+    "y": 188.81,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23,8",
+    "x": 9.39,
+    "y": 135.24,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-017": {
+  "origem": "SP20 Selta pág. PDF 34",
+  "codigo_catalogo": "20SP-M02",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "10",
+    "x": 9.41,
+    "y": 61.29,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13,8",
+    "x": 9.41,
+    "y": 95.02,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 178.07,
+    "y": 143.5,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 114.29,
+    "y": 143.5,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "60",
+    "x": 114.29,
+    "y": 7.43,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "49,8",
+    "x": 107.49,
+    "y": 27.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "27",
+    "x": 219.18,
+    "y": 85.39,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-018": {
+  "origem": "SP20 Selta pág. PDF 35",
+  "codigo_catalogo": "20SP-M03",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "27",
+    "x": 64.7,
+    "y": 7.42,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "45",
+    "x": 122.79,
+    "y": 133.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "16",
+    "x": 49.13,
+    "y": 217.19,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "60",
+    "x": 6.61,
+    "y": 112.3,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-019": {
+  "origem": "SP20 Selta pág. PDF 38",
+  "codigo_catalogo": "20SP-M04",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "15",
+    "x": 263.13,
+    "y": 7.43,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 199.35,
+    "y": 7.43,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 114.31,
+    "y": 7.43,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23,8",
+    "x": 9.43,
+    "y": 135.27,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50",
+    "x": 304.23,
+    "y": 98.14,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "6",
+    "x": 164.2,
+    "y": 188.62,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,9",
+    "x": 223.59,
+    "y": 188.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "41,1",
+    "x": 97.44,
+    "y": 188.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "90",
+    "x": 157.52,
+    "y": 208.55,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-020": {
+  "origem": "SP20 Selta pág. PDF 38",
+  "codigo_catalogo": "20SP-M05",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "23,8",
+    "x": 301.43,
+    "y": 80.79,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "83",
+    "x": 154.03,
+    "y": 27.21,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "90",
+    "x": 154.03,
+    "y": 7.37,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "27",
+    "x": 6.63,
+    "y": 85.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 260.33,
+    "y": 143.43,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 196.55,
+    "y": 143.43,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 111.51,
+    "y": 143.43,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-021": {
+  "origem": "SP20 Selta pág. PDF 39",
+  "codigo_catalogo": "20SP-M06",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "16",
+    "x": 49.13,
+    "y": 7.39,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "45",
+    "x": 122.79,
+    "y": 91.02,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "90",
+    "x": 6.61,
+    "y": 154.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "27",
+    "x": 64.72,
+    "y": 302.2,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-022": {
+  "origem": "SP20 Selta pág. PDF 39",
+  "codigo_catalogo": "20SP-M07",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "16",
+    "x": 79.15,
+    "y": 7.39,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "90",
+    "x": 121.67,
+    "y": 154.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "27",
+    "x": 63.61,
+    "y": 302.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 6.66,
+    "y": 48.5,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "60",
+    "x": 6.66,
+    "y": 154.8,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-024": {
+  "origem": "SP20 Selta pág. PDF 42",
+  "codigo_catalogo": "20SP-M24",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "3,5",
+    "x": 76.8,
+    "y": 7.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "29,5",
+    "x": 146.89,
+    "y": 70.29,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "27,5",
+    "x": 68.23,
+    "y": 151.78,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "18,9",
+    "x": 68.23,
+    "y": 131.94,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,5",
+    "x": 9.42,
+    "y": 91.55,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "7,9",
+    "x": 127.05,
+    "y": 100.9,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-027": {
+  "origem": "SP20 Selta pág. PDF 71",
+  "codigo_catalogo": "SPI-M18",
+  "peso_kg_m": "0,791",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "15",
+    "x": 299.92,
+    "y": 28.13,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 236.14,
+    "y": 28.13,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "81",
+    "x": 206.38,
+    "y": 8.29,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40",
+    "x": 341.02,
+    "y": 104.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "103",
+    "x": 175.2,
+    "y": 181.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "33,2",
+    "x": 146.57,
+    "y": 28.13,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "4,9",
+    "x": 9.37,
+    "y": 154.42,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "18,9",
+    "x": 9.37,
+    "y": 120.68,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-028": {
+  "origem": "SP20 Selta pág. PDF 58",
+  "codigo_catalogo": "20SP-M28",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "34,2",
+    "x": 77.74,
+    "y": 8.29,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "18",
+    "x": 100.7,
+    "y": 28.13,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "7",
+    "x": 146.05,
+    "y": 58.45,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17,9",
+    "x": 9.42,
+    "y": 73.28,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-030": {
+  "origem": "SP20 Selta pág. PDF 59",
+  "codigo_catalogo": "20SP-F20",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "11,8",
+    "x": 67.44,
+    "y": 79.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "16,8",
+    "x": 103.52,
+    "y": 36.05,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "9",
+    "x": 30.67,
+    "y": 47.31,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "19,8",
+    "x": 9.41,
+    "y": 32.35,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-031": {
+  "origem": "SP20 Selta pág. PDF 71",
+  "codigo_catalogo": "20SP-M59S",
+  "peso_kg_m": "0,660",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "32",
+    "x": 277.26,
+    "y": 79.23,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "81",
+    "x": 143.04,
+    "y": 14.33,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17,6",
+    "x": 8.82,
+    "y": 89.84,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-040": {
+  "origem": "SP20 Selta pág. PDF 57",
+  "codigo_catalogo": "20SP-M21",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "39,3",
+    "x": 144.86,
+    "y": 83.77,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "19,7",
+    "x": 125.02,
+    "y": 55.99,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23",
+    "x": 61.8,
+    "y": 179.15,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 61.8,
+    "y": 159.31,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "24,3",
+    "x": 9.36,
+    "y": 105.02,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "26,8",
+    "x": 67.19,
+    "y": 8.24,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "ST-050": {
+  "origem": "SP20 Selta pág. PDF 57",
+  "codigo_catalogo": "20SP-M22",
+  "peso_kg_m": null,
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "20,3",
+    "x": 75.1,
+    "y": 8.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 75.1,
+    "y": 28.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11,8",
+    "x": 75.1,
+    "y": 152.81,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "16,9",
+    "x": 122.96,
+    "y": 109.01,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 6.64,
+    "y": 90.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 26.49,
+    "y": 62.1,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SU-017": {
+  "origem": "Geral Alumil pág. PDF 75",
+  "codigo_catalogo": "SU-017",
+  "peso_kg_m": "0,323",
+  "tamanho_pt": 8.57,
+  "cotas": [
+   {
+    "valor": "14,5",
+    "x": 49.44,
+    "y": 127.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "19",
+    "x": 13.2,
+    "y": 74.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "7,4",
+    "x": 49.32,
+    "y": 24.0,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SU-023": {
+  "origem": "Geral Império pág. PDF 134",
+  "codigo_catalogo": "A6 SU-023",
+  "peso_kg_m": "0,950",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "103,2",
+    "x": 149.99,
+    "y": 110.35,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SU-202": {
+  "origem": "Metal Centenário (Linha TMS) pág. PDF 1",
+  "codigo_catalogo": "TMS-202",
+  "peso_kg_m": "0,114",
+  "tamanho_pt": 9.26,
+  "cotas": [
+   {
+    "valor": "10,4",
+    "x": 106.92,
+    "y": 49.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,9",
+    "x": 23.16,
+    "y": 58.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17,4",
+    "x": 119.4,
+    "y": 59.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,6",
+    "x": 72.12,
+    "y": 16.92,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SU-231": {
+  "origem": "Binkafer (Linha 25 a 90°) pág. PDF 1",
+  "codigo_catalogo": "BKS-231",
+  "peso_kg_m": "0,751",
+  "tamanho_pt": 13.37,
+  "cotas": [
+   {
+    "valor": "103,2",
+    "x": 145.92,
+    "y": 15.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "62,6",
+    "x": 145.92,
+    "y": 63.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "37",
+    "x": 295.56,
+    "y": 98.88,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "SU-500": {
+  "origem": "Geral Alumil pág. PDF 89",
+  "codigo_catalogo": "SU-102A",
+  "peso_kg_m": "0,099",
+  "tamanho_pt": 8.57,
+  "cotas": [
+   {
+    "valor": "17,5",
+    "x": 85.56,
+    "y": 95.4,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,5",
+    "x": 42.6,
+    "y": 54.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 134.4,
+    "y": 51.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11",
+    "x": 94.08,
+    "y": 7.92,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SU-521": {
+  "origem": "Geral Hera pág. PDF 75",
+  "codigo_catalogo": "MACF-0908",
+  "peso_kg_m": "1,724",
+  "tamanho_pt": 7.62,
+  "cotas": [
+   {
+    "valor": "176",
+    "x": 9.58,
+    "y": 282.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "33,1",
+    "x": 75.17,
+    "y": 7.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35",
+    "x": 131.44,
+    "y": 431.32,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SU-522": {
+  "origem": "Geral Hera pág. PDF 75",
+  "codigo_catalogo": "MACF-0909",
+  "peso_kg_m": "1,706",
+  "tamanho_pt": 7.62,
+  "cotas": [
+   {
+    "valor": "47",
+    "x": 69.93,
+    "y": 7.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "176",
+    "x": 146.27,
+    "y": 282.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35",
+    "x": 30.14,
+    "y": 431.32,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SU-523": {
+  "origem": "Geral Hera pág. PDF 75",
+  "codigo_catalogo": "MACF-0910",
+  "peso_kg_m": "1,005",
+  "tamanho_pt": 7.62,
+  "cotas": [
+   {
+    "valor": "176",
+    "x": 103.13,
+    "y": 287.42,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "26,1",
+    "x": 41.2,
+    "y": 7.1,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13,1",
+    "x": 59.69,
+    "y": 553.1,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "TSL-001": {
+  "origem": "Geral Tera pág. PDF 221",
+  "codigo_catalogo": "DV-695",
+  "peso_kg_m": "0,311",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "70,3",
+    "x": 149.28,
+    "y": 82.32,
+    "direcao": "inclinada"
+   },
+   {
+    "valor": "50",
+    "x": 127.08,
+    "y": 205.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50",
+    "x": 28.2,
+    "y": 104.76,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "TSL-003": {
+  "origem": "Geral Tera pág. PDF 221",
+  "codigo_catalogo": "DV-735",
+  "peso_kg_m": "0,598",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "20,1",
+    "x": 56.16,
+    "y": 75.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50",
+    "x": 28.2,
+    "y": 104.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "18",
+    "x": 56.28,
+    "y": 145.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "45",
+    "x": 154.32,
+    "y": 199.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "71,41",
+    "x": 172.1,
+    "y": 81.1,
+    "direcao": "inclinada"
+   }
+  ]
+ },
+ "TSL-007": {
+  "origem": "Geral Tera pág. PDF 218",
+  "codigo_catalogo": "DV-412",
+  "peso_kg_m": "0,314",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "50,5",
+    "x": 98.88,
+    "y": 15.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "53,5",
+    "x": 98.88,
+    "y": 92.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15",
+    "x": 197.64,
+    "y": 48.96,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "TSL-008": {
+  "origem": "Geral Tera pág. PDF 218",
+  "codigo_catalogo": "DV-410",
+  "peso_kg_m": "0,817",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "27,9",
+    "x": 164.76,
+    "y": 78.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "52,9",
+    "x": 33.12,
+    "y": 114.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25,9",
+    "x": 96.36,
+    "y": 14.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "53,7",
+    "x": 134.88,
+    "y": 223.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 238.92,
+    "y": 155.28,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "Z-169": {
+  "origem": "Geral Tera (OCR) pág. PDF 106",
+  "codigo_catalogo": "Z-169",
+  "peso_kg_m": "0,249",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "13,5",
+    "x": 122.4,
+    "y": 63.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11,5",
+    "x": 81.84,
+    "y": 4.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "73",
+    "x": 28.2,
+    "y": 138.12,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CG-080": {
+  "origem": "Geral Stelman pág. PDF 186",
+  "codigo_catalogo": "STL-424",
+  "peso_kg_m": "1,388",
+  "tamanho_pt": 15.63,
+  "cotas": [
+   {
+    "valor": "78,74",
+    "x": 33.92,
+    "y": 158.97,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "90",
+    "x": 193.14,
+    "y": 31.9,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13,3",
+    "x": 134.51,
+    "y": 283.71,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CL-006": {
+  "origem": "Geral Império pág. PDF 30",
+  "codigo_catalogo": "A6 CL-006",
+  "peso_kg_m": "1,004",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "6,7",
+    "x": 22.97,
+    "y": 53.62,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "49,7",
+    "x": 115.52,
+    "y": 21.45,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "49,7",
+    "x": 213.12,
+    "y": 120.01,
+    "direcao": "horizontal"
+   }
+  ]
+ }
+}

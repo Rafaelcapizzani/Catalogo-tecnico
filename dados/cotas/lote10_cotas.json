@@ -1,0 +1,272 @@
+{
+ "AP-046_CX-158": {
+  "origem": "tera.pdf pág. 238",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "13,2",
+    "x": 169.92,
+    "y": 56.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30,4",
+    "x": 105.12,
+    "y": 6.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "45,8",
+    "x": 96.72,
+    "y": 157.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23",
+    "x": 96.84,
+    "y": 121.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "27",
+    "x": 99.6,
+    "y": 27.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "5,2",
+    "x": 9.6,
+    "y": 135.24,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "D-143_CX-085": {
+  "origem": "tera.pdf pág. 135",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "59,5",
+    "x": 12.36,
+    "y": 122.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "82,5",
+    "x": 158.16,
+    "y": 6.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,3",
+    "x": 251.04,
+    "y": 227.16,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "TSL-009_DV-428": {
+  "origem": "tera.pdf pág. 218",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "25,9",
+    "x": 72.12,
+    "y": 6.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "53,7",
+    "x": 111.96,
+    "y": 163.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "45",
+    "x": 8.4,
+    "y": 85.92,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "27",
+    "x": 147.72,
+    "y": 59.76,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-047_A6-667": {
+  "origem": "imperio.pdf pág. 52",
+  "tamanho_pt": 8.43,
+  "cotas": [
+   {
+    "valor": "25",
+    "x": 38.41,
+    "y": 206.01,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "57",
+    "x": 104.69,
+    "y": 105.07,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13",
+    "x": 38.46,
+    "y": 6.92,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-048_A6-230": {
+  "origem": "imperio.pdf pág. 52",
+  "tamanho_pt": 8.43,
+  "cotas": [
+   {
+    "valor": "50",
+    "x": 95.48,
+    "y": 97.31,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22,8",
+    "x": 35.28,
+    "y": 189.79,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13",
+    "x": 35.33,
+    "y": 6.92,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-049_A4-A-057": {
+  "origem": "imperio.pdf pág. 51",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "30",
+    "x": 4.7,
+    "y": 73.29,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13",
+    "x": 74.26,
+    "y": 139.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22,5",
+    "x": 74.26,
+    "y": 6.92,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "T-734_CA-004": {
+  "origem": "lote10/ca004.pdf pág. 1",
+  "tamanho_pt": 7.2,
+  "cotas": [
+   {
+    "valor": "60,4",
+    "x": 107.16,
+    "y": 50.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "4",
+    "x": 5.64,
+    "y": 19.56,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "TSL-002": {
+  "origem": "lote10/salalimpa.pdf pág. 1",
+  "tamanho_pt": 7.2,
+  "cotas": [
+   {
+    "valor": "54,2",
+    "x": 117.6,
+    "y": 105.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "28",
+    "x": 5.64,
+    "y": 41.88,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "48",
+    "x": 221.16,
+    "y": 16.8,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "AP-1589_TMR-1589": {
+  "origem": "lote10/ap1589.pdf pág. 1",
+  "tamanho_pt": 7.2,
+  "cotas": [
+   {
+    "valor": "47,29",
+    "x": 67.56,
+    "y": 69.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "170",
+    "x": 6.72,
+    "y": 244.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "60",
+    "x": 113.64,
+    "y": 496.92,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "3,5",
+    "x": 61.92,
+    "y": 179.04,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-051_NX-4397": {
+  "origem": "lote10/brise.pdf pág. 2",
+  "tamanho_pt": 8.91,
+  "cotas": [
+   {
+    "valor": "10",
+    "x": 284.52,
+    "y": 40.68,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "80",
+    "x": 149.16,
+    "y": 71.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "7,1",
+    "x": 6.6,
+    "y": 40.56,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "8",
+    "x": 47.88,
+    "y": 6.0,
+    "direcao": "horizontal"
+   }
+  ]
+ }
+}

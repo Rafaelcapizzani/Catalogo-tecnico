@@ -1,0 +1,45 @@
+{
+ "SU-043_TMS-043": {
+  "origem": "Metal Centenário Linha TMS pág. 217 (PDF enviado pelo cliente)",
+  "peso_kg_m": "0,960",
+  "tamanho_pt": 6.51,
+  "cotas": [
+   {
+    "valor": "31,4",
+    "x": 119.4,
+    "y": 7.32,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,9",
+    "x": 29.4,
+    "y": 68.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "54",
+    "x": 118.2,
+    "y": 194.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22",
+    "x": 218.58,
+    "y": 68.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "39",
+    "x": 141.72,
+    "y": 182.16,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "52",
+    "x": 6.36,
+    "y": 102.6,
+    "direcao": "horizontal"
+   }
+  ]
+ }
+}

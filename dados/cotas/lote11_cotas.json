@@ -1,0 +1,158 @@
+{
+ "AP-020_MAC-0234": {
+  "origem": "hera_geral.pdf pág. 138",
+  "tamanho_pt": 7.62,
+  "cotas": [
+   {
+    "valor": "53,55",
+    "x": 18.17,
+    "y": 116.22,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50,35",
+    "x": 116.51,
+    "y": 18.9,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "9",
+    "x": 107.02,
+    "y": 204.54,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-021_MAC-0235": {
+  "origem": "hera_geral.pdf pág. 138",
+  "tamanho_pt": 7.62,
+  "cotas": [
+   {
+    "valor": "16,5",
+    "x": 36.71,
+    "y": 13.9,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "54,7",
+    "x": 93.38,
+    "y": 116.14,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-018_STL-049": {
+  "origem": "stelman.pdf pág. 30",
+  "tamanho_pt": 12.34,
+  "cotas": [
+   {
+    "valor": "15,0",
+    "x": 184.32,
+    "y": 33.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "41,5",
+    "x": 68.76,
+    "y": 98.4,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-019_STL-046A": {
+  "origem": "stelman.pdf pág. 30",
+  "tamanho_pt": 12.34,
+  "cotas": [
+   {
+    "valor": "43,6",
+    "x": 131.64,
+    "y": 7.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,5",
+    "x": 14.28,
+    "y": 106.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-020_STL-052": {
+  "origem": "stelman.pdf pág. 30",
+  "tamanho_pt": 12.0,
+  "cotas": [
+   {
+    "valor": "14,0",
+    "x": 93.0,
+    "y": 15.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22,0",
+    "x": 19.92,
+    "y": 86.28,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-021_STL-048": {
+  "origem": "stelman.pdf pág. 30",
+  "tamanho_pt": 12.0,
+  "cotas": [
+   {
+    "valor": "22,0",
+    "x": 13.92,
+    "y": 33.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "38,5",
+    "x": 104.88,
+    "y": 99.48,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-022_STL-053": {
+  "origem": "stelman.pdf pág. 30",
+  "tamanho_pt": 12.34,
+  "cotas": [
+   {
+    "valor": "11,6",
+    "x": 28.2,
+    "y": 128.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "28,0",
+    "x": 87.96,
+    "y": 43.2,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-039_A6-L-006": {
+  "origem": "imperio.pdf pág. 178",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "34",
+    "x": 89.28,
+    "y": 123.07,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23,8",
+    "x": 17.28,
+    "y": 67.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13",
+    "x": 108.07,
+    "y": 10.52,
+    "direcao": "horizontal"
+   }
+  ]
+ }
+}

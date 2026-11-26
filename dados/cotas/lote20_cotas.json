@@ -1,0 +1,38 @@
+{
+ "AP-6509": {
+  "origem": "muxarabi_1.pdf (PDF do cliente, 25/11)",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "50,3",
+    "x": 9.18,
+    "y": 74.29,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "24,9",
+    "x": 77.45,
+    "y": 161.84,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-6510": {
+  "origem": "muxarabi_1.pdf (PDF do cliente, 25/11)",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "12,2",
+    "x": 59.45,
+    "y": 89.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "24,9",
+    "x": 9.18,
+    "y": 38.29,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ }
+}

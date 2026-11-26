@@ -1,0 +1,188 @@
+{
+ "LG-060_SI-330": {
+  "origem": "lote9/baguete.pdf",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "30,4",
+    "x": 78.24,
+    "y": 95.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "24",
+    "x": 85.2,
+    "y": 5.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12",
+    "x": 140.76,
+    "y": 44.28,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "16",
+    "x": 12.6,
+    "y": 49.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-105_DV-129": {
+  "origem": "lote9/divi.pdf",
+  "tamanho_pt": 9.94,
+  "cotas": [
+   {
+    "valor": "52",
+    "x": 135.24,
+    "y": 30.96,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20",
+    "x": 231.72,
+    "y": 90.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "4,5",
+    "x": 43.68,
+    "y": 44.04,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "TSL-004": {
+  "origem": "lote9/salalimpa.pdf",
+  "tamanho_pt": 7.2,
+  "cotas": [
+   {
+    "valor": "25",
+    "x": 106.08,
+    "y": 5.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 202.92,
+    "y": 82.92,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "52",
+    "x": 111.0,
+    "y": 156.12,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17",
+    "x": 5.52,
+    "y": 103.32,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "TSL-006": {
+  "origem": "lote9/salalimpa.pdf",
+  "tamanho_pt": 7.2,
+  "cotas": [
+   {
+    "valor": "30",
+    "x": 5.64,
+    "y": 45.0,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "53",
+    "x": 118.92,
+    "y": 108.6,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-543": {
+  "origem": "lote9/25543.pdf",
+  "tamanho_pt": 7.2,
+  "cotas": [
+   {
+    "valor": "30,5",
+    "x": 6.12,
+    "y": 81.6,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "25",
+    "x": 280.92,
+    "y": 88.44,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "58",
+    "x": 164.76,
+    "y": 162.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "61",
+    "x": 134.76,
+    "y": 5.64,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "LG-570_MG32-126": {
+  "origem": "lote9/5planos.pdf",
+  "tamanho_pt": 12.34,
+  "cotas": [
+   {
+    "valor": "236,0",
+    "x": 114.24,
+    "y": 302.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "36,0",
+    "x": 50.16,
+    "y": 618.6,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "LG-572_MG32-127": {
+  "origem": "lote9/5planos.pdf",
+  "tamanho_pt": 12.34,
+  "cotas": [
+   {
+    "valor": "236,0",
+    "x": 91.8,
+    "y": 302.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "26,0",
+    "x": 36.84,
+    "y": 617.28,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "LG-571": {
+  "origem": "lote9/lg571.pdf",
+  "tamanho_pt": 11.25,
+  "cotas": [
+   {
+    "valor": "236,0",
+    "x": 162.72,
+    "y": 337.63,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "46,0",
+    "x": 68.36,
+    "y": 699.11,
+    "direcao": "horizontal"
+   }
+  ]
+ }
+}

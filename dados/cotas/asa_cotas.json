@@ -1,0 +1,2092 @@
+{
+ "DS-021_I-185": {
+  "origem": "Geral ASA pág. PDF 188",
+  "peso_kg_m": "0,084",
+  "peso_planilha": "0,084",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "18,0",
+    "x": 66.9,
+    "y": 9.19,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "14,5",
+    "x": 12.49,
+    "y": 54.44,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PC-005_E-365": {
+  "origem": "Geral ASA pág. PDF 166",
+  "peso_kg_m": "0,656",
+  "peso_planilha": "0,656",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "86,0",
+    "x": 161.51,
+    "y": 10.54,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "26,5",
+    "x": 13.18,
+    "y": 64.93,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DS-015_E-463": {
+  "origem": "Geral ASA pág. PDF 189",
+  "peso_kg_m": "0,157",
+  "peso_planilha": "0,157",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "22,0",
+    "x": 36.14,
+    "y": 10.7,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13,0",
+    "x": 99.87,
+    "y": 50.33,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DS-016_I-151": {
+  "origem": "Geral ASA pág. PDF 189",
+  "peso_kg_m": "0,173",
+  "peso_planilha": "0,173",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "9,0",
+    "x": 55.65,
+    "y": 10.69,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21,3",
+    "x": 14.83,
+    "y": 60.44,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DS-017_E-252": {
+  "origem": "Geral ASA pág. PDF 189",
+  "peso_kg_m": "0,152",
+  "peso_planilha": "0,152",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "18,1",
+    "x": 70.57,
+    "y": 82.18,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-002_I-083": {
+  "origem": "Geral ASA pág. PDF 214",
+  "peso_kg_m": "0,320",
+  "peso_planilha": "0,320",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "14,0",
+    "x": 62.95,
+    "y": 10.59,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30,0",
+    "x": 14.69,
+    "y": 82.69,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CA-005": {
+  "origem": "Geral ASA pág. PDF 34",
+  "peso_kg_m": "0,790",
+  "peso_planilha": "0,790",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "45,0",
+    "x": 66.44,
+    "y": 10.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "45,0",
+    "x": 154.73,
+    "y": 97.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-006_Z-114": {
+  "origem": "Geral ASA pág. PDF 120",
+  "peso_kg_m": "0,568",
+  "peso_planilha": "",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "39,5",
+    "x": 238.21,
+    "y": 101.29,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "70,0",
+    "x": 104.22,
+    "y": 10.68,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-007_Y-215": {
+  "origem": "Geral ASA pág. PDF 134",
+  "peso_kg_m": "0,568",
+  "peso_planilha": "0,568",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "31,5",
+    "x": 215.97,
+    "y": 87.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,6",
+    "x": 113.7,
+    "y": 10.45,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "57,0",
+    "x": 14.67,
+    "y": 124.77,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-042": {
+  "origem": "Geral ASA pág. PDF 137",
+  "peso_kg_m": "1,156",
+  "peso_planilha": "",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "83,0",
+    "x": 158.75,
+    "y": 10.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "42,0",
+    "x": 152.91,
+    "y": 44.3,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "57,0",
+    "x": 15.14,
+    "y": 107.45,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DS-028_T-180": {
+  "origem": "Geral ASA pág. PDF 189",
+  "peso_kg_m": "0,125",
+  "peso_planilha": "0,125",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "24,6",
+    "x": 14.8,
+    "y": 79.69,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25,0",
+    "x": 67.99,
+    "y": 130.82,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-043_L-498": {
+  "origem": "Geral ASA pág. PDF 129",
+  "peso_kg_m": "0,306",
+  "peso_planilha": "0,306",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "33,0",
+    "x": 14.7,
+    "y": 50.51,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23,2",
+    "x": 78.75,
+    "y": 115.01,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-079_P-417": {
+  "origem": "Geral ASA pág. PDF 143",
+  "peso_kg_m": "0,734",
+  "peso_planilha": "0,734",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "30,0",
+    "x": 84.51,
+    "y": 10.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,0",
+    "x": 13.51,
+    "y": 93.22,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "39-143": {
+  "origem": "Geral ASA pág. PDF 219",
+  "peso_kg_m": "0,170",
+  "peso_planilha": "0,170",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "16,7",
+    "x": 62.11,
+    "y": 10.69,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "12,7",
+    "x": 14.3,
+    "y": 54.11,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-035_E-276": {
+  "origem": "Geral ASA pág. PDF 126",
+  "peso_kg_m": "1,225",
+  "peso_planilha": "1,225",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "30,0",
+    "x": 90.12,
+    "y": 33.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,0",
+    "x": 182.09,
+    "y": 33.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "100,0",
+    "x": 149.59,
+    "y": 10.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "47,5",
+    "x": 313.4,
+    "y": 111.26,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-039_Z-118": {
+  "origem": "Geral ASA pág. PDF 138",
+  "peso_kg_m": "0,666",
+  "peso_planilha": "0,666",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "83,0",
+    "x": 122.89,
+    "y": 10.53,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "41,0",
+    "x": 261.38,
+    "y": 79.02,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-001_65-241D": {
+  "origem": "Geral ASA pág. PDF 167",
+  "peso_kg_m": "1,316",
+  "peso_planilha": "1,316",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "48,5",
+    "x": 108.04,
+    "y": 10.67,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "48,5",
+    "x": 10.06,
+    "y": 102.93,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "2936_U-1108": {
+  "origem": "Geral ASA pág. PDF 219",
+  "peso_kg_m": "0,342",
+  "peso_planilha": "0,342",
+  "tamanho_pt": 9.68,
+  "cotas": [
+   {
+    "valor": "23,5",
+    "x": 69.74,
+    "y": 10.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "26,0",
+    "x": 14.88,
+    "y": 72.84,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-206_E-306": {
+  "origem": "Geral ASA pág. PDF 217",
+  "peso_kg_m": "0,404",
+  "peso_planilha": "0,404",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "38,0",
+    "x": 97.41,
+    "y": 16.62,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "26,0",
+    "x": 13.21,
+    "y": 81.36,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-800_A-194": {
+  "origem": "Geral ASA pág. PDF 131",
+  "peso_kg_m": "0,652",
+  "peso_planilha": "0,652",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "25,0",
+    "x": 78.47,
+    "y": 10.47,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56,0",
+    "x": 14.74,
+    "y": 111.22,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-003": {
+  "origem": "Geral ASA pág. PDF 142",
+  "peso_kg_m": "0,486",
+  "peso_planilha": "",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "30,0",
+    "x": 83.19,
+    "y": 10.66,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40,0",
+    "x": 15.07,
+    "y": 89.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "E-484": {
+  "origem": "Geral ASA pág. PDF 124",
+  "peso_kg_m": "0,650",
+  "peso_planilha": "0,650",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "105,0",
+    "x": 153.86,
+    "y": 96.83,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "24,0",
+    "x": 342.44,
+    "y": 37.83,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "A-058": {
+  "origem": "Geral ASA pág. PDF 130",
+  "peso_kg_m": "0,222",
+  "peso_planilha": "0,222",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "12,0",
+    "x": 47.91,
+    "y": 10.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "20,0",
+    "x": 88.81,
+    "y": 68.05,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "6,0",
+    "x": 48.4,
+    "y": 109.34,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-514": {
+  "origem": "Geral ASA pág. PDF 123",
+  "peso_kg_m": "0,504",
+  "peso_planilha": "",
+  "tamanho_pt": 8.41,
+  "cotas": [
+   {
+    "valor": "24,0",
+    "x": 227.54,
+    "y": 36.59,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "70,0",
+    "x": 104.06,
+    "y": 97.63,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-054": {
+  "origem": "Geral ASA pág. PDF 148",
+  "peso_kg_m": "0,338",
+  "peso_planilha": "",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "34,7",
+    "x": 53.74,
+    "y": 10.58,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "38,0",
+    "x": 127.15,
+    "y": 84.84,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-051": {
+  "origem": "Geral ASA pág. PDF 148",
+  "peso_kg_m": "0,332",
+  "peso_planilha": "",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "23,5",
+    "x": 112.34,
+    "y": 71.45,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30,0",
+    "x": 48.29,
+    "y": 10.55,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-049": {
+  "origem": "Geral ASA pág. PDF 148",
+  "peso_kg_m": "0,463",
+  "peso_planilha": "0,606",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "29,6",
+    "x": 107.07,
+    "y": 10.54,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "43,5",
+    "x": 15.09,
+    "y": 90.19,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BG-010": {
+  "origem": "Geral ASA pág. PDF 142",
+  "peso_kg_m": "0,118",
+  "peso_planilha": "0,276",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "15,0",
+    "x": 52.17,
+    "y": 10.63,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11,7",
+    "x": 104.98,
+    "y": 56.32,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "Z-248": {
+  "origem": "Geral ASA pág. PDF 102",
+  "peso_kg_m": "0,295",
+  "peso_planilha": "1,295",
+  "tamanho_pt": 8.53,
+  "cotas": [
+   {
+    "valor": "50,0",
+    "x": 152.05,
+    "y": 73.88,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "42,0",
+    "x": 64.67,
+    "y": 165.11,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-001_A-022": {
+  "origem": "Geral ASA pág. PDF 214",
+  "peso_kg_m": "0,409",
+  "peso_planilha": "0,409",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "14,0",
+    "x": 66.35,
+    "y": 10.69,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,0",
+    "x": 14.75,
+    "y": 87.58,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DS-005_Z-063": {
+  "origem": "Geral ASA pág. PDF 174",
+  "peso_kg_m": "0,325",
+  "peso_planilha": "0,325",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "38,5",
+    "x": 60.48,
+    "y": 10.3,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "24,5",
+    "x": 131.79,
+    "y": 61.08,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-019_I-122": {
+  "origem": "Geral ASA pág. PDF 128",
+  "peso_kg_m": "0,508",
+  "peso_planilha": "0,508",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "25,0",
+    "x": 86.14,
+    "y": 10.62,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40,0",
+    "x": 15.09,
+    "y": 89.12,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-028_39-959": {
+  "origem": "Geral ASA pág. PDF 219",
+  "peso_kg_m": "0,137",
+  "peso_planilha": "0,137",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "19,5",
+    "x": 14.29,
+    "y": 67.31,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11,5",
+    "x": 60.83,
+    "y": 10.57,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CC-005_P-274": {
+  "origem": "Geral ASA pág. PDF 123",
+  "peso_kg_m": "0,855",
+  "peso_planilha": "0,855",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "70,0",
+    "x": 169.98,
+    "y": 102.87,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50,0",
+    "x": 75.78,
+    "y": 233.25,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CL-005_L-332": {
+  "origem": "Geral ASA pág. PDF 148",
+  "peso_kg_m": "0,212",
+  "peso_planilha": "0,212",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "30,0",
+    "x": 103.0,
+    "y": 10.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "23,0",
+    "x": 14.72,
+    "y": 63.59,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-540": {
+  "origem": "Geral ASA pág. PDF 133",
+  "peso_kg_m": "0,453",
+  "peso_planilha": "0,281",
+  "tamanho_pt": 9.59,
+  "cotas": [
+   {
+    "valor": "40,0",
+    "x": 121.57,
+    "y": 87.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30,5",
+    "x": 47.72,
+    "y": 10.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-229": {
+  "origem": "Geral ASA pág. PDF 200",
+  "peso_kg_m": "0,464",
+  "peso_planilha": "0,464",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "83,3",
+    "x": 123.52,
+    "y": 10.51,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13,0",
+    "x": 267.17,
+    "y": 50.77,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-551_Y-312": {
+  "origem": "Geral ASA pág. PDF 130",
+  "peso_kg_m": "0,519",
+  "peso_planilha": "0,519",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "25,0",
+    "x": 40.4,
+    "y": 10.67,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40,0",
+    "x": 111.85,
+    "y": 89.17,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-519_A-084": {
+  "origem": "Geral ASA pág. PDF 136",
+  "peso_kg_m": "0,583",
+  "peso_planilha": "0,583",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "29,0",
+    "x": 45.88,
+    "y": 13.19,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,5",
+    "x": 126.77,
+    "y": 90.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-550_P-256": {
+  "origem": "Geral ASA pág. PDF 130",
+  "peso_kg_m": "0,490",
+  "peso_planilha": "0,490",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "25,0",
+    "x": 40.26,
+    "y": 10.67,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "29,0",
+    "x": 115.7,
+    "y": 74.61,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-013_E-117": {
+  "origem": "Geral ASA pág. PDF 214",
+  "peso_kg_m": "0,334",
+  "peso_planilha": "0,334",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "17,0",
+    "x": 14.23,
+    "y": 66.86,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "42,0",
+    "x": 109.2,
+    "y": 14.22,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-010_U-397": {
+  "origem": "Geral ASA pág. PDF 214",
+  "peso_kg_m": "0,620",
+  "peso_planilha": "0,620",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "49,4",
+    "x": 74.92,
+    "y": 10.59,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50,0",
+    "x": 179.27,
+    "y": 106.3,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-116_E-256": {
+  "origem": "Geral ASA pág. PDF 210",
+  "peso_kg_m": "0,290",
+  "peso_planilha": "0,290",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "17,0",
+    "x": 14.25,
+    "y": 66.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "42,2",
+    "x": 101.47,
+    "y": 10.58,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-082_P-264": {
+  "origem": "Geral ASA pág. PDF 146",
+  "peso_kg_m": "1,156",
+  "peso_planilha": "1,156",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "30,0",
+    "x": 84.84,
+    "y": 10.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "100,0",
+    "x": 17.22,
+    "y": 179.62,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "Y-181": {
+  "origem": "Geral ASA pág. PDF 150",
+  "peso_kg_m": "0,570",
+  "peso_planilha": "0,570",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "42,0",
+    "x": 65.32,
+    "y": 10.64,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "41,0",
+    "x": 166.54,
+    "y": 100.64,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-227": {
+  "origem": "Geral ASA pág. PDF 198",
+  "peso_kg_m": "0,675",
+  "peso_planilha": "0,675",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "61,1",
+    "x": 94.31,
+    "y": 10.5,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "60,3",
+    "x": 214.13,
+    "y": 127.8,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-520_I-090": {
+  "origem": "Geral ASA pág. PDF 136",
+  "peso_kg_m": "0,312",
+  "peso_planilha": "0,312",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "23,5",
+    "x": 38.18,
+    "y": 10.68,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "A-195": {
+  "origem": "Geral ASA pág. PDF 131",
+  "peso_kg_m": "0,686",
+  "peso_planilha": "0,686",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "25,0",
+    "x": 78.39,
+    "y": 10.47,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56,0",
+    "x": 14.66,
+    "y": 111.22,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PC-001_E-363": {
+  "origem": "Geral ASA pág. PDF 166",
+  "peso_kg_m": "1,051",
+  "peso_planilha": "1,051",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "50,0",
+    "x": 14.72,
+    "y": 102.88,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "96,8",
+    "x": 185.86,
+    "y": 10.64,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "U-1048": {
+  "origem": "Geral ASA pág. PDF 167",
+  "peso_kg_m": "1,463",
+  "peso_planilha": "1,463",
+  "tamanho_pt": 8.41,
+  "cotas": [
+   {
+    "valor": "60,0",
+    "x": 13.16,
+    "y": 114.7,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "55,0",
+    "x": 119.47,
+    "y": 10.63,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "FC-232": {
+  "origem": "Geral ASA pág. PDF 196",
+  "peso_kg_m": "1,433",
+  "peso_planilha": "1,433",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "75,0",
+    "x": 110.19,
+    "y": 192.43,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-522_P-155": {
+  "origem": "Geral ASA pág. PDF 135",
+  "peso_kg_m": "0,528",
+  "peso_planilha": "0,528",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "30,0",
+    "x": 88.57,
+    "y": 10.65,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "45,0",
+    "x": 15.28,
+    "y": 98.9,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-528_L-418": {
+  "origem": "Geral ASA pág. PDF 129",
+  "peso_kg_m": "0,230",
+  "peso_planilha": "0,230",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "25,0",
+    "x": 40.31,
+    "y": 10.55,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13,4",
+    "x": 104.99,
+    "y": 49.75,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "E-725_39-1271C": {
+  "origem": "Geral ASA pág. PDF 220",
+  "peso_kg_m": "0,501",
+  "peso_planilha": "0,501",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "25,0",
+    "x": 14.7,
+    "y": 66.47,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "46,0",
+    "x": 113.52,
+    "y": 10.69,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-010_79-089C": {
+  "origem": "Geral ASA pág. PDF 161",
+  "peso_kg_m": "0,710",
+  "peso_planilha": "0,710",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "9,6",
+    "x": 10.27,
+    "y": 42.82,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "108,1",
+    "x": 215.72,
+    "y": 78.88,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-529_U-683": {
+  "origem": "Geral ASA pág. PDF 136",
+  "peso_kg_m": "0,154",
+  "peso_planilha": "0,154",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "16,8",
+    "x": 46.51,
+    "y": 94.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "9,0",
+    "x": 101.3,
+    "y": 51.35,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11,0",
+    "x": 46.54,
+    "y": 10.47,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-076_U-685": {
+  "origem": "Geral ASA pág. PDF 140",
+  "peso_kg_m": "0,141",
+  "peso_planilha": "0,141",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "13,0",
+    "x": 14.18,
+    "y": 67.65,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17,0",
+    "x": 62.27,
+    "y": 10.67,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-005_Y-105": {
+  "origem": "Geral ASA pág. PDF 215",
+  "peso_kg_m": "0,388",
+  "peso_planilha": "0,388",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "26,0",
+    "x": 100.3,
+    "y": 10.65,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25,0",
+    "x": 14.9,
+    "y": 86.03,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-022_I-117": {
+  "origem": "Geral ASA pág. PDF 136",
+  "peso_kg_m": "0,446",
+  "peso_planilha": "0,446",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "23,0",
+    "x": 82.94,
+    "y": 10.57,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25,0",
+    "x": 14.76,
+    "y": 74.79,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-535_Z-259": {
+  "origem": "Geral ASA pág. PDF 123",
+  "peso_kg_m": "0,690",
+  "peso_planilha": "0,690",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "35,0",
+    "x": 97.49,
+    "y": 32.13,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "70,0",
+    "x": 104.15,
+    "y": 10.63,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22,0",
+    "x": 222.33,
+    "y": 82.63,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-001": {
+  "origem": "Geral ASA pág. PDF 142",
+  "peso_kg_m": "0,492",
+  "peso_planilha": "",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "30,0",
+    "x": 81.03,
+    "y": 10.66,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40,0",
+    "x": 15.09,
+    "y": 89.56,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-027": {
+  "origem": "Geral ASA pág. PDF 147",
+  "peso_kg_m": "0,780",
+  "peso_planilha": "",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "35,5",
+    "x": 55.44,
+    "y": 10.75,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "55,6",
+    "x": 151.61,
+    "y": 110.89,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "42-014": {
+  "origem": "Geral ASA pág. PDF 151",
+  "peso_kg_m": "0,369",
+  "peso_planilha": "0,369",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "47,6",
+    "x": 121.72,
+    "y": 10.56,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21,1",
+    "x": 14.79,
+    "y": 70.19,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "D-102": {
+  "origem": "Geral ASA pág. PDF 155",
+  "peso_kg_m": "0,625",
+  "peso_planilha": "0,625",
+  "tamanho_pt": 9.66,
+  "cotas": [
+   {
+    "valor": "38,1",
+    "x": 88.63,
+    "y": 8.29,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "38,1",
+    "x": 14.73,
+    "y": 77.21,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AL-092_D-199": {
+  "origem": "Geral ASA pág. PDF 177",
+  "peso_kg_m": "0,796",
+  "peso_planilha": "0,796",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "40,0",
+    "x": 61.56,
+    "y": 10.6,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "45,0",
+    "x": 146.81,
+    "y": 112.22,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-012_29-160": {
+  "origem": "Geral ASA pág. PDF 163",
+  "peso_kg_m": "1,398",
+  "peso_planilha": "1,398",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "55,5",
+    "x": 14.78,
+    "y": 117.24,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "149,4",
+    "x": 245.45,
+    "y": 226.97,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "132,0",
+    "x": 270.64,
+    "y": 10.53,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-011_39-811": {
+  "origem": "Geral ASA pág. PDF 163",
+  "peso_kg_m": "3,386",
+  "peso_planilha": "3,386",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "132,0",
+    "x": 499.69,
+    "y": 190.73,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "131,0",
+    "x": 271.17,
+    "y": 405.15,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-015_78-2151C": {
+  "origem": "Geral ASA pág. PDF 160",
+  "peso_kg_m": "1,971",
+  "peso_planilha": "1,971",
+  "tamanho_pt": 8.0,
+  "cotas": [
+   {
+    "valor": "150,0",
+    "x": 14.89,
+    "y": 232.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "42,0",
+    "x": 99.79,
+    "y": 11.17,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DS-020_I-186": {
+  "origem": "Geral ASA pág. PDF 188",
+  "peso_kg_m": "0,090",
+  "peso_planilha": "0,090",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "18,0",
+    "x": 65.85,
+    "y": 10.66,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,0",
+    "x": 14.26,
+    "y": 62.79,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PC-070_78-778": {
+  "origem": "Geral ASA pág. PDF 156",
+  "peso_kg_m": "0,897",
+  "peso_planilha": "0,897",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "38,1",
+    "x": 87.24,
+    "y": 10.63,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "79,1",
+    "x": 13.03,
+    "y": 145.31,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "60,3",
+    "x": 168.59,
+    "y": 113.51,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "50-018": {
+  "origem": "Geral ASA pág. PDF 174",
+  "peso_kg_m": "0,263",
+  "peso_planilha": "0,263",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "36,8",
+    "x": 82.82,
+    "y": 87.89,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17,0",
+    "x": 28.75,
+    "y": 10.48,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-017_78-1730C": {
+  "origem": "Geral ASA pág. PDF 160",
+  "peso_kg_m": "1,510",
+  "peso_planilha": "1,510",
+  "tamanho_pt": 9.1,
+  "cotas": [
+   {
+    "valor": "100,0",
+    "x": 16.57,
+    "y": 179.06,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "42,5",
+    "x": 102.87,
+    "y": 10.37,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-006_79-125D": {
+  "origem": "Geral ASA pág. PDF 162",
+  "peso_kg_m": "1,232",
+  "peso_planilha": "1,232",
+  "tamanho_pt": 7.97,
+  "cotas": [
+   {
+    "valor": "174,2",
+    "x": 14.96,
+    "y": 301.8,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10,0",
+    "x": 61.55,
+    "y": 634.51,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-007_78-2226C": {
+  "origem": "Geral ASA pág. PDF 162",
+  "peso_kg_m": "0,555",
+  "peso_planilha": "0,555",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "50,0",
+    "x": 23.79,
+    "y": 118.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21,5",
+    "x": 84.76,
+    "y": 227.34,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17,5",
+    "x": 85.13,
+    "y": 13.53,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "LB-051_Y-360": {
+  "origem": "Geral ASA pág. PDF 172",
+  "peso_kg_m": "0,533",
+  "peso_planilha": "0,533",
+  "tamanho_pt": 8.41,
+  "cotas": [
+   {
+    "valor": "154,0",
+    "x": 242.17,
+    "y": 42.11,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-014_19-575": {
+  "origem": "Geral ASA pág. PDF 170",
+  "peso_kg_m": "0,723",
+  "peso_planilha": "0,892",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "36,3",
+    "x": 58.25,
+    "y": 506.27,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "169,0",
+    "x": 137.35,
+    "y": 244.44,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-013_19-375": {
+  "origem": "Geral ASA pág. PDF 169",
+  "peso_kg_m": "0,959",
+  "peso_planilha": "0,959",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "187,0",
+    "x": 108.17,
+    "y": 268.85,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,0",
+    "x": 50.27,
+    "y": 570.65,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-018_78-1740D": {
+  "origem": "Geral ASA pág. PDF 160",
+  "peso_kg_m": "1,604",
+  "peso_planilha": "1,604",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "167,4",
+    "x": 14.96,
+    "y": 261.01,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "22,0",
+    "x": 63.5,
+    "y": 10.78,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "30-089": {
+  "origem": "Geral ASA pág. PDF 139",
+  "peso_kg_m": "0,564",
+  "peso_planilha": "0,944",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "83,0",
+    "x": 122.61,
+    "y": 91.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "24,0",
+    "x": 269.32,
+    "y": 37.62,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "31-085_31-085C": {
+  "origem": "Geral ASA pág. PDF 165",
+  "peso_kg_m": "0,894",
+  "peso_planilha": "0,894",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "9,8",
+    "x": 11.93,
+    "y": 43.89,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "124,0",
+    "x": 260.55,
+    "y": 86.36,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "150,0",
+    "x": 261.11,
+    "y": 121.91,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-008_78-2302C": {
+  "origem": "Geral ASA pág. PDF 161",
+  "peso_kg_m": "0,242",
+  "peso_planilha": "0,242",
+  "tamanho_pt": 8.41,
+  "cotas": [
+   {
+    "valor": "30,0",
+    "x": 111.04,
+    "y": 92.04,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "9,6",
+    "x": 10.45,
+    "y": 45.28,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "CG-011_D-081": {
+  "origem": "Geral ASA pág. PDF 175",
+  "peso_kg_m": "0,643",
+  "peso_planilha": "0,643",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "35,1",
+    "x": 89.49,
+    "y": 7.91,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,1",
+    "x": 7.4,
+    "y": 84.43,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "39-137": {
+  "origem": "Geral ASA pág. PDF 219",
+  "peso_kg_m": "0,176",
+  "peso_planilha": "0,176",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "13,9",
+    "x": 68.44,
+    "y": 10.49,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "15,0",
+    "x": 14.11,
+    "y": 62.42,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "52-001_F-043": {
+  "origem": "Geral ASA pág. PDF 189",
+  "peso_kg_m": "0,124",
+  "peso_planilha": "0,124",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "18,0",
+    "x": 30.11,
+    "y": 10.67,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10,0",
+    "x": 86.36,
+    "y": 49.51,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-070": {
+  "origem": "Geral ASA pág. PDF 116",
+  "peso_kg_m": "0,551",
+  "peso_planilha": "0,551",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "26,0",
+    "x": 191.16,
+    "y": 40.86,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "56,0",
+    "x": 82.75,
+    "y": 104.61,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-069": {
+  "origem": "Geral ASA pág. PDF 116",
+  "peso_kg_m": "0,681",
+  "peso_planilha": "0,681",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "44,0",
+    "x": 13.48,
+    "y": 66.43,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "54,6",
+    "x": 123.78,
+    "y": 148.36,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-305_E-512": {
+  "origem": "Geral ASA pág. PDF 217",
+  "peso_kg_m": "0,435",
+  "peso_planilha": "0,435",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "20,0",
+    "x": 59.36,
+    "y": 10.66,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "11,0",
+    "x": 71.56,
+    "y": 229.2,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "62,0",
+    "x": 14.84,
+    "y": 122.42,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-304_L-713": {
+  "origem": "Geral ASA pág. PDF 217",
+  "peso_kg_m": "1,278",
+  "peso_planilha": "1,278",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "13,5",
+    "x": 50.13,
+    "y": 231.91,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "47,0",
+    "x": 83.13,
+    "y": 10.63,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "62,0",
+    "x": 161.11,
+    "y": 120.74,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-009_79-060D": {
+  "origem": "Geral ASA pág. PDF 162",
+  "peso_kg_m": "1,464",
+  "peso_planilha": "1,464",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "165,0",
+    "x": 19.0,
+    "y": 279.43,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "17,5",
+    "x": 82.14,
+    "y": 13.63,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21,5",
+    "x": 82.14,
+    "y": 554.43,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "25-511": {
+  "origem": "Geral ASA pág. PDF 126",
+  "peso_kg_m": "1,449",
+  "peso_planilha": "",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "52,0",
+    "x": 14.61,
+    "y": 77.48,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "100,0",
+    "x": 187.94,
+    "y": 172.98,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SU-015_MG25-015": {
+  "origem": "Geral ASA pág. PDF 50",
+  "peso_kg_m": "0,918",
+  "peso_planilha": "",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "106,0",
+    "x": 191.69,
+    "y": 11.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "33,0",
+    "x": 9.48,
+    "y": 78.74,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "70,0",
+    "x": 178.02,
+    "y": 146.27,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "SU-016_MG25-016": {
+  "origem": "Geral ASA pág. PDF 52",
+  "peso_kg_m": "0,841",
+  "peso_planilha": "",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "106,0",
+    "x": 156.05,
+    "y": 161.97,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "47,0",
+    "x": 330.51,
+    "y": 67.88,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "70,0",
+    "x": 143.68,
+    "y": 25.6,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "80-041_MG32-041": {
+  "origem": "Geral ASA pág. PDF 82",
+  "peso_kg_m": "1,378",
+  "peso_planilha": "1,378",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "180,0",
+    "x": 260.85,
+    "y": 11.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,7",
+    "x": 395.76,
+    "y": 147.88,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "80-035_MG32-035": {
+  "origem": "Geral ASA pág. PDF 83",
+  "peso_kg_m": "1,085",
+  "peso_planilha": "1,199",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "180,3",
+    "x": 114.35,
+    "y": 315.94,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "22,0",
+    "x": 36.27,
+    "y": 8.94,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "80-034_MG32-034": {
+  "origem": "Geral ASA pág. PDF 82",
+  "peso_kg_m": "2,142",
+  "peso_planilha": "2,142",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "153,8",
+    "x": 223.72,
+    "y": 11.77,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "46,6",
+    "x": 478.46,
+    "y": 109.92,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "44,6",
+    "x": 290.84,
+    "y": 198.83,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "44,6",
+    "x": 164.39,
+    "y": 198.83,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-003_MG32-118": {
+  "origem": "Geral ASA pág. PDF 86",
+  "peso_kg_m": "1,285",
+  "peso_planilha": "1,285",
+  "tamanho_pt": 9.72,
+  "cotas": [
+   {
+    "valor": "103,8",
+    "x": 115.9,
+    "y": 150.81,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "28,5",
+    "x": 45.56,
+    "y": 325.36,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-038_MG25-509": {
+  "origem": "Geral ASA pág. PDF 67",
+  "peso_kg_m": "0,843",
+  "peso_planilha": "",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "87,0",
+    "x": 163.37,
+    "y": 11.68,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "31,1",
+    "x": 8.32,
+    "y": 65.57,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "35",
+    "x": 185.06,
+    "y": 132.84,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "80-058_MG32-058": {
+  "origem": "Geral ASA pág. PDF 78",
+  "peso_kg_m": "0,746",
+  "peso_planilha": "0,172",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "140,0",
+    "x": 11.21,
+    "y": 236.93,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "22,0",
+    "x": 69.5,
+    "y": 11.8,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PMO-024_MG20-105": {
+  "origem": "Geral ASA pág. PDF 37",
+  "peso_kg_m": "0,893",
+  "peso_planilha": "0,893",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "43,0",
+    "x": 213.95,
+    "y": 62.04,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "61,0",
+    "x": 91.83,
+    "y": 158.53,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30,0",
+    "x": 91.91,
+    "y": 138.06,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "PMO-023_MG20-107": {
+  "origem": "Geral ASA pág. PDF 37",
+  "peso_kg_m": "0,332",
+  "peso_planilha": "",
+  "tamanho_pt": 12.27,
+  "cotas": [
+   {
+    "valor": "64,0",
+    "x": 95.3,
+    "y": 91.69,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ }
+}

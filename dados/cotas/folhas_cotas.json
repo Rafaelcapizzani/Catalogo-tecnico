@@ -1,0 +1,284 @@
+{
+ "AP-099": {
+  "origem": "folha avulsa do cliente (folha01.pdf)",
+  "tamanho_pt": 10.8,
+  "cotas": [
+   {
+    "valor": "42",
+    "x": 114.48,
+    "y": 87.18,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "40",
+    "x": 17.58,
+    "y": 72.0,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "5",
+    "x": 154.44,
+    "y": 15.06,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "AP-100": {
+  "origem": "folha avulsa do cliente (folha01.pdf)",
+  "tamanho_pt": 10.8,
+  "cotas": [
+   {
+    "valor": "22",
+    "x": 17.94,
+    "y": 80.94,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "38",
+    "x": 91.68,
+    "y": 11.82,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50",
+    "x": 215.82,
+    "y": 11.82,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-218": {
+  "origem": "folha avulsa do cliente (folha02.pdf)",
+  "tamanho_pt": 6.69,
+  "cotas": [
+   {
+    "valor": "10",
+    "x": 150.6,
+    "y": 141.0,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "18",
+    "x": 79.08,
+    "y": 174.54,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "50",
+    "x": 79.02,
+    "y": 10.02,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "9",
+    "x": 79.08,
+    "y": 162.18,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "BX-219": {
+  "origem": "folha avulsa do cliente (folha02.pdf)",
+  "tamanho_pt": 6.69,
+  "cotas": [
+   {
+    "valor": "10",
+    "x": 210.78,
+    "y": 218.58,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "18",
+    "x": 114.24,
+    "y": 252.18,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "75",
+    "x": 114.24,
+    "y": 9.42,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "9",
+    "x": 114.24,
+    "y": 239.82,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-035": {
+  "origem": "folha avulsa do cliente (folha02.pdf)",
+  "tamanho_pt": 8.74,
+  "cotas": [
+   {
+    "valor": "21",
+    "x": 11.94,
+    "y": 88.02,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "38",
+    "x": 185.76,
+    "y": 62.76,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,5",
+    "x": 31.38,
+    "y": 56.46,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-034": {
+  "origem": "folha avulsa do cliente (folha03.pdf)",
+  "tamanho_pt": 6.86,
+  "cotas": [
+   {
+    "valor": "25",
+    "x": 14.88,
+    "y": 104.88,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "34",
+    "x": 73.32,
+    "y": 11.34,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "58",
+    "x": 137.64,
+    "y": 104.88,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "DV-302": {
+  "origem": "folha avulsa do cliente (folha01.pdf)",
+  "tamanho_pt": 6.86,
+  "cotas": [
+   {
+    "valor": "23,5",
+    "x": 62.58,
+    "y": 204.96,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "35",
+    "x": 78.9,
+    "y": 11.22,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "54",
+    "x": 154.2,
+    "y": 108.9,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "30",
+    "x": 15.12,
+    "y": 123.12,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "AP-033": {
+  "origem": "folha avulsa do cliente (folha02.pdf)",
+  "tamanho_pt": 6.69,
+  "cotas": [
+   {
+    "valor": "15",
+    "x": 73.68,
+    "y": 23.7,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "30",
+    "x": 73.74,
+    "y": 105.18,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "31",
+    "x": 10.68,
+    "y": 52.38,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-1718": {
+  "origem": "folha avulsa do cliente (folha03.pdf)",
+  "tamanho_pt": 10.8,
+  "cotas": [
+   {
+    "valor": "35",
+    "x": 84.84,
+    "y": 73.26,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "65",
+    "x": 126.9,
+    "y": 11.7,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "6",
+    "x": 17.94,
+    "y": 53.46,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "AP-1717": {
+  "origem": "folha avulsa do cliente (folha03.pdf)",
+  "tamanho_pt": 10.8,
+  "cotas": [
+   {
+    "valor": "61",
+    "x": 124.68,
+    "y": 11.46,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "38",
+    "x": 157.26,
+    "y": 72.9,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "6",
+    "x": 17.82,
+    "y": 45.72,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "AP-032": {
+  "origem": "folha avulsa do cliente (folha03.pdf)",
+  "tamanho_pt": 6.69,
+  "cotas": [
+   {
+    "valor": "15",
+    "x": 127.08,
+    "y": 68.82,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "44",
+    "x": 83.7,
+    "y": 11.58,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "30",
+    "x": 14.82,
+    "y": 68.82,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ }
+}

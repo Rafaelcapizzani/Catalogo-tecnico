@@ -1,0 +1,218 @@
+{
+ "AP-023_BX-203": {
+  "origem": "Perfis_BX_1-1.pdf (PDF do cliente, 25/11)",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "50,8",
+    "x": 126.0,
+    "y": 14.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "8,8",
+    "x": 104.12,
+    "y": 218.61,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "55",
+    "x": 15.89,
+    "y": 123.94,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "AP-024_BX-205": {
+  "origem": "Perfis_BX_1-1.pdf (PDF do cliente, 25/11)",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "18",
+    "x": 97.51,
+    "y": 14.52,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10",
+    "x": 108.85,
+    "y": 218.61,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "55",
+    "x": 141.61,
+    "y": 123.94,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "39-144_BX-316": {
+  "origem": "Perfis_BX_1-1.pdf (PDF do cliente, 25/11)",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "13",
+    "x": 71.43,
+    "y": 12.39,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "9,8",
+    "x": 70.01,
+    "y": 128.61,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "24",
+    "x": 17.72,
+    "y": 77.87,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "14,5",
+    "x": 108.43,
+    "y": 91.34,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "AP-027_BX-223": {
+  "origem": "Perfis_BX_1-1.pdf (PDF do cliente, 25/11)",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "13,8",
+    "x": 91.56,
+    "y": 89.61,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "7,5",
+    "x": 95.24,
+    "y": 13.08,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "9,9",
+    "x": 128.85,
+    "y": 58.86,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "AP-022_BX-1236": {
+  "origem": "Perfis_BX_1-1.pdf (PDF do cliente, 25/11)",
+  "tamanho_pt": 8.18,
+  "cotas": [
+   {
+    "valor": "8,7",
+    "x": 83.42,
+    "y": 12.89,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25,6",
+    "x": 64.28,
+    "y": 120.61,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "21,9",
+    "x": 157.13,
+    "y": 72.85,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "3,8",
+    "x": 134.76,
+    "y": 72.99,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "AP-029_CB-266": {
+  "origem": "CB-266_AP-056.pdf (PDF do cliente, 25/11)",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "22,7",
+    "x": 80.17,
+    "y": 68.13,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13,3",
+    "x": 131.39,
+    "y": 30.04,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "8,1",
+    "x": 12.33,
+    "y": 28.93,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "AP-056": {
+  "origem": "CB-266_AP-056.pdf (PDF do cliente, 25/11)",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "25",
+    "x": 89.4,
+    "y": 81.29,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 160.26,
+    "y": 101.13,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "162,7",
+    "x": 284.6,
+    "y": 137.98,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13",
+    "x": 12.67,
+    "y": 46.45,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ },
+ "AP-057": {
+  "origem": "CB-266_AP-056.pdf (PDF do cliente, 25/11) — mesmo desenho do AP-056",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "25",
+    "x": 89.4,
+    "y": 81.29,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "25",
+    "x": 160.26,
+    "y": 101.13,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "162,7",
+    "x": 284.6,
+    "y": 137.98,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "13",
+    "x": 12.67,
+    "y": 46.45,
+    "direcao": "vertical (baixo→cima)"
+   }
+  ]
+ }
+}

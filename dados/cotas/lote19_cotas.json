@@ -1,0 +1,27 @@
+{
+ "STL-221_AP-221": {
+  "origem": "STL-221_AP-221.pdf (PDF do cliente, 25/11)",
+  "peso_kg_m": "0,510",
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "97,5",
+    "x": 141.12,
+    "y": 7.95,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "37",
+    "x": 306.19,
+    "y": 78.85,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "94,3",
+    "x": 137.81,
+    "y": 151.43,
+    "direcao": "horizontal"
+   }
+  ]
+ }
+}

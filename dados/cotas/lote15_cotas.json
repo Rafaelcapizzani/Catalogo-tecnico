@@ -1,0 +1,27 @@
+{
+ "AP-070": {
+  "origem": "Corrimão Edson (PDF enviado pelo cliente, 25/11), escala 1:1",
+  "peso_kg_m": null,
+  "tamanho_pt": 9.21,
+  "cotas": [
+   {
+    "valor": "70",
+    "x": 9.48,
+    "y": 203.68,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "35,5",
+    "x": 9.48,
+    "y": 54.15,
+    "direcao": "vertical (baixo→cima)"
+   },
+   {
+    "valor": "5",
+    "x": 143.35,
+    "y": 237.7,
+    "direcao": "horizontal"
+   }
+  ]
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "DV-101": {
+  "origem": "Geral Tera pág. PDF 171",
+  "tamanho_pt": 10.29,
+  "cotas": [
+   {
+    "valor": "12,2",
+    "x": 47.76,
+    "y": 97.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "53",
+    "x": 99.96,
+    "y": 6.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "53",
+    "x": 8.16,
+    "y": 97.44,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "35,5",
+    "x": 199.99,
+    "y": 96.74,
+    "direcao": "horizontal"
+   }
+  ]
+ },
+ "DV-055": {
+  "origem": "Geral Tera pág. PDF 172",
+  "tamanho_pt": 10.63,
+  "cotas": [
+   {
+    "valor": "35,3",
+    "x": 121.68,
+    "y": 66.84,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "52,4",
+    "x": 121.56,
+    "y": 6.72,
+    "direcao": "horizontal"
+   },
+   {
+    "valor": "10,2",
+    "x": 12.35,
+    "y": 36.85,
+    "direcao": "horizontal"
+   }
+  ]
+ }
+}

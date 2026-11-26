@@ -1,0 +1,3534 @@
+{
+ "25-539": {
+  "cat": "Geral Novaxx (OCR)",
+  "pdf": "/home/claude/alcoa/novaxx.pdf",
+  "pg": 53,
+  "cc": "NX-0850 (equiv. 25-539)",
+  "clip": [
+   332,
+   384,
+   556,
+   530
+  ],
+  "lab": [
+   65.7,
+   362.6,
+   362.6,
+   368.9
+  ],
+  "peso": "0,758",
+  "situacao": "Inativo",
+  "manual": true
+ },
+ "32-104": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 32,
+  "cc": "Y-839",
+  "clip": [
+   115.9,
+   74.6,
+   287.9,
+   286.2
+  ],
+  "lab": [
+   57.7,
+   70.9,
+   96.3,
+   85.9
+  ],
+  "peso": "0,840",
+  "situacao": "Ativo"
+ },
+ "37-005": {
+  "cat": "Sapa (Box padronizados)",
+  "pdf": "/mnt/user-data/uploads/2b77edf3-sapa_420307.pdf",
+  "pg": 1,
+  "cc": "370005",
+  "clip": [
+   130,
+   118,
+   245,
+   228
+  ],
+  "lab": [
+   67.7,
+   45.2,
+   557.9,
+   85.5
+  ],
+  "peso": "0,086",
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "42-008": {
+  "cat": "Geral Novaxx (OCR)",
+  "pdf": "/home/claude/alcoa/novaxx.pdf",
+  "pg": 84,
+  "cc": "NX-3152 (equiv. 42-008)",
+  "clip": [
+   88.3,
+   655.4,
+   255.7,
+   749.0
+  ],
+  "lab": [
+   48.7,
+   525.6,
+   322.0,
+   606.5
+  ],
+  "peso": "0,409",
+  "situacao": "Ativo"
+ },
+ "42-012": {
+  "cat": "Geral Novaxx (OCR)",
+  "pdf": "/home/claude/alcoa/novaxx.pdf",
+  "pg": 86,
+  "cc": "NX-3332 (equiv. 42-012)",
+  "clip": [
+   184.2,
+   121.7,
+   386.1,
+   282.7
+  ],
+  "lab": [
+   37.4,
+   98.5,
+   83.5,
+   118.1
+  ],
+  "peso": "0,836",
+  "situacao": "Ativo"
+ },
+ "42-021": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 261,
+  "cc": "P-192",
+  "clip": [
+   74.6,
+   115.4,
+   264.3,
+   240.7
+  ],
+  "lab": [
+   56.8,
+   74.9,
+   96.8,
+   89.9
+  ],
+  "peso": "0,730",
+  "situacao": "Ativo"
+ },
+ "42-023": {
+  "cat": "Geral Novaxx (OCR)",
+  "pdf": "/home/claude/alcoa/novaxx.pdf",
+  "pg": 88,
+  "cc": "NX-3615 (equiv. 42-023)",
+  "clip": [
+   61.8,
+   159.1,
+   255.0,
+   284.0
+  ],
+  "lab": [
+   49.2,
+   58.8,
+   131.9,
+   123.6
+  ],
+  "peso": "0,520",
+  "situacao": "Ativo"
+ },
+ "42-025": {
+  "cat": "Geral Novaxx (OCR)",
+  "pdf": "/home/claude/alcoa/novaxx.pdf",
+  "pg": 85,
+  "cc": "NX-3990 (equiv. 42-025)",
+  "clip": [
+   78.4,
+   159.1,
+   254.5,
+   389.4
+  ],
+  "lab": [
+   64.2,
+   111.2,
+   364.0,
+   118.1
+  ],
+  "peso": "0,882",
+  "situacao": "Ativo"
+ },
+ "42-035": {
+  "cat": "Geral Novaxx (OCR)",
+  "pdf": "/home/claude/alcoa/novaxx.pdf",
+  "pg": 86,
+  "cc": "NX-4145 (equiv. 42-035)",
+  "clip": [
+   164.2,
+   602.2,
+   409.5,
+   781.6
+  ],
+  "lab": [
+   50.4,
+   517.0,
+   286.6,
+   600.8
+  ],
+  "peso": "1,172",
+  "situacao": "Ativo"
+ },
+ "42-178": {
+  "cat": "Geral Alumil",
+  "pdf": "/home/claude/alcoa/alumil.pdf",
+  "pg": 73,
+  "cc": "P-1178",
+  "clip": [
+   372,
+   300,
+   540,
+   568
+  ],
+  "lab": [
+   130.2,
+   240.2,
+   468.3,
+   282.2
+  ],
+  "peso": "1,041",
+  "situacao": "Ativo",
+  "manual": true,
+  "costura": true
+ },
+ "42-304": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 28,
+  "cc": "U-1319",
+  "clip": [
+   402.6,
+   304.0,
+   483.1,
+   532.9
+  ],
+  "lab": [
+   318.2,
+   310.9,
+   367.4,
+   325.9
+  ],
+  "peso": "0,259",
+  "situacao": "Ativo"
+ },
+ "42-307": {
+  "cat": "Sapa (Box padronizados)",
+  "pdf": "/mnt/user-data/uploads/2b77edf3-sapa_420307.pdf",
+  "pg": 1,
+  "cc": "420307",
+  "clip": [
+   380.0,
+   107.0,
+   510.0,
+   237.7
+  ],
+  "lab": [
+   67.7,
+   45.2,
+   557.9,
+   85.5
+  ],
+  "peso": "0,372",
+  "situacao": "Ativo"
+ },
+ "A-1058": {
+  "cat": "Geral Tera (OCR)",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 230,
+  "cc": "A-1058",
+  "clip": [
+   78.0,
+   162.2,
+   268.4,
+   264.9
+  ],
+  "lab": [
+   140.8,
+   303.5,
+   179.3,
+   312.1
+  ],
+  "peso": "0,219",
+  "situacao": "Ativo"
+ },
+ "AP-002": {
+  "cat": "PDF do cliente (26/11)",
+  "pdf": "/home/claude/alcoa/cliente26/PR-003E.pdf",
+  "pg": 1,
+  "cc": "PR-003E",
+  "clip": [
+   268,
+   356,
+   348,
+   432
+  ],
+  "peso": "",
+  "lab": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "manual": true
+ },
+ "AP-004": {
+  "cat": "PDF do cliente (26/11)",
+  "pdf": "/home/claude/alcoa/cliente26/AP-004.pdf",
+  "pg": 1,
+  "cc": "AP-004",
+  "clip": [
+   106,
+   148,
+   238,
+   728
+  ],
+  "peso": "",
+  "lab": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "manual": true,
+  "add": [
+   [
+    "15,2",
+    [
+     174,
+     707,
+     193,
+     717
+    ],
+    false
+   ]
+  ]
+ },
+ "AP-005": {
+  "cat": "Geral Império",
+  "pdf": "/home/claude/alcoa/imperio.pdf",
+  "pg": 73,
+  "cc": "A6 RP-004",
+  "clip": [
+   75,
+   572,
+   525,
+   738
+  ],
+  "lab": [
+   43.9,
+   563.5,
+   76.3,
+   571.5
+  ],
+  "peso": "0,977",
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "AP-016": {
+  "cat": "Geral Império",
+  "pdf": "/home/claude/alcoa/imperio.pdf",
+  "pg": 194,
+  "cc": "A6 U-900",
+  "clip": [
+   95,
+   180,
+   560,
+   365
+  ],
+  "lab": [
+   46.1,
+   128.2,
+   74.1,
+   136.2
+  ],
+  "peso": "5,697",
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "AP-025": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 24,
+  "cc": "BX-250",
+  "clip": [
+   126,
+   583,
+   220,
+   708
+  ],
+  "lab": [
+   50.4,
+   548.1,
+   100.4,
+   563.1
+  ],
+  "peso": "0,168",
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "AP-026": {
+  "cat": "Geral Tera",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 124,
+  "cc": "BX-876",
+  "clip": [
+   238.0,
+   393.1,
+   328.7,
+   474.7
+  ],
+  "lab": [
+   276.8,
+   477.7,
+   315.4,
+   486.4
+  ],
+  "peso": "0,054",
+  "situacao": "Ativo"
+ },
+ "AP-030": {
+  "cat": "Geral Hyspex",
+  "pdf": "/home/claude/alcoa/hyspex.pdf",
+  "pg": 216,
+  "cc": "76500",
+  "clip": [
+   372.2,
+   199.4,
+   483.2,
+   274.2
+  ],
+  "lab": [
+   313.1,
+   127.1,
+   334.5,
+   137.3
+  ],
+  "peso": "0,126",
+  "situacao": "Ativo"
+ },
+ "AP-036": {
+  "cat": "Geral Hyspex",
+  "pdf": "/home/claude/alcoa/hyspex.pdf",
+  "pg": 220,
+  "cc": "76840",
+  "clip": [
+   81.4,
+   174.6,
+   256.1,
+   428.1
+  ],
+  "lab": [
+   71.6,
+   126.7,
+   92.8,
+   136.9
+  ],
+  "peso": "0,619",
+  "situacao": "Ativo"
+ },
+ "AP-037": {
+  "cat": "Geral Hyspex",
+  "pdf": "/home/claude/alcoa/hyspex.pdf",
+  "pg": 219,
+  "cc": "76900",
+  "clip": [
+   403.3,
+   502.0,
+   483.7,
+   732.5
+  ],
+  "lab": [
+   312.7,
+   450.4,
+   333.9,
+   460.6
+  ],
+  "peso": "0,241",
+  "situacao": "Ativo"
+ },
+ "AP-039": {
+  "cat": "Novaxx Luxxor 2.5",
+  "pdf": "/home/claude/alcoa/luxxor.pdf",
+  "pg": 49,
+  "cc": "NX-6440",
+  "clip": [
+   108.0,
+   166.0,
+   502.1,
+   274.3
+  ],
+  "lab": [
+   65.4,
+   85.6,
+   113.4,
+   96.6
+  ],
+  "peso": "0,744",
+  "situacao": "Ativo"
+ },
+ "AP-040": {
+  "cat": "Novaxx Luxxor 2.5",
+  "pdf": "/home/claude/alcoa/luxxor.pdf",
+  "pg": 50,
+  "cc": "NX-6443",
+  "clip": [
+   106.0,
+   154.2,
+   224.7,
+   544.3
+  ],
+  "lab": [
+   65.5,
+   86.1,
+   113.4,
+   97.1
+  ],
+  "peso": "0,602",
+  "situacao": "Ativo"
+ },
+ "AP-041": {
+  "cat": "Novaxx Luxxor 2.5",
+  "pdf": "/home/claude/alcoa/luxxor.pdf",
+  "pg": 50,
+  "cc": "NX-6444",
+  "clip": [
+   324.6,
+   161.9,
+   554.8,
+   525.7
+  ],
+  "lab": [
+   329.0,
+   86.1,
+   377.0,
+   97.1
+  ],
+  "peso": "1,201",
+  "situacao": "Ativo"
+ },
+ "AP-042": {
+  "cat": "Novaxx Luxxor 2.5",
+  "pdf": "/home/claude/alcoa/luxxor.pdf",
+  "pg": 51,
+  "cc": "NX-6446",
+  "clip": [
+   116.3,
+   232.9,
+   203.1,
+   702.9
+  ],
+  "lab": [
+   65.4,
+   85.6,
+   113.4,
+   96.6
+  ],
+  "peso": "0,746",
+  "situacao": "Ativo"
+ },
+ "AP-043": {
+  "cat": "Novaxx Luxxor 2.5",
+  "pdf": "/home/claude/alcoa/luxxor.pdf",
+  "pg": 51,
+  "cc": "NX-6447",
+  "clip": [
+   367.5,
+   259.1,
+   521.3,
+   685.0
+  ],
+  "lab": [
+   328.9,
+   85.6,
+   376.9,
+   96.6
+  ],
+  "peso": "0,848",
+  "situacao": "Ativo"
+ },
+ "AP-044": {
+  "cat": "Novaxx Luxxor 2.5",
+  "pdf": "/home/claude/alcoa/luxxor.pdf",
+  "pg": 49,
+  "cc": "NX-6442",
+  "clip": [
+   100,
+   626,
+   495,
+   781
+  ],
+  "lab": [
+   65.5,
+   608.0,
+   113.5,
+   619.0
+  ],
+  "peso": "0,990",
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "AP-045": {
+  "cat": "Geral Novaxx (OCR)",
+  "pdf": "/home/claude/alcoa/novaxx.pdf",
+  "pg": 100,
+  "cc": "NX-2620",
+  "clip": [
+   111.1,
+   232.1,
+   188.7,
+   307.7
+  ],
+  "lab": [
+   43.2,
+   58.8,
+   131.9,
+   123.6
+  ],
+  "peso": "0,138",
+  "situacao": "Ativo"
+ },
+ "AP-053": {
+  "cat": "Geral Império",
+  "pdf": "/home/claude/alcoa/imperio.pdf",
+  "pg": 164,
+  "cc": "A5 1221",
+  "clip": [
+   75,
+   185,
+   190,
+   272
+  ],
+  "lab": [
+   47.7,
+   128.2,
+   72.5,
+   136.2
+  ],
+  "peso": "0,114",
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "AP-058": {
+  "cat": "Geral Novaxx (OCR)",
+  "pdf": "/home/claude/alcoa/novaxx.pdf",
+  "pg": 130,
+  "cc": "NX-3597",
+  "clip": [
+   139.5,
+   611.8,
+   473.7,
+   761.5
+  ],
+  "lab": [
+   55.0,
+   357.4,
+   310.2,
+   598.8
+  ],
+  "peso": "0,828",
+  "situacao": "Ativo"
+ },
+ "AP-059": {
+  "cat": "Geral Novaxx (OCR)",
+  "pdf": "/home/claude/alcoa/novaxx.pdf",
+  "pg": 128,
+  "cc": "NX-3524",
+  "clip": [
+   167.2,
+   374.5,
+   444.6,
+   519.2
+  ],
+  "lab": [
+   51.0,
+   218.0,
+   335.5,
+   358.0
+  ],
+  "peso": "0,656",
+  "situacao": "Ativo"
+ },
+ "AP-060": {
+  "cat": "Geral Alumil",
+  "pdf": "/home/claude/alcoa/alumil.pdf",
+  "pg": 149,
+  "cc": "AL-140",
+  "clip": [
+   103,
+   118,
+   302,
+   348
+  ],
+  "lab": [
+   61.9,
+   71.4,
+   542.9,
+   132.8
+  ],
+  "peso": "1,233",
+  "situacao": "Ativo",
+  "manual": true,
+  "costura": true,
+  "branco": [
+   [
+    100,
+    116,
+    112,
+    150
+   ]
+  ],
+  "fix": {
+   "6.6": "56,6",
+   "6,6": "56,6",
+   "1": ""
+  }
+ },
+ "AP-0601": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 221,
+  "cc": "PR-32.601",
+  "clip": [
+   48.2,
+   105.7,
+   221.8,
+   797.8
+  ],
+  "lab": [
+   51.6,
+   70.0,
+   123.3,
+   85.0
+  ],
+  "peso": "4,609",
+  "situacao": "Ativo"
+ },
+ "AP-0603": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 221,
+  "cc": "PR-32.603",
+  "clip": [
+   427.9,
+   104.5,
+   561.6,
+   801.9
+  ],
+  "lab": [
+   416.6,
+   70.0,
+   488.3,
+   85.0
+  ],
+  "peso": "2,705",
+  "situacao": "Ativo"
+ },
+ "AP-061": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 75,
+  "cc": "TMF-085",
+  "clip": [
+   340,
+   135,
+   555,
+   200
+  ],
+  "lab": [
+   311.6,
+   70.7,
+   372.4,
+   85.7
+  ],
+  "peso": "0,280",
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "AP-062": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 134,
+  "cc": "DP-089",
+  "clip": [
+   332.1,
+   451.0,
+   549.4,
+   570.0
+  ],
+  "lab": [
+   317.1,
+   404.7,
+   367.9,
+   419.7
+  ],
+  "peso": "0,743",
+  "situacao": "Ativo"
+ },
+ "AP-063": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 130,
+  "cc": "PR-018",
+  "clip": [
+   349.5,
+   108.1,
+   492.0,
+   756.8
+  ],
+  "lab": [
+   314.5,
+   72.5,
+   365.4,
+   87.5
+  ],
+  "peso": "1,326",
+  "situacao": "Ativo"
+ },
+ "AP-064": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 137,
+  "cc": "A-082",
+  "clip": [
+   330,
+   60,
+   555,
+   480
+  ],
+  "lab": [
+   344.6,
+   72.5,
+   384.6,
+   87.5
+  ],
+  "peso": "1,485",
+  "situacao": "Ativo",
+  "manual": true,
+  "apagar": [
+   [
+    334,
+    65,
+    404,
+    104
+   ]
+  ]
+ },
+ "AP-065": {
+  "cat": "Geral Império",
+  "pdf": "/home/claude/alcoa/imperio.pdf",
+  "pg": 194,
+  "cc": "A6 U-901",
+  "clip": [
+   81.1,
+   497.6,
+   452.7,
+   755.1
+  ],
+  "lab": [
+   46.1,
+   459.2,
+   74.2,
+   467.2
+  ],
+  "peso": "4,504",
+  "situacao": "Ativo"
+ },
+ "AP-066": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 238,
+  "cc": "PR-32.611",
+  "clip": [
+   55,
+   78,
+   274,
+   395
+  ],
+  "lab": [
+   50.3,
+   76.8,
+   120.9,
+   91.8
+  ],
+  "peso": "1,231",
+  "situacao": "Ativo",
+  "manual": true,
+  "apagar": [
+   [
+    42,
+    70,
+    129,
+    107
+   ]
+  ]
+ },
+ "AP-067": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 127,
+  "cc": "PR-024",
+  "clip": [
+   46.6,
+   299.6,
+   520.4,
+   418.6
+  ],
+  "lab": [
+   52.6,
+   259.6,
+   103.5,
+   274.6
+  ],
+  "peso": "1,642",
+  "situacao": "Ativo"
+ },
+ "AP-068": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 119,
+  "cc": "DP-073",
+  "clip": [
+   380,
+   352,
+   512,
+   458
+  ],
+  "lab": [
+   310.4,
+   280.2,
+   361.3,
+   295.2
+  ],
+  "peso": "0,314",
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "AP-071": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 37,
+  "cc": "DP-043",
+  "clip": [
+   378.6,
+   139.3,
+   497.0,
+   241.9
+  ],
+  "lab": [
+   314.9,
+   73.4,
+   365.9,
+   88.5
+  ],
+  "peso": "0,364",
+  "situacao": "Ativo"
+ },
+ "AP-072": {
+  "cat": "Geral Alumil",
+  "pdf": "/home/claude/alcoa/alumil.pdf",
+  "pg": 111,
+  "cc": "LG-601",
+  "clip": [
+   188,
+   628,
+   360,
+   768
+  ],
+  "lab": [
+   85.5,
+   527.9,
+   527.6,
+   656.9
+  ],
+  "peso": "0,662",
+  "situacao": "Ativo",
+  "manual": true,
+  "costura": true
+ },
+ "AP-073": {
+  "cat": "Geral Alumil",
+  "pdf": "/home/claude/alcoa/alumil.pdf",
+  "pg": 111,
+  "cc": "LG-602",
+  "clip": [
+   129,
+   486,
+   365,
+   603
+  ],
+  "lab": [
+   62.8,
+   495.1,
+   267.3,
+   521.0
+  ],
+  "peso": "0,856",
+  "situacao": "Ativo",
+  "manual": true,
+  "costura": true
+ },
+ "AP-074": {
+  "cat": "Geral Alumil",
+  "pdf": "/home/claude/alcoa/alumil.pdf",
+  "pg": 111,
+  "cc": "LG-603",
+  "clip": [
+   405,
+   370,
+   540,
+   752
+  ],
+  "lab": [
+   83.5,
+   328.6,
+   487.0,
+   339.8
+  ],
+  "peso": "1,641",
+  "situacao": "Ativo",
+  "manual": true,
+  "costura": true
+ },
+ "AP-1046": {
+  "cat": "Maximus 20 (Stelman)",
+  "pdf": "/home/claude/alcoa/maximus.pdf",
+  "pg": 3,
+  "cc": "STL-1046",
+  "clip": [
+   196.3,
+   365.9,
+   402.9,
+   536.7
+  ],
+  "lab": [
+   23.3,
+   335.9,
+   80.5,
+   349.9
+  ],
+  "peso": "0,610",
+  "situacao": "Ativo"
+ },
+ "AP-1047": {
+  "cat": "Maximus 20 (Stelman)",
+  "pdf": "/home/claude/alcoa/maximus.pdf",
+  "pg": 4,
+  "cc": "STL-1047",
+  "clip": [
+   151.6,
+   166.6,
+   443.7,
+   335.4
+  ],
+  "lab": [
+   23.0,
+   73.6,
+   80.2,
+   87.6
+  ],
+  "peso": "0,812",
+  "situacao": "Ativo"
+ },
+ "AP-1057": {
+  "cat": "Maximus 20 (Stelman)",
+  "pdf": "/home/claude/alcoa/maximus.pdf",
+  "pg": 8,
+  "cc": "STL-1057",
+  "clip": [
+   200,
+   140,
+   386,
+   240
+  ],
+  "lab": [
+   22.6,
+   73.7,
+   79.7,
+   87.7
+  ],
+  "peso": "0,412",
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "AP-1058": {
+  "cat": "Maximus 20 (Stelman)",
+  "pdf": "/home/claude/alcoa/maximus.pdf",
+  "pg": 8,
+  "cc": "STL-1058",
+  "clip": [
+   223.1,
+   653.4,
+   374.4,
+   775.3
+  ],
+  "lab": [
+   23.9,
+   598.1,
+   81.1,
+   612.1
+  ],
+  "peso": "0,482",
+  "situacao": "Ativo"
+ },
+ "AP-1059": {
+  "cat": "Maximus 20 (Stelman)",
+  "pdf": "/home/claude/alcoa/maximus.pdf",
+  "pg": 8,
+  "cc": "STL-1059",
+  "clip": [
+   222.9,
+   400.7,
+   373.0,
+   502.1
+  ],
+  "lab": [
+   24.3,
+   335.9,
+   81.4,
+   349.9
+  ],
+  "peso": "0,397",
+  "situacao": "Ativo"
+ },
+ "AP-1329": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 214,
+  "cc": "PR-30.001",
+  "clip": [
+   42.3,
+   354.4,
+   341.7,
+   466.6
+  ],
+  "lab": [
+   51.1,
+   308.3,
+   122.8,
+   323.3
+  ],
+  "peso": "1,103",
+  "situacao": "Ativo"
+ },
+ "AP-1413": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 260,
+  "cc": "A-104",
+  "clip": [
+   92.8,
+   581.4,
+   238,
+   757
+  ],
+  "lab": [
+   55.6,
+   549.9,
+   95.6,
+   564.9
+  ],
+  "peso": "0,870",
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "AP-2769": {
+  "cat": "Específica 3.2 (OCR)",
+  "pdf": "/home/claude/alcoa/especifica.pdf",
+  "pg": 3,
+  "cc": "ES32-752",
+  "clip": [
+   111.2,
+   96,
+   493.7,
+   366.8
+  ],
+  "lab": [
+   261.2,
+   273.3,
+   490.8,
+   391.1
+  ],
+  "peso": null,
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "AP-2770": {
+  "cat": "Específica 3.2 (OCR)",
+  "pdf": "/home/claude/alcoa/especifica.pdf",
+  "pg": 3,
+  "cc": "ES32-721",
+  "clip": [
+   144.4,
+   437.0,
+   502.6,
+   695.6
+  ],
+  "lab": [
+   163.6,
+   573.7,
+   499.7,
+   718.8
+  ],
+  "peso": null,
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "AP-2771": {
+  "cat": "Específica 3.2 (OCR)",
+  "pdf": "/home/claude/alcoa/especifica.pdf",
+  "pg": 2,
+  "cc": "ES32-749",
+  "clip": [
+   115,
+   95,
+   497,
+   238
+  ],
+  "lab": [
+   120.4,
+   164.7,
+   490.2,
+   243.6
+  ],
+  "peso": null,
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "AP-2773": {
+  "cat": "Específica 3.2 (OCR)",
+  "pdf": "/home/claude/alcoa/especifica.pdf",
+  "pg": 2,
+  "cc": "ES32-748",
+  "clip": [
+   115,
+   546,
+   497,
+   698
+  ],
+  "lab": [
+   122.4,
+   552.4,
+   338.4,
+   711.1
+  ],
+  "peso": null,
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "AP-2774": {
+  "cat": "Específica 3.2 (OCR)",
+  "pdf": "/home/claude/alcoa/especifica.pdf",
+  "pg": 1,
+  "cc": "ES32-750",
+  "clip": [
+   140.0,
+   173.4,
+   487.7,
+   313.9
+  ],
+  "lab": [
+   143.1,
+   289.7,
+   330.0,
+   341.0
+  ],
+  "peso": null,
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "AP-2775": {
+  "cat": "Específica 3.2 (OCR)",
+  "pdf": "/home/claude/alcoa/especifica.pdf",
+  "pg": 1,
+  "cc": "ES32-751",
+  "clip": [
+   132.6,
+   465.7,
+   495.5,
+   627.5
+  ],
+  "lab": [
+   273.3,
+   613.7,
+   453.0,
+   653.8
+  ],
+  "peso": null,
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "BX-003": {
+  "cat": "Geral ASA",
+  "pdf": "/home/claude/alcoa/asa.pdf",
+  "pg": 214,
+  "cc": "U-1056",
+  "clip": [
+   80,
+   362,
+   192,
+   470
+  ],
+  "lab": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "peso": "0,228",
+  "situacao": "Ativo"
+ },
+ "BX-006": {
+  "cat": "Geral ASA",
+  "pdf": "/home/claude/alcoa/asa.pdf",
+  "pg": 214,
+  "cc": "Y-107",
+  "clip": [
+   86,
+   556,
+   176,
+   699
+  ],
+  "lab": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "peso": "0,262",
+  "situacao": "Ativo"
+ },
+ "BX-029": {
+  "cat": "PDF do cliente (26/11)",
+  "pdf": "/home/claude/alcoa/cliente26/BX-029.pdf",
+  "pg": 1,
+  "cc": "BX-029",
+  "clip": [
+   266,
+   386,
+   328,
+   492
+  ],
+  "peso": "0,223",
+  "lab": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "manual": true
+ },
+ "BX-099": {
+  "cat": "Geral Tera (OCR)",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 161,
+  "cc": "BX-099",
+  "clip": [
+   102.5,
+   102.7,
+   304.1,
+   225.6
+  ],
+  "lab": [
+   172.4,
+   235.1,
+   211.3,
+   244.1
+  ],
+  "peso": "0,223",
+  "situacao": "Ativo",
+  "sem_cinza": true,
+  "branco": [
+   [
+    259,
+    104,
+    306,
+    152
+   ]
+  ]
+ },
+ "BX-100": {
+  "cat": "Geral Tera (OCR)",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 161,
+  "cc": "BX-100",
+  "clip": [
+   397.7,
+   85.3,
+   528.4,
+   205.9
+  ],
+  "lab": [
+   439.2,
+   235.1,
+   477.7,
+   244.1
+  ],
+  "peso": "0,153",
+  "situacao": "Ativo"
+ },
+ "BX-102": {
+  "cat": "Geral ASA",
+  "pdf": "/home/claude/alcoa/asa.pdf",
+  "pg": 210,
+  "cc": "U-1002",
+  "clip": [
+   55,
+   618,
+   160,
+   733
+  ],
+  "lab": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "peso": "0,213",
+  "situacao": "Ativo"
+ },
+ "BX-105": {
+  "cat": "Geral ASA",
+  "pdf": "/home/claude/alcoa/asa.pdf",
+  "pg": 210,
+  "cc": "I-154",
+  "clip": [
+   310,
+   612,
+   402,
+   733
+  ],
+  "lab": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "peso": "0,306",
+  "situacao": "Ativo"
+ },
+ "BX-108": {
+  "cat": "Geral ASA",
+  "pdf": "/home/claude/alcoa/asa.pdf",
+  "pg": 211,
+  "cc": "Y-308",
+  "clip": [
+   60,
+   162,
+   186,
+   268
+  ],
+  "lab": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "peso": "0,278",
+  "situacao": "Inativo"
+ },
+ "BX-109": {
+  "cat": "Geral ASA",
+  "pdf": "/home/claude/alcoa/asa.pdf",
+  "pg": 210,
+  "cc": "U-655",
+  "clip": [
+   60,
+   80,
+   258,
+   256
+  ],
+  "lab": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "peso": "0,645",
+  "situacao": "Ativo"
+ },
+ "BX-111": {
+  "cat": "Geral ASA",
+  "pdf": "/home/claude/alcoa/asa.pdf",
+  "pg": 211,
+  "cc": "44-018 (I-155)",
+  "clip": [
+   215,
+   98,
+   352,
+   268
+  ],
+  "lab": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "peso": "0,389",
+  "situacao": "Ativo"
+ },
+ "BX-155": {
+  "cat": "Geral Tera (OCR)",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 148,
+  "cc": "E-594",
+  "clip": [
+   195.7,
+   601.5,
+   389.2,
+   742.5
+  ],
+  "lab": [
+   293.4,
+   756.4,
+   322.9,
+   765.4
+  ],
+  "peso": "0,240",
+  "situacao": "Inativo"
+ },
+ "BX-204": {
+  "cat": "Geral Tera (OCR)",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 158,
+  "cc": "L-537",
+  "clip": [
+   28.8,
+   488.0,
+   233.5,
+   726.0
+  ],
+  "lab": [
+   118.1,
+   750.2,
+   148.0,
+   759.2
+  ],
+  "peso": "1,266",
+  "situacao": "Inativo"
+ },
+ "BX-205": {
+  "cat": "Geral Tera (OCR)",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 158,
+  "cc": "E-305",
+  "clip": [
+   217.2,
+   489.1,
+   349.0,
+   721.3
+  ],
+  "lab": [
+   268.2,
+   734.8,
+   297.7,
+   743.8
+  ],
+  "peso": "0,389",
+  "situacao": "Inativo",
+  "fix": {
+   "411": "11"
+  }
+ },
+ "CG-087": {
+  "cat": "Geral Tera (OCR)",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 134,
+  "cc": "CG-087",
+  "clip": [
+   92.9,
+   546.7,
+   232.2,
+   676.0
+  ],
+  "lab": [
+   142.2,
+   703.8,
+   181.4,
+   712.4
+  ],
+  "peso": "0,841",
+  "situacao": "Ativo"
+ },
+ "CL-009": {
+  "cat": "Geral Império",
+  "pdf": "/home/claude/alcoa/imperio.pdf",
+  "pg": 30,
+  "cc": "A6 L-468",
+  "clip": [
+   20,
+   165,
+   275,
+   402
+  ],
+  "peso": "1,646",
+  "lab": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "manual": true
+ },
+ "CL-010": {
+  "cat": "Linha Gradil",
+  "pdf": "/home/claude/alcoa/gradil.pdf",
+  "pg": 48,
+  "cc": "CL010",
+  "clip": [
+   320.2,
+   618.5,
+   497.1,
+   660.6
+  ],
+  "lab": [
+   441.1,
+   591.8,
+   475.9,
+   603.8
+  ],
+  "peso": "0,385",
+  "situacao": "Ativo"
+ },
+ "CM-002": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 139,
+  "cc": "Y-281",
+  "clip": [
+   233.7,
+   369.2,
+   361.2,
+   479.0
+  ],
+  "lab": [
+   50.5,
+   311.5,
+   89.2,
+   326.5
+  ],
+  "peso": "0,301",
+  "situacao": "Inativo"
+ },
+ "CM-063": {
+  "cat": "Geral Tera (OCR)",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 141,
+  "cc": "CM-063",
+  "clip": [
+   350.4,
+   162.2,
+   534.3,
+   290.2
+  ],
+  "lab": [
+   426.2,
+   312.8,
+   468.0,
+   321.8
+  ],
+  "peso": "0,173",
+  "situacao": "Ativo"
+ },
+ "CM-065": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 146,
+  "cc": "DP-015",
+  "clip": [
+   84.3,
+   107.4,
+   280.8,
+   213.1
+  ],
+  "lab": [
+   52.6,
+   70.5,
+   103.4,
+   85.5
+  ],
+  "peso": "0,214",
+  "situacao": "Ativo"
+ },
+ "CX-001": {
+  "cat": "Geral Império",
+  "pdf": "/home/claude/alcoa/imperio.pdf",
+  "pg": 162,
+  "cc": "A5 CX-001",
+  "clip": [
+   67.8,
+   388.4,
+   237.4,
+   505.4
+  ],
+  "lab": [
+   43.9,
+   332.9,
+   76.3,
+   340.9
+  ],
+  "peso": "0,424",
+  "situacao": "Ativo"
+ },
+ "CX-002": {
+  "cat": "Geral Tera",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 230,
+  "cc": "CX-137",
+  "clip": [
+   326.1,
+   167.3,
+   500.9,
+   286.0
+  ],
+  "lab": [
+   402.5,
+   303.5,
+   441.4,
+   312.1
+  ],
+  "peso": "0,316",
+  "situacao": "Ativo"
+ },
+ "CX-071": {
+  "cat": "Geral Tera (OCR)",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 140,
+  "cc": "CX-071",
+  "clip": [
+   185.7,
+   71.7,
+   418.4,
+   271.6
+  ],
+  "lab": [
+   278.6,
+   291.6,
+   316.1,
+   300.2
+  ],
+  "peso": "2,537",
+  "situacao": "Ativo"
+ },
+ "CX-085": {
+  "cat": "Geral Stelman",
+  "pdf": "/home/claude/alcoa/stelman.pdf",
+  "pg": 174,
+  "cc": "STL-421",
+  "clip": [
+   160,
+   119,
+   440,
+   330
+  ],
+  "peso": "1,130",
+  "lab": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "manual": true
+ },
+ "CX-5438": {
+  "cat": "Geral Tera",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 230,
+  "cc": "CX-186",
+  "clip": [
+   350.5,
+   547.9,
+   513.4,
+   642.4
+  ],
+  "lab": [
+   402.5,
+   666.7,
+   441.4,
+   675.4
+  ],
+  "peso": "0,189",
+  "situacao": "Ativo"
+ },
+ "DS-024": {
+  "cat": "Nylkit Perfis vitrine (ED03)",
+  "pdf": "/mnt/user-data/uploads/a83974e6-ED03.PDF.pdf",
+  "pg": 1,
+  "cc": "DS-024",
+  "clip": [
+   365.9,
+   158.2,
+   485.0,
+   217.9
+  ],
+  "lab": [
+   276.2,
+   116.1,
+   369.5,
+   135.6
+  ],
+  "peso": "0,125",
+  "situacao": "Inativo"
+ },
+ "DS-027": {
+  "cat": "Geral Novaxx (OCR)",
+  "pdf": "/home/claude/alcoa/novaxx.pdf",
+  "pg": 323,
+  "cc": "NX-0370 (equiv. Y-680)",
+  "clip": [
+   400.9,
+   140.3,
+   483.4,
+   268.6
+  ],
+  "lab": [
+   68.0,
+   116.4,
+   366.9,
+   123.6
+  ],
+  "peso": "0,105",
+  "situacao": "Ativo"
+ },
+ "DS-033": {
+  "cat": "Geral Hyspex",
+  "pdf": "/home/claude/alcoa/hyspex.pdf",
+  "pg": 191,
+  "cc": "72730",
+  "clip": [
+   327.0,
+   405.9,
+   525.5,
+   531.5
+  ],
+  "lab": [
+   313.1,
+   342.9,
+   334.5,
+   353.1
+  ],
+  "peso": "0,166",
+  "situacao": "Ativo"
+ },
+ "DS-034": {
+  "cat": "Geral Hyspex",
+  "pdf": "/home/claude/alcoa/hyspex.pdf",
+  "pg": 191,
+  "cc": "72750",
+  "clip": [
+   183.3,
+   614.3,
+   448.5,
+   740.5
+  ],
+  "lab": [
+   149.7,
+   567.6,
+   156.1,
+   577.8
+  ],
+  "peso": "0,273",
+  "situacao": "Ativo"
+ },
+ "DV-021": {
+  "cat": "Geral Tera",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 171,
+  "cc": "DV-670",
+  "clip": [
+   313.4,
+   164.2,
+   520.2,
+   289.2
+  ],
+  "lab": [
+   425.9,
+   310.3,
+   465.1,
+   319.3
+  ],
+  "peso": "0,264",
+  "situacao": "Ativo"
+ },
+ "DV-071": {
+  "cat": "Geral Tera",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 162,
+  "cc": "DV-092",
+  "clip": [
+   67.3,
+   534.5,
+   277.4,
+   640.5
+  ],
+  "lab": [
+   160.6,
+   647.3,
+   200.2,
+   656.3
+  ],
+  "peso": "0,307",
+  "situacao": "Inativo"
+ },
+ "DV-072": {
+  "cat": "Geral Tera",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 162,
+  "cc": "DV-093",
+  "clip": [
+   314.9,
+   507.9,
+   521.9,
+   640.4
+  ],
+  "lab": [
+   414.7,
+   647.3,
+   454.3,
+   656.3
+  ],
+  "peso": "0,384",
+  "situacao": "Inativo"
+ },
+ "DV-073": {
+  "cat": "Geral Tera",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 162,
+  "cc": "DV-091",
+  "clip": [
+   321.0,
+   174.4,
+   547.4,
+   319.3
+  ],
+  "lab": [
+   414.4,
+   349.2,
+   452.5,
+   358.2
+  ],
+  "peso": "0,389",
+  "situacao": "Inativo"
+ },
+ "DV-074": {
+  "cat": "Geral Tera",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 162,
+  "cc": "DV-090",
+  "clip": [
+   56.7,
+   206.5,
+   311.0,
+   338.2
+  ],
+  "lab": [
+   160.9,
+   348.5,
+   200.5,
+   357.5
+  ],
+  "peso": "0,418",
+  "situacao": "Inativo"
+ },
+ "DV-108": {
+  "cat": "Geral Tera (OCR)",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 172,
+  "cc": "DV-108",
+  "clip": [
+   325.1,
+   510.2,
+   513.6,
+   630.5
+  ],
+  "lab": [
+   404.3,
+   646.6,
+   443.5,
+   655.6
+  ],
+  "peso": "0,172",
+  "situacao": "Ativo"
+ },
+ "DV-110": {
+  "cat": "Geral Tera",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 173,
+  "cc": "DV-208",
+  "clip": [
+   321.7,
+   371.8,
+   535.3,
+   488.4
+  ],
+  "lab": [
+   401.8,
+   494.3,
+   441.0,
+   503.3
+  ],
+  "peso": "0,316",
+  "situacao": "Ativo",
+  "fix": {
+   "201": "20"
+  }
+ },
+ "DV-112": {
+  "cat": "Geral Tera (OCR)",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 163,
+  "cc": "DV-112",
+  "clip": [
+   57.0,
+   487.7,
+   273.1,
+   630.7
+  ],
+  "lab": [
+   155.2,
+   666.0,
+   194.4,
+   674.6
+  ],
+  "peso": "0,254",
+  "situacao": "Ativo"
+ },
+ "FC-087": {
+  "cat": "Linha Gradil",
+  "pdf": "/home/claude/alcoa/gradil.pdf",
+  "pg": 21,
+  "cc": "FC087",
+  "clip": [
+   72,
+   346,
+   535,
+   516
+  ],
+  "lab": [
+   271.6,
+   452.4,
+   306.8,
+   464.4
+  ],
+  "peso": "1,025",
+  "situacao": "Ativo",
+  "manual": true,
+  "apagar": [
+   [
+    266,
+    448,
+    332,
+    478
+   ],
+   [
+    382,
+    350,
+    442,
+    381
+   ],
+   [
+    98,
+    290,
+    256,
+    389.5
+   ]
+  ],
+  "branco": [
+   [
+    98,
+    290,
+    256,
+    389.5
+   ]
+  ]
+ },
+ "FC-258": {
+  "cat": "Linha Gradil",
+  "pdf": "/home/claude/alcoa/gradil.pdf",
+  "pg": 20,
+  "cc": "FC258",
+  "clip": [
+   300,
+   738,
+   556,
+   802
+  ],
+  "lab": [
+   367.3,
+   731.2,
+   402.6,
+   743.2
+  ],
+  "peso": "0,486",
+  "situacao": "Inativo",
+  "manual": true,
+  "apagar": [
+   [
+    364,
+    728,
+    445,
+    758
+   ]
+  ]
+ },
+ "LB-038": {
+  "cat": "Linha Portão II",
+  "pdf": "/home/claude/alcoa/portao2.pdf",
+  "pg": 23,
+  "cc": "LB038",
+  "clip": [
+   27.4,
+   203.2,
+   567.9,
+   400
+  ],
+  "lab": [
+   266.2,
+   162.5,
+   298.6,
+   179.7
+  ],
+  "peso": "1,001",
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "LB-050": {
+  "cat": "Linha Portão II",
+  "pdf": "/home/claude/alcoa/portao2.pdf",
+  "pg": 23,
+  "cc": "LB050",
+  "clip": [
+   28,
+   458,
+   570,
+   566
+  ],
+  "lab": [
+   266.2,
+   438.9,
+   298.6,
+   456.0
+  ],
+  "peso": "0,624",
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "LG-056R": {
+  "cat": "Geral Decamp",
+  "pdf": "/home/claude/alcoa/decamp.pdf",
+  "pg": 251,
+  "cc": "PR-32.556",
+  "clip": [
+   364.6,
+   105.9,
+   532.9,
+   286.2
+  ],
+  "lab": [
+   309.5,
+   70.0,
+   381.2,
+   85.0
+  ],
+  "peso": "0,707",
+  "situacao": "Ativo"
+ },
+ "LG-071": {
+  "cat": "Geral Alumil",
+  "pdf": "/home/claude/alcoa/alumil.pdf",
+  "pg": 96,
+  "cc": "LG-071",
+  "clip": [
+   355,
+   152,
+   545,
+   746
+  ],
+  "lab": [
+   56.4,
+   131.6,
+   403.2,
+   141.7
+  ],
+  "peso": "1,962",
+  "situacao": "Ativo",
+  "manual": true,
+  "costura": true
+ },
+ "LG-129E": {
+  "cat": "Geral Alumil",
+  "pdf": "/home/claude/alcoa/alumil.pdf",
+  "pg": 98,
+  "cc": "LG-129E",
+  "clip": [
+   345,
+   449,
+   515,
+   762
+  ],
+  "lab": [
+   66.0,
+   434.0,
+   385.6,
+   452.7
+  ],
+  "peso": "1,275",
+  "situacao": "Ativo",
+  "manual": true,
+  "costura": true,
+  "branco": [
+   [
+    334,
+    434,
+    395,
+    465
+   ]
+  ],
+  "fix": {
+   "13,7": "43,7",
+   "3,7": "43,7"
+  }
+ },
+ "MN-001": {
+  "cat": "Suprema Integrada",
+  "pdf": "/home/claude/alcoa/integrada.pdf",
+  "pg": 8,
+  "cc": "MN-001",
+  "clip": [
+   72.7,
+   164.5,
+   545.7,
+   321.8
+  ],
+  "lab": [
+   278.2,
+   322.8,
+   329.2,
+   332.9
+  ],
+  "peso": "1,377",
+  "situacao": "Ativo"
+ },
+ "MN-002": {
+  "cat": "Suprema Integrada",
+  "pdf": "/home/claude/alcoa/integrada.pdf",
+  "pg": 16,
+  "cc": "MN-002",
+  "clip": [
+   136,
+   540,
+   482,
+   622
+  ],
+  "lab": [
+   279.1,
+   655.2,
+   329.8,
+   665.3
+  ],
+  "peso": "0,669",
+  "situacao": "Ativo",
+  "manual": true,
+  "fix": {
+   "1": ""
+  }
+ },
+ "MN-003": {
+  "cat": "Suprema Integrada",
+  "pdf": "/home/claude/alcoa/integrada.pdf",
+  "pg": 9,
+  "cc": "MN-003",
+  "clip": [
+   44,
+   152,
+   526,
+   290
+  ],
+  "lab": [
+   264.4,
+   319.1,
+   317.4,
+   329.2
+  ],
+  "peso": "1,093",
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "MN-005": {
+  "cat": "Suprema Integrada",
+  "pdf": "/home/claude/alcoa/integrada.pdf",
+  "pg": 14,
+  "cc": "MN-005",
+  "clip": [
+   190,
+   105,
+   556,
+   440
+  ],
+  "lab": [
+   196.4,
+   294.9,
+   247.4,
+   305.0
+  ],
+  "peso": "0,783",
+  "situacao": "Ativo",
+  "manual": true,
+  "fix": {
+   "005": ""
+  }
+ },
+ "MN-006": {
+  "cat": "Suprema Integrada",
+  "pdf": "/home/claude/alcoa/integrada.pdf",
+  "pg": 14,
+  "cc": "MN-006",
+  "clip": [
+   252,
+   445,
+   525,
+   792
+  ],
+  "lab": [
+   196.4,
+   555.6,
+   247.4,
+   565.6
+  ],
+  "peso": "0,878",
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "MN-007": {
+  "cat": "Suprema Integrada",
+  "pdf": "/home/claude/alcoa/integrada.pdf",
+  "pg": 17,
+  "cc": "MN-007",
+  "clip": [
+   181.0,
+   169.3,
+   419.3,
+   316.6
+  ],
+  "lab": [
+   264.7,
+   345.9,
+   317.4,
+   356.0
+  ],
+  "peso": "0,710",
+  "situacao": "Ativo"
+ },
+ "MN-008": {
+  "cat": "Suprema Integrada",
+  "pdf": "/home/claude/alcoa/integrada.pdf",
+  "pg": 12,
+  "cc": "MN-008",
+  "clip": [
+   231.5,
+   140.7,
+   523.4,
+   736.0
+  ],
+  "lab": [
+   174.0,
+   427.4,
+   224.9,
+   437.5
+  ],
+  "peso": "1,385",
+  "situacao": "Ativo"
+ },
+ "MN-010": {
+  "cat": "Suprema Integrada",
+  "pdf": "/home/claude/alcoa/integrada.pdf",
+  "pg": 10,
+  "cc": "MN-010",
+  "clip": [
+   69.1,
+   111.1,
+   522.5,
+   328.3
+  ],
+  "lab": [
+   277.9,
+   350.5,
+   330.9,
+   366.0
+  ],
+  "peso": "1,495",
+  "situacao": "Ativo",
+  "add": [
+   [
+    "56,83",
+    [
+     499.8,
+     217.8,
+     520.7,
+     225.2
+    ],
+    false
+   ]
+  ]
+ },
+ "MN-015": {
+  "cat": "Suprema Integrada",
+  "pdf": "/home/claude/alcoa/integrada.pdf",
+  "pg": 17,
+  "cc": "MN-015",
+  "clip": [
+   144,
+   447,
+   418,
+   700
+  ],
+  "lab": [
+   265.5,
+   707.9,
+   316.5,
+   723.5
+  ],
+  "peso": "0,881",
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "MN-023": {
+  "cat": "Suprema Integrada",
+  "pdf": "/home/claude/alcoa/integrada.pdf",
+  "pg": 8,
+  "cc": "MN-023",
+  "clip": [
+   104.8,
+   548.2,
+   504.8,
+   669.0
+  ],
+  "lab": [
+   279.1,
+   687.7,
+   330.0,
+   697.8
+  ],
+  "peso": "0,688",
+  "situacao": "Ativo"
+ },
+ "MN-027": {
+  "cat": "Suprema Integrada",
+  "pdf": "/home/claude/alcoa/integrada.pdf",
+  "pg": 16,
+  "cc": "MN-027",
+  "clip": [
+   157.3,
+   166.0,
+   459.5,
+   290.0
+  ],
+  "lab": [
+   278.2,
+   316.5,
+   331.2,
+   326.6
+  ],
+  "peso": "1,043",
+  "situacao": "Ativo"
+ },
+ "MN-030": {
+  "cat": "Suprema Integrada",
+  "pdf": "/home/claude/alcoa/integrada.pdf",
+  "pg": 9,
+  "cc": "MN-030",
+  "clip": [
+   48.1,
+   444.9,
+   533.2,
+   715.0
+  ],
+  "lab": [
+   265.2,
+   728.4,
+   316.5,
+   738.4
+  ],
+  "peso": "1,900",
+  "situacao": "Ativo"
+ },
+ "MN-031": {
+  "cat": "Suprema Integrada",
+  "pdf": "/home/claude/alcoa/integrada.pdf",
+  "pg": 13,
+  "cc": "MN-031",
+  "clip": [
+   121.9,
+   161.0,
+   304.2,
+   686.3
+  ],
+  "lab": [
+   371.8,
+   421.9,
+   421.1,
+   432.0
+  ],
+  "peso": "1,331",
+  "situacao": "Ativo",
+  "fix": {
+   "164": "167"
+  }
+ },
+ "MN-032": {
+  "cat": "Suprema Integrada",
+  "pdf": "/home/claude/alcoa/integrada.pdf",
+  "pg": 15,
+  "cc": "MN-032",
+  "clip": [
+   72.1,
+   132.9,
+   330.1,
+   716.2
+  ],
+  "lab": [
+   370.7,
+   419.3,
+   421.3,
+   429.4
+  ],
+  "peso": "1,723",
+  "situacao": "Ativo"
+ },
+ "MN-039": {
+  "cat": "Suprema Integrada",
+  "pdf": "/home/claude/alcoa/integrada.pdf",
+  "pg": 11,
+  "cc": "MN-039",
+  "clip": [
+   108.1,
+   105.6,
+   313.2,
+   756.0
+  ],
+  "lab": [
+   370.7,
+   408.7,
+   421.6,
+   418.8
+  ],
+  "peso": "1,400",
+  "situacao": "Ativo"
+ },
+ "PC-000": {
+  "cat": "Geral Hera",
+  "pdf": "/home/claude/alcoa/hera_geral.pdf",
+  "pg": 228,
+  "cc": "MAC-1430",
+  "clip": [
+   80.5,
+   555.3,
+   265.1,
+   727.9
+  ],
+  "lab": [
+   57.1,
+   462.8,
+   114.5,
+   474.8
+  ],
+  "peso": "0,473",
+  "situacao": "Ativo"
+ },
+ "PC-009": {
+  "cat": "Geral Tera",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 127,
+  "cc": "D-080",
+  "clip": [
+   86.4,
+   551.3,
+   456.3,
+   745.8
+  ],
+  "lab": [
+   282.2,
+   755.6,
+   313.9,
+   764.6
+  ],
+  "peso": "1,697",
+  "situacao": "Ativo"
+ },
+ "PC-011": {
+  "cat": "Geral Tera",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 126,
+  "cc": "PC-026",
+  "clip": [
+   20.1,
+   433.0,
+   284.6,
+   639.4
+  ],
+  "lab": [
+   136.1,
+   667.8,
+   174.2,
+   676.8
+  ],
+  "peso": "0,778",
+  "situacao": "Ativo"
+ },
+ "PP-002": {
+  "cat": "Geral Hera",
+  "pdf": "/home/claude/alcoa/hera_geral.pdf",
+  "pg": 197,
+  "cc": "MAC-0135",
+  "clip": [
+   67.0,
+   174.9,
+   242.8,
+   226.0
+  ],
+  "lab": [
+   56.9,
+   101.5,
+   114.4,
+   113.5
+  ],
+  "peso": "0,196",
+  "situacao": "Ativo"
+ },
+ "PP-004": {
+  "cat": "Geral Hera",
+  "pdf": "/home/claude/alcoa/hera_geral.pdf",
+  "pg": 197,
+  "cc": "MAC-0138",
+  "clip": [
+   334.3,
+   185.7,
+   508.4,
+   244.6
+  ],
+  "lab": [
+   320.7,
+   101.5,
+   378.2,
+   113.5
+  ],
+  "peso": "0,238",
+  "situacao": "Ativo"
+ },
+ "PP-005": {
+  "cat": "Geral Alumil",
+  "pdf": "/home/claude/alcoa/alumil.pdf",
+  "pg": 156,
+  "cc": "AL-1313",
+  "clip": [
+   382.0,
+   554.9,
+   530.7,
+   605.8
+  ],
+  "lab": [
+   206.5,
+   499.1,
+   460.5,
+   552.7
+  ],
+  "peso": "0,280",
+  "situacao": "Ativo",
+  "costura": true
+ },
+ "PV-001": {
+  "cat": "Geral Tera",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 178,
+  "cc": "AL-097",
+  "clip": [
+   142.3,
+   502.4,
+   275.6,
+   670.0
+  ],
+  "lab": [
+   176.8,
+   689.0,
+   215.6,
+   698.0
+  ],
+  "peso": "0,339",
+  "situacao": "Ativo"
+ },
+ "PV-002": {
+  "cat": "Geral Tera",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 178,
+  "cc": "AL-096",
+  "clip": [
+   115.4,
+   163.1,
+   236.9,
+   248.1
+  ],
+  "lab": [
+   166.0,
+   265.0,
+   204.8,
+   274.0
+  ],
+  "peso": "0,219",
+  "situacao": "Ativo"
+ },
+ "ST-001": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 59,
+  "cc": "20SP-P01",
+  "clip": [
+   104.2,
+   175.1,
+   193.6,
+   431.3
+  ],
+  "lab": [
+   27.4,
+   95.6,
+   72.3,
+   107.6
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-002": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 35,
+  "cc": "20SP-M20",
+  "clip": [
+   387.6,
+   179.1,
+   490.9,
+   386.8
+  ],
+  "lab": [
+   324.1,
+   93.2,
+   370.6,
+   105.2
+  ],
+  "peso": "0,352",
+  "situacao": "Ativo"
+ },
+ "ST-004": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 48,
+  "cc": "20SP-F04",
+  "clip": [
+   358.4,
+   555.3,
+   534.5,
+   724.6
+  ],
+  "lab": [
+   325.2,
+   458.0,
+   369.5,
+   470.0
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-008": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 48,
+  "cc": "20SP-F01",
+  "clip": [
+   35.8,
+   204.1,
+   261.7,
+   317.3
+  ],
+  "lab": [
+   27.5,
+   93.2,
+   71.9,
+   105.2
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-009": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 48,
+  "cc": "20SP-F03",
+  "clip": [
+   60.7,
+   555.3,
+   236.9,
+   705.1
+  ],
+  "lab": [
+   27.5,
+   458.1,
+   71.8,
+   470.2
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-010": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 52,
+  "cc": "20SP-F05",
+  "clip": [
+   394.2,
+   199.9,
+   498.9,
+   396.3
+  ],
+  "lab": [
+   325.2,
+   95.6,
+   369.5,
+   107.6
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-011": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 49,
+  "cc": "20SP-F06",
+  "clip": [
+   330.8,
+   193.0,
+   562.1,
+   361.5
+  ],
+  "lab": [
+   325.2,
+   93.2,
+   369.5,
+   105.2
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-013": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 50,
+  "cc": "20SP-F08",
+  "clip": [
+   209.5,
+   294.0,
+   385.7,
+   546.2
+  ],
+  "lab": [
+   27.5,
+   93.2,
+   71.9,
+   105.2
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-014": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 52,
+  "cc": "20SP-F09",
+  "clip": [
+   96.5,
+   152.1,
+   201.2,
+   396.6
+  ],
+  "lab": [
+   27.7,
+   95.6,
+   72.0,
+   107.6
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-015": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 52,
+  "cc": "20SP-F10",
+  "clip": [
+   96.5,
+   545.0,
+   201.2,
+   698.7
+  ],
+  "lab": [
+   27.6,
+   463.4,
+   71.9,
+   475.4
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-016": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 34,
+  "cc": "20SP-M01",
+  "clip": [
+   42.0,
+   547.5,
+   267.8,
+   742.9
+  ],
+  "lab": [
+   26.4,
+   463.0,
+   72.9,
+   475.0
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-017": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 34,
+  "cc": "20SP-M02",
+  "clip": [
+   38.1,
+   240.8,
+   263.9,
+   390.9
+  ],
+  "lab": [
+   26.4,
+   93.2,
+   72.9,
+   105.2
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-018": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 35,
+  "cc": "20SP-M03",
+  "clip": [
+   91.1,
+   176.9,
+   220.5,
+   400.7
+  ],
+  "lab": [
+   26.4,
+   93.2,
+   72.9,
+   105.2
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-019": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 38,
+  "cc": "20SP-M04",
+  "clip": [
+   140.8,
+   549.7,
+   451.7,
+   764.8
+  ],
+  "lab": [
+   26.4,
+   469.5,
+   72.9,
+   481.5
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-020": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 38,
+  "cc": "20SP-M05",
+  "clip": [
+   143.6,
+   213.8,
+   454.4,
+   363.8
+  ],
+  "lab": [
+   26.4,
+   93.2,
+   72.9,
+   105.2
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-021": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 39,
+  "cc": "20SP-M06",
+  "clip": [
+   91.1,
+   154.3,
+   220.5,
+   463.1
+  ],
+  "lab": [
+   26.4,
+   93.2,
+   72.9,
+   105.2
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-022": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 39,
+  "cc": "20SP-M07",
+  "clip": [
+   375.1,
+   154.3,
+   503.4,
+   463.1
+  ],
+  "lab": [
+   324.1,
+   93.2,
+   370.6,
+   105.2
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-024": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 42,
+  "cc": "20SP-M24",
+  "clip": [
+   70.8,
+   310.5,
+   227.1,
+   468.9
+  ],
+  "lab": [
+   26.5,
+   95.6,
+   73.0,
+   107.6
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-027": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 71,
+  "cc": "SPI-M18",
+  "clip": [
+   171.1,
+   619.8,
+   518.8,
+   807.6
+  ],
+  "lab": [
+   30.7,
+   625.0,
+   69.0,
+   637.0
+  ],
+  "peso": "0,791",
+  "situacao": "Ativo",
+  "rem": [
+   [
+    87.9,
+    620.8,
+    233.7,
+    640.7
+   ]
+  ]
+ },
+ "ST-028": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 58,
+  "cc": "20SP-M28",
+  "clip": [
+   72.5,
+   406.8,
+   225.1,
+   506.8
+  ],
+  "lab": [
+   26.5,
+   345.8,
+   73.0,
+   357.8
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-030": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 59,
+  "cc": "20SP-F20",
+  "clip": [
+   92.5,
+   628.6,
+   205.4,
+   714.7
+  ],
+  "lab": [
+   27.7,
+   507.2,
+   72.0,
+   519.2
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-031": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 71,
+  "cc": "20SP-M59S",
+  "clip": [
+   234.5,
+   455,
+   535,
+   590
+  ],
+  "lab": [
+   23.4,
+   464.9,
+   76.4,
+   476.9
+  ],
+  "peso": "0,660",
+  "situacao": "Ativo",
+  "manual": true,
+  "apagar": [
+   [
+    190,
+    448,
+    245,
+    471
+   ]
+  ],
+  "branco": [
+   [
+    200,
+    448,
+    245,
+    470
+   ]
+  ]
+ },
+ "ST-040": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 57,
+  "cc": "20SP-M21",
+  "clip": [
+   369.5,
+   617.3,
+   523.7,
+   803.0
+  ],
+  "lab": [
+   324.1,
+   579.5,
+   370.6,
+   591.5
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "ST-050": {
+  "cat": "SP20 Selta",
+  "pdf": "/home/claude/alcoa/sp20.pdf",
+  "pg": 57,
+  "cc": "20SP-M22",
+  "clip": [
+   82.8,
+   623.8,
+   215.1,
+   783.2
+  ],
+  "lab": [
+   26.5,
+   579.6,
+   73.0,
+   591.6
+  ],
+  "peso": null,
+  "situacao": "Ativo"
+ },
+ "SU-017": {
+  "cat": "Geral Alumil",
+  "pdf": "/home/claude/alcoa/alumil.pdf",
+  "pg": 75,
+  "cc": "SU-017",
+  "clip": [
+   55,
+   172,
+   146,
+   320
+  ],
+  "lab": [
+   57.3,
+   27.9,
+   543.5,
+   153.5
+  ],
+  "peso": "0,323",
+  "situacao": "Ativo",
+  "manual": true,
+  "costura": true
+ },
+ "SU-023": {
+  "cat": "Geral Império",
+  "pdf": "/home/claude/alcoa/imperio.pdf",
+  "pg": 134,
+  "cc": "A6 SU-023",
+  "clip": [
+   133.4,
+   176.0,
+   432.0,
+   293.4
+  ],
+  "lab": [
+   43.9,
+   128.2,
+   76.3,
+   136.2
+  ],
+  "peso": "0,950",
+  "situacao": "Ativo"
+ },
+ "SU-202": {
+  "cat": "Metal Centenário (Linha TMS)",
+  "pdf": "/mnt/user-data/uploads/b10569c3-Centenario.pdf",
+  "pg": 1,
+  "cc": "TMS-202",
+  "clip": [
+   118,
+   112,
+   250,
+   200
+  ],
+  "lab": [
+   157.0,
+   177.4,
+   491.6,
+   238.5
+  ],
+  "peso": "0,114",
+  "situacao": "Ativo",
+  "manual": true
+ },
+ "SU-231": {
+  "cat": "Binkafer (Linha 25 a 90°)",
+  "pdf": "/mnt/user-data/uploads/64407a12-Binkafer.pdf",
+  "pg": 1,
+  "cc": "BKS-231",
+  "clip": [
+   160,
+   524,
+   470,
+   684
+  ],
+  "lab": [
+   278.2,
+   582.9,
+   388.2,
+   704.2
+  ],
+  "peso": "0,751",
+  "situacao": "Ativo",
+  "manual": true,
+  "costura": true
+ },
+ "SU-500": {
+  "cat": "Geral Alumil",
+  "pdf": "/home/claude/alcoa/alumil.pdf",
+  "pg": 89,
+  "cc": "SU-102A",
+  "clip": [
+   238,
+   436,
+   388,
+   545
+  ],
+  "lab": [
+   178.6,
+   382.5,
+   351.1,
+   449.0
+  ],
+  "peso": "0,099",
+  "situacao": "Ativo",
+  "manual": true,
+  "costura": true,
+  "branco": [
+   [
+    218,
+    436,
+    292,
+    474
+   ]
+  ]
+ },
+ "SU-521": {
+  "cat": "Geral Hera",
+  "pdf": "/home/claude/alcoa/hera_geral.pdf",
+  "pg": 75,
+  "cc": "MACF-0908",
+  "clip": [
+   64.9,
+   162.5,
+   203.7,
+   696.4
+  ],
+  "lab": [
+   54.6,
+   101.5,
+   119.4,
+   113.5
+  ],
+  "peso": "1,724",
+  "situacao": "Ativo"
+ },
+ "SU-522": {
+  "cat": "Geral Hera",
+  "pdf": "/home/claude/alcoa/hera_geral.pdf",
+  "pg": 75,
+  "cc": "MACF-0909",
+  "clip": [
+   217.9,
+   162.5,
+   373.8,
+   696.4
+  ],
+  "lab": [
+   233.1,
+   101.7,
+   297.9,
+   113.8
+  ],
+  "peso": "1,706",
+  "situacao": "Ativo"
+ },
+ "SU-523": {
+  "cat": "Geral Hera",
+  "pdf": "/home/claude/alcoa/hera_geral.pdf",
+  "pg": 75,
+  "cc": "MACF-0910",
+  "clip": [
+   409.6,
+   157.6,
+   522.4,
+   717.1
+  ],
+  "lab": [
+   400.5,
+   101.7,
+   465.3,
+   113.8
+  ],
+  "peso": "1,005",
+  "situacao": "Ativo"
+ },
+ "TSL-001": {
+  "cat": "Geral Tera",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 221,
+  "cc": "DV-695",
+  "clip": [
+   166.9,
+   107.9,
+   408.8,
+   333.9
+  ],
+  "lab": [
+   277.6,
+   351.0,
+   316.8,
+   359.6
+  ],
+  "peso": "0,311",
+  "situacao": "Ativo"
+ },
+ "TSL-003": {
+  "cat": "Geral Tera",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 221,
+  "cc": "DV-735",
+  "clip": [
+   150.9,
+   472.9,
+   414.2,
+   693.1
+  ],
+  "lab": [
+   277.6,
+   704.5,
+   316.8,
+   713.5
+  ],
+  "peso": "0,598",
+  "situacao": "Ativo",
+  "fix": {
+   "7": ""
+  },
+  "add": [
+   [
+    "71,41",
+    [
+     312,
+     544,
+     334,
+     564
+    ],
+    [
+     "ang",
+     -45.0,
+     [
+      322.5,
+      554.2
+     ],
+     22.0,
+     7.13
+    ]
+   ]
+  ]
+ },
+ "TSL-007": {
+  "cat": "Geral Tera",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 218,
+  "cc": "DV-412",
+  "clip": [
+   185.8,
+   546.4,
+   411.4,
+   659.8
+  ],
+  "lab": [
+   265.3,
+   668.5,
+   304.9,
+   677.2
+  ],
+  "peso": "0,314",
+  "situacao": "Ativo"
+ },
+ "TSL-008": {
+  "cat": "Geral Tera",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 218,
+  "cc": "DV-410",
+  "clip": [
+   33.8,
+   138.9,
+   301.1,
+   382.8
+  ],
+  "lab": [
+   149.0,
+   397.4,
+   188.6,
+   406.4
+  ],
+  "peso": "0,817",
+  "situacao": "Ativo"
+ },
+ "Z-169": {
+  "cat": "Geral Tera (OCR)",
+  "pdf": "/home/claude/alcoa/tera.pdf",
+  "pg": 106,
+  "cc": "Z-169",
+  "clip": [
+   108.6,
+   94.6,
+   263.0,
+   349.2
+  ],
+  "lab": [
+   159.1,
+   384.5,
+   189.7,
+   393.5
+  ],
+  "peso": "0,249",
+  "situacao": "Ativo"
+ },
+ "CG-080": {
+  "cat": "Geral Stelman",
+  "pdf": "/home/claude/alcoa/stelman.pdf",
+  "pg": 186,
+  "cc": "STL-424",
+  "clip": [
+   128,
+   118,
+   465,
+   410
+  ],
+  "peso": "1,388",
+  "lab": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "manual": true
+ },
+ "CL-006": {
+  "cat": "Geral Império",
+  "pdf": "/home/claude/alcoa/imperio.pdf",
+  "pg": 30,
+  "cc": "A6 CL-006",
+  "clip": [
+   30,
+   525,
+   255,
+   716
+  ],
+  "peso": "1,004",
+  "lab": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "manual": true
+ }
+}
