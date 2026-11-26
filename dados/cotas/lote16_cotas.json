@@ -178,42 +178,5 @@
     "direcao": "horizontal"
    }
   ]
- },
- "AP-0201_FA-201": {
-  "origem": "fa-201.pdf (PDF do cliente, 25/11; desenho em imagem, vetorizado; cotas redesenhadas)",
-  "peso_kg_m": "1,795",
-  "tamanho_pt": 6.2,
-  "cotas": [
-   {
-    "valor": "55",
-    "x": 99.5,
-    "y": 9.34,
-    "direcao": "horizontal"
-   },
-   {
-    "valor": "37",
-    "x": 193.5,
-    "y": 9.34,
-    "direcao": "horizontal"
-   },
-   {
-    "valor": "113",
-    "x": 159.25,
-    "y": 179.06,
-    "direcao": "horizontal"
-   },
-   {
-    "valor": "58,5",
-    "x": 7.54,
-    "y": 100.4,
-    "direcao": "vertical (baixo→cima)"
-   },
-   {
-    "valor": "30",
-    "x": 298.56,
-    "y": 129.65,
-    "direcao": "vertical (baixo→cima)"
-   }
-  ]
  }
 }

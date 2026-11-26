@@ -624,7 +624,7 @@ def padronizar_setas(p, clip, fs, excl=()):
         f, c = d.get('fill'), d.get('color')
         big = max(r.width, r.height)
         # seta: triângulo cheio pequeno
-        if f is not None and _escuro(f) and len(pts) == 3 and big <= max(9.5, 1.5 * fs) and min(r.width, r.height) >= max(0.4, 0.15 * big):   # tira fina de hachura (Binkafer) não é seta
+        if f is not None and _escuro(f) and len(pts) == 3 and big <= max(9.5, 1.5 * fs) and min(r.width, r.height) >= max(0.4, 0.09 * big):   # tira fina de hachura (Binkafer) não é seta
             sides = [abs(pts[(i + 1) % 3] - pts[(i + 2) % 3]) for i in range(3)]
             i = min(range(3), key=lambda k: sides[k])
             tip = pts[i]; base = (pts[(i + 1) % 3] + pts[(i + 2) % 3]) / 2
@@ -727,6 +727,8 @@ def padronizar_setas(p, clip, fs, excl=()):
         b = tip - u * A
         sh.draw_polyline([tip, b + nrm * (A * SETA_A), b - nrm * (A * SETA_A), tip])
         sh.finish(fill=(0, 0, 0), color=None, width=0, closePath=True)   # uma seta por caminho (para poder achá-las depois)
+        if L > A + 0.2:   # seta original mais comprida que a padrão: a linha some entre as duas bases -> refaz o trecho
+            sh.draw_line(b, base); sh.finish(color=(0, 0, 0), width=LW, lineCap=0, closePath=False)
     if sh.text_cont or sh.totalcont: sh.commit()
     return len(setas), len(linhas), len(abertas)
 

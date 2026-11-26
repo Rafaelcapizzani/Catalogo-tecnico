@@ -68,7 +68,7 @@ Analisado em 23/11/2026 a partir dos arquivos em "Gerador Catalogo/". Atualizado
 - Sem desenho processável: 30-053, AL-089/090/091 (Perfil Master, PDF não localizado), DC-004/006 (detalhes construtivos), CM-066 (MN-014), PV-003, SU-224 (NSU325), SU-270, 25-008 e 25-531 (inativos); TG-084/TG-280 são linhas de tabela (tabelado).
 
 ## Pacotes entregues
-geral-alcoa, suprema, geral-asa, gold, geral-stelman, belmetal-atlanta, lotes-avulsos, folhas-cliente, perfis-cliente-25-11 e pendentes-padronizados — cada um com PDF de conferência original × padronizado. No repositório em desenhos/pacotes/ (26/11). O pacote pendentes-padronizados (165 desenhos) traz a versão correta de CG-080 e CL-006, que nos pacotes geral-alcoa e gold estão com o desenho antigo.
+geral-alcoa, suprema, geral-asa, gold, geral-stelman, belmetal-atlanta, lotes-avulsos, folhas-cliente, perfis-cliente-25-11 e pendentes-padronizados — cada um com PDF de conferência original × padronizado. No repositório em desenhos/pacotes/. Todos regerados em 26/11 (17h) com o cotas.py atual (setas atravessadas pela linha, setas quase equiláteras, tiras finas que não são setas, trecho de linha refeito quando a seta original é mais comprida que a padrão). CG-080 e CL-006 saíram dos pacotes geral-alcoa e gold — a versão certa (Stelman STL-424 / Império CL-006) está em pendentes-padronizados. Os lotes Stelman AP-1234…/LB/MM (lotes 9–11, no pacote lotes-avulsos) também foram regerados no padrão novo de setas. Os vetorizados por potrace (Mega 32 Lite) não mudam.
 
 ## Cruzamento perfis × desenhos
 Fontes: export ItensEstoque do site + lista "Itens do Estoque" do ERP. Busca pelo código Alplan, pelo equivalente e pelos códigos informados pelo cliente.

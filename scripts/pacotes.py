@@ -6,7 +6,8 @@ B='/home/claude/alcoa'
 DIRS={'geral-alcoa':'ga/v1','geral-tera':'lote12','suprema':'su/v1','centenario-tms':'lote13','geral-asa':'asa/v1','decamp':'lote14','avulsos-cliente':'lote15','gold':'gold/v1','geral-stelman':'stl/v1'}
 def membros(z):
     return [n for n in zipfile.ZipFile(f'{B}/{z}-vetor.zip').namelist() if n.endswith('.svg')]
-PAC={z:membros(z) for z in ['geral-alcoa','suprema','geral-asa','gold','geral-stelman']}
+SUBST={'geral-alcoa/CG-080.svg','gold/CL-006.svg'}   # 26/11: trocados pelo desenho do fornecedor (Stelman STL-424 / Império CL-006) -> estão no pacote pendentes-padronizados
+PAC={z:[m for m in membros(z) if m not in SUBST] for z in ['geral-alcoa','suprema','geral-asa','gold','geral-stelman']}
 # lotes avulsos
 lot=[]
 for d,pasta in [('lote9','lote9'),('lote10','lote10'),('lote11','lote11'),('euro','euroshow')]:
@@ -28,6 +29,8 @@ PAC['perfis-cliente-25-11']+=['muxarabi/'+os.path.basename(x) for x in sorted(gl
 DIRS['muxarabi']='lote20'
 PAC['pendentes-padronizados']=['pendentes/'+os.path.basename(x) for x in sorted(glob.glob(f'{B}/pend/v1/*.svg'))]
 DIRS['pendentes']='pend/v1'
+PAC['folhas-cliente']=['folhas-cliente/'+os.path.basename(x) for x in sorted(glob.glob(f'{B}/folhas/*.svg'))]
+DIRS['folhas-cliente']='folhas'
 import sys as _s
 if len(_s.argv)>1: PAC={k:v for k,v in PAC.items() if k in _s.argv[1:]}
 for z,ms in PAC.items():
