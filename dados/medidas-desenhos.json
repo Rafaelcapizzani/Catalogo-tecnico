@@ -1,0 +1,5462 @@
+{
+ "25-001": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-001.svg",
+  "largura_mm": 50.5,
+  "altura_mm": 39.3,
+  "alerta": ""
+ },
+ "25-002": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-002.svg",
+  "largura_mm": 53.2,
+  "altura_mm": 45.0,
+  "alerta": ""
+ },
+ "25-003": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-003.svg",
+  "largura_mm": 59.2,
+  "altura_mm": 37.8,
+  "alerta": ""
+ },
+ "25-005": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-005.svg",
+  "largura_mm": 53.5,
+  "altura_mm": 57.4,
+  "alerta": ""
+ },
+ "25-006": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-006_Z-114.svg",
+  "largura_mm": 88.7,
+  "altura_mm": 56.5,
+  "alerta": ""
+ },
+ "25-007": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-007_Y-215.svg",
+  "largura_mm": 80.3,
+  "altura_mm": 73.5,
+  "alerta": ""
+ },
+ "25-011": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-011.svg",
+  "largura_mm": 52.7,
+  "altura_mm": 49.1,
+  "alerta": ""
+ },
+ "25-012": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-012.svg",
+  "largura_mm": 45.3,
+  "altura_mm": 57.1,
+  "alerta": ""
+ },
+ "25-014": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-014.svg",
+  "largura_mm": 63.0,
+  "altura_mm": 52.7,
+  "alerta": ""
+ },
+ "25-015": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-015.svg",
+  "largura_mm": 50.0,
+  "altura_mm": 52.9,
+  "alerta": ""
+ },
+ "25-016": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-016.svg",
+  "largura_mm": 51.1,
+  "altura_mm": 48.5,
+  "alerta": ""
+ },
+ "25-018": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-018.svg",
+  "largura_mm": 53.9,
+  "altura_mm": 50.8,
+  "alerta": ""
+ },
+ "25-019": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-019_I-122.svg",
+  "largura_mm": 43.5,
+  "altura_mm": 52.4,
+  "alerta": ""
+ },
+ "25-020": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-020.svg",
+  "largura_mm": 41.9,
+  "altura_mm": 43.7,
+  "alerta": ""
+ },
+ "25-021": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-021.svg",
+  "largura_mm": 65.6,
+  "altura_mm": 57.5,
+  "alerta": ""
+ },
+ "25-022": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-022_I-117.svg",
+  "largura_mm": 41.4,
+  "altura_mm": 39.9,
+  "alerta": ""
+ },
+ "25-023": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-023.svg",
+  "largura_mm": 69.3,
+  "altura_mm": 49.4,
+  "alerta": ""
+ },
+ "25-024": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-024.svg",
+  "largura_mm": 100.7,
+  "altura_mm": 67.2,
+  "alerta": ""
+ },
+ "25-026": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-026.svg",
+  "largura_mm": 46.1,
+  "altura_mm": 48.5,
+  "alerta": ""
+ },
+ "25-032": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-032.svg",
+  "largura_mm": 45.5,
+  "altura_mm": 41.6,
+  "alerta": ""
+ },
+ "25-035": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-035_E-276.svg",
+  "largura_mm": 114.6,
+  "altura_mm": 64.3,
+  "alerta": ""
+ },
+ "25-043": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-043_L-498.svg",
+  "largura_mm": 58.2,
+  "altura_mm": 44.0,
+  "alerta": ""
+ },
+ "25-500": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-500.svg",
+  "largura_mm": 54.5,
+  "altura_mm": 56.0,
+  "alerta": ""
+ },
+ "25-502": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-502.svg",
+  "largura_mm": 47.0,
+  "altura_mm": 70.4,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "25-504": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-504.svg",
+  "largura_mm": 67.6,
+  "altura_mm": 50.7,
+  "alerta": ""
+ },
+ "25-506": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-506.svg",
+  "largura_mm": 76.5,
+  "altura_mm": 62.4,
+  "alerta": ""
+ },
+ "25-507": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-507.svg",
+  "largura_mm": 70.8,
+  "altura_mm": 55.9,
+  "alerta": ""
+ },
+ "25-508": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-508.svg",
+  "largura_mm": 47.7,
+  "altura_mm": 72.5,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "25-510": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-510.svg",
+  "largura_mm": 29.0,
+  "altura_mm": 24.7,
+  "alerta": ""
+ },
+ "25-511": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-511.svg",
+  "largura_mm": 117.0,
+  "altura_mm": 64.4,
+  "alerta": ""
+ },
+ "25-514": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-514.svg",
+  "largura_mm": 84.3,
+  "altura_mm": 37.8,
+  "alerta": ""
+ },
+ "25-515": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-515.svg",
+  "largura_mm": 93.9,
+  "altura_mm": 54.1,
+  "alerta": ""
+ },
+ "25-516": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-516.svg",
+  "largura_mm": 100.8,
+  "altura_mm": 54.4,
+  "alerta": ""
+ },
+ "25-517": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-517.svg",
+  "largura_mm": 90.6,
+  "altura_mm": 49.7,
+  "alerta": ""
+ },
+ "25-519": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-519_A-084.svg",
+  "largura_mm": 48.8,
+  "altura_mm": 50.7,
+  "alerta": ""
+ },
+ "25-520": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-520_I-090.svg",
+  "largura_mm": 25.8,
+  "altura_mm": 42.9,
+  "alerta": ""
+ },
+ "25-522": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-522_P-155.svg",
+  "largura_mm": 46.8,
+  "altura_mm": 58.8,
+  "alerta": ""
+ },
+ "25-523": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-523.svg",
+  "largura_mm": 58.6,
+  "altura_mm": 58.2,
+  "alerta": ""
+ },
+ "25-524": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-524.svg",
+  "largura_mm": 51.6,
+  "altura_mm": 56.3,
+  "alerta": ""
+ },
+ "25-528": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-528_L-418.svg",
+  "largura_mm": 41.2,
+  "altura_mm": 34.5,
+  "alerta": ""
+ },
+ "25-529": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-529_U-683.svg",
+  "largura_mm": 38.8,
+  "altura_mm": 36.8,
+  "alerta": ""
+ },
+ "25-535": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-535_Z-259.svg",
+  "largura_mm": 82.5,
+  "altura_mm": 41.1,
+  "alerta": ""
+ },
+ "25-538": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-538.svg",
+  "largura_mm": 52.0,
+  "altura_mm": 98.5,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "25-539": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/25-539.svg",
+  "largura_mm": 79.0,
+  "altura_mm": 51.5,
+  "alerta": ""
+ },
+ "25-540": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-540.svg",
+  "largura_mm": 47.0,
+  "altura_mm": 51.6,
+  "alerta": ""
+ },
+ "25-541": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-541.svg",
+  "largura_mm": 53.6,
+  "altura_mm": 63.5,
+  "alerta": ""
+ },
+ "25-542": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-542.svg",
+  "largura_mm": 57.3,
+  "altura_mm": 74.8,
+  "alerta": ""
+ },
+ "25-543": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote9/25-543.svg",
+  "largura_mm": 102.5,
+  "altura_mm": 60.6,
+  "alerta": ""
+ },
+ "25-544": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-544.svg",
+  "largura_mm": 35.6,
+  "altura_mm": 26.3,
+  "alerta": ""
+ },
+ "25-545": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-545.svg",
+  "largura_mm": 49.3,
+  "altura_mm": 60.2,
+  "alerta": ""
+ },
+ "25-548": {
+  "pacote": "suprema",
+  "arquivo": "suprema/25-548.svg",
+  "largura_mm": 54.6,
+  "altura_mm": 37.0,
+  "alerta": ""
+ },
+ "25-549": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-549.svg",
+  "largura_mm": 55.6,
+  "altura_mm": 57.3,
+  "alerta": ""
+ },
+ "25-550": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-550_P-256.svg",
+  "largura_mm": 44.9,
+  "altura_mm": 41.8,
+  "alerta": ""
+ },
+ "25-551": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-551_Y-312.svg",
+  "largura_mm": 43.5,
+  "altura_mm": 53.2,
+  "alerta": ""
+ },
+ "25-554": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-554.svg",
+  "largura_mm": 50.3,
+  "altura_mm": 42.1,
+  "alerta": ""
+ },
+ "25-661": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-661.svg",
+  "largura_mm": 140.0,
+  "altura_mm": 66.4,
+  "alerta": ""
+ },
+ "25-671": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/25-671.svg",
+  "largura_mm": 132.7,
+  "altura_mm": 72.6,
+  "alerta": ""
+ },
+ "25-800": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/25-800_A-194.svg",
+  "largura_mm": 40.9,
+  "altura_mm": 68.6,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "2936": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/2936_U-1108.svg",
+  "largura_mm": 37.0,
+  "altura_mm": 39.7,
+  "alerta": ""
+ },
+ "2937": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/2937_BX-241.svg",
+  "largura_mm": 59.2,
+  "altura_mm": 45.0,
+  "alerta": ""
+ },
+ "30-001": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/30-001.svg",
+  "largura_mm": 44.1,
+  "altura_mm": 52.6,
+  "alerta": ""
+ },
+ "30-003": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/30-003.svg",
+  "largura_mm": 44.9,
+  "altura_mm": 52.2,
+  "alerta": ""
+ },
+ "30-008": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/30-008.svg",
+  "largura_mm": 66.5,
+  "altura_mm": 52.2,
+  "alerta": ""
+ },
+ "30-010": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/30-010.svg",
+  "largura_mm": 52.2,
+  "altura_mm": 66.1,
+  "alerta": ""
+ },
+ "30-011": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/30-011.svg",
+  "largura_mm": 75.4,
+  "altura_mm": 61.4,
+  "alerta": ""
+ },
+ "30-012": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/30-012.svg",
+  "largura_mm": 75.3,
+  "altura_mm": 57.1,
+  "alerta": ""
+ },
+ "30-019": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/30-019.svg",
+  "largura_mm": 32.8,
+  "altura_mm": 52.3,
+  "alerta": ""
+ },
+ "30-023": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/30-023.svg",
+  "largura_mm": 52.2,
+  "altura_mm": 56.0,
+  "alerta": ""
+ },
+ "30-025": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/30-025.svg",
+  "largura_mm": 50.4,
+  "altura_mm": 69.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "30-026": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/30-026.svg",
+  "largura_mm": 50.4,
+  "altura_mm": 75.1,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "30-027": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/30-027.svg",
+  "largura_mm": 57.6,
+  "altura_mm": 68.2,
+  "alerta": ""
+ },
+ "30-028": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/30-028.svg",
+  "largura_mm": 57.1,
+  "altura_mm": 113.7,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "30-030": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/30-030.svg",
+  "largura_mm": 56.6,
+  "altura_mm": 110.2,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "30-033": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/30-033.svg",
+  "largura_mm": 52.5,
+  "altura_mm": 105.2,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "30-034": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/30-034.svg",
+  "largura_mm": 42.2,
+  "altura_mm": 55.7,
+  "alerta": ""
+ },
+ "30-039": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/30-039_Z-118.svg",
+  "largura_mm": 96.9,
+  "altura_mm": 49.6,
+  "alerta": ""
+ },
+ "30-042": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/30-042.svg",
+  "largura_mm": 98.0,
+  "altura_mm": 67.6,
+  "alerta": ""
+ },
+ "30-049": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/30-049.svg",
+  "largura_mm": 53.6,
+  "altura_mm": 54.5,
+  "alerta": ""
+ },
+ "30-051": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/30-051.svg",
+  "largura_mm": 43.7,
+  "altura_mm": 37.9,
+  "alerta": ""
+ },
+ "30-054": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/30-054.svg",
+  "largura_mm": 48.9,
+  "altura_mm": 50.4,
+  "alerta": ""
+ },
+ "30-076": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/30-076_U-685.svg",
+  "largura_mm": 31.4,
+  "altura_mm": 40.6,
+  "alerta": ""
+ },
+ "30-077": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/30-077.svg",
+  "largura_mm": 81.4,
+  "altura_mm": 51.9,
+  "alerta": ""
+ },
+ "30-079": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/30-079_P-417.svg",
+  "largura_mm": 45.4,
+  "altura_mm": 56.2,
+  "alerta": ""
+ },
+ "30-082": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/30-082_P-264.svg",
+  "largura_mm": 45.4,
+  "altura_mm": 114.6,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "30-089": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/30-089.svg",
+  "largura_mm": 99.1,
+  "altura_mm": 35.3,
+  "alerta": ""
+ },
+ "30-248": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/30-248.svg",
+  "largura_mm": 107.3,
+  "altura_mm": 51.1,
+  "alerta": ""
+ },
+ "31-085": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/31-085_31-085C.svg",
+  "largura_mm": 167.8,
+  "altura_mm": 46.8,
+  "alerta": ""
+ },
+ "32-104": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/32-104.svg",
+  "largura_mm": 60.7,
+  "altura_mm": 74.6,
+  "alerta": ""
+ },
+ "37-005": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/37-005.svg",
+  "largura_mm": 40.6,
+  "altura_mm": 38.8,
+  "alerta": ""
+ },
+ "39-137": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/39-137.svg",
+  "largura_mm": 38.8,
+  "altura_mm": 30.5,
+  "alerta": ""
+ },
+ "39-143": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/39-143.svg",
+  "largura_mm": 30.9,
+  "altura_mm": 34.9,
+  "alerta": ""
+ },
+ "39-144": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "perfis-cliente-25-11-b/39-144_BX-316.svg",
+  "largura_mm": 44.1,
+  "altura_mm": 49.4,
+  "alerta": ""
+ },
+ "39-182": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "perfis-cliente-25-11/39-182.svg",
+  "largura_mm": 127.7,
+  "altura_mm": 107.6,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "42-003": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/42-003.svg",
+  "largura_mm": 154.9,
+  "altura_mm": 63.6,
+  "alerta": ""
+ },
+ "42-004": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/42-004.svg",
+  "largura_mm": 52.2,
+  "altura_mm": 84.2,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "42-006": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/42-006.svg",
+  "largura_mm": 52.7,
+  "altura_mm": 111.8,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "42-007": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/42-007.svg",
+  "largura_mm": 57.6,
+  "altura_mm": 110.2,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "42-008": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/42-008.svg",
+  "largura_mm": 59.1,
+  "altura_mm": 33.0,
+  "alerta": ""
+ },
+ "42-012": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/42-012.svg",
+  "largura_mm": 71.2,
+  "altura_mm": 56.8,
+  "alerta": ""
+ },
+ "42-014": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/42-014.svg",
+  "largura_mm": 67.7,
+  "altura_mm": 36.5,
+  "alerta": ""
+ },
+ "42-021": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/42-021.svg",
+  "largura_mm": 66.9,
+  "altura_mm": 44.2,
+  "alerta": ""
+ },
+ "42-023": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/42-023.svg",
+  "largura_mm": 68.2,
+  "altura_mm": 44.1,
+  "alerta": ""
+ },
+ "42-025": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/42-025.svg",
+  "largura_mm": 62.1,
+  "altura_mm": 81.2,
+  "alerta": ""
+ },
+ "42-032": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/42-032.svg",
+  "largura_mm": 47.9,
+  "altura_mm": 102.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "42-035": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/42-035.svg",
+  "largura_mm": 86.5,
+  "altura_mm": 63.3,
+  "alerta": ""
+ },
+ "42-178": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/42-178.svg",
+  "largura_mm": 59.3,
+  "altura_mm": 94.5,
+  "alerta": ""
+ },
+ "42-304": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/42-304.svg",
+  "largura_mm": 28.4,
+  "altura_mm": 80.8,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "42-307": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/42-307.svg",
+  "largura_mm": 45.9,
+  "altura_mm": 46.1,
+  "alerta": ""
+ },
+ "50-018": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/50-018.svg",
+  "largura_mm": 33.1,
+  "altura_mm": 50.5,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "52-001": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/52-001_F-043.svg",
+  "largura_mm": 34.5,
+  "altura_mm": 32.7,
+  "alerta": ""
+ },
+ "80-034": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/80-034_MG32-034.svg",
+  "largura_mm": 172.0,
+  "altura_mm": 73.4,
+  "alerta": ""
+ },
+ "80-035": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/80-035_MG32-035.svg",
+  "largura_mm": 44.2,
+  "altura_mm": 202.8,
+  "alerta": ""
+ },
+ "80-041": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/80-041_MG32-041.svg",
+  "largura_mm": 182.2,
+  "altura_mm": 61.0,
+  "alerta": ""
+ },
+ "80-058": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/80-058_MG32-058.svg",
+  "largura_mm": 36.0,
+  "altura_mm": 155.6,
+  "alerta": ""
+ },
+ "A-058": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/A-058.svg",
+  "largura_mm": 35.4,
+  "altura_mm": 41.8,
+  "alerta": ""
+ },
+ "A-1058": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/A-1058.svg",
+  "largura_mm": 67.2,
+  "altura_mm": 36.2,
+  "alerta": ""
+ },
+ "A-195": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/A-195.svg",
+  "largura_mm": 40.7,
+  "altura_mm": 68.6,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AL-092": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/AL-092_D-199.svg",
+  "largura_mm": 55.9,
+  "altura_mm": 63.1,
+  "alerta": ""
+ },
+ "AP-001": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/AP-001_65-241D.svg",
+  "largura_mm": 62.8,
+  "altura_mm": 62.4,
+  "alerta": ""
+ },
+ "AP-002": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-002.svg",
+  "largura_mm": 28.2,
+  "altura_mm": 26.8,
+  "alerta": ""
+ },
+ "AP-003": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/AP-003_MG32-118.svg",
+  "largura_mm": 44.5,
+  "altura_mm": 118.2,
+  "alerta": ""
+ },
+ "AP-004": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-004.svg",
+  "largura_mm": 46.6,
+  "altura_mm": 204.6,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-005": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-005.svg",
+  "largura_mm": 158.7,
+  "altura_mm": 58.6,
+  "alerta": ""
+ },
+ "AP-006": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/AP-006_79-125D.svg",
+  "largura_mm": 34.8,
+  "altura_mm": 226.2,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-007": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/AP-007_78-2226C.svg",
+  "largura_mm": 48.4,
+  "altura_mm": 82.6,
+  "alerta": ""
+ },
+ "AP-008": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/AP-008_78-2302C.svg",
+  "largura_mm": 56.0,
+  "altura_mm": 35.9,
+  "alerta": ""
+ },
+ "AP-009": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/AP-009_79-060D.svg",
+  "largura_mm": 47.3,
+  "altura_mm": 198.0,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-010": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/AP-010_79-089C.svg",
+  "largura_mm": 130.6,
+  "altura_mm": 31.2,
+  "alerta": ""
+ },
+ "AP-011": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/AP-011_39-811.svg",
+  "largura_mm": 180.8,
+  "altura_mm": 146.4,
+  "alerta": ""
+ },
+ "AP-012": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/AP-012_29-160.svg",
+  "largura_mm": 162.2,
+  "altura_mm": 83.5,
+  "alerta": ""
+ },
+ "AP-013": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/AP-013_19-375.svg",
+  "largura_mm": 43.3,
+  "altura_mm": 204.7,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-014": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/AP-014_19-575.svg",
+  "largura_mm": 54.2,
+  "altura_mm": 182.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-015": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/AP-015_78-2151C.svg",
+  "largura_mm": 55.2,
+  "altura_mm": 156.6,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-016": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-016.svg",
+  "largura_mm": 164.0,
+  "altura_mm": 65.3,
+  "alerta": ""
+ },
+ "AP-017": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/AP-017_78-1730C.svg",
+  "largura_mm": 58.2,
+  "altura_mm": 114.6,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-018": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/AP-018_78-1740D.svg",
+  "largura_mm": 34.8,
+  "altura_mm": 176.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-020": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote11/AP-020_MAC-0234.svg",
+  "largura_mm": 72.0,
+  "altura_mm": 76.6,
+  "alerta": ""
+ },
+ "AP-0201": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "perfis-cliente-25-11/AP-0201_FA-201.svg",
+  "largura_mm": 108.4,
+  "altura_mm": 64.3,
+  "alerta": ""
+ },
+ "AP-021": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote11/AP-021_MAC-0235.svg",
+  "largura_mm": 38.8,
+  "altura_mm": 72.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-022": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "perfis-cliente-25-11-b/AP-022_BX-1236.svg",
+  "largura_mm": 60.7,
+  "altura_mm": 48.0,
+  "alerta": ""
+ },
+ "AP-023": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "perfis-cliente-25-11-b/AP-023_BX-203.svg",
+  "largura_mm": 72.0,
+  "altura_mm": 81.1,
+  "alerta": ""
+ },
+ "AP-024": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "perfis-cliente-25-11-b/AP-024_BX-205.svg",
+  "largura_mm": 56.4,
+  "altura_mm": 81.1,
+  "alerta": ""
+ },
+ "AP-025": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-025.svg",
+  "largura_mm": 33.2,
+  "altura_mm": 44.1,
+  "alerta": ""
+ },
+ "AP-026": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-026.svg",
+  "largura_mm": 32.0,
+  "altura_mm": 28.8,
+  "alerta": ""
+ },
+ "AP-0269": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-0269_FA-269.svg",
+  "largura_mm": 66.6,
+  "altura_mm": 71.7,
+  "alerta": ""
+ },
+ "AP-027": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "perfis-cliente-25-11-b/AP-027_BX-223.svg",
+  "largura_mm": 49.7,
+  "altura_mm": 35.6,
+  "alerta": ""
+ },
+ "AP-028": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/AP-028_39-959.svg",
+  "largura_mm": 37.1,
+  "altura_mm": 34.5,
+  "alerta": ""
+ },
+ "AP-029": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "perfis-cliente-25-11-b/AP-029_CB-266.svg",
+  "largura_mm": 50.8,
+  "altura_mm": 27.9,
+  "alerta": ""
+ },
+ "AP-030": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-030.svg",
+  "largura_mm": 39.2,
+  "altura_mm": 26.4,
+  "alerta": ""
+ },
+ "AP-032": {
+  "pacote": "folhas-cliente",
+  "arquivo": "folhas-cliente/AP-032.svg",
+  "largura_mm": 54.4,
+  "altura_mm": 42.2,
+  "alerta": ""
+ },
+ "AP-033": {
+  "pacote": "folhas-cliente",
+  "arquivo": "folhas-cliente/AP-033.svg",
+  "largura_mm": 43.9,
+  "altura_mm": 42.4,
+  "alerta": ""
+ },
+ "AP-034": {
+  "pacote": "folhas-cliente",
+  "arquivo": "folhas-cliente/AP-034.svg",
+  "largura_mm": 52.2,
+  "altura_mm": 68.7,
+  "alerta": ""
+ },
+ "AP-035": {
+  "pacote": "folhas-cliente",
+  "arquivo": "folhas-cliente/AP-035.svg",
+  "largura_mm": 70.0,
+  "altura_mm": 50.5,
+  "alerta": ""
+ },
+ "AP-036": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-036.svg",
+  "largura_mm": 61.6,
+  "altura_mm": 89.4,
+  "alerta": ""
+ },
+ "AP-037": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-037.svg",
+  "largura_mm": 28.4,
+  "altura_mm": 81.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-038": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/AP-038_MG25-509.svg",
+  "largura_mm": 101.5,
+  "altura_mm": 48.9,
+  "alerta": ""
+ },
+ "AP-039": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-039.svg",
+  "largura_mm": 139.0,
+  "altura_mm": 38.2,
+  "alerta": ""
+ },
+ "AP-040": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-040.svg",
+  "largura_mm": 41.9,
+  "altura_mm": 137.6,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-041": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-041.svg",
+  "largura_mm": 81.2,
+  "altura_mm": 128.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-042": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-042.svg",
+  "largura_mm": 30.6,
+  "altura_mm": 165.8,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-043": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-043.svg",
+  "largura_mm": 54.3,
+  "altura_mm": 150.2,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-044": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-044.svg",
+  "largura_mm": 139.3,
+  "altura_mm": 54.7,
+  "alerta": ""
+ },
+ "AP-045": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-045.svg",
+  "largura_mm": 27.4,
+  "altura_mm": 26.7,
+  "alerta": ""
+ },
+ "AP-046": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote10/AP-046_CX-158.svg",
+  "largura_mm": 69.4,
+  "altura_mm": 57.8,
+  "alerta": ""
+ },
+ "AP-047": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote10/AP-047_A6-667.svg",
+  "largura_mm": 40.7,
+  "altura_mm": 76.2,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-048": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote10/AP-048_A6-230.svg",
+  "largura_mm": 37.4,
+  "altura_mm": 70.2,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-049": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote10/AP-049_A4-A-057.svg",
+  "largura_mm": 38.5,
+  "altura_mm": 49.9,
+  "alerta": ""
+ },
+ "AP-050": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "perfis-cliente-25-11/AP-050.svg",
+  "largura_mm": 60.7,
+  "altura_mm": 151.7,
+  "alerta": ""
+ },
+ "AP-051": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote10/AP-051_NX-4397.svg",
+  "largura_mm": 103.4,
+  "altura_mm": 28.3,
+  "alerta": ""
+ },
+ "AP-052": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "perfis-cliente-25-11/AP-052_TRN-009.svg",
+  "largura_mm": 54.7,
+  "altura_mm": 31.7,
+  "alerta": ""
+ },
+ "AP-053": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-053.svg",
+  "largura_mm": 40.6,
+  "altura_mm": 30.7,
+  "alerta": ""
+ },
+ "AP-054": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "perfis-cliente-25-11/AP-054.svg",
+  "largura_mm": 72.3,
+  "altura_mm": 46.9,
+  "alerta": ""
+ },
+ "AP-055": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "perfis-cliente-25-11/AP-055.svg",
+  "largura_mm": 72.3,
+  "altura_mm": 47.6,
+  "alerta": ""
+ },
+ "AP-056": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "perfis-cliente-25-11-b/AP-056.svg",
+  "largura_mm": 185.6,
+  "altura_mm": 52.6,
+  "alerta": ""
+ },
+ "AP-057": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "perfis-cliente-25-11-b/AP-057.svg",
+  "largura_mm": 185.6,
+  "altura_mm": 52.6,
+  "alerta": ""
+ },
+ "AP-058": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-058.svg",
+  "largura_mm": 117.9,
+  "altura_mm": 52.8,
+  "alerta": ""
+ },
+ "AP-059": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-059.svg",
+  "largura_mm": 97.9,
+  "altura_mm": 51.0,
+  "alerta": ""
+ },
+ "AP-060": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-060.svg",
+  "largura_mm": 70.2,
+  "altura_mm": 81.1,
+  "alerta": ""
+ },
+ "AP-0601": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-0601.svg",
+  "largura_mm": 61.2,
+  "altura_mm": 244.2,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-0603": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-0603.svg",
+  "largura_mm": 47.2,
+  "altura_mm": 246.0,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-061": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-061.svg",
+  "largura_mm": 75.8,
+  "altura_mm": 22.9,
+  "alerta": ""
+ },
+ "AP-062": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-062.svg",
+  "largura_mm": 76.7,
+  "altura_mm": 42.0,
+  "alerta": ""
+ },
+ "AP-063": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-063.svg",
+  "largura_mm": 50.3,
+  "altura_mm": 228.8,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-064": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-064.svg",
+  "largura_mm": 79.4,
+  "altura_mm": 148.2,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-065": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-065.svg",
+  "largura_mm": 131.1,
+  "altura_mm": 90.8,
+  "alerta": ""
+ },
+ "AP-066": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-066.svg",
+  "largura_mm": 77.3,
+  "altura_mm": 111.8,
+  "alerta": ""
+ },
+ "AP-067": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-067.svg",
+  "largura_mm": 167.1,
+  "altura_mm": 42.0,
+  "alerta": ""
+ },
+ "AP-068": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-068.svg",
+  "largura_mm": 46.6,
+  "altura_mm": 37.4,
+  "alerta": ""
+ },
+ "AP-069": {
+  "pacote": "geral-asa",
+  "arquivo": "decamp/AP-069_DP-072.svg",
+  "largura_mm": 38.9,
+  "altura_mm": 29.4,
+  "alerta": ""
+ },
+ "AP-070": {
+  "pacote": "geral-asa",
+  "arquivo": "avulsos-cliente/AP-070.svg",
+  "largura_mm": 101.6,
+  "altura_mm": 107.6,
+  "alerta": ""
+ },
+ "AP-071": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-071.svg",
+  "largura_mm": 41.8,
+  "altura_mm": 36.2,
+  "alerta": ""
+ },
+ "AP-072": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-072.svg",
+  "largura_mm": 60.7,
+  "altura_mm": 49.4,
+  "alerta": ""
+ },
+ "AP-073": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-073.svg",
+  "largura_mm": 83.3,
+  "altura_mm": 41.3,
+  "alerta": ""
+ },
+ "AP-074": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-074.svg",
+  "largura_mm": 47.6,
+  "altura_mm": 134.8,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-099": {
+  "pacote": "folhas-cliente",
+  "arquivo": "folhas-cliente/AP-099.svg",
+  "largura_mm": 67.0,
+  "altura_mm": 50.7,
+  "alerta": ""
+ },
+ "AP-100": {
+  "pacote": "folhas-cliente",
+  "arquivo": "folhas-cliente/AP-100.svg",
+  "largura_mm": 104.1,
+  "altura_mm": 43.8,
+  "alerta": ""
+ },
+ "AP-1046": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-1046.svg",
+  "largura_mm": 72.9,
+  "altura_mm": 60.3,
+  "alerta": ""
+ },
+ "AP-1047": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-1047.svg",
+  "largura_mm": 103.0,
+  "altura_mm": 59.5,
+  "alerta": ""
+ },
+ "AP-1057": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-1057.svg",
+  "largura_mm": 65.6,
+  "altura_mm": 35.3,
+  "alerta": ""
+ },
+ "AP-1058": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-1058.svg",
+  "largura_mm": 53.4,
+  "altura_mm": 43.0,
+  "alerta": ""
+ },
+ "AP-1059": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-1059.svg",
+  "largura_mm": 53.0,
+  "altura_mm": 35.8,
+  "alerta": ""
+ },
+ "AP-1234": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1234.svg",
+  "largura_mm": 82.9,
+  "altura_mm": 38.5,
+  "alerta": ""
+ },
+ "AP-1235": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1235.svg",
+  "largura_mm": 83.3,
+  "altura_mm": 36.7,
+  "alerta": ""
+ },
+ "AP-1236": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1236.svg",
+  "largura_mm": 83.3,
+  "altura_mm": 38.1,
+  "alerta": ""
+ },
+ "AP-1237": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1237.svg",
+  "largura_mm": 63.5,
+  "altura_mm": 38.1,
+  "alerta": ""
+ },
+ "AP-1238": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1238.svg",
+  "largura_mm": 63.5,
+  "altura_mm": 38.1,
+  "alerta": ""
+ },
+ "AP-1239": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1239.svg",
+  "largura_mm": 91.4,
+  "altura_mm": 42.0,
+  "alerta": ""
+ },
+ "AP-1240": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1240.svg",
+  "largura_mm": 88.5,
+  "altura_mm": 45.9,
+  "alerta": ""
+ },
+ "AP-1241": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1241.svg",
+  "largura_mm": 69.5,
+  "altura_mm": 43.0,
+  "alerta": ""
+ },
+ "AP-1242": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1242.svg",
+  "largura_mm": 46.9,
+  "altura_mm": 36.3,
+  "alerta": ""
+ },
+ "AP-1243": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1243.svg",
+  "largura_mm": 50.4,
+  "altura_mm": 43.0,
+  "alerta": ""
+ },
+ "AP-1244": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1244.svg",
+  "largura_mm": 28.9,
+  "altura_mm": 39.9,
+  "alerta": ""
+ },
+ "AP-1245": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1245.svg",
+  "largura_mm": 29.6,
+  "altura_mm": 34.9,
+  "alerta": ""
+ },
+ "AP-1246": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1246.svg",
+  "largura_mm": 55.7,
+  "altura_mm": 33.2,
+  "alerta": ""
+ },
+ "AP-1247": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1247.svg",
+  "largura_mm": 49.4,
+  "altura_mm": 34.2,
+  "alerta": ""
+ },
+ "AP-1248": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1248.svg",
+  "largura_mm": 70.2,
+  "altura_mm": 26.1,
+  "alerta": ""
+ },
+ "AP-1249": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1249.svg",
+  "largura_mm": 67.0,
+  "altura_mm": 42.3,
+  "alerta": ""
+ },
+ "AP-1250": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1250.svg",
+  "largura_mm": 29.6,
+  "altura_mm": 44.8,
+  "alerta": ""
+ },
+ "AP-1251": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1251.svg",
+  "largura_mm": 24.3,
+  "altura_mm": 46.9,
+  "alerta": ""
+ },
+ "AP-1252": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1252.svg",
+  "largura_mm": 92.4,
+  "altura_mm": 93.1,
+  "alerta": ""
+ },
+ "AP-1253": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/AP-1253.svg",
+  "largura_mm": 92.8,
+  "altura_mm": 97.0,
+  "alerta": ""
+ },
+ "AP-1262": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1262_FA-204.svg",
+  "largura_mm": 105.8,
+  "altura_mm": 57.0,
+  "alerta": ""
+ },
+ "AP-1263": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1263_FA-205.svg",
+  "largura_mm": 105.8,
+  "altura_mm": 64.0,
+  "alerta": ""
+ },
+ "AP-1264": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1264_FA-206.svg",
+  "largura_mm": 82.8,
+  "altura_mm": 105.6,
+  "alerta": ""
+ },
+ "AP-1266": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1266_FA-211.svg",
+  "largura_mm": 70.3,
+  "altura_mm": 106.4,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-1270": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1270_FA-223.svg",
+  "largura_mm": 110.6,
+  "altura_mm": 105.5,
+  "alerta": ""
+ },
+ "AP-1273": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1273_FA-228.svg",
+  "largura_mm": 59.4,
+  "altura_mm": 84.4,
+  "alerta": ""
+ },
+ "AP-1276": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1276_FA-232.svg",
+  "largura_mm": 86.4,
+  "altura_mm": 57.4,
+  "alerta": ""
+ },
+ "AP-1278": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1278_FA-235.svg",
+  "largura_mm": 89.6,
+  "altura_mm": 132.9,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-1279": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1279_FA-237.svg",
+  "largura_mm": 32.9,
+  "altura_mm": 26.9,
+  "alerta": ""
+ },
+ "AP-1280": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1280_FA-238.svg",
+  "largura_mm": 77.4,
+  "altura_mm": 44.8,
+  "alerta": ""
+ },
+ "AP-1281": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1281_FA-239A.svg",
+  "largura_mm": 83.9,
+  "altura_mm": 43.3,
+  "alerta": ""
+ },
+ "AP-1282": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1282_FA-240.svg",
+  "largura_mm": 27.7,
+  "altura_mm": 40.0,
+  "alerta": ""
+ },
+ "AP-1283": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1283_FA-242.svg",
+  "largura_mm": 105.7,
+  "altura_mm": 96.0,
+  "alerta": ""
+ },
+ "AP-1284": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1284_FA-401.svg",
+  "largura_mm": 103.5,
+  "altura_mm": 84.2,
+  "alerta": ""
+ },
+ "AP-1285": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1285_FA-408.svg",
+  "largura_mm": 131.9,
+  "altura_mm": 43.6,
+  "alerta": ""
+ },
+ "AP-1286": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1286_FA-245.svg",
+  "largura_mm": 66.4,
+  "altura_mm": 84.4,
+  "alerta": ""
+ },
+ "AP-1288": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1288_FA-260.svg",
+  "largura_mm": 88.9,
+  "altura_mm": 110.8,
+  "alerta": ""
+ },
+ "AP-1292": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1292_FA-264.svg",
+  "largura_mm": 82.6,
+  "altura_mm": 91.3,
+  "alerta": ""
+ },
+ "AP-1295": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1295_FA-271.svg",
+  "largura_mm": 68.9,
+  "altura_mm": 94.1,
+  "alerta": ""
+ },
+ "AP-1300": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1300_FA-278.svg",
+  "largura_mm": 90.2,
+  "altura_mm": 161.2,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-1303": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1303_FA-294.svg",
+  "largura_mm": 82.9,
+  "altura_mm": 75.3,
+  "alerta": ""
+ },
+ "AP-1304": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1304_FA-325.svg",
+  "largura_mm": 84.5,
+  "altura_mm": 43.5,
+  "alerta": ""
+ },
+ "AP-1305": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1305_FA-326.svg",
+  "largura_mm": 29.8,
+  "altura_mm": 24.3,
+  "alerta": ""
+ },
+ "AP-1312": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1312_FA-375.svg",
+  "largura_mm": 112.0,
+  "altura_mm": 138.9,
+  "alerta": ""
+ },
+ "AP-1313": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1313_FA-376.svg",
+  "largura_mm": 110.5,
+  "altura_mm": 132.7,
+  "alerta": ""
+ },
+ "AP-1315": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1315_FA-400.svg",
+  "largura_mm": 106.1,
+  "altura_mm": 88.9,
+  "alerta": ""
+ },
+ "AP-1329": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-1329.svg",
+  "largura_mm": 105.6,
+  "altura_mm": 39.6,
+  "alerta": ""
+ },
+ "AP-1413": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-1413.svg",
+  "largura_mm": 51.2,
+  "altura_mm": 61.9,
+  "alerta": ""
+ },
+ "AP-1439": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1439_FA-226.svg",
+  "largura_mm": 192.1,
+  "altura_mm": 109.1,
+  "alerta": ""
+ },
+ "AP-1440": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1440_FA-236.svg",
+  "largura_mm": 146.3,
+  "altura_mm": 171.1,
+  "alerta": ""
+ },
+ "AP-1503": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1503_FA-200.svg",
+  "largura_mm": 112.8,
+  "altura_mm": 110.9,
+  "alerta": ""
+ },
+ "AP-1589": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote10/AP-1589_TMR-1589.svg",
+  "largura_mm": 72.2,
+  "altura_mm": 179.0,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-1691": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1691_FA-255.svg",
+  "largura_mm": 65.7,
+  "altura_mm": 91.4,
+  "alerta": ""
+ },
+ "AP-1692": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1692_FA-256.svg",
+  "largura_mm": 93.3,
+  "altura_mm": 64.4,
+  "alerta": ""
+ },
+ "AP-1693": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1693_FA-258.svg",
+  "largura_mm": 65.7,
+  "altura_mm": 91.4,
+  "alerta": ""
+ },
+ "AP-1694": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1694_FA-259.svg",
+  "largura_mm": 93.3,
+  "altura_mm": 64.4,
+  "alerta": ""
+ },
+ "AP-1695": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1695_FA-377.svg",
+  "largura_mm": 111.9,
+  "altura_mm": 43.6,
+  "alerta": ""
+ },
+ "AP-1717": {
+  "pacote": "folhas-cliente",
+  "arquivo": "folhas-cliente/AP-1717.svg",
+  "largura_mm": 77.3,
+  "altura_mm": 32.1,
+  "alerta": ""
+ },
+ "AP-1718": {
+  "pacote": "folhas-cliente",
+  "arquivo": "folhas-cliente/AP-1718.svg",
+  "largura_mm": 80.2,
+  "altura_mm": 32.1,
+  "alerta": ""
+ },
+ "AP-1774": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-1774_FA-515.svg",
+  "largura_mm": 83.1,
+  "altura_mm": 132.9,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-2769": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-2769.svg",
+  "largura_mm": 134.9,
+  "altura_mm": 95.5,
+  "alerta": ""
+ },
+ "AP-2770": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-2770.svg",
+  "largura_mm": 126.4,
+  "altura_mm": 91.2,
+  "alerta": ""
+ },
+ "AP-2771": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-2771.svg",
+  "largura_mm": 134.8,
+  "altura_mm": 50.4,
+  "alerta": ""
+ },
+ "AP-2773": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-2773.svg",
+  "largura_mm": 134.8,
+  "altura_mm": 53.6,
+  "alerta": ""
+ },
+ "AP-2774": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-2774.svg",
+  "largura_mm": 122.7,
+  "altura_mm": 49.6,
+  "alerta": ""
+ },
+ "AP-2775": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/AP-2775.svg",
+  "largura_mm": 128.0,
+  "altura_mm": 57.1,
+  "alerta": ""
+ },
+ "AP-5634": {
+  "pacote": "belmetal-atlanta",
+  "arquivo": "belmetal-atlanta/AP-5634_FA-347.svg",
+  "largura_mm": 80.8,
+  "altura_mm": 110.8,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-618": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-618_STL-618.svg",
+  "largura_mm": 25.0,
+  "altura_mm": 20.7,
+  "alerta": ""
+ },
+ "AP-619": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-619_STL-619.svg",
+  "largura_mm": 30.0,
+  "altura_mm": 59.8,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-621": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-621_STL-621.svg",
+  "largura_mm": 75.5,
+  "altura_mm": 40.0,
+  "alerta": ""
+ },
+ "AP-622": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-622_STL-622.svg",
+  "largura_mm": 34.6,
+  "altura_mm": 71.9,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-623": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-623_STL-623.svg",
+  "largura_mm": 36.3,
+  "altura_mm": 42.3,
+  "alerta": ""
+ },
+ "AP-625": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-625_STL-625.svg",
+  "largura_mm": 48.1,
+  "altura_mm": 83.4,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-626": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-626_STL-626.svg",
+  "largura_mm": 34.9,
+  "altura_mm": 38.9,
+  "alerta": ""
+ },
+ "AP-627": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-627_STL-627.svg",
+  "largura_mm": 49.0,
+  "altura_mm": 28.8,
+  "alerta": ""
+ },
+ "AP-628": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-628_STL-628.svg",
+  "largura_mm": 56.2,
+  "altura_mm": 32.2,
+  "alerta": ""
+ },
+ "AP-629": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-629_STL-629.svg",
+  "largura_mm": 30.0,
+  "altura_mm": 48.9,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-631": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-631_STL-631.svg",
+  "largura_mm": 103.0,
+  "altura_mm": 41.3,
+  "alerta": ""
+ },
+ "AP-6509": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "muxarabi/AP-6509.svg",
+  "largura_mm": 40.8,
+  "altura_mm": 60.9,
+  "alerta": ""
+ },
+ "AP-6510": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "muxarabi/AP-6510.svg",
+  "largura_mm": 28.1,
+  "altura_mm": 35.5,
+  "alerta": ""
+ },
+ "AP-936": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-936_STL-936.svg",
+  "largura_mm": 47.4,
+  "altura_mm": 36.8,
+  "alerta": ""
+ },
+ "AP-938": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-938_STL-938.svg",
+  "largura_mm": 48.4,
+  "altura_mm": 103.0,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-939": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-939_STL-939.svg",
+  "largura_mm": 42.4,
+  "altura_mm": 111.9,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-950": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-950_STL-950.svg",
+  "largura_mm": 65.0,
+  "altura_mm": 45.0,
+  "alerta": ""
+ },
+ "AP-951": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-951_STL-951.svg",
+  "largura_mm": 60.9,
+  "altura_mm": 30.1,
+  "alerta": ""
+ },
+ "AP-953": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-953_STL-953.svg",
+  "largura_mm": 30.3,
+  "altura_mm": 60.5,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "AP-954": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-954_STL-954.svg",
+  "largura_mm": 32.2,
+  "altura_mm": 85.1,
+  "alerta": ""
+ },
+ "AP-984": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/AP-984_STL-984.svg",
+  "largura_mm": 26.5,
+  "altura_mm": 53.6,
+  "alerta": ""
+ },
+ "BG-001": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/BG-001.svg",
+  "largura_mm": 30.1,
+  "altura_mm": 28.4,
+  "alerta": ""
+ },
+ "BG-010": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/BG-010.svg",
+  "largura_mm": 41.1,
+  "altura_mm": 36.1,
+  "alerta": ""
+ },
+ "BG-011": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/BG-011.svg",
+  "largura_mm": 26.8,
+  "altura_mm": 23.0,
+  "alerta": ""
+ },
+ "BG-021": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/BG-021.svg",
+  "largura_mm": 37.5,
+  "altura_mm": 38.8,
+  "alerta": ""
+ },
+ "BG-023": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/BG-023.svg",
+  "largura_mm": 46.4,
+  "altura_mm": 30.5,
+  "alerta": ""
+ },
+ "BG-036": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/BG-036.svg",
+  "largura_mm": 37.9,
+  "altura_mm": 30.5,
+  "alerta": ""
+ },
+ "BG-037": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/BG-037.svg",
+  "largura_mm": 42.3,
+  "altura_mm": 42.3,
+  "alerta": ""
+ },
+ "BG-057": {
+  "pacote": "gold",
+  "arquivo": "gold/BG-057.svg",
+  "largura_mm": 35.6,
+  "altura_mm": 39.5,
+  "alerta": ""
+ },
+ "BX-001": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/BX-001_A-022.svg",
+  "largura_mm": 40.3,
+  "altura_mm": 49.5,
+  "alerta": ""
+ },
+ "BX-002": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/BX-002_I-083.svg",
+  "largura_mm": 39.1,
+  "altura_mm": 45.2,
+  "alerta": ""
+ },
+ "BX-003": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/BX-003.svg",
+  "largura_mm": 39.5,
+  "altura_mm": 38.1,
+  "alerta": ""
+ },
+ "BX-005": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/BX-005_Y-105.svg",
+  "largura_mm": 49.0,
+  "altura_mm": 43.9,
+  "alerta": ""
+ },
+ "BX-006": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/BX-006.svg",
+  "largura_mm": 31.7,
+  "altura_mm": 50.4,
+  "alerta": ""
+ },
+ "BX-007": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/BX-007.svg",
+  "largura_mm": 46.3,
+  "altura_mm": 33.4,
+  "alerta": ""
+ },
+ "BX-010": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/BX-010_U-397.svg",
+  "largura_mm": 67.3,
+  "altura_mm": 63.9,
+  "alerta": ""
+ },
+ "BX-012": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/BX-012.svg",
+  "largura_mm": 32.3,
+  "altura_mm": 34.0,
+  "alerta": ""
+ },
+ "BX-013": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/BX-013_E-117.svg",
+  "largura_mm": 60.0,
+  "altura_mm": 33.1,
+  "alerta": ""
+ },
+ "BX-018": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote11/BX-018_STL-049.svg",
+  "largura_mm": 72.3,
+  "altura_mm": 40.6,
+  "alerta": ""
+ },
+ "BX-019": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote11/BX-019_STL-046A.svg",
+  "largura_mm": 69.2,
+  "altura_mm": 61.3,
+  "alerta": ""
+ },
+ "BX-020": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote11/BX-020_STL-052.svg",
+  "largura_mm": 50.1,
+  "altura_mm": 44.1,
+  "alerta": ""
+ },
+ "BX-021": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote11/BX-021_STL-048.svg",
+  "largura_mm": 57.3,
+  "altura_mm": 37.6,
+  "alerta": ""
+ },
+ "BX-022": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote11/BX-022_STL-053.svg",
+  "largura_mm": 36.1,
+  "altura_mm": 48.0,
+  "alerta": ""
+ },
+ "BX-029": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/BX-029.svg",
+  "largura_mm": 21.9,
+  "altura_mm": 37.4,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "BX-039": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote11/BX-039_A6-L-006.svg",
+  "largura_mm": 50.4,
+  "altura_mm": 45.9,
+  "alerta": ""
+ },
+ "BX-099": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/BX-099.svg",
+  "largura_mm": 71.1,
+  "altura_mm": 43.4,
+  "alerta": ""
+ },
+ "BX-100": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/BX-100.svg",
+  "largura_mm": 46.1,
+  "altura_mm": 42.5,
+  "alerta": ""
+ },
+ "BX-101": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/BX-101.svg",
+  "largura_mm": 45.7,
+  "altura_mm": 33.6,
+  "alerta": ""
+ },
+ "BX-102": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/BX-102.svg",
+  "largura_mm": 37.0,
+  "altura_mm": 40.6,
+  "alerta": ""
+ },
+ "BX-105": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/BX-105.svg",
+  "largura_mm": 32.5,
+  "altura_mm": 42.7,
+  "alerta": ""
+ },
+ "BX-106": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/BX-106.svg",
+  "largura_mm": 40.5,
+  "altura_mm": 37.8,
+  "alerta": ""
+ },
+ "BX-107": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/BX-107.svg",
+  "largura_mm": 47.2,
+  "altura_mm": 34.7,
+  "alerta": ""
+ },
+ "BX-108": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/BX-108.svg",
+  "largura_mm": 44.4,
+  "altura_mm": 37.4,
+  "alerta": ""
+ },
+ "BX-109": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/BX-109.svg",
+  "largura_mm": 69.8,
+  "altura_mm": 62.1,
+  "alerta": ""
+ },
+ "BX-111": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/BX-111.svg",
+  "largura_mm": 48.3,
+  "altura_mm": 60.0,
+  "alerta": ""
+ },
+ "BX-112": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/BX-112.svg",
+  "largura_mm": 30.9,
+  "altura_mm": 30.6,
+  "alerta": ""
+ },
+ "BX-113": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/BX-113.svg",
+  "largura_mm": 66.5,
+  "altura_mm": 32.1,
+  "alerta": ""
+ },
+ "BX-116": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/BX-116_E-256.svg",
+  "largura_mm": 57.6,
+  "altura_mm": 32.9,
+  "alerta": ""
+ },
+ "BX-153": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/BX-153.svg",
+  "largura_mm": 55.2,
+  "altura_mm": 28.3,
+  "alerta": ""
+ },
+ "BX-155": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/BX-155.svg",
+  "largura_mm": 68.3,
+  "altura_mm": 49.7,
+  "alerta": ""
+ },
+ "BX-204": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/BX-204.svg",
+  "largura_mm": 72.2,
+  "altura_mm": 84.0,
+  "alerta": ""
+ },
+ "BX-205": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/BX-205.svg",
+  "largura_mm": 46.5,
+  "altura_mm": 81.9,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "BX-206": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/BX-206_E-306.svg",
+  "largura_mm": 53.9,
+  "altura_mm": 42.8,
+  "alerta": ""
+ },
+ "BX-209": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/BX-209.svg",
+  "largura_mm": 38.5,
+  "altura_mm": 36.7,
+  "alerta": ""
+ },
+ "BX-218": {
+  "pacote": "folhas-cliente",
+  "arquivo": "folhas-cliente/BX-218.svg",
+  "largura_mm": 57.1,
+  "altura_mm": 66.8,
+  "alerta": ""
+ },
+ "BX-219": {
+  "pacote": "folhas-cliente",
+  "arquivo": "folhas-cliente/BX-219.svg",
+  "largura_mm": 80.7,
+  "altura_mm": 94.2,
+  "alerta": ""
+ },
+ "BX-304": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/BX-304_L-713.svg",
+  "largura_mm": 60.9,
+  "altura_mm": 85.3,
+  "alerta": ""
+ },
+ "BX-305": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/BX-305_E-512.svg",
+  "largura_mm": 40.7,
+  "altura_mm": 84.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "CA-001": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CA-001.svg",
+  "largura_mm": 71.2,
+  "altura_mm": 39.2,
+  "alerta": ""
+ },
+ "CA-002": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CA-002.svg",
+  "largura_mm": 43.3,
+  "altura_mm": 24.2,
+  "alerta": ""
+ },
+ "CA-005": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/CA-005.svg",
+  "largura_mm": 58.7,
+  "altura_mm": 57.1,
+  "alerta": ""
+ },
+ "CC-005": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/CC-005_P-274.svg",
+  "largura_mm": 64.0,
+  "altura_mm": 85.7,
+  "alerta": ""
+ },
+ "CG-003": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CG-003.svg",
+  "largura_mm": 63.2,
+  "altura_mm": 33.9,
+  "alerta": ""
+ },
+ "CG-004": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CG-004.svg",
+  "largura_mm": 66.3,
+  "altura_mm": 26.8,
+  "alerta": ""
+ },
+ "CG-006": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CG-006.svg",
+  "largura_mm": 62.5,
+  "altura_mm": 34.5,
+  "alerta": ""
+ },
+ "CG-011": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/CG-011_D-081.svg",
+  "largura_mm": 49.3,
+  "altura_mm": 49.4,
+  "alerta": ""
+ },
+ "CG-012": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CG-012.svg",
+  "largura_mm": 57.7,
+  "altura_mm": 44.8,
+  "alerta": ""
+ },
+ "CG-017": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CG-017.svg",
+  "largura_mm": 59.8,
+  "altura_mm": 26.0,
+  "alerta": ""
+ },
+ "CG-019": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CG-019.svg",
+  "largura_mm": 49.5,
+  "altura_mm": 24.8,
+  "alerta": ""
+ },
+ "CG-021": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CG-021.svg",
+  "largura_mm": 42.8,
+  "altura_mm": 41.4,
+  "alerta": ""
+ },
+ "CG-074": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CG-074.svg",
+  "largura_mm": 67.2,
+  "altura_mm": 32.8,
+  "alerta": ""
+ },
+ "CG-075": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CG-075.svg",
+  "largura_mm": 48.3,
+  "altura_mm": 44.1,
+  "alerta": ""
+ },
+ "CG-077": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CG-077.svg",
+  "largura_mm": 79.6,
+  "altura_mm": 46.9,
+  "alerta": ""
+ },
+ "CG-080": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/CG-080.svg",
+  "largura_mm": 118.9,
+  "altura_mm": 103.0,
+  "alerta": ""
+ },
+ "CG-083": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CG-083.svg",
+  "largura_mm": 113.7,
+  "altura_mm": 78.1,
+  "alerta": ""
+ },
+ "CG-087": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/CG-087.svg",
+  "largura_mm": 49.1,
+  "altura_mm": 45.6,
+  "alerta": ""
+ },
+ "CG-104": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CG-104.svg",
+  "largura_mm": 53.0,
+  "altura_mm": 60.1,
+  "alerta": ""
+ },
+ "CG-143": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CG-143.svg",
+  "largura_mm": 144.9,
+  "altura_mm": 117.9,
+  "alerta": ""
+ },
+ "CL-005": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/CL-005_L-332.svg",
+  "largura_mm": 51.9,
+  "altura_mm": 35.0,
+  "alerta": ""
+ },
+ "CL-006": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/CL-006.svg",
+  "largura_mm": 79.4,
+  "altura_mm": 67.4,
+  "alerta": ""
+ },
+ "CL-009": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/CL-009.svg",
+  "largura_mm": 90.0,
+  "altura_mm": 83.6,
+  "alerta": ""
+ },
+ "CL-010": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/CL-010.svg",
+  "largura_mm": 62.4,
+  "altura_mm": 14.9,
+  "alerta": ""
+ },
+ "CL-011": {
+  "pacote": "gold",
+  "arquivo": "gold/CL-011.svg",
+  "largura_mm": 52.5,
+  "altura_mm": 18.9,
+  "alerta": ""
+ },
+ "CL-015": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CL-015.svg",
+  "largura_mm": 52.1,
+  "altura_mm": 37.0,
+  "alerta": ""
+ },
+ "CL-017": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/CL-017.svg",
+  "largura_mm": 70.3,
+  "altura_mm": 33.7,
+  "alerta": ""
+ },
+ "CL-022": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CL-022.svg",
+  "largura_mm": 34.5,
+  "altura_mm": 30.3,
+  "alerta": ""
+ },
+ "CM-001": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/CM-001_E-494.svg",
+  "largura_mm": 114.6,
+  "altura_mm": 44.4,
+  "alerta": ""
+ },
+ "CM-002": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/CM-002.svg",
+  "largura_mm": 45.0,
+  "altura_mm": 38.7,
+  "alerta": ""
+ },
+ "CM-003": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/CM-003_E-495.svg",
+  "largura_mm": 91.4,
+  "altura_mm": 42.0,
+  "alerta": ""
+ },
+ "CM-004": {
+  "pacote": "gold",
+  "arquivo": "gold/CM-004_CM-0004.svg",
+  "largura_mm": 83.5,
+  "altura_mm": 46.5,
+  "alerta": ""
+ },
+ "CM-005": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/CM-005.svg",
+  "largura_mm": 40.0,
+  "altura_mm": 35.9,
+  "alerta": ""
+ },
+ "CM-006": {
+  "pacote": "gold",
+  "arquivo": "gold/CM-006.svg",
+  "largura_mm": 39.7,
+  "altura_mm": 50.5,
+  "alerta": ""
+ },
+ "CM-007": {
+  "pacote": "gold",
+  "arquivo": "gold/CM-007.svg",
+  "largura_mm": 40.1,
+  "altura_mm": 44.4,
+  "alerta": ""
+ },
+ "CM-008": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CM-008.svg",
+  "largura_mm": 42.6,
+  "altura_mm": 36.7,
+  "alerta": ""
+ },
+ "CM-013": {
+  "pacote": "gold",
+  "arquivo": "gold/CM-013.svg",
+  "largura_mm": 36.7,
+  "altura_mm": 25.7,
+  "alerta": ""
+ },
+ "CM-014": {
+  "pacote": "gold",
+  "arquivo": "gold/CM-014.svg",
+  "largura_mm": 31.2,
+  "altura_mm": 25.5,
+  "alerta": ""
+ },
+ "CM-029": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CM-029.svg",
+  "largura_mm": 55.6,
+  "altura_mm": 44.1,
+  "alerta": ""
+ },
+ "CM-060": {
+  "pacote": "gold",
+  "arquivo": "gold/CM-060.svg",
+  "largura_mm": 59.2,
+  "altura_mm": 35.3,
+  "alerta": ""
+ },
+ "CM-063": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/CM-063.svg",
+  "largura_mm": 64.9,
+  "altura_mm": 45.2,
+  "alerta": ""
+ },
+ "CM-064": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/CM-064.svg",
+  "largura_mm": 47.8,
+  "altura_mm": 39.9,
+  "alerta": ""
+ },
+ "CM-065": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/CM-065.svg",
+  "largura_mm": 69.3,
+  "altura_mm": 37.3,
+  "alerta": ""
+ },
+ "CM-067": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "geral-hera/CM-067_MAC-0693.svg",
+  "largura_mm": 77.5,
+  "altura_mm": 23.0,
+  "alerta": ""
+ },
+ "CM-093": {
+  "pacote": "gold",
+  "arquivo": "geral-alcoa/CM-093.svg",
+  "largura_mm": 183.1,
+  "altura_mm": 51.4,
+  "alerta": ""
+ },
+ "CM-098": {
+  "pacote": "gold",
+  "arquivo": "gold/CM-098_CM098.svg",
+  "largura_mm": 54.5,
+  "altura_mm": 67.2,
+  "alerta": ""
+ },
+ "CM-110": {
+  "pacote": "suprema",
+  "arquivo": "suprema/CM-110.svg",
+  "largura_mm": 51.3,
+  "altura_mm": 44.2,
+  "alerta": ""
+ },
+ "CM-111": {
+  "pacote": "suprema",
+  "arquivo": "suprema/CM-111.svg",
+  "largura_mm": 37.2,
+  "altura_mm": 42.6,
+  "alerta": ""
+ },
+ "CM-130": {
+  "pacote": "suprema",
+  "arquivo": "suprema/CM-130.svg",
+  "largura_mm": 40.8,
+  "altura_mm": 59.6,
+  "alerta": ""
+ },
+ "CM-151": {
+  "pacote": "gold",
+  "arquivo": "gold/CM-151_CM151.svg",
+  "largura_mm": 50.4,
+  "altura_mm": 65.9,
+  "alerta": ""
+ },
+ "CM-169": {
+  "pacote": "gold",
+  "arquivo": "gold/CM-169.svg",
+  "largura_mm": 62.1,
+  "altura_mm": 55.9,
+  "alerta": ""
+ },
+ "CX-001": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/CX-001.svg",
+  "largura_mm": 59.8,
+  "altura_mm": 41.3,
+  "alerta": ""
+ },
+ "CX-002": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/CX-002.svg",
+  "largura_mm": 61.7,
+  "altura_mm": 41.9,
+  "alerta": ""
+ },
+ "CX-071": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/CX-071.svg",
+  "largura_mm": 82.1,
+  "altura_mm": 70.5,
+  "alerta": ""
+ },
+ "CX-085": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/CX-085.svg",
+  "largura_mm": 98.8,
+  "altura_mm": 74.4,
+  "alerta": ""
+ },
+ "CX-1225": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/CX-1225.svg",
+  "largura_mm": 30.4,
+  "altura_mm": 36.6,
+  "alerta": ""
+ },
+ "CX-1226": {
+  "pacote": "suprema",
+  "arquivo": "suprema/CX-1226.svg",
+  "largura_mm": 47.7,
+  "altura_mm": 49.2,
+  "alerta": ""
+ },
+ "CX-5438": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/CX-5438.svg",
+  "largura_mm": 57.5,
+  "altura_mm": 33.3,
+  "alerta": ""
+ },
+ "D-102": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/D-102.svg",
+  "largura_mm": 50.9,
+  "altura_mm": 47.4,
+  "alerta": ""
+ },
+ "D-143": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote10/D-143_CX-085.svg",
+  "largura_mm": 98.1,
+  "altura_mm": 82.5,
+  "alerta": ""
+ },
+ "DS-005": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/DS-005_Z-063.svg",
+  "largura_mm": 51.0,
+  "altura_mm": 35.2,
+  "alerta": ""
+ },
+ "DS-006": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/DS-006.svg",
+  "largura_mm": 50.0,
+  "altura_mm": 36.2,
+  "alerta": ""
+ },
+ "DS-015": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/DS-015_E-463.svg",
+  "largura_mm": 39.3,
+  "altura_mm": 34.5,
+  "alerta": ""
+ },
+ "DS-016": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/DS-016_I-151.svg",
+  "largura_mm": 34.0,
+  "altura_mm": 33.0,
+  "alerta": ""
+ },
+ "DS-017": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/DS-017_E-252.svg",
+  "largura_mm": 35.3,
+  "altura_mm": 32.4,
+  "alerta": ""
+ },
+ "DS-020": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/DS-020_I-186.svg",
+  "largura_mm": 40.4,
+  "altura_mm": 31.0,
+  "alerta": ""
+ },
+ "DS-021": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/DS-021_I-185.svg",
+  "largura_mm": 40.1,
+  "altura_mm": 32.8,
+  "alerta": ""
+ },
+ "DS-023": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/DS-023.svg",
+  "largura_mm": 36.2,
+  "altura_mm": 25.8,
+  "alerta": ""
+ },
+ "DS-024": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/DS-024.svg",
+  "largura_mm": 42.0,
+  "altura_mm": 21.1,
+  "alerta": ""
+ },
+ "DS-027": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/DS-027.svg",
+  "largura_mm": 29.1,
+  "altura_mm": 45.3,
+  "alerta": ""
+ },
+ "DS-028": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/DS-028_T-180.svg",
+  "largura_mm": 37.1,
+  "altura_mm": 49.6,
+  "alerta": ""
+ },
+ "DS-030": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/DS-030.svg",
+  "largura_mm": 52.8,
+  "altura_mm": 45.6,
+  "alerta": ""
+ },
+ "DS-033": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/DS-033.svg",
+  "largura_mm": 70.0,
+  "altura_mm": 44.3,
+  "alerta": ""
+ },
+ "DS-034": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/DS-034.svg",
+  "largura_mm": 93.6,
+  "altura_mm": 44.5,
+  "alerta": ""
+ },
+ "DS-152": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/DS-152.svg",
+  "largura_mm": 61.9,
+  "altura_mm": 59.3,
+  "alerta": ""
+ },
+ "DS-238": {
+  "pacote": "gold",
+  "arquivo": "gold/DS-238_DS238.svg",
+  "largura_mm": 43.0,
+  "altura_mm": 57.1,
+  "alerta": ""
+ },
+ "DV-021": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/DV-021.svg",
+  "largura_mm": 73.0,
+  "altura_mm": 44.1,
+  "alerta": ""
+ },
+ "DV-055": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-tera/DV-055.svg",
+  "largura_mm": 70.2,
+  "altura_mm": 25.9,
+  "alerta": ""
+ },
+ "DV-071": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/DV-071.svg",
+  "largura_mm": 74.1,
+  "altura_mm": 37.4,
+  "alerta": ""
+ },
+ "DV-072": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/DV-072.svg",
+  "largura_mm": 73.0,
+  "altura_mm": 46.7,
+  "alerta": ""
+ },
+ "DV-073": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/DV-073.svg",
+  "largura_mm": 79.9,
+  "altura_mm": 51.1,
+  "alerta": ""
+ },
+ "DV-074": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/DV-074.svg",
+  "largura_mm": 89.7,
+  "altura_mm": 46.5,
+  "alerta": ""
+ },
+ "DV-100": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/DV-100.svg",
+  "largura_mm": 74.4,
+  "altura_mm": 60.1,
+  "alerta": ""
+ },
+ "DV-101": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-tera/DV-101.svg",
+  "largura_mm": 74.9,
+  "altura_mm": 61.9,
+  "alerta": ""
+ },
+ "DV-102": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/DV-102.svg",
+  "largura_mm": 43.7,
+  "altura_mm": 69.3,
+  "alerta": ""
+ },
+ "DV-103": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/DV-103.svg",
+  "largura_mm": 62.0,
+  "altura_mm": 33.8,
+  "alerta": ""
+ },
+ "DV-105": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote9/DV-105_DV-129.svg",
+  "largura_mm": 86.4,
+  "altura_mm": 47.6,
+  "alerta": ""
+ },
+ "DV-108": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/DV-108.svg",
+  "largura_mm": 66.5,
+  "altura_mm": 42.4,
+  "alerta": ""
+ },
+ "DV-110": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/DV-110.svg",
+  "largura_mm": 75.4,
+  "altura_mm": 41.1,
+  "alerta": ""
+ },
+ "DV-111": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/DV-111.svg",
+  "largura_mm": 47.7,
+  "altura_mm": 27.3,
+  "alerta": ""
+ },
+ "DV-112": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/DV-112.svg",
+  "largura_mm": 76.2,
+  "altura_mm": 50.4,
+  "alerta": ""
+ },
+ "DV-113": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/DV-113.svg",
+  "largura_mm": 26.2,
+  "altura_mm": 59.8,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "DV-115": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/DV-115.svg",
+  "largura_mm": 28.5,
+  "altura_mm": 73.9,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "DV-211": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/DV-211.svg",
+  "largura_mm": 27.4,
+  "altura_mm": 62.1,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "DV-300": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/DV-300.svg",
+  "largura_mm": 84.8,
+  "altura_mm": 93.0,
+  "alerta": ""
+ },
+ "DV-302": {
+  "pacote": "folhas-cliente",
+  "arquivo": "folhas-cliente/DV-302.svg",
+  "largura_mm": 58.0,
+  "altura_mm": 77.5,
+  "alerta": ""
+ },
+ "DV-400": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/DV-400.svg",
+  "largura_mm": 49.5,
+  "altura_mm": 28.1,
+  "alerta": ""
+ },
+ "E-484": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/E-484.svg",
+  "largura_mm": 124.9,
+  "altura_mm": 37.6,
+  "alerta": ""
+ },
+ "E-725": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/E-725_39-1271C.svg",
+  "largura_mm": 63.5,
+  "altura_mm": 36.9,
+  "alerta": ""
+ },
+ "ES-001": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-001.svg",
+  "largura_mm": 86.7,
+  "altura_mm": 79.8,
+  "alerta": ""
+ },
+ "ES-002": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-002.svg",
+  "largura_mm": 64.8,
+  "altura_mm": 93.0,
+  "alerta": ""
+ },
+ "ES-004": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-004.svg",
+  "largura_mm": 70.9,
+  "altura_mm": 53.4,
+  "alerta": ""
+ },
+ "ES-006": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-006.svg",
+  "largura_mm": 38.5,
+  "altura_mm": 39.4,
+  "alerta": ""
+ },
+ "ES-010": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-010.svg",
+  "largura_mm": 40.8,
+  "altura_mm": 44.2,
+  "alerta": ""
+ },
+ "ES-016": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-016.svg",
+  "largura_mm": 87.5,
+  "altura_mm": 56.3,
+  "alerta": ""
+ },
+ "ES-018": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-018.svg",
+  "largura_mm": 92.0,
+  "altura_mm": 80.5,
+  "alerta": ""
+ },
+ "ES-019": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-019.svg",
+  "largura_mm": 73.4,
+  "altura_mm": 65.5,
+  "alerta": ""
+ },
+ "ES-022": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-022.svg",
+  "largura_mm": 45.2,
+  "altura_mm": 34.0,
+  "alerta": ""
+ },
+ "ES-024": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-024.svg",
+  "largura_mm": 20.3,
+  "altura_mm": 24.0,
+  "alerta": ""
+ },
+ "ES-028": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-028.svg",
+  "largura_mm": 77.8,
+  "altura_mm": 118.0,
+  "alerta": ""
+ },
+ "ES-030": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-030.svg",
+  "largura_mm": 63.7,
+  "altura_mm": 67.9,
+  "alerta": ""
+ },
+ "ES-031": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-031.svg",
+  "largura_mm": 74.7,
+  "altura_mm": 82.3,
+  "alerta": ""
+ },
+ "ES-033": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-033.svg",
+  "largura_mm": 48.1,
+  "altura_mm": 33.4,
+  "alerta": ""
+ },
+ "ES-034": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-034.svg",
+  "largura_mm": 53.6,
+  "altura_mm": 35.1,
+  "alerta": ""
+ },
+ "ES-040": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-040.svg",
+  "largura_mm": 81.2,
+  "altura_mm": 81.1,
+  "alerta": ""
+ },
+ "ES-042R": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-042R.svg",
+  "largura_mm": 132.3,
+  "altura_mm": 124.2,
+  "alerta": ""
+ },
+ "ES-046": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-046.svg",
+  "largura_mm": 82.2,
+  "altura_mm": 107.9,
+  "alerta": ""
+ },
+ "ES-047": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "euroshow/ES-047.svg",
+  "largura_mm": 79.9,
+  "altura_mm": 113.0,
+  "alerta": ""
+ },
+ "FC-012": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-012.svg",
+  "largura_mm": 56.1,
+  "altura_mm": 93.5,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "FC-013": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-013.svg",
+  "largura_mm": 54.5,
+  "altura_mm": 39.5,
+  "alerta": ""
+ },
+ "FC-014": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-014.svg",
+  "largura_mm": 50.7,
+  "altura_mm": 24.6,
+  "alerta": ""
+ },
+ "FC-017": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-017.svg",
+  "largura_mm": 66.0,
+  "altura_mm": 111.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "FC-085": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-085.svg",
+  "largura_mm": 62.2,
+  "altura_mm": 30.9,
+  "alerta": ""
+ },
+ "FC-087": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/FC-087.svg",
+  "largura_mm": 163.3,
+  "altura_mm": 60.0,
+  "alerta": ""
+ },
+ "FC-088": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-088.svg",
+  "largura_mm": 172.1,
+  "altura_mm": 63.8,
+  "alerta": ""
+ },
+ "FC-202": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-202.svg",
+  "largura_mm": 146.7,
+  "altura_mm": 115.6,
+  "alerta": ""
+ },
+ "FC-225": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-225.svg",
+  "largura_mm": 68.1,
+  "altura_mm": 51.2,
+  "alerta": ""
+ },
+ "FC-227": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/FC-227.svg",
+  "largura_mm": 79.6,
+  "altura_mm": 76.5,
+  "alerta": ""
+ },
+ "FC-228": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-228.svg",
+  "largura_mm": 72.3,
+  "altura_mm": 54.4,
+  "alerta": ""
+ },
+ "FC-229": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/FC-229.svg",
+  "largura_mm": 98.3,
+  "altura_mm": 34.6,
+  "alerta": ""
+ },
+ "FC-231": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-231.svg",
+  "largura_mm": 84.0,
+  "altura_mm": 66.6,
+  "alerta": ""
+ },
+ "FC-232": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/FC-232.svg",
+  "largura_mm": 77.3,
+  "altura_mm": 70.4,
+  "alerta": ""
+ },
+ "FC-243": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-243.svg",
+  "largura_mm": 126.7,
+  "altura_mm": 66.7,
+  "alerta": ""
+ },
+ "FC-246": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-246.svg",
+  "largura_mm": 134.6,
+  "altura_mm": 35.1,
+  "alerta": ""
+ },
+ "FC-249": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-249.svg",
+  "largura_mm": 81.8,
+  "altura_mm": 77.0,
+  "alerta": ""
+ },
+ "FC-250": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-250.svg",
+  "largura_mm": 150.9,
+  "altura_mm": 37.6,
+  "alerta": ""
+ },
+ "FC-258": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/FC-258.svg",
+  "largura_mm": 90.3,
+  "altura_mm": 22.6,
+  "alerta": ""
+ },
+ "FC-261": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-261.svg",
+  "largura_mm": 67.7,
+  "altura_mm": 54.8,
+  "alerta": ""
+ },
+ "FC-293": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-293.svg",
+  "largura_mm": 76.2,
+  "altura_mm": 51.5,
+  "alerta": ""
+ },
+ "FC-542": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-542.svg",
+  "largura_mm": 65.1,
+  "altura_mm": 36.1,
+  "alerta": ""
+ },
+ "FC-543": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/FC-543.svg",
+  "largura_mm": 62.5,
+  "altura_mm": 23.0,
+  "alerta": ""
+ },
+ "LB-036": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/LB-036.svg",
+  "largura_mm": 175.0,
+  "altura_mm": 38.9,
+  "alerta": ""
+ },
+ "LB-038": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/LB-038.svg",
+  "largura_mm": 190.7,
+  "altura_mm": 69.4,
+  "alerta": ""
+ },
+ "LB-050": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/LB-050.svg",
+  "largura_mm": 191.2,
+  "altura_mm": 38.1,
+  "alerta": ""
+ },
+ "LB-051": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/LB-051_Y-360.svg",
+  "largura_mm": 170.3,
+  "altura_mm": 17.9,
+  "alerta": ""
+ },
+ "LB-069": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/LB-069.svg",
+  "largura_mm": 83.7,
+  "altura_mm": 197.9,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LB072": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/LB072.svg",
+  "largura_mm": 178.9,
+  "altura_mm": 62.1,
+  "alerta": ""
+ },
+ "LB073": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/LB073.svg",
+  "largura_mm": 166.2,
+  "altura_mm": 57.1,
+  "alerta": ""
+ },
+ "LB074": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/LB074.svg",
+  "largura_mm": 189.1,
+  "altura_mm": 58.6,
+  "alerta": ""
+ },
+ "LG-002": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-002.svg",
+  "largura_mm": 126.0,
+  "altura_mm": 39.5,
+  "alerta": ""
+ },
+ "LG-003": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-003.svg",
+  "largura_mm": 129.5,
+  "altura_mm": 46.3,
+  "alerta": ""
+ },
+ "LG-004": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-004.svg",
+  "largura_mm": 148.7,
+  "altura_mm": 83.4,
+  "alerta": ""
+ },
+ "LG-005": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-005.svg",
+  "largura_mm": 102.3,
+  "altura_mm": 93.9,
+  "alerta": ""
+ },
+ "LG-006": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-006.svg",
+  "largura_mm": 71.4,
+  "altura_mm": 69.5,
+  "alerta": ""
+ },
+ "LG-007": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-007.svg",
+  "largura_mm": 75.4,
+  "altura_mm": 102.7,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-015": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-015.svg",
+  "largura_mm": 42.5,
+  "altura_mm": 33.2,
+  "alerta": ""
+ },
+ "LG-016": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-016.svg",
+  "largura_mm": 65.0,
+  "altura_mm": 66.2,
+  "alerta": ""
+ },
+ "LG-017": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-017.svg",
+  "largura_mm": 87.7,
+  "altura_mm": 96.9,
+  "alerta": ""
+ },
+ "LG-018": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-018.svg",
+  "largura_mm": 83.9,
+  "altura_mm": 99.7,
+  "alerta": ""
+ },
+ "LG-019": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-019.svg",
+  "largura_mm": 92.9,
+  "altura_mm": 81.9,
+  "alerta": ""
+ },
+ "LG-020": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-020.svg",
+  "largura_mm": 91.6,
+  "altura_mm": 85.4,
+  "alerta": ""
+ },
+ "LG-021": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-021.svg",
+  "largura_mm": 87.3,
+  "altura_mm": 105.0,
+  "alerta": ""
+ },
+ "LG-022": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-022.svg",
+  "largura_mm": 69.1,
+  "altura_mm": 113.6,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-023": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-023.svg",
+  "largura_mm": 86.8,
+  "altura_mm": 101.3,
+  "alerta": ""
+ },
+ "LG-024": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-024.svg",
+  "largura_mm": 124.0,
+  "altura_mm": 72.3,
+  "alerta": ""
+ },
+ "LG-026": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-026.svg",
+  "largura_mm": 38.2,
+  "altura_mm": 39.5,
+  "alerta": ""
+ },
+ "LG-027": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-027.svg",
+  "largura_mm": 32.7,
+  "altura_mm": 42.7,
+  "alerta": ""
+ },
+ "LG-028": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-028.svg",
+  "largura_mm": 59.9,
+  "altura_mm": 43.5,
+  "alerta": ""
+ },
+ "LG-042": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-042.svg",
+  "largura_mm": 47.5,
+  "altura_mm": 115.6,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-043": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-043.svg",
+  "largura_mm": 59.9,
+  "altura_mm": 85.8,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-044": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-044.svg",
+  "largura_mm": 125.4,
+  "altura_mm": 54.3,
+  "alerta": ""
+ },
+ "LG-045": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-045.svg",
+  "largura_mm": 115.9,
+  "altura_mm": 57.9,
+  "alerta": ""
+ },
+ "LG-046": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-046.svg",
+  "largura_mm": 59.3,
+  "altura_mm": 36.7,
+  "alerta": ""
+ },
+ "LG-047": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-047.svg",
+  "largura_mm": 147.6,
+  "altura_mm": 66.3,
+  "alerta": ""
+ },
+ "LG-048": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-048.svg",
+  "largura_mm": 80.3,
+  "altura_mm": 62.5,
+  "alerta": ""
+ },
+ "LG-049": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-049.svg",
+  "largura_mm": 82.0,
+  "altura_mm": 74.7,
+  "alerta": ""
+ },
+ "LG-050": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-050.svg",
+  "largura_mm": 80.1,
+  "altura_mm": 65.7,
+  "alerta": ""
+ },
+ "LG-051": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-051.svg",
+  "largura_mm": 89.3,
+  "altura_mm": 74.3,
+  "alerta": ""
+ },
+ "LG-052": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-052.svg",
+  "largura_mm": 87.9,
+  "altura_mm": 101.3,
+  "alerta": ""
+ },
+ "LG-054": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-054.svg",
+  "largura_mm": 89.9,
+  "altura_mm": 105.2,
+  "alerta": ""
+ },
+ "LG-055": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-055.svg",
+  "largura_mm": 51.9,
+  "altura_mm": 76.8,
+  "alerta": ""
+ },
+ "LG-056": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-056.svg",
+  "largura_mm": 66.9,
+  "altura_mm": 65.2,
+  "alerta": ""
+ },
+ "LG-056R": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/LG-056R.svg",
+  "largura_mm": 59.4,
+  "altura_mm": 63.6,
+  "alerta": ""
+ },
+ "LG-058": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-058.svg",
+  "largura_mm": 52.0,
+  "altura_mm": 65.8,
+  "alerta": ""
+ },
+ "LG-059": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-059.svg",
+  "largura_mm": 31.5,
+  "altura_mm": 29.9,
+  "alerta": ""
+ },
+ "LG-060": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote9/LG-060_SI-330.svg",
+  "largura_mm": 60.0,
+  "altura_mm": 36.3,
+  "alerta": ""
+ },
+ "LG-061": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-061.svg",
+  "largura_mm": 48.6,
+  "altura_mm": 62.0,
+  "alerta": ""
+ },
+ "LG-062": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-062.svg",
+  "largura_mm": 169.8,
+  "altura_mm": 54.3,
+  "alerta": ""
+ },
+ "LG-063": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-063.svg",
+  "largura_mm": 60.2,
+  "altura_mm": 72.1,
+  "alerta": ""
+ },
+ "LG-064": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-064.svg",
+  "largura_mm": 173.0,
+  "altura_mm": 59.3,
+  "alerta": ""
+ },
+ "LG-066": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-066.svg",
+  "largura_mm": 174.8,
+  "altura_mm": 57.3,
+  "alerta": ""
+ },
+ "LG-068": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-068_LG-0068.svg",
+  "largura_mm": 55.2,
+  "altura_mm": 68.2,
+  "alerta": ""
+ },
+ "LG-070": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-070_LG070.svg",
+  "largura_mm": 65.8,
+  "altura_mm": 203.2,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-071": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/LG-071.svg",
+  "largura_mm": 67.0,
+  "altura_mm": 209.5,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-072": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-072_LG072.svg",
+  "largura_mm": 48.0,
+  "altura_mm": 186.9,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-074": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-074_LG-0074.svg",
+  "largura_mm": 89.6,
+  "altura_mm": 67.5,
+  "alerta": ""
+ },
+ "LG-075": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-075_LG-0075.svg",
+  "largura_mm": 85.1,
+  "altura_mm": 77.6,
+  "alerta": ""
+ },
+ "LG-076": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-076_LG-0076.svg",
+  "largura_mm": 52.4,
+  "altura_mm": 82.6,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-077": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-077_LG-0077.svg",
+  "largura_mm": 55.8,
+  "altura_mm": 63.3,
+  "alerta": ""
+ },
+ "LG-079": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-079_LG-0079.svg",
+  "largura_mm": 75.1,
+  "altura_mm": 58.5,
+  "alerta": ""
+ },
+ "LG-080": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-080_LG-0080.svg",
+  "largura_mm": 87.7,
+  "altura_mm": 77.6,
+  "alerta": ""
+ },
+ "LG-082": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-082_LG-0082.svg",
+  "largura_mm": 56.6,
+  "altura_mm": 50.8,
+  "alerta": ""
+ },
+ "LG-083": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-083_LG-0083.svg",
+  "largura_mm": 56.0,
+  "altura_mm": 58.2,
+  "alerta": ""
+ },
+ "LG-085": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-085_LG-0085.svg",
+  "largura_mm": 65.5,
+  "altura_mm": 60.8,
+  "alerta": ""
+ },
+ "LG-091": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-091_LG-0091.svg",
+  "largura_mm": 28.0,
+  "altura_mm": 27.6,
+  "alerta": ""
+ },
+ "LG-092": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-092_LG-0092.svg",
+  "largura_mm": 25.9,
+  "altura_mm": 34.5,
+  "alerta": ""
+ },
+ "LG-111": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-111_LG111.svg",
+  "largura_mm": 16.2,
+  "altura_mm": 16.4,
+  "alerta": ""
+ },
+ "LG-124": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-124_LG124.svg",
+  "largura_mm": 47.1,
+  "altura_mm": 114.8,
+  "alerta": ""
+ },
+ "LG-126": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-126_LG126.svg",
+  "largura_mm": 88.1,
+  "altura_mm": 70.5,
+  "alerta": ""
+ },
+ "LG-127": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-127_LG127.svg",
+  "largura_mm": 78.4,
+  "altura_mm": 106.0,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-128": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-128_LG128.svg",
+  "largura_mm": 78.5,
+  "altura_mm": 59.3,
+  "alerta": ""
+ },
+ "LG-129": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-129_LG129.svg",
+  "largura_mm": 56.4,
+  "altura_mm": 107.6,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-129E": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/LG-129E.svg",
+  "largura_mm": 60.0,
+  "altura_mm": 110.4,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-130": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-130_LG130.svg",
+  "largura_mm": 50.3,
+  "altura_mm": 66.0,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-132": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-132_LG132.svg",
+  "largura_mm": 78.9,
+  "altura_mm": 52.0,
+  "alerta": ""
+ },
+ "LG-133": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-133_LG133.svg",
+  "largura_mm": 100.8,
+  "altura_mm": 68.8,
+  "alerta": ""
+ },
+ "LG-134": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-134_LG134.svg",
+  "largura_mm": 102.9,
+  "altura_mm": 83.8,
+  "alerta": ""
+ },
+ "LG-143": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-143_LG143.svg",
+  "largura_mm": 174.2,
+  "altura_mm": 53.5,
+  "alerta": ""
+ },
+ "LG-144": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-144_LG144.svg",
+  "largura_mm": 63.8,
+  "altura_mm": 158.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-145": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-145_LG145.svg",
+  "largura_mm": 64.3,
+  "altura_mm": 158.0,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-158": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-158_LG158.svg",
+  "largura_mm": 46.3,
+  "altura_mm": 163.8,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-159": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-159_LG159.svg",
+  "largura_mm": 123.4,
+  "altura_mm": 74.5,
+  "alerta": ""
+ },
+ "LG-160": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-160_LG160.svg",
+  "largura_mm": 67.1,
+  "altura_mm": 202.0,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-161": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-161_LG161.svg",
+  "largura_mm": 61.4,
+  "altura_mm": 194.9,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-162": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-162_LG162.svg",
+  "largura_mm": 77.6,
+  "altura_mm": 62.5,
+  "alerta": ""
+ },
+ "LG-164": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-164_LG164.svg",
+  "largura_mm": 28.8,
+  "altura_mm": 29.3,
+  "alerta": ""
+ },
+ "LG-176": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-176_LG176.svg",
+  "largura_mm": 71.0,
+  "altura_mm": 123.0,
+  "alerta": ""
+ },
+ "LG-201": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-201_LG201.svg",
+  "largura_mm": 88.7,
+  "altura_mm": 94.7,
+  "alerta": ""
+ },
+ "LG-233": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-233_LG233.svg",
+  "largura_mm": 78.6,
+  "altura_mm": 169.7,
+  "alerta": ""
+ },
+ "LG-234": {
+  "pacote": "gold",
+  "arquivo": "gold/LG-234_LG234.svg",
+  "largura_mm": 51.1,
+  "altura_mm": 157.6,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-570": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote9/LG-570_MG32-126.svg",
+  "largura_mm": 46.0,
+  "altura_mm": 220.8,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-571": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote9/LG-571.svg",
+  "largura_mm": 63.3,
+  "altura_mm": 250.1,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LG-572": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote9/LG-572_MG32-127.svg",
+  "largura_mm": 38.0,
+  "altura_mm": 220.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "LM-002": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/LM-002.svg",
+  "largura_mm": 172.3,
+  "altura_mm": 39.3,
+  "alerta": ""
+ },
+ "MB-001": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/MB-001.svg",
+  "largura_mm": 71.1,
+  "altura_mm": 56.2,
+  "alerta": ""
+ },
+ "MB-002": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/MB-002.svg",
+  "largura_mm": 74.3,
+  "altura_mm": 51.8,
+  "alerta": ""
+ },
+ "MB-003": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/MB-003.svg",
+  "largura_mm": 63.6,
+  "altura_mm": 28.6,
+  "alerta": ""
+ },
+ "MB-004": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/MB-004.svg",
+  "largura_mm": 87.7,
+  "altura_mm": 57.8,
+  "alerta": ""
+ },
+ "MB-005": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/MB-005.svg",
+  "largura_mm": 86.2,
+  "altura_mm": 50.7,
+  "alerta": ""
+ },
+ "MB-006": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/MB-006.svg",
+  "largura_mm": 89.1,
+  "altura_mm": 28.4,
+  "alerta": ""
+ },
+ "MB-009": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/MB-009.svg",
+  "largura_mm": 32.0,
+  "altura_mm": 44.4,
+  "alerta": ""
+ },
+ "MB-011": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/MB-011.svg",
+  "largura_mm": 41.4,
+  "altura_mm": 54.1,
+  "alerta": ""
+ },
+ "MB-013": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/MB-013.svg",
+  "largura_mm": 44.2,
+  "altura_mm": 29.5,
+  "alerta": ""
+ },
+ "MB-014": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/MB-014.svg",
+  "largura_mm": 51.6,
+  "altura_mm": 35.4,
+  "alerta": ""
+ },
+ "MB-015": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/MB-015.svg",
+  "largura_mm": 50.3,
+  "altura_mm": 45.0,
+  "alerta": ""
+ },
+ "MB-016": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/MB-016.svg",
+  "largura_mm": 52.7,
+  "altura_mm": 43.3,
+  "alerta": ""
+ },
+ "MB-017": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/MB-017.svg",
+  "largura_mm": 56.1,
+  "altura_mm": 42.5,
+  "alerta": ""
+ },
+ "MB-023": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/MB-023.svg",
+  "largura_mm": 34.5,
+  "altura_mm": 35.1,
+  "alerta": ""
+ },
+ "ME-013": {
+  "pacote": "suprema",
+  "arquivo": "suprema/ME-013.svg",
+  "largura_mm": 71.2,
+  "altura_mm": 52.8,
+  "alerta": ""
+ },
+ "ME-092": {
+  "pacote": "gold",
+  "arquivo": "gold/ME-092.svg",
+  "largura_mm": 30.2,
+  "altura_mm": 41.1,
+  "alerta": ""
+ },
+ "MM-008": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/MM-008.svg",
+  "largura_mm": 35.6,
+  "altura_mm": 51.1,
+  "alerta": ""
+ },
+ "MM-010": {
+  "pacote": "base-prototipo",
+  "arquivo": "desenhos/MM-010.svg",
+  "largura_mm": 27.9,
+  "altura_mm": 64.9,
+  "alerta": ""
+ },
+ "MN-001": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/MN-001.svg",
+  "largura_mm": 166.9,
+  "altura_mm": 55.5,
+  "alerta": ""
+ },
+ "MN-002": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/MN-002.svg",
+  "largura_mm": 122.1,
+  "altura_mm": 28.9,
+  "alerta": ""
+ },
+ "MN-003": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/MN-003.svg",
+  "largura_mm": 170.0,
+  "altura_mm": 48.7,
+  "alerta": ""
+ },
+ "MN-005": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/MN-005.svg",
+  "largura_mm": 129.1,
+  "altura_mm": 118.2,
+  "alerta": ""
+ },
+ "MN-006": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/MN-006.svg",
+  "largura_mm": 96.3,
+  "altura_mm": 122.4,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "MN-007": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/MN-007.svg",
+  "largura_mm": 84.1,
+  "altura_mm": 52.0,
+  "alerta": ""
+ },
+ "MN-008": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/MN-008.svg",
+  "largura_mm": 103.0,
+  "altura_mm": 210.0,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "MN-010": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/MN-010.svg",
+  "largura_mm": 159.9,
+  "altura_mm": 76.6,
+  "alerta": ""
+ },
+ "MN-015": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/MN-015.svg",
+  "largura_mm": 96.7,
+  "altura_mm": 89.3,
+  "alerta": ""
+ },
+ "MN-023": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/MN-023.svg",
+  "largura_mm": 141.1,
+  "altura_mm": 42.6,
+  "alerta": ""
+ },
+ "MN-027": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/MN-027.svg",
+  "largura_mm": 106.6,
+  "altura_mm": 43.7,
+  "alerta": ""
+ },
+ "MN-030": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/MN-030.svg",
+  "largura_mm": 171.1,
+  "altura_mm": 95.3,
+  "alerta": ""
+ },
+ "MN-031": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/MN-031.svg",
+  "largura_mm": 64.3,
+  "altura_mm": 185.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "MN-032": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/MN-032.svg",
+  "largura_mm": 91.0,
+  "altura_mm": 205.8,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "MN-039": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/MN-039.svg",
+  "largura_mm": 72.4,
+  "altura_mm": 229.4,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "MN-050": {
+  "pacote": "gold",
+  "arquivo": "gold/MN-050_MN050.svg",
+  "largura_mm": 108.9,
+  "altura_mm": 54.4,
+  "alerta": ""
+ },
+ "MN-055": {
+  "pacote": "gold",
+  "arquivo": "gold/MN-055_MN055.svg",
+  "largura_mm": 36.4,
+  "altura_mm": 50.2,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "PC-000": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/PC-000.svg",
+  "largura_mm": 65.1,
+  "altura_mm": 60.9,
+  "alerta": ""
+ },
+ "PC-001": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/PC-001_E-363.svg",
+  "largura_mm": 114.6,
+  "altura_mm": 62.5,
+  "alerta": ""
+ },
+ "PC-002": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/PC-002.svg",
+  "largura_mm": 69.0,
+  "altura_mm": 49.9,
+  "alerta": ""
+ },
+ "PC-003": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/PC-003.svg",
+  "largura_mm": 95.1,
+  "altura_mm": 60.3,
+  "alerta": ""
+ },
+ "PC-004": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/PC-004.svg",
+  "largura_mm": 67.8,
+  "altura_mm": 58.3,
+  "alerta": ""
+ },
+ "PC-005": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/PC-005_E-365.svg",
+  "largura_mm": 99.9,
+  "altura_mm": 37.3,
+  "alerta": ""
+ },
+ "PC-006": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/PC-006.svg",
+  "largura_mm": 65.7,
+  "altura_mm": 40.7,
+  "alerta": ""
+ },
+ "PC-009": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/PC-009.svg",
+  "largura_mm": 130.5,
+  "altura_mm": 68.6,
+  "alerta": ""
+ },
+ "PC-010": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/PC-010.svg",
+  "largura_mm": 99.3,
+  "altura_mm": 71.5,
+  "alerta": ""
+ },
+ "PC-011": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/PC-011.svg",
+  "largura_mm": 93.3,
+  "altura_mm": 72.8,
+  "alerta": ""
+ },
+ "PC-070": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/PC-070_78-778.svg",
+  "largura_mm": 63.6,
+  "altura_mm": 101.1,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "PC-071": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/PC-071_78-777.svg",
+  "largura_mm": 92.6,
+  "altura_mm": 57.1,
+  "alerta": ""
+ },
+ "PMO-023": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/PMO-023_MG20-107.svg",
+  "largura_mm": 37.4,
+  "altura_mm": 66.2,
+  "alerta": ""
+ },
+ "PMO-024": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/PMO-024_MG20-105.svg",
+  "largura_mm": 78.7,
+  "altura_mm": 58.9,
+  "alerta": ""
+ },
+ "PP-002": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/PP-002.svg",
+  "largura_mm": 62.0,
+  "altura_mm": 18.0,
+  "alerta": ""
+ },
+ "PP-004": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/PP-004.svg",
+  "largura_mm": 61.4,
+  "altura_mm": 20.8,
+  "alerta": ""
+ },
+ "PP-005": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/PP-005.svg",
+  "largura_mm": 52.5,
+  "altura_mm": 18.0,
+  "alerta": ""
+ },
+ "PV-001": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/PV-001.svg",
+  "largura_mm": 47.0,
+  "altura_mm": 59.1,
+  "alerta": ""
+ },
+ "PV-002": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/PV-002.svg",
+  "largura_mm": 42.9,
+  "altura_mm": 30.0,
+  "alerta": ""
+ },
+ "SI-348": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/SI-348.svg",
+  "largura_mm": 72.6,
+  "altura_mm": 64.0,
+  "alerta": ""
+ },
+ "SI-349": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/SI-349.svg",
+  "largura_mm": 69.8,
+  "altura_mm": 61.6,
+  "alerta": ""
+ },
+ "SI-369": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/SI-369.svg",
+  "largura_mm": 64.9,
+  "altura_mm": 41.0,
+  "alerta": ""
+ },
+ "ST-001": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-001.svg",
+  "largura_mm": 31.5,
+  "altura_mm": 90.4,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "ST-002": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-002.svg",
+  "largura_mm": 36.4,
+  "altura_mm": 73.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "ST-004": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-004.svg",
+  "largura_mm": 62.1,
+  "altura_mm": 59.7,
+  "alerta": ""
+ },
+ "ST-008": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-008.svg",
+  "largura_mm": 79.7,
+  "altura_mm": 39.9,
+  "alerta": ""
+ },
+ "ST-009": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-009.svg",
+  "largura_mm": 62.2,
+  "altura_mm": 52.8,
+  "alerta": ""
+ },
+ "ST-010": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-010.svg",
+  "largura_mm": 36.9,
+  "altura_mm": 69.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "ST-011": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-011.svg",
+  "largura_mm": 81.6,
+  "altura_mm": 59.4,
+  "alerta": ""
+ },
+ "ST-013": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-013.svg",
+  "largura_mm": 62.2,
+  "altura_mm": 89.0,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "ST-014": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-014.svg",
+  "largura_mm": 36.9,
+  "altura_mm": 86.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "ST-015": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-015.svg",
+  "largura_mm": 36.9,
+  "altura_mm": 54.2,
+  "alerta": ""
+ },
+ "ST-016": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-016.svg",
+  "largura_mm": 79.7,
+  "altura_mm": 68.9,
+  "alerta": ""
+ },
+ "ST-017": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-017.svg",
+  "largura_mm": 79.7,
+  "altura_mm": 53.0,
+  "alerta": ""
+ },
+ "ST-018": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-018.svg",
+  "largura_mm": 45.6,
+  "altura_mm": 79.0,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "ST-019": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-019.svg",
+  "largura_mm": 109.7,
+  "altura_mm": 75.9,
+  "alerta": ""
+ },
+ "ST-020": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-020.svg",
+  "largura_mm": 109.6,
+  "altura_mm": 52.9,
+  "alerta": ""
+ },
+ "ST-021": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-021.svg",
+  "largura_mm": 45.6,
+  "altura_mm": 108.9,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "ST-022": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-022.svg",
+  "largura_mm": 45.3,
+  "altura_mm": 108.9,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "ST-024": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-024.svg",
+  "largura_mm": 55.1,
+  "altura_mm": 55.9,
+  "alerta": ""
+ },
+ "ST-027": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-027.svg",
+  "largura_mm": 122.7,
+  "altura_mm": 66.3,
+  "alerta": ""
+ },
+ "ST-028": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-028.svg",
+  "largura_mm": 53.8,
+  "altura_mm": 35.3,
+  "alerta": ""
+ },
+ "ST-030": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-030.svg",
+  "largura_mm": 39.8,
+  "altura_mm": 30.4,
+  "alerta": ""
+ },
+ "ST-031": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-031.svg",
+  "largura_mm": 106.0,
+  "altura_mm": 47.6,
+  "alerta": ""
+ },
+ "ST-040": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-040.svg",
+  "largura_mm": 54.4,
+  "altura_mm": 65.5,
+  "alerta": ""
+ },
+ "ST-050": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/ST-050.svg",
+  "largura_mm": 46.7,
+  "altura_mm": 56.2,
+  "alerta": ""
+ },
+ "STL-221": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "stelman-avulso/STL-221_AP-221.svg",
+  "largura_mm": 110.8,
+  "altura_mm": 55.9,
+  "alerta": ""
+ },
+ "SU-001": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-001.svg",
+  "largura_mm": 112.7,
+  "altura_mm": 45.3,
+  "alerta": ""
+ },
+ "SU-002": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-002.svg",
+  "largura_mm": 116.2,
+  "altura_mm": 67.2,
+  "alerta": ""
+ },
+ "SU-003": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-003.svg",
+  "largura_mm": 110.0,
+  "altura_mm": 59.7,
+  "alerta": ""
+ },
+ "SU-004": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-004.svg",
+  "largura_mm": 108.3,
+  "altura_mm": 46.7,
+  "alerta": ""
+ },
+ "SU-005": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-005.svg",
+  "largura_mm": 96.4,
+  "altura_mm": 67.9,
+  "alerta": ""
+ },
+ "SU-006": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-006.svg",
+  "largura_mm": 96.3,
+  "altura_mm": 72.4,
+  "alerta": ""
+ },
+ "SU-007": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-007.svg",
+  "largura_mm": 94.7,
+  "altura_mm": 51.1,
+  "alerta": ""
+ },
+ "SU-008": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/SU-008.svg",
+  "largura_mm": 73.0,
+  "altura_mm": 55.4,
+  "alerta": ""
+ },
+ "SU-009": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-009.svg",
+  "largura_mm": 98.6,
+  "altura_mm": 65.0,
+  "alerta": ""
+ },
+ "SU-010": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-010.svg",
+  "largura_mm": 144.7,
+  "altura_mm": 47.6,
+  "alerta": ""
+ },
+ "SU-011": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-011.svg",
+  "largura_mm": 138.5,
+  "altura_mm": 66.1,
+  "alerta": ""
+ },
+ "SU-012": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-012.svg",
+  "largura_mm": 151.2,
+  "altura_mm": 64.1,
+  "alerta": ""
+ },
+ "SU-013": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-013.svg",
+  "largura_mm": 134.2,
+  "altura_mm": 47.9,
+  "alerta": ""
+ },
+ "SU-014": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-014.svg",
+  "largura_mm": 108.5,
+  "altura_mm": 53.4,
+  "alerta": ""
+ },
+ "SU-015": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/SU-015_MG25-015.svg",
+  "largura_mm": 120.8,
+  "altura_mm": 54.3,
+  "alerta": ""
+ },
+ "SU-016": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/SU-016_MG25-016.svg",
+  "largura_mm": 119.8,
+  "altura_mm": 60.1,
+  "alerta": ""
+ },
+ "SU-017": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/SU-017.svg",
+  "largura_mm": 32.1,
+  "altura_mm": 52.2,
+  "alerta": ""
+ },
+ "SU-018": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-018.svg",
+  "largura_mm": 131.5,
+  "altura_mm": 58.4,
+  "alerta": ""
+ },
+ "SU-019": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-019.svg",
+  "largura_mm": 138.3,
+  "altura_mm": 74.9,
+  "alerta": ""
+ },
+ "SU-023": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/SU-023.svg",
+  "largura_mm": 105.3,
+  "altura_mm": 41.4,
+  "alerta": ""
+ },
+ "SU-039": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-039.svg",
+  "largura_mm": 80.3,
+  "altura_mm": 47.8,
+  "alerta": ""
+ },
+ "SU-040": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-040.svg",
+  "largura_mm": 59.7,
+  "altura_mm": 49.5,
+  "alerta": ""
+ },
+ "SU-041": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-041.svg",
+  "largura_mm": 59.3,
+  "altura_mm": 50.1,
+  "alerta": ""
+ },
+ "SU-042": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-042.svg",
+  "largura_mm": 77.3,
+  "altura_mm": 46.5,
+  "alerta": ""
+ },
+ "SU-043": {
+  "pacote": "suprema",
+  "arquivo": "centenario-tms/SU-043_TMS-043.svg",
+  "largura_mm": 79.3,
+  "altura_mm": 71.0,
+  "alerta": ""
+ },
+ "SU-044": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-044.svg",
+  "largura_mm": 82.2,
+  "altura_mm": 64.7,
+  "alerta": ""
+ },
+ "SU-047": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-047.svg",
+  "largura_mm": 69.2,
+  "altura_mm": 91.2,
+  "alerta": ""
+ },
+ "SU-048": {
+  "pacote": "perfis-cliente-25-11",
+  "arquivo": "perfis-cliente-25-11/SU-048_ISU-048.svg",
+  "largura_mm": 79.4,
+  "altura_mm": 74.8,
+  "alerta": ""
+ },
+ "SU-049": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-049.svg",
+  "largura_mm": 73.2,
+  "altura_mm": 86.8,
+  "alerta": ""
+ },
+ "SU-050": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-050.svg",
+  "largura_mm": 56.7,
+  "altura_mm": 108.9,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "SU-053": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-053.svg",
+  "largura_mm": 60.4,
+  "altura_mm": 68.0,
+  "alerta": ""
+ },
+ "SU-055": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-055.svg",
+  "largura_mm": 82.1,
+  "altura_mm": 44.9,
+  "alerta": ""
+ },
+ "SU-056": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-056.svg",
+  "largura_mm": 68.8,
+  "altura_mm": 46.2,
+  "alerta": ""
+ },
+ "SU-057": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-057.svg",
+  "largura_mm": 69.4,
+  "altura_mm": 53.8,
+  "alerta": ""
+ },
+ "SU-058": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-058.svg",
+  "largura_mm": 69.8,
+  "altura_mm": 55.7,
+  "alerta": ""
+ },
+ "SU-060": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-060.svg",
+  "largura_mm": 80.6,
+  "altura_mm": 77.4,
+  "alerta": ""
+ },
+ "SU-061": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-061.svg",
+  "largura_mm": 66.5,
+  "altura_mm": 98.5,
+  "alerta": ""
+ },
+ "SU-068": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-068.svg",
+  "largura_mm": 69.0,
+  "altura_mm": 38.0,
+  "alerta": ""
+ },
+ "SU-069": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-069.svg",
+  "largura_mm": 64.9,
+  "altura_mm": 52.3,
+  "alerta": ""
+ },
+ "SU-070": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-070.svg",
+  "largura_mm": 59.9,
+  "altura_mm": 46.1,
+  "alerta": ""
+ },
+ "SU-071": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-071.svg",
+  "largura_mm": 65.4,
+  "altura_mm": 51.3,
+  "alerta": ""
+ },
+ "SU-072": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-072.svg",
+  "largura_mm": 73.0,
+  "altura_mm": 47.3,
+  "alerta": ""
+ },
+ "SU-073": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-073.svg",
+  "largura_mm": 65.3,
+  "altura_mm": 63.0,
+  "alerta": ""
+ },
+ "SU-074": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-074.svg",
+  "largura_mm": 73.2,
+  "altura_mm": 43.4,
+  "alerta": ""
+ },
+ "SU-079": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-079.svg",
+  "largura_mm": 53.6,
+  "altura_mm": 53.7,
+  "alerta": ""
+ },
+ "SU-080": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-080.svg",
+  "largura_mm": 61.8,
+  "altura_mm": 45.1,
+  "alerta": ""
+ },
+ "SU-081": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-081.svg",
+  "largura_mm": 69.0,
+  "altura_mm": 56.5,
+  "alerta": ""
+ },
+ "SU-082": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-082.svg",
+  "largura_mm": 61.7,
+  "altura_mm": 53.4,
+  "alerta": ""
+ },
+ "SU-083": {
+  "pacote": "gold",
+  "arquivo": "geral-alcoa/SU-083.svg",
+  "largura_mm": 87.9,
+  "altura_mm": 49.2,
+  "alerta": ""
+ },
+ "SU-084": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-084.svg",
+  "largura_mm": 42.7,
+  "altura_mm": 56.3,
+  "alerta": ""
+ },
+ "SU-085": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-085.svg",
+  "largura_mm": 48.4,
+  "altura_mm": 59.3,
+  "alerta": ""
+ },
+ "SU-086": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-086.svg",
+  "largura_mm": 70.5,
+  "altura_mm": 56.9,
+  "alerta": ""
+ },
+ "SU-088": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-088.svg",
+  "largura_mm": 53.8,
+  "altura_mm": 40.9,
+  "alerta": ""
+ },
+ "SU-089": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/SU-089.svg",
+  "largura_mm": 75.0,
+  "altura_mm": 69.3,
+  "alerta": ""
+ },
+ "SU-090": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-090.svg",
+  "largura_mm": 77.9,
+  "altura_mm": 60.9,
+  "alerta": ""
+ },
+ "SU-091": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-091.svg",
+  "largura_mm": 60.2,
+  "altura_mm": 43.7,
+  "alerta": ""
+ },
+ "SU-093": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-093.svg",
+  "largura_mm": 57.9,
+  "altura_mm": 62.8,
+  "alerta": ""
+ },
+ "SU-094": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-094.svg",
+  "largura_mm": 54.7,
+  "altura_mm": 52.0,
+  "alerta": ""
+ },
+ "SU-096": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-096.svg",
+  "largura_mm": 47.6,
+  "altura_mm": 61.9,
+  "alerta": ""
+ },
+ "SU-097": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-097.svg",
+  "largura_mm": 68.9,
+  "altura_mm": 67.2,
+  "alerta": ""
+ },
+ "SU-098": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-098.svg",
+  "largura_mm": 61.2,
+  "altura_mm": 53.4,
+  "alerta": ""
+ },
+ "SU-099": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-099.svg",
+  "largura_mm": 57.8,
+  "altura_mm": 53.5,
+  "alerta": ""
+ },
+ "SU-100": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-100.svg",
+  "largura_mm": 61.1,
+  "altura_mm": 57.8,
+  "alerta": ""
+ },
+ "SU-102": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-102.svg",
+  "largura_mm": 42.4,
+  "altura_mm": 66.3,
+  "alerta": ""
+ },
+ "SU-103": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-103.svg",
+  "largura_mm": 46.2,
+  "altura_mm": 49.4,
+  "alerta": ""
+ },
+ "SU-107": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-107.svg",
+  "largura_mm": 40.6,
+  "altura_mm": 39.6,
+  "alerta": ""
+ },
+ "SU-108": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-108.svg",
+  "largura_mm": 68.7,
+  "altura_mm": 49.6,
+  "alerta": ""
+ },
+ "SU-110": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-110.svg",
+  "largura_mm": 58.8,
+  "altura_mm": 66.9,
+  "alerta": ""
+ },
+ "SU-111": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-111.svg",
+  "largura_mm": 73.7,
+  "altura_mm": 51.2,
+  "alerta": ""
+ },
+ "SU-120": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-120.svg",
+  "largura_mm": 63.9,
+  "altura_mm": 54.4,
+  "alerta": ""
+ },
+ "SU-121": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-121.svg",
+  "largura_mm": 170.0,
+  "altura_mm": 44.9,
+  "alerta": ""
+ },
+ "SU-122": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-122.svg",
+  "largura_mm": 160.1,
+  "altura_mm": 58.6,
+  "alerta": ""
+ },
+ "SU-123": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-123.svg",
+  "largura_mm": 144.6,
+  "altura_mm": 59.9,
+  "alerta": ""
+ },
+ "SU-186": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-186.svg",
+  "largura_mm": 63.8,
+  "altura_mm": 79.3,
+  "alerta": ""
+ },
+ "SU-187": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-187.svg",
+  "largura_mm": 46.0,
+  "altura_mm": 64.2,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "SU-188": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-188.svg",
+  "largura_mm": 59.5,
+  "altura_mm": 74.6,
+  "alerta": ""
+ },
+ "SU-190": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/SU-190.svg",
+  "largura_mm": 92.0,
+  "altura_mm": 67.1,
+  "alerta": ""
+ },
+ "SU-191": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/SU-191.svg",
+  "largura_mm": 91.0,
+  "altura_mm": 71.7,
+  "alerta": ""
+ },
+ "SU-192": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/SU-192.svg",
+  "largura_mm": 92.3,
+  "altura_mm": 72.6,
+  "alerta": ""
+ },
+ "SU-200": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-200.svg",
+  "largura_mm": 72.1,
+  "altura_mm": 50.7,
+  "alerta": ""
+ },
+ "SU-202": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/SU-202.svg",
+  "largura_mm": 46.6,
+  "altura_mm": 31.0,
+  "alerta": ""
+ },
+ "SU-203": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-203.svg",
+  "largura_mm": 58.4,
+  "altura_mm": 67.6,
+  "alerta": ""
+ },
+ "SU-225": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-225.svg",
+  "largura_mm": 53.9,
+  "altura_mm": 111.4,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "SU-226": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-226.svg",
+  "largura_mm": 57.7,
+  "altura_mm": 111.0,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "SU-227": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-227.svg",
+  "largura_mm": 65.5,
+  "altura_mm": 74.6,
+  "alerta": ""
+ },
+ "SU-228": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-228.svg",
+  "largura_mm": 147.6,
+  "altura_mm": 73.3,
+  "alerta": ""
+ },
+ "SU-230": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-230.svg",
+  "largura_mm": 133.2,
+  "altura_mm": 54.1,
+  "alerta": ""
+ },
+ "SU-231": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/SU-231.svg",
+  "largura_mm": 109.4,
+  "altura_mm": 56.4,
+  "alerta": ""
+ },
+ "SU-238": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-238.svg",
+  "largura_mm": 80.9,
+  "altura_mm": 51.1,
+  "alerta": ""
+ },
+ "SU-239": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-239.svg",
+  "largura_mm": 92.6,
+  "altura_mm": 54.3,
+  "alerta": ""
+ },
+ "SU-241": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-241.svg",
+  "largura_mm": 85.1,
+  "altura_mm": 49.5,
+  "alerta": ""
+ },
+ "SU-242": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-242.svg",
+  "largura_mm": 81.5,
+  "altura_mm": 55.0,
+  "alerta": ""
+ },
+ "SU-243": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-243.svg",
+  "largura_mm": 87.4,
+  "altura_mm": 53.5,
+  "alerta": ""
+ },
+ "SU-244": {
+  "pacote": "geral-stelman",
+  "arquivo": "geral-stelman/SU-244.svg",
+  "largura_mm": 89.8,
+  "altura_mm": 41.1,
+  "alerta": ""
+ },
+ "SU-245": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-245.svg",
+  "largura_mm": 77.6,
+  "altura_mm": 46.6,
+  "alerta": ""
+ },
+ "SU-250": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-250.svg",
+  "largura_mm": 77.3,
+  "altura_mm": 64.6,
+  "alerta": ""
+ },
+ "SU-260": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-260.svg",
+  "largura_mm": 85.9,
+  "altura_mm": 52.6,
+  "alerta": ""
+ },
+ "SU-271": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-271.svg",
+  "largura_mm": 48.0,
+  "altura_mm": 35.3,
+  "alerta": ""
+ },
+ "SU-272": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-272.svg",
+  "largura_mm": 61.8,
+  "altura_mm": 35.2,
+  "alerta": ""
+ },
+ "SU-276": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-276.svg",
+  "largura_mm": 45.3,
+  "altura_mm": 28.3,
+  "alerta": ""
+ },
+ "SU-279": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-279.svg",
+  "largura_mm": 62.9,
+  "altura_mm": 65.7,
+  "alerta": ""
+ },
+ "SU-280": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-280.svg",
+  "largura_mm": 77.0,
+  "altura_mm": 77.3,
+  "alerta": ""
+ },
+ "SU-281": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/SU-281.svg",
+  "largura_mm": 69.3,
+  "altura_mm": 98.2,
+  "alerta": ""
+ },
+ "SU-289": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-289.svg",
+  "largura_mm": 88.7,
+  "altura_mm": 96.6,
+  "alerta": ""
+ },
+ "SU-290": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-290.svg",
+  "largura_mm": 84.5,
+  "altura_mm": 99.0,
+  "alerta": ""
+ },
+ "SU-291": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-291.svg",
+  "largura_mm": 45.0,
+  "altura_mm": 34.7,
+  "alerta": ""
+ },
+ "SU-292": {
+  "pacote": "suprema",
+  "arquivo": "suprema/SU-292.svg",
+  "largura_mm": 49.2,
+  "altura_mm": 50.1,
+  "alerta": ""
+ },
+ "SU-500": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/SU-500.svg",
+  "largura_mm": 52.9,
+  "altura_mm": 38.5,
+  "alerta": ""
+ },
+ "SU-521": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/SU-521.svg",
+  "largura_mm": 49.0,
+  "altura_mm": 188.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "SU-522": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/SU-522.svg",
+  "largura_mm": 55.0,
+  "altura_mm": 188.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "SU-523": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/SU-523.svg",
+  "largura_mm": 39.8,
+  "altura_mm": 197.4,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "T-734": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote10/T-734_CA-004.svg",
+  "largura_mm": 69.9,
+  "altura_mm": 21.3,
+  "alerta": ""
+ },
+ "TSL-001": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/TSL-001.svg",
+  "largura_mm": 85.3,
+  "altura_mm": 79.7,
+  "alerta": ""
+ },
+ "TSL-002": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote10/TSL-002.svg",
+  "largura_mm": 81.3,
+  "altura_mm": 40.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "TSL-003": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/TSL-003.svg",
+  "largura_mm": 92.9,
+  "altura_mm": 77.7,
+  "alerta": ""
+ },
+ "TSL-004": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote9/TSL-004.svg",
+  "largura_mm": 76.4,
+  "altura_mm": 59.3,
+  "alerta": ""
+ },
+ "TSL-006": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote9/TSL-006.svg",
+  "largura_mm": 68.9,
+  "altura_mm": 42.4,
+  "alerta": ""
+ },
+ "TSL-007": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/TSL-007.svg",
+  "largura_mm": 79.6,
+  "altura_mm": 40.0,
+  "alerta": ""
+ },
+ "TSL-008": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/TSL-008.svg",
+  "largura_mm": 94.3,
+  "altura_mm": 86.0,
+  "alerta": ""
+ },
+ "TSL-009": {
+  "pacote": "lotes-avulsos",
+  "arquivo": "lote10/TSL-009_DV-428.svg",
+  "largura_mm": 67.4,
+  "altura_mm": 60.1,
+  "alerta": ""
+ },
+ "U-1048": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/U-1048.svg",
+  "largura_mm": 70.5,
+  "altura_mm": 73.5,
+  "alerta": ""
+ },
+ "VZ-006": {
+  "pacote": "gold",
+  "arquivo": "gold/VZ-006.svg",
+  "largura_mm": 40.5,
+  "altura_mm": 114.2,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "VZ-024": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/VZ-024.svg",
+  "largura_mm": 30.4,
+  "altura_mm": 81.9,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "VZ-051": {
+  "pacote": "suprema",
+  "arquivo": "suprema/VZ-051.svg",
+  "largura_mm": 37.9,
+  "altura_mm": 114.3,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "VZ-060": {
+  "pacote": "geral-alcoa",
+  "arquivo": "geral-alcoa/VZ-060.svg",
+  "largura_mm": 57.7,
+  "altura_mm": 77.8,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "Y-181": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/Y-181.svg",
+  "largura_mm": 62.8,
+  "altura_mm": 57.2,
+  "alerta": ""
+ },
+ "Z-169": {
+  "pacote": "pendentes-padronizados",
+  "arquivo": "pendentes/Z-169.svg",
+  "largura_mm": 54.5,
+  "altura_mm": 89.8,
+  "alerta": "desenho em escala reduzida no catálogo de origem"
+ },
+ "Z-248": {
+  "pacote": "geral-asa",
+  "arquivo": "geral-asa/Z-248.svg",
+  "largura_mm": 57.0,
+  "altura_mm": 62.2,
+  "alerta": ""
+ }
+}

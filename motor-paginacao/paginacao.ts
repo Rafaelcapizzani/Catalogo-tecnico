@@ -68,11 +68,12 @@ const porPagina = (t: Tipologia) => 36 / (CELULAS[t].w * CELULAS[t].h);
  * cabe sem reduzir. Empate (1-2 H × 1-2 V, 1-3 H × 1-3 V): vence a que deixa
  * menos sobra. Se nada couber, 1-1 com alerta.
  */
-export function sugerirTipologia(larguraMm: number, alturaMm: number) {
+export function sugerirTipologia(larguraMm: number, alturaMm: number, reducaoMaxima = 1) {
+  // reducaoMaxima = 1 → escala real (regra atual). Ex.: 0,8 permite reduzir o desenho até 80%.
   const candidatas = (Object.keys(CELULAS) as Tipologia[])
     .map((t) => {
       const a = areaDesenho(t);
-      const cabe = larguraMm <= a.largura && alturaMm <= a.altura;
+      const cabe = larguraMm * reducaoMaxima <= a.largura && alturaMm * reducaoMaxima <= a.altura;
       const ocupacao = (larguraMm * alturaMm) / (a.largura * a.altura);
       return { t, cabe, ocupacao, porPagina: porPagina(t) };
     })
