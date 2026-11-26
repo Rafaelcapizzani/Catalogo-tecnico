@@ -180,6 +180,7 @@ function paginarPerfis(itens: Item[], i: number, paginas: Pagina[]): number {
 
     // Divide o espaço livre no tamanho da tipologia que entra
     // e preenche com os próximos perfis da mesma tipologia, em ordem.
+    const antes = espacos.length;
     for (let sy = 0; sy + c.h <= p.h; sy += c.h) {
       for (let sx = 0; sx + c.w <= p.w; sx += c.w) {
         if (i >= itens.length) break;
@@ -196,6 +197,15 @@ function paginarPerfis(itens: Item[], i: number, paginas: Pagina[]): number {
         i++;
       }
       if (i >= itens.length || familia(itens[i]) !== fam || tipologiaDoItem(itens[i]) !== t) break;
+    }
+    // Um único perfil no espaço livre: ocupa o espaço inteiro (o desenho fica
+    // centralizado na horizontal e na vertical). Decisão do cliente em 26/11/2026.
+    if (espacos.length - antes === 1) {
+      const e = espacos[espacos.length - 1];
+      e.x = p.cx * cl;
+      e.y = p.cy * ca;
+      e.largura = p.w * cl;
+      e.altura = p.h * ca;
     }
   }
 

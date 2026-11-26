@@ -26,6 +26,13 @@ pg = paginar([perfil("h", "1-2 H"), perfil("q1", "1-4"), perfil("q2", "1-4")]);
 assert.equal(pg.length, 1);
 assert.equal(pg[0].codigos.length, 3);
 
+// 3b. Um só perfil na sobra ocupa o espaço inteiro (decisão 26/11)
+pg = paginar([perfil("h", "1-2 H"), perfil("q", "1-6")]);
+assert.equal(pg.length, 1);
+{ const e = (pg[0] as any).espacos[1]; assert.equal(e.largura, 189); assert.equal(e.altura, 125); }
+pg = paginar([perfil("a", "1-4"), perfil("b", "1-4"), perfil("s", "1-6")]);
+{ const e = (pg[0] as any).espacos[2]; assert.equal(e.tipologia, "1-6"); assert.ok(Math.abs(e.altura - 125) < 0.01); }
+
 // 4. Incompatível → página nova (1-3 V não cabe em sobra de 1-2 H)
 pg = paginar([perfil("h", "1-2 H"), perfil("x", "1-3 V")]);
 assert.equal(pg.length, 2);
