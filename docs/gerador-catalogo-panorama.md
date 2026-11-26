@@ -1,6 +1,6 @@
 # Gerador de Catálogo (catalogo.ciazzani.com.br) — panorama
 
-Analisado em 23/11/2026 a partir dos arquivos em "Gerador Catalogo/". Atualizado em 26/11/2026 (rev. 49).
+Analisado em 23/11/2026 a partir dos arquivos em "Gerador Catalogo/". Atualizado em 26/11/2026 (rev. 50).
 
 ## Decisões (23/11/2026)
 - O MySQL do catálogo (mesma hospedagem do ASP) continua como base separada, alimentada pelo ERP. Os dados mudam raramente → o site publica o catálogo a partir dele só quando há mudança.
@@ -36,7 +36,9 @@ Analisado em 23/11/2026 a partir dos arquivos em "Gerador Catalogo/". Atualizado
 - Cabeçalho do tabelado (desenho de referência + títulos) = 50 mm (definido pelo cliente em 26/11).
 - Um único perfil na sobra ocupa o espaço inteiro, com o desenho centralizado na horizontal e na vertical (APROVADO 26/11, a partir das págs. 10 e 19 da amostra Linha 25: 25-514 em 1/2 página; Y-181 e Z-248 no quadrante igual ao do lado). Com 2 ou mais perfis, a sobra continua dividida.
 - Desenho sempre na escala em que foi preparado (nunca ampliado para preencher o espaço).
-- Segundo momento: reordenar dentro da linha para economizar página; encaixe livre em qualquer área; misturar linhas diferentes numa página do catálogo personalizado.
+- ORDEM dentro de cada linha (APROVADO 26/11, noite): 1º tipologia (mesma tipologia junta, da maior para a menor), 2º tamanho do desenho (área, maior primeiro), 3º código. Substitui a ordem do classificador. Gold: 43 → 28 páginas em escala real; catálogo inteiro (793 perfis sem tabelados) ≈ 247 páginas em escala real e ≈ 202 com redução até 80%.
+- Em avaliação (26/11): ordem das tipologias encadeando as compatíveis (1-1, 1-3 V, 1-2 V, 1-2 H, 1-3 H, 1-4, 1-6) ganha ~2 páginas; nova tipologia 1-9 (3×3, desenho até 57×61 mm) ganharia ~12 páginas em escala real (243 perfis cabem nela); encaixe livre de várias tipologias na mesma sobra.
+- Segundo momento: encaixe livre em qualquer área; misturar linhas diferentes numa página do catálogo personalizado.
 - Áreas para o desenho (configuráveis, reserva de 16 mm p/ código+peso e 6 mm p/ descrição): 1-1 183×228; 1-2 H 183×103; 1-2 V 89×228; 1-3 H 183×61; 1-3 V 57×228; 1-4 89×103; 1-6 89×61 mm.
 - Repositório GitHub privado criado (26/11): rafaelcapizzani/catalogo-tecnico. Guardar ali código, desenhos padronizados e scripts — os arquivos entregues nas conversas não ficam no Projeto.
 
@@ -53,18 +55,24 @@ Analisado em 23/11/2026 a partir dos arquivos em "Gerador Catalogo/". Atualizado
 - 12 desenhos maiores que a página inteira (AP-056, AP-057, AP-0601, AP-0603, AP-063, AP-1439, CM-093, LB-038, LB-050, LB074, LG-571, MN-039): precisam de redução de qualquer forma.
 - DECISÃO PENDENTE DO CLIENTE: manter escala real ou permitir redução (sugestão: até 80%). O motor já aceita o parâmetro (sugerirTipologia(..., reducaoMaxima)).
 
+## Revisão dos desenhos da Gold (26/11, relatos do cliente)
+- Corrigidos: LG-071 e AP-0603 (moldura da página do fabricante, scripts/remover_molduras.py); LG-076, LG-124, LG-129 (traços e cotas de desenhos vizinhos, scripts/limpar_desenhos.py + dados/correcoes-desenhos.json).
+- Pendentes: LG-133, LG-158, LG-159 (seta aberta "V" em vez da seta cheia; LG-133 também com cotas/traços de vizinhos), LG-162 e LG-164 (corte da cota), LG-176 (erros no desenho).
+- Correção automática de setas em massa NÃO aplicada: a detecção confunde hachuras e cotas de vizinhos (scripts/fechar_setas.py fica como apoio, uso por desenho).
+
 ## Pendências do cliente
 - Decidir escala dos desenhos no catálogo: escala real (+35% de páginas) ou redução permitida até X% (80% mantém o tamanho atual do catálogo).
 - Número do WhatsApp; PDF do catálogo (aguardando liberação); destino dos pedidos de orçamento (a discutir); validar os 123 pesos; revisar a organização (28 itens); export MySQL ItensEstoque atualizado (Danilo).
 
 ## Pendências para o time do ERP
+- LG-129E: cadastro duplicado (sem descrição), é o mesmo perfil do LG-129 — avaliar inativar no ERP. Já fora do catálogo (dados/fora-do-catalogo.json).
 - CANCELAR o cadastro de "tipologia da página" no ERP (campo tipologia_da_pagina): a tipologia passa a ser calculada e ajustada no site. Não remover antes de o site novo assumir a paginação (o ASP atual ainda lê esse campo).
 
 ## Pendentes padronizados (25–26/11, rev. 44)
 - 163 perfis que faltavam foram recortados e padronizados (pacote pendentes-padronizados, com PDF de conferência). Coluna "Desenho recortado e cotas padronizadas": 777 "Sim".
 - 26/11 (revisão do cliente): BX-006/102/105/108/109/111 trocados para o ASA (Y-107, U-1002, I-154, Y-308, U-655, 44-018 = I-155) — o equivalente do cadastro é ASA e o peso do ERP bate com o ASA; o BX-xxx da Tera era só coincidência de código. Linhas tracejadas da Suprema Integrada (MN) retiradas. Setas que a linha de cota atravessava ficavam com um risco branco (setas maiores ou quase equiláteras não eram reconhecidas) → corrigido em cotas.py.
 - 26/11 (tarde, revisão do cliente): BX-003 → ASA U-1056; AP-025 recorte com as cotas (desenho = BX-250 Decamp = ASA 39-956; peso do ERP não bate); FC-258 e FC-087 limpos; SU-231 (tiras finas confundidas com setas) e LG-129E (= LG-129; frestas das tiras, revetorizado) corrigidos. Desenhos enviados pelo cliente: AP-002 = PR-003E (trilho cogumelo), AP-004 (lambri 200 mm), BX-029 (travessa).
-- 26/11 (planilha de pesos do cliente, dados/pesos-validados-cliente-26-11.xlsx → dados/pesos-validados.json, 37 perfis): coluna "Peso validado pelo cliente" na planilha de cruzamento (rev. 49). Fornecedor informado → desenho trocado: CG-080 = Stelman STL-424; CX-085 = Stelman STL-421; CL-006 = Império CL-006; CL-009 = Império L-468 (cliente escreveu l-498). CL-006 e CL-009: o "Peso a usar" já era por metro (gravado 1,003 e 1,645 kg/m) — confirmar com o cliente. Sem catálogo do fornecedor: Alumiso (AP-026, BX-108, BX-109) e Nals (CX-071). Desenho que não bate com o peso validado (>25%): CX-071, 42-004, CG-087, CL-010, CA-001, DS-023, DS-017, LB-069, AP-068, AP-025, CM-065, BX-105.
+- 26/11 (planilha de pesos do cliente, dados/pesos-validados-cliente-26-11.xlsx → dados/pesos-validados.json, 37 perfis): coluna "Peso validado pelo cliente" na planilha de cruzamento (rev. 50). Fornecedor informado → desenho trocado: CG-080 = Stelman STL-424; CX-085 = Stelman STL-421; CL-006 = Império CL-006; CL-009 = Império L-468 (cliente escreveu l-498). CL-006 e CL-009: o "Peso a usar" já era por metro (gravado 1,003 e 1,645 kg/m) — confirmar com o cliente. Sem catálogo do fornecedor: Alumiso (AP-026, BX-108, BX-109) e Nals (CX-071). Desenho que não bate com o peso validado (>25%): CX-071, 42-004, CG-087, CL-010, CA-001, DS-023, DS-017, LB-069, AP-068, AP-025, CM-065, BX-105.
 - Aprendido: na Tera e na Específica 3.2 o rótulo fica EMBAIXO do desenho, e o código também aparece em chamadas de peças vizinhas → usar o rótulo principal (com Kg/m logo abaixo); índice OCR da Tera em alcoa/pend/tera_idx.json. Decamp: marca d'água num bloco de conteúdo opcional, tirada do conteúdo. Números em curva/imagem lidos em 3 resoluções; correções conferidas uma a uma (pend_seg.py: fix/add).
 - Sem desenho processável: 30-053, AL-089/090/091 (Perfil Master, PDF não localizado), DC-004/006 (detalhes construtivos), CM-066 (MN-014), PV-003, SU-224 (NSU325), SU-270, 25-008 e 25-531 (inativos); TG-084/TG-280 são linhas de tabela (tabelado).
 

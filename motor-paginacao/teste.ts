@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { paginar, sugerirTipologia, areaDesenho, CELULAS, CONFIG, type Item, type Tipologia } from "./paginacao.ts";
+import { paginar, ordenarItens, sugerirTipologia, areaDesenho, CELULAS, CONFIG, type Item, type Tipologia } from "./paginacao.ts";
 
 const perfil = (codigo: string, t: Tipologia, linha = "SUPREMA"): Item => ({
   codigo, categoria: "ESQUADRIAS", subcategoria: "LINHA", linha, classificador: 0,
@@ -70,6 +70,13 @@ assert.equal(sugerirTipologia(150, 40).tipologia, "1-3 H");
 assert.equal(sugerirTipologia(40, 200).tipologia, "1-3 V");
 assert.equal(sugerirTipologia(150, 100).tipologia, "1-2 H");
 assert.equal(sugerirTipologia(170, 220).tipologia, "1-1");
+
+// 9. Ordem: tipologia, tamanho, código
+{
+  const it = (c: string, t: Tipologia, w: number, h: number): Item => ({ ...perfil(c, t), larguraMm: w, alturaMm: h });
+  const o = ordenarItens([it("LG-9", "1-6", 10, 10), it("LG-2", "1-6", 10, 10), it("LG-5", "1-3 H", 50, 20), it("LG-1", "1-6", 30, 30)]);
+  assert.deepEqual(o.map((i) => i.codigo), ["LG-5", "LG-1", "LG-2", "LG-9"]);
+}
 
 console.log("Todos os testes passaram.");
 for (const t of Object.keys(CELULAS) as Tipologia[]) {

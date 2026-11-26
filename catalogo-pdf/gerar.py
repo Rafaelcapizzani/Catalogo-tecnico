@@ -80,12 +80,12 @@ def montar(args):
     perfis = carregar_perfis(os.path.join(RAIZ, "dados", "catalogo-base-de-dados.zip"))
     medidas = json.load(open(os.path.join(RAIZ, "dados", "medidas-desenhos.json"), encoding="utf-8"))
     atual = json.load(open(os.path.join(RAIZ, "dados", "tipologia-atual.json"), encoding="utf-8"))
-    ordem_site = {c: i for i, c in enumerate(atual)}  # ordem do catálogo antigo (classificador)
+    fora = json.load(open(os.path.join(RAIZ, "dados", "fora-do-catalogo.json"), encoding="utf-8"))
 
     itens = []
     for linha in args.linhas:
-        sel = [p for p in perfis.values() if p["linha"] == linha and not p["tabelado"]]
-        sel.sort(key=lambda p: (ordem_site.get(p["codigo"], 10**6), p["codigo"]))
+        # ordem final (tipologia, tamanho, código) é aplicada pelo motor (ordenarItens)
+        sel = [p for p in perfis.values() if p["linha"] == linha and not p["tabelado"] and p["codigo"] not in fora]
         for p in sel:
             m = medidas.get(p["codigo"])
             itens.append({

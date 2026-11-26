@@ -8,7 +8,7 @@
  *   (tipologia preenchida = usa essa, ex.: a tipologia atual do catálogo antigo)
  */
 import { readFileSync, writeFileSync } from "node:fs";
-import { paginar, sugerirTipologia, type Item } from "../motor-paginacao/paginacao.ts";
+import { paginar, ordenarItens, sugerirTipologia, type Item } from "../motor-paginacao/paginacao.ts";
 
 const [entrada, saida] = process.argv.slice(2);
 const { reducaoMaxima, itens } = JSON.parse(readFileSync(entrada, "utf8"));
@@ -25,4 +25,4 @@ const lista: Item[] = itens.map((i: any) => ({
   tipologiaManual: i.tipologia ? i.tipologia : i.larguraMm ? sugerirTipologia(i.larguraMm, i.alturaMm, reducaoMaxima).tipologia : "1-6",
 }));
 
-writeFileSync(saida, JSON.stringify(paginar(lista), null, 1));
+writeFileSync(saida, JSON.stringify(paginar(ordenarItens(lista)), null, 1));

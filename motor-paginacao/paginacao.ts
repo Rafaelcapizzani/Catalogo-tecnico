@@ -9,8 +9,8 @@
  *  - A tipologia de cada perfil é calculada automaticamente pelo tamanho real
  *    do desenho vetorial (sugerirTipologia). O ajuste manual continua possível
  *    (campo tipologiaManual), mas deixa de vir do ERP.
- *  - Só dividem a página os perfis da mesma categoria + subcategoria + linha,
- *    na ordem do classificador (sem reordenar — reordenação fica para depois).
+ *  - Só dividem a página os perfis da mesma categoria + subcategoria + linha.
+ *    Ordem dentro da família: tipologia, tamanho e código (ordenarItens).
  *  - A página é uma grade de 6×6 células. Uma tipologia diferente só entra num
  *    espaço livre se couber nele (a compatibilidade sai da geometria e reproduz
  *    exatamente a tabela do sistema antigo). O espaço livre é dividido no
@@ -125,6 +125,38 @@ export interface BlocoTabela {
 export type Pagina =
   | { tipo: "perfis"; numero: number; titulo: string; familia: string; tipologiaBase: Tipologia; espacos: Espaco[]; codigos: string[] }
   | { tipo: "tabelado"; numero: number; titulo: string; blocos: BlocoTabela[]; codigos: string[] };
+
+/**
+ * Ordem dos perfis dentro de cada família (decisão do cliente, 26/11/2026):
+ * 1º tipologia (mesma tipologia junta; da maior para a menor, assim as sobras
+ *    de uma página podem receber as tipologias menores que vêm depois),
+ * 2º tamanho do desenho (área, do maior para o menor),
+ * 3º código.
+ * A ordem das famílias entre si é mantida.
+ */
+export const ORDEM_TIPOLOGIA: TipologiaOuTabelado[] = ["1-1", "1-2 H", "1-2 V", "1-3 H", "1-3 V", "1-4", "1-6", "TABELADO"];
+
+export function ordenarItens(itens: Item[]): Item[] {
+  const familias: string[] = [];
+  const grupos = new Map<string, Item[]>();
+  for (const i of itens) {
+    const f = familia(i);
+    if (!grupos.has(f)) {
+      grupos.set(f, []);
+      familias.push(f);
+    }
+    grupos.get(f)!.push(i);
+  }
+  const chave = (i: Item) => ORDEM_TIPOLOGIA.indexOf(tipologiaDoItem(i));
+  return familias.flatMap((f) =>
+    grupos.get(f)!.slice().sort(
+      (a, b) =>
+        chave(a) - chave(b) ||
+        b.larguraMm * b.alturaMm - a.larguraMm * a.alturaMm ||
+        a.codigo.localeCompare(b.codigo, "pt-BR", { numeric: true }),
+    ),
+  );
+}
 
 export function tipologiaDoItem(i: Item): TipologiaOuTabelado {
   if (i.tabelado) return "TABELADO";
