@@ -56,8 +56,8 @@ Analisado em 23/11/2026 a partir dos arquivos em "Gerador Catalogo/". Atualizado
 - DECISÃO PENDENTE DO CLIENTE: manter escala real ou permitir redução (sugestão: até 80%). O motor já aceita o parâmetro (sugerirTipologia(..., reducaoMaxima)).
 
 ## Revisão dos desenhos da Gold (26/11, relatos do cliente)
-- Corrigidos: LG-071 e AP-0603 (moldura da página do fabricante, scripts/remover_molduras.py); LG-076, LG-124, LG-129 (traços e cotas de desenhos vizinhos, scripts/limpar_desenhos.py + dados/correcoes-desenhos.json).
-- Pendentes: LG-133, LG-158, LG-159 (seta aberta "V" em vez da seta cheia; LG-133 também com cotas/traços de vizinhos), LG-162 e LG-164 (corte da cota), LG-176 (erros no desenho).
+- Corrigidos: LG-176 (traços soltos + vão no 28,8; faixa grossa do topo conferida pelo peso e mantida); LG-071 e AP-0603 (moldura da página do fabricante, scripts/remover_molduras.py); LG-076, LG-124, LG-129 (traços e cotas de desenhos vizinhos, scripts/limpar_desenhos.py + dados/correcoes-desenhos.json).
+- Pendentes: LG-133, LG-158, LG-159 (seta aberta "V" em vez da seta cheia; LG-133 também com cotas/traços de vizinhos), LG-162 e LG-164 (corte da cota).
 - Correção automática de setas em massa NÃO aplicada: a detecção confunde hachuras e cotas de vizinhos (scripts/fechar_setas.py fica como apoio, uso por desenho).
 
 ## Pendências do cliente

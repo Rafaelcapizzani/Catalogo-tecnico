@@ -9,6 +9,7 @@ dados/correcoes-desenhos.json:
   { "LG-124": {"remover": [[x0, y0, x1, y1], ...], "motivo": "..."} }
   Cada retângulo está em unidades do SVG (as do viewBox). Um subcaminho é
   removido quando a caixa dele cabe inteira num dos retângulos.
+  "vaos": [{"x": X, "de": Y0, "ate": Y1}] abre vão na linha de cota que corta o número.
 
 Uso:
   python3 scripts/limpar_desenhos.py listar LG-124   → imagem numerada em /tmp/limpeza/LG-124.png + lista
@@ -109,6 +110,66 @@ def limpar(svg, retangulos):
     return svg, sum(len(v) for v in alvo.values())
 
 
+def abrir_vaos(svg, vaos):
+    """Abre vão na linha de cota onde ela atravessa o número.
+
+    vaos: [{"x": X, "de": Y0, "ate": Y1}] para linha vertical em X,
+          [{"y": Y, "de": X0, "ate": X1}] para linha horizontal em Y
+    (unidades do SVG). A linha que cruza o intervalo é partida em duas.
+    """
+    n = 0
+    for vao in vaos:
+        for _ in range(50):  # a mesma linha pode estar repetida no arquivo
+            antes = n
+            svg, n = _um_vao(svg, vao, n)
+            if n == antes:
+                break
+    return svg, n
+
+
+def _um_vao(svg, vao, n):
+    if True:
+        for m in list(PATH.finditer(svg)):
+            e = m.group(0)
+            if 'fill="none"' not in e:
+                continue
+            d = re.search(r'\sd="([^"]*)"', e)
+            if not d:
+                continue
+            a, b, c, dd, ex, fy = matriz(e)
+            det = a * dd - b * c
+            if not det:
+                continue
+
+            def local(X, Y):
+                X, Y = X - ex, Y - fy
+                return ((dd * X - c * Y) / det, (-b * X + a * Y) / det)
+
+            novas, mudou = [], False
+            for parte, pts in subcaminhos(d.group(1)):
+                P = [(a * x + c * y + ex, b * x + dd * y + fy) for x, y in pts]
+                if len(P) == 2:
+                    if "x" in vao and abs(P[0][0] - vao["x"]) < 0.4 and abs(P[1][0] - vao["x"]) < 0.4:
+                        lo, hi = sorted((P[0][1], P[1][1]))
+                        if lo < vao["de"] and hi > vao["ate"]:
+                            p1, p2, p3, p4 = local(vao["x"], lo), local(vao["x"], vao["de"]), local(vao["x"], vao["ate"]), local(vao["x"], hi)
+                            parte = f"M{p1[0]:.3f} {p1[1]:.3f}L{p2[0]:.3f} {p2[1]:.3f}M{p3[0]:.3f} {p3[1]:.3f}L{p4[0]:.3f} {p4[1]:.3f}"
+                            mudou = True
+                    if "y" in vao and abs(P[0][1] - vao["y"]) < 0.4 and abs(P[1][1] - vao["y"]) < 0.4:
+                        lo, hi = sorted((P[0][0], P[1][0]))
+                        if lo < vao["de"] and hi > vao["ate"]:
+                            p1, p2, p3, p4 = local(lo, vao["y"]), local(vao["de"], vao["y"]), local(vao["ate"], vao["y"]), local(hi, vao["y"])
+                            parte = f"M{p1[0]:.3f} {p1[1]:.3f}L{p2[0]:.3f} {p2[1]:.3f}M{p3[0]:.3f} {p3[1]:.3f}L{p4[0]:.3f} {p4[1]:.3f}"
+                            mudou = True
+                novas.append(parte)
+            if mudou:
+                n += 1
+                novo = e[:d.start(1)] + "".join(novas) + e[d.end(1):]
+                svg = svg[:m.start()] + novo + svg[m.end():]
+                return svg, n
+    return svg, n
+
+
 def localizar(codigo):
     m = json.load(open(os.path.join(RAIZ, "dados", "medidas-desenhos.json"), encoding="utf-8"))[codigo]
     return os.path.join(RAIZ, "desenhos", "pacotes", f"{m['pacote']}-vetor.zip"), m["arquivo"]
@@ -141,16 +202,17 @@ def aplicar():
     por_zip = {}
     for cod, c in corr.items():
         zp, arq = localizar(cod)
-        por_zip.setdefault(zp, {})[arq] = (cod, c["remover"])
+        por_zip.setdefault(zp, {})[arq] = (cod, c)
     for zp, arqs in por_zip.items():
         with zipfile.ZipFile(zp) as z:
             itens = [(i, z.read(i.filename)) for i in z.infolist()]
         novos = []
         for info, dados in itens:
             if info.filename in arqs:
-                cod, rets = arqs[info.filename]
-                svg, n = limpar(dados.decode("utf-8"), rets)
-                print(f"{cod}: {n} traço(s) removido(s)")
+                cod, c = arqs[info.filename]
+                svg, n = limpar(dados.decode("utf-8"), c.get("remover", []))
+                svg, v = abrir_vaos(svg, c.get("vaos", []))
+                print(f"{cod}: {n} traço(s) removido(s), {v} vão(s) aberto(s)")
                 dados = svg.encode("utf-8")
             novos.append((info, dados))
         tmp = zp + ".tmp"
