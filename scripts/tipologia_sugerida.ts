@@ -18,6 +18,9 @@ const REDUCAO_ALTERNATIVA = 0.8;
 const medidas: Record<string, { largura_mm: number; altura_mm: number; pacote: string; alerta: string }> = JSON.parse(
   readFileSync("dados/medidas-desenhos.json", "utf8"),
 );
+const validacao: Record<string, { razao_linha_cota: number | null }> = JSON.parse(
+  readFileSync("dados/validacao-escala.json", "utf8"),
+);
 const atual: Record<string, string> = JSON.parse(readFileSync("dados/tipologia-atual.json", "utf8"));
 const perfis: any[] = JSON.parse(readFileSync(process.argv[2], "utf8")).perfis;
 
@@ -54,7 +57,10 @@ const linhas = perfis.map((p) => {
     sugeridaReduzida: r.tipologia,
     comparacao,
     reducaoParaManter,
-    alerta: [s.alerta, m.alerta].filter(Boolean).join("; "),
+    alerta: [
+      s.alerta,
+      (validacao[p.codigo]?.razao_linha_cota ?? 1) < 0.9 ? "fabricante desenhou em escala reduzida" : "",
+    ].filter(Boolean).join("; "),
   };
 });
 

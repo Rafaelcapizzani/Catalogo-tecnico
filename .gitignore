@@ -5,3 +5,5 @@ conexao.asp
 *.log
 .DS_Store
 Thumbs.db
+catalogo-pdf/fontes/*.ttf
+catalogo-pdf/saida/
