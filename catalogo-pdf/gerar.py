@@ -40,6 +40,7 @@ RES_TOPO, RES_BASE, RES_LAT = 16, 6, 3  # iguais ao CONFIG do motor
 # Texto ao lado: quando o desenho não cabe com o texto em cima/embaixo, o código,
 # o peso e a descrição vão para uma coluna à esquerda e o desenho usa a altura toda.
 TEXTO_LADO, MARGEM_LADO = 38, 3
+TEXTO_LADO_MIN = 26
 FOLGA = 1  # mm que o desenho pode avançar sobre a margem do texto sem ser reduzido
 
 URL_BASE = "https://www.alplanaluminio.com.br/catalogo/p/"  # provisório até o domínio final
@@ -100,6 +101,7 @@ def montar(args):
     # mistura na página (cliente 27/11) — dados/sistemas.json
     sistemas = json.load(open(os.path.join(RAIZ, "dados", "sistemas.json"), encoding="utf-8"))
     ordem_sis = sistemas["_ordem"]
+    junto = {k: v for k, v in json.load(open(os.path.join(RAIZ, "dados", "ordem-manual.json"), encoding="utf-8")).items() if not k.startswith("_")}
     itens = []
     for linha in args.linhas:
         # ordem final (tipologia, tamanho, código) é aplicada pelo motor (ordenarItens)
@@ -113,7 +115,7 @@ def montar(args):
                 "familia": f"{linha} · {sis}" if sis else linha,
                 "larguraMm": m["largura_mm"] if m else 0,
                 "alturaMm": m["altura_mm"] if m else 0,
-                "grupo": chave(p.get("descricao")),
+                "grupo": chave(perfis[junto[p["codigo"]]].get("descricao")) if p["codigo"] in junto else chave(p.get("descricao")),
                 "tipologia": (atual.get(p["codigo"]) if args.atual and atual.get(p["codigo"], "TABELADO") != "TABELADO"
                               else forcada.get(p["codigo"])),
             })
@@ -140,9 +142,9 @@ def montar(args):
 * {{ box-sizing: border-box; margin: 0; padding: 0; }}
 body {{ font-family: 'Bahnschrift', sans-serif; color: #3d3d3d; }}
 .pag {{ width: 210mm; height: 297mm; position: relative; page-break-after: always; overflow: hidden; }}
-.cab {{ position: absolute; left: {MARGEM_X}mm; right: {MARGEM_X}mm; top: 8mm; height: 13mm;
+.cab {{ position: absolute; left: {MARGEM_X}mm; right: {MARGEM_X}mm; top: 5mm; height: 17mm;
         display: flex; align-items: center; justify-content: space-between; border-bottom: 0.3mm solid #2F4396; }}
-.cab img {{ height: 10mm; }}
+.cab img {{ height: 15mm; }}  /* logo maior (cliente 27/11) */
 .cab .tit {{ font-family: 'Noir Pro'; font-size: 17pt; color: #2F4396; text-align: right; line-height: 1; }}
 .cab .tit small {{ display: block; font-family: 'Bahnschrift'; font-size: 7.5pt; color: #F88C22; letter-spacing: .3pt; margin-top: 1.2mm; }}
 .area {{ position: absolute; left: {MARGEM_X}mm; top: {TOPO}mm; width: {AREA_L}mm; height: {AREA_A}mm; }}
@@ -179,6 +181,12 @@ body {{ font-family: 'Bahnschrift', sans-serif; color: #3d3d3d; }}
 Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p>
 <div class="barra"></div></div>""")
 
+    def texto_lado(e, m):
+        """Largura da coluna de texto ao lado do desenho: 38 mm, ou menos (até 30)
+        quando é isso que falta para o desenho caber em escala real (LG-571, LG-016)."""
+        sobra = e["largura"] - MARGEM_LADO - m["largura_mm"]
+        return max(TEXTO_LADO_MIN, min(TEXTO_LADO, sobra))
+
     def tamanho(e):
         """(largura, altura, escala, ao_lado) do desenho no espaço."""
         m = medidas.get(e["codigo"])
@@ -190,10 +198,10 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
         if m["largura_mm"] <= aw + FOLGA and m["altura_mm"] <= ah + FOLGA:
             esc = 1.0  # passa até 1 mm da área: entra na margem do texto, sem reduzir
         if esc < 0.995:
-            lw = e["largura"] - TEXTO_LADO - MARGEM_LADO
+            lw = e["largura"] - texto_lado(e, m) - MARGEM_LADO
             lh = e["altura"] - 2 * MARGEM_LADO
             if m["altura_mm"] > lh:
-                lh = e["altura"] - 1  # desenho muito alto: usa quase toda a altura (LG-571)
+                lh = e["altura"] - 1  # desenho muito alto: usa quase toda a altura
             esc_l = min(1.0, lw / m["largura_mm"], lh / m["altura_mm"])
             if esc_l > esc:
                 return m["largura_mm"] * esc_l, m["altura_mm"] * esc_l, esc_l, True
@@ -202,7 +210,7 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
     def faixa_x(e, t):
         """Posições possíveis (mm, dentro do espaço) para a borda esquerda do desenho."""
         w, _, _, lado = t
-        ini = TEXTO_LADO if lado else RES_LAT
+        ini = texto_lado(e, medidas[e["codigo"]]) if lado else RES_LAT
         fim = e["largura"] - (MARGEM_LADO if lado else RES_LAT) - w
         return ini, fim
 
@@ -215,7 +223,8 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
     def centro_area(e, t):
         """Centro da área onde o desenho pode ficar (mm, dentro do espaço)."""
         if t[3]:
-            return TEXTO_LADO + (e["largura"] - TEXTO_LADO - MARGEM_LADO) / 2, e["altura"] / 2
+            tl = texto_lado(e, medidas[e["codigo"]])
+            return tl + (e["largura"] - tl - MARGEM_LADO) / 2, e["altura"] / 2
         return e["largura"] / 2, (RES_TOPO + e["altura"] - RES_BASE) / 2
 
     def posicao_padrao(e, t):
@@ -314,13 +323,14 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
                 esc_txt = "" if escala >= 0.995 else f"reduzido a {round(escala * 100)}%"
             else:
                 corpo = '<div class="vazio">Desenho sob consulta</div>'
+            estilo_desc = f' style="width:{texto_lado(e, m) - 5:.1f}mm"' if lado else ""
             sit = '<div class="sit">Sob consulta</div>' if p["situacao"] != "ativo" else ""
             peso = peso_br(p.get("peso_kg_m"))
             espacos.append(
                 f'<div class="esp{" lado" if lado else ""}" style="left:{e["x"]:.2f}mm;top:{e["y"]:.2f}mm;width:{e["largura"]:.2f}mm;height:{e["altura"]:.2f}mm">'
                 f'{corpo}<div class="cod">{html.escape(p["codigo"])}</div>'
                 f'<div class="peso">{peso + " kg/m" if peso else ""}</div>{sit}'
-                f'<div class="desc">{html.escape(p.get("descricao") or "")}</div>'
+                f'<div class="desc"{estilo_desc}>{html.escape(p.get("descricao") or "")}</div>'
                 f'<div class="esc">{esc_txt}</div></div>')
         qr = qr_svg(URL_BASE + "+".join(pag["codigos"]))
         partes.append(f"""<div class="pag">
