@@ -462,5 +462,28 @@
     403.5
    ]
   ]
+ },
+ "LG-158": {
+  "motivo": "linhas de chamada sem cota (perto do 102,2 e na ponta direita); relatado pelo cliente 26-27/11. Coordenadas no desenho antes do giro.",
+  "remover": [
+   [
+    70,
+    355.5,
+    118,
+    357.5
+   ],
+   [
+    92,
+    229,
+    118,
+    231
+   ],
+   [
+    27,
+    9.5,
+    107,
+    11.5
+   ]
+  ]
  }
 }

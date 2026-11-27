@@ -66,6 +66,7 @@ def medir(svg_bytes):
     # números (traços finos); ficam as paredes do perfil, que são grossas.
     # Peças pequenas que sobram (pontas de seta) são descartadas pela área.
     corpo = None
+    parede_h = None
     aberto = ndimage.binary_opening(img[y0:y1, x0:x1], structure=np.ones((5, 5)))
     rot, n = ndimage.label(aberto)
     if n:
@@ -74,8 +75,14 @@ def medir(svg_bytes):
         cy, cx = np.where(np.isin(rot, manter))
         k = PT_MM / ZOOM
         corpo = [round(cx.min() * k, 1), round(cy.min() * k, 1), round((cx.max() + 1) * k, 1), round((cy.max() + 1) * k, 1)]
+        # parede horizontal mais comprida do corpo (referência para alinhar lado a lado)
+        mascara = np.isin(rot, manter)
+        linha = mascara.sum(axis=1)
+        ys_max = np.where(linha >= linha.max() * 0.98)[0]
+        parede_h = round(float(ys_max.max() + 0.5) * k, 1)
     return {
         "corpo_mm": corpo,
+        "parede_h_mm": parede_h,
         "largura_mm": round((x1 - x0) / ZOOM * PT_MM, 1),
         "altura_mm": round((y1 - y0) / ZOOM * PT_MM, 1),
         "svg_mm": [round(w * PT_MM, 1), round(h * PT_MM, 1)],

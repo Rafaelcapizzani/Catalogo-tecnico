@@ -12,6 +12,7 @@ triângulo cheio no mesmo tamanho dos já padronizados (6,1 de comprimento e
 Uso:
   python3 scripts/fechar_setas.py            → só conta
   python3 scripts/fechar_setas.py --aplicar  → regrava os zips em desenhos/pacotes/
+  python3 scripts/fechar_setas.py --aplicar --so LG-158,LG-159  → só esses códigos
 """
 import math
 import os
@@ -86,6 +87,7 @@ def triangulo(ponta, meio):
 
 def main():
     aplicar = "--aplicar" in sys.argv
+    so = set(sys.argv[sys.argv.index("--so") + 1].split(",")) if "--so" in sys.argv else None
     pasta = os.path.join(RAIZ, "desenhos", "pacotes")
     total = 0
     for nome in sorted(os.listdir(pasta)):
@@ -96,14 +98,17 @@ def main():
             itens = [(i, z.read(i.filename)) for i in z.infolist()]
         novos, mudou = [], False
         for info, dados in itens:
-            if info.filename.endswith(".svg"):
+            cod = os.path.basename(info.filename)[:-4].split("_")[0]
+            if info.filename.endswith(".svg") and (so is None or cod in so):
                 svg = dados.decode("utf-8")
                 falt, cor = pontas(svg)
                 if falt:
                     total += len(falt)
                     print(f"{os.path.basename(info.filename)[:-4]:16s} {len(falt)} seta(s) aberta(s)")
                     d = "".join(triangulo(p, m) for p, m in falt)
-                    i = svg.rfind("</svg>")
+                    # desenho girado/espelhado: o triângulo entra no grupo de fora, no mesmo
+                    # referencial das linhas de cota
+                    i = svg.rfind("</g>") if re.search(r'</defs>\s*<g transform="(translate|matrix)', svg) else svg.rfind("</svg>")
                     svg = svg[:i] + f'<path d="{d}" fill="{cor}"/>\n' + svg[i:]
                     dados = svg.encode("utf-8")
                     mudou = True

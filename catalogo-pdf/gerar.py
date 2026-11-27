@@ -40,6 +40,7 @@ RES_TOPO, RES_BASE, RES_LAT = 16, 6, 3  # iguais ao CONFIG do motor
 # Texto ao lado: quando o desenho não cabe com o texto em cima/embaixo, o código,
 # o peso e a descrição vão para uma coluna à esquerda e o desenho usa a altura toda.
 TEXTO_LADO, MARGEM_LADO = 38, 3
+FOLGA = 1  # mm que o desenho pode avançar sobre a margem do texto sem ser reduzido
 
 URL_BASE = "https://www.alplanaluminio.com.br/catalogo/p/"  # provisório até o domínio final
 RODAPE_CONTATO = "WhatsApp (número a informar)  ·  (12) 3901-4255  ·  Rua Dinamarca, 201"
@@ -88,6 +89,8 @@ def montar(args):
     atual = json.load(open(os.path.join(RAIZ, "dados", "tipologia-atual.json"), encoding="utf-8"))
     fora = json.load(open(os.path.join(RAIZ, "dados", "fora-do-catalogo.json"), encoding="utf-8"))
     forcada = json.load(open(os.path.join(RAIZ, "dados", "tipologia-forcada.json"), encoding="utf-8"))
+    global ajuste
+    ajuste = json.load(open(os.path.join(RAIZ, "dados", "ajuste-posicao.json"), encoding="utf-8"))
     # correções de descrição informadas pelo cliente (valem até o ERP ser corrigido)
     for cod, desc in json.load(open(os.path.join(RAIZ, "dados", "descricoes-corrigidas.json"), encoding="utf-8")).items():
         if cod in perfis:
@@ -178,6 +181,8 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
         aw = e["largura"] - 2 * RES_LAT
         ah = e["altura"] - RES_TOPO - RES_BASE
         esc = min(1.0, aw / m["largura_mm"], ah / m["altura_mm"])
+        if m["largura_mm"] <= aw + FOLGA and m["altura_mm"] <= ah + FOLGA:
+            esc = 1.0  # passa até 1 mm da área: entra na margem do texto, sem reduzir
         if esc < 0.995:
             lw = e["largura"] - TEXTO_LADO - MARGEM_LADO
             lh = e["altura"] - 2 * MARGEM_LADO
@@ -201,7 +206,6 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
         if len(itens) < 2 or any(not medidas[e["codigo"]].get("corpo_mm") for e, _ in itens):
             return {}
         larg = itens[0][0]["largura"]
-        melhor = None
         for lado in (2, 0):  # borda direita do corpo; senão a esquerda
             refs = [medidas[e["codigo"]]["corpo_mm"][lado] * t[2] for e, t in itens]
             lo = max(faixa_x(e, t)[0] + r for (e, t), r in zip(itens, refs))
@@ -211,13 +215,30 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
                 b = max(t[0] - r for (_, t), r in zip(itens, refs))
                 X = min(max(larg / 2 - (a + b) / 2, lo), hi)
                 return {e["codigo"]: X - r for (e, _), r in zip(itens, refs)}
-            if melhor is None or lo - hi < melhor[0]:
-                melhor = (lo - hi, refs, (lo + hi) / 2)
-        # Não dá para alinhar sem um desenho sair do espaço: chega o mais perto
-        # possível (cada desenho vai até o limite do seu espaço).
-        _, refs, X = melhor
-        return {e["codigo"]: min(max(X - r, faixa_x(e, t)[0]), faixa_x(e, t)[1])
-                for (e, t), r in zip(itens, refs)}
+        return {}  # não cabe alinhar: cada um fica centralizado no seu espaço
+
+    def faixa_y(e, t):
+        _, h, _, lado = t
+        if lado:
+            return MARGEM_LADO, e["altura"] - MARGEM_LADO - h
+        return RES_TOPO - FOLGA / 2, e["altura"] - RES_BASE + FOLGA / 2 - h
+
+    def alinhar_linha(itens):
+        """Perfis lado a lado (mesma linha da página): a parede horizontal mais
+        comprida do corpo de cada um fica na mesma altura (pedido do cliente 27/11,
+        LG-051 e LG-017). Se não couber, cada um fica centralizado."""
+        if len(itens) < 2 or any(medidas[e["codigo"]].get("parede_h_mm") is None for e, _ in itens):
+            return {}
+        alt = itens[0][0]["altura"]
+        refs = [medidas[e["codigo"]]["parede_h_mm"] * t[2] for e, t in itens]
+        lo = max(faixa_y(e, t)[0] + r for (e, t), r in zip(itens, refs))
+        hi = min(faixa_y(e, t)[1] + r for (e, t), r in zip(itens, refs))
+        if lo > hi + 0.01:
+            return {}
+        a = min(-r for r in refs)
+        b = max(t[1] - r for (_, t), r in zip(itens, refs))
+        Y = min(max(alt / 2 - (a + b) / 2, lo), hi)
+        return {e["codigo"]: Y - r for (e, _), r in zip(itens, refs)}
 
     for np_, pag in enumerate(paginas, 1):
         colunas = {}
@@ -228,6 +249,13 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
         x_alinhado = {}
         for itens in colunas.values():
             x_alinhado.update(alinhar_coluna(itens))
+        linhas = {}
+        for itens in colunas.values():
+            for e, t in itens:
+                linhas.setdefault((round(e["y"], 1), round(e["altura"], 1)), []).append((e, t))
+        y_alinhado = {}
+        for itens in linhas.values():
+            y_alinhado.update(alinhar_linha(itens))
         espacos = []
         for e in pag["espacos"]:
             p = perfis[e["codigo"]]
@@ -247,6 +275,9 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
                     x = RES_LAT + (aw - w) / 2
                     y = RES_TOPO + (ah - h) / 2
                 x = x_alinhado.get(e["codigo"], x)
+                y = y_alinhado.get(e["codigo"], y)
+                aj = ajuste.get(e["codigo"], {})
+                x, y = x + aj.get("dx", 0), y + aj.get("dy", 0)
                 src = "data:image/svg+xml;base64," + base64.b64encode(svg_do_desenho(m)).decode()
                 corpo = (f'<img class="des" src="{src}" style="left:{x:.2f}mm;top:{y:.2f}mm;'
                          f'width:{w:.2f}mm;height:{h:.2f}mm">')

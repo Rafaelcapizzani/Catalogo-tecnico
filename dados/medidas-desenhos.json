@@ -8,6 +8,7 @@
    38.0,
    28.0
   ],
+  "parede_h_mm": 27.9,
   "largura_mm": 48.7,
   "altura_mm": 37.6,
   "svg_mm": [
@@ -30,6 +31,7 @@
    40.6,
    43.1
   ],
+  "parede_h_mm": 27.5,
   "largura_mm": 51.2,
   "altura_mm": 43.2,
   "svg_mm": [
@@ -52,6 +54,7 @@
    42.5,
    32.7
   ],
+  "parede_h_mm": 22.5,
   "largura_mm": 58.5,
   "altura_mm": 36.2,
   "svg_mm": [
@@ -74,6 +77,7 @@
    41.7,
    49.0
   ],
+  "parede_h_mm": 29.2,
   "largura_mm": 51.6,
   "altura_mm": 55.9,
   "svg_mm": [
@@ -96,6 +100,7 @@
    70.6,
    54.3
   ],
+  "parede_h_mm": 28.8,
   "largura_mm": 86.1,
   "altura_mm": 54.6,
   "svg_mm": [
@@ -118,6 +123,7 @@
    60.1,
    71.3
   ],
+  "parede_h_mm": 35.8,
   "largura_mm": 76.8,
   "altura_mm": 71.5,
   "svg_mm": [
@@ -140,6 +146,7 @@
    35.2,
    47.2
   ],
+  "parede_h_mm": 20.4,
   "largura_mm": 50.5,
   "altura_mm": 47.4,
   "svg_mm": [
@@ -162,6 +169,7 @@
    33.6,
    47.4
   ],
+  "parede_h_mm": 47.4,
   "largura_mm": 43.3,
   "altura_mm": 55.4,
   "svg_mm": [
@@ -184,6 +192,7 @@
    49.7,
    40.8
   ],
+  "parede_h_mm": 40.1,
   "largura_mm": 60.8,
   "altura_mm": 51.0,
   "svg_mm": [
@@ -206,6 +215,7 @@
    41.3,
    42.8
   ],
+  "parede_h_mm": 34.9,
   "largura_mm": 47.8,
   "altura_mm": 51.2,
   "svg_mm": [
@@ -228,6 +238,7 @@
    40.1,
    35.1
   ],
+  "parede_h_mm": 35.1,
   "largura_mm": 48.9,
   "altura_mm": 46.7,
   "svg_mm": [
@@ -250,6 +261,7 @@
    41.5,
    43.5
   ],
+  "parede_h_mm": 21.2,
   "largura_mm": 51.5,
   "altura_mm": 49.0,
   "svg_mm": [
@@ -272,6 +284,7 @@
    40.3,
    50.3
   ],
+  "parede_h_mm": 20.2,
   "largura_mm": 40.5,
   "altura_mm": 50.5,
   "svg_mm": [
@@ -294,6 +307,7 @@
    39.1,
    32.8
   ],
+  "parede_h_mm": 12.9,
   "largura_mm": 39.7,
   "altura_mm": 41.9,
   "svg_mm": [
@@ -316,6 +330,7 @@
    27.3,
    37.1
   ],
+  "parede_h_mm": 37.0,
   "largura_mm": 63.4,
   "altura_mm": 56.5,
   "svg_mm": [
@@ -338,6 +353,7 @@
    38.3,
    37.8
   ],
+  "parede_h_mm": 37.8,
   "largura_mm": 38.5,
   "altura_mm": 38.0,
   "svg_mm": [
@@ -360,6 +376,7 @@
    59.9,
    40.1
   ],
+  "parede_h_mm": 40.1,
   "largura_mm": 67.0,
   "altura_mm": 47.7,
   "svg_mm": [
@@ -382,6 +399,7 @@
    84.8,
    52.8
   ],
+  "parede_h_mm": 28.1,
   "largura_mm": 98.4,
   "altura_mm": 65.4,
   "svg_mm": [
@@ -404,6 +422,7 @@
    35.2,
    40.0
   ],
+  "parede_h_mm": 28.0,
   "largura_mm": 43.8,
   "altura_mm": 46.7,
   "svg_mm": [
@@ -426,6 +445,7 @@
    30.1,
    23.0
   ],
+  "parede_h_mm": 11.5,
   "largura_mm": 43.6,
   "altura_mm": 39.8,
   "svg_mm": [
@@ -448,6 +468,7 @@
    100.2,
    62.3
   ],
+  "parede_h_mm": 38.7,
   "largura_mm": 112.6,
   "altura_mm": 62.4,
   "svg_mm": [
@@ -470,6 +491,7 @@
    36.9,
    33.2
   ],
+  "parede_h_mm": 32.9,
   "largura_mm": 55.2,
   "altura_mm": 42.1,
   "svg_mm": [
@@ -492,6 +514,7 @@
    35.6,
    47.4
   ],
+  "parede_h_mm": 35.6,
   "largura_mm": 52.4,
   "altura_mm": 54.2,
   "svg_mm": [
@@ -514,6 +537,7 @@
    36.0,
    61.4
   ],
+  "parede_h_mm": 41.5,
   "largura_mm": 44.8,
   "altura_mm": 68.8,
   "svg_mm": [
@@ -536,6 +560,7 @@
    56.0,
    38.9
   ],
+  "parede_h_mm": 38.8,
   "largura_mm": 65.4,
   "altura_mm": 48.9,
   "svg_mm": [
@@ -558,6 +583,7 @@
    60.7,
    48.7
   ],
+  "parede_h_mm": 41.2,
   "largura_mm": 74.3,
   "altura_mm": 60.6,
   "svg_mm": [
@@ -580,6 +606,7 @@
    66.9,
    43.9
   ],
+  "parede_h_mm": 43.9,
   "largura_mm": 68.7,
   "altura_mm": 54.2,
   "svg_mm": [
@@ -602,6 +629,7 @@
    35.4,
    65.7
   ],
+  "parede_h_mm": 53.8,
   "largura_mm": 45.3,
   "altura_mm": 70.7,
   "svg_mm": [
@@ -624,6 +652,7 @@
    22.5,
    22.8
   ],
+  "parede_h_mm": 9.3,
   "largura_mm": 27.2,
   "altura_mm": 22.8,
   "svg_mm": [
@@ -646,6 +675,7 @@
    113.9,
    52.3
   ],
+  "parede_h_mm": 27.3,
   "largura_mm": 114.1,
   "altura_mm": 62.5,
   "svg_mm": [
@@ -668,6 +698,7 @@
    70.3,
    24.2
   ],
+  "parede_h_mm": 14.1,
   "largura_mm": 81.9,
   "altura_mm": 35.9,
   "svg_mm": [
@@ -690,6 +721,7 @@
    79.4,
    47.7
   ],
+  "parede_h_mm": 33.7,
   "largura_mm": 92.0,
   "altura_mm": 52.3,
   "svg_mm": [
@@ -712,6 +744,7 @@
    88.2,
    41.5
   ],
+  "parede_h_mm": 16.1,
   "largura_mm": 98.5,
   "altura_mm": 52.7,
   "svg_mm": [
@@ -734,6 +767,7 @@
    79.2,
    39.3
   ],
+  "parede_h_mm": 25.4,
   "largura_mm": 88.8,
   "altura_mm": 48.0,
   "svg_mm": [
@@ -756,6 +790,7 @@
    29.2,
    48.7
   ],
+  "parede_h_mm": 36.6,
   "largura_mm": 46.7,
   "altura_mm": 48.8,
   "svg_mm": [
@@ -778,6 +813,7 @@
    23.8,
    40.9
   ],
+  "parede_h_mm": 40.9,
   "largura_mm": 23.9,
   "altura_mm": 41.0,
   "svg_mm": [
@@ -800,6 +836,7 @@
    43.7,
    56.8
   ],
+  "parede_h_mm": 36.7,
   "largura_mm": 43.7,
   "altura_mm": 56.9,
   "svg_mm": [
@@ -822,6 +859,7 @@
    39.9,
    42.9
   ],
+  "parede_h_mm": 32.4,
   "largura_mm": 56.5,
   "altura_mm": 56.4,
   "svg_mm": [
@@ -844,6 +882,7 @@
    38.5,
    41.1
   ],
+  "parede_h_mm": 30.6,
   "largura_mm": 49.4,
   "altura_mm": 54.6,
   "svg_mm": [
@@ -866,6 +905,7 @@
    25.2,
    27.8
   ],
+  "parede_h_mm": 23.2,
   "largura_mm": 38.9,
   "altura_mm": 32.6,
   "svg_mm": [
@@ -888,6 +928,7 @@
    35.1,
    33.3
   ],
+  "parede_h_mm": 21.0,
   "largura_mm": 36.9,
   "altura_mm": 35.0,
   "svg_mm": [
@@ -910,6 +951,7 @@
    70.6,
    39.0
   ],
+  "parede_h_mm": 30.5,
   "largura_mm": 80.4,
   "altura_mm": 39.2,
   "svg_mm": [
@@ -932,6 +974,7 @@
    36.5,
    89.1
   ],
+  "parede_h_mm": 50.8,
   "largura_mm": 49.7,
   "altura_mm": 96.7,
   "svg_mm": [
@@ -954,6 +997,7 @@
    40.0,
    49.4
   ],
+  "parede_h_mm": 24.8,
   "largura_mm": 53.1,
   "altura_mm": 51.5,
   "svg_mm": [
@@ -976,6 +1020,7 @@
    30.7,
    49.6
   ],
+  "parede_h_mm": 37.9,
   "largura_mm": 45.0,
   "altura_mm": 49.7,
   "svg_mm": [
@@ -998,6 +1043,7 @@
    40.7,
    55.9
   ],
+  "parede_h_mm": 40.1,
   "largura_mm": 51.1,
   "altura_mm": 62.1,
   "svg_mm": [
@@ -1020,6 +1066,7 @@
    39.2,
    64.7
   ],
+  "parede_h_mm": 58.0,
   "largura_mm": 55.2,
   "altura_mm": 73.0,
   "svg_mm": [
@@ -1042,6 +1089,7 @@
    86.5,
    42.4
   ],
+  "parede_h_mm": 42.4,
   "largura_mm": 100.5,
   "altura_mm": 58.7,
   "svg_mm": [
@@ -1064,6 +1112,7 @@
    23.6,
    24.3
   ],
+  "parede_h_mm": 9.4,
   "largura_mm": 33.6,
   "altura_mm": 24.4,
   "svg_mm": [
@@ -1086,6 +1135,7 @@
    38.4,
    49.4
   ],
+  "parede_h_mm": 45.3,
   "largura_mm": 47.4,
   "altura_mm": 58.5,
   "svg_mm": [
@@ -1108,6 +1158,7 @@
    39.1,
    27.3
   ],
+  "parede_h_mm": 24.3,
   "largura_mm": 52.4,
   "altura_mm": 35.3,
   "svg_mm": [
@@ -1130,6 +1181,7 @@
    35.1,
    46.5
   ],
+  "parede_h_mm": 46.3,
   "largura_mm": 53.4,
   "altura_mm": 55.6,
   "svg_mm": [
@@ -1152,6 +1204,7 @@
    25.4,
    39.9
   ],
+  "parede_h_mm": 32.9,
   "largura_mm": 42.8,
   "altura_mm": 40.0,
   "svg_mm": [
@@ -1174,6 +1227,7 @@
    25.7,
    51.2
   ],
+  "parede_h_mm": 19.1,
   "largura_mm": 41.6,
   "altura_mm": 51.2,
   "svg_mm": [
@@ -1196,6 +1250,7 @@
    30.1,
    40.1
   ],
+  "parede_h_mm": 28.4,
   "largura_mm": 48.2,
   "altura_mm": 40.2,
   "svg_mm": [
@@ -1218,6 +1273,7 @@
    117.7,
    49.9
   ],
+  "parede_h_mm": 25.1,
   "largura_mm": 137.9,
   "altura_mm": 64.6,
   "svg_mm": [
@@ -1240,6 +1296,7 @@
    109.0,
    57.4
   ],
+  "parede_h_mm": 45.1,
   "largura_mm": 130.5,
   "altura_mm": 71.0,
   "svg_mm": [
@@ -1262,6 +1319,7 @@
    37.8,
    66.4
   ],
+  "parede_h_mm": 66.3,
   "largura_mm": 37.9,
   "altura_mm": 66.8,
   "svg_mm": [
@@ -1284,6 +1342,7 @@
    33.7,
    37.7
   ],
+  "parede_h_mm": 36.1,
   "largura_mm": 34.0,
   "altura_mm": 37.8,
   "svg_mm": [
@@ -1306,6 +1365,7 @@
    31.5,
    30.9
   ],
+  "parede_h_mm": 30.8,
   "largura_mm": 39.2,
   "altura_mm": 42.8,
   "svg_mm": [
@@ -1328,6 +1388,7 @@
    40.9,
    50.4
   ],
+  "parede_h_mm": 23.9,
   "largura_mm": 41.2,
   "altura_mm": 50.6,
   "svg_mm": [
@@ -1350,6 +1411,7 @@
    41.7,
    50.2
   ],
+  "parede_h_mm": 50.1,
   "largura_mm": 41.9,
   "altura_mm": 50.3,
   "svg_mm": [
@@ -1372,6 +1434,7 @@
    64.3,
    39.5
   ],
+  "parede_h_mm": 39.5,
   "largura_mm": 64.4,
   "altura_mm": 50.4,
   "svg_mm": [
@@ -1394,6 +1457,7 @@
    40.0,
    64.3
   ],
+  "parede_h_mm": 52.3,
   "largura_mm": 49.9,
   "altura_mm": 64.4,
   "svg_mm": [
@@ -1416,6 +1480,7 @@
    65.9,
    49.6
   ],
+  "parede_h_mm": 49.5,
   "largura_mm": 72.8,
   "altura_mm": 59.5,
   "svg_mm": [
@@ -1438,6 +1503,7 @@
    62.1,
    47.4
   ],
+  "parede_h_mm": 38.5,
   "largura_mm": 72.8,
   "altura_mm": 55.3,
   "svg_mm": [
@@ -1460,6 +1526,7 @@
    30.8,
    41.8
   ],
+  "parede_h_mm": 41.7,
   "largura_mm": 31.0,
   "altura_mm": 50.5,
   "svg_mm": [
@@ -1482,6 +1549,7 @@
    36.0,
    47.5
   ],
+  "parede_h_mm": 31.4,
   "largura_mm": 50.1,
   "altura_mm": 54.6,
   "svg_mm": [
@@ -1504,6 +1572,7 @@
    40.5,
    60.9
   ],
+  "parede_h_mm": 48.8,
   "largura_mm": 48.2,
   "altura_mm": 67.5,
   "svg_mm": [
@@ -1526,6 +1595,7 @@
    39.5,
    66.3
   ],
+  "parede_h_mm": 62.1,
   "largura_mm": 48.2,
   "altura_mm": 73.3,
   "svg_mm": [
@@ -1548,6 +1618,7 @@
    44.9,
    66.2
   ],
+  "parede_h_mm": 38.1,
   "largura_mm": 55.6,
   "altura_mm": 66.3,
   "svg_mm": [
@@ -1570,6 +1641,7 @@
    44.8,
    104.8
   ],
+  "parede_h_mm": 84.8,
   "largura_mm": 55.0,
   "altura_mm": 111.8,
   "svg_mm": [
@@ -1592,6 +1664,7 @@
    43.7,
    100.3
   ],
+  "parede_h_mm": 88.2,
   "largura_mm": 54.6,
   "altura_mm": 108.3,
   "svg_mm": [
@@ -1614,6 +1687,7 @@
    40.2,
    84.9
   ],
+  "parede_h_mm": 84.9,
   "largura_mm": 51.4,
   "altura_mm": 104.4,
   "svg_mm": [
@@ -1636,6 +1710,7 @@
    28.3,
    43.8
   ],
+  "parede_h_mm": 43.8,
   "largura_mm": 40.0,
   "altura_mm": 53.9,
   "svg_mm": [
@@ -1658,6 +1733,7 @@
    83.3,
    47.6
   ],
+  "parede_h_mm": 22.1,
   "largura_mm": 94.0,
   "altura_mm": 47.7,
   "svg_mm": [
@@ -1680,6 +1756,7 @@
    95.0,
    65.6
   ],
+  "parede_h_mm": 36.6,
   "largura_mm": 95.1,
   "altura_mm": 65.7,
   "svg_mm": [
@@ -1702,6 +1779,7 @@
    50.5,
    52.3
   ],
+  "parede_h_mm": 32.6,
   "largura_mm": 50.6,
   "altura_mm": 52.7,
   "svg_mm": [
@@ -1724,6 +1802,7 @@
    30.2,
    35.7
   ],
+  "parede_h_mm": 35.6,
   "largura_mm": 41.6,
   "altura_mm": 36.0,
   "svg_mm": [
@@ -1746,6 +1825,7 @@
    35.2,
    48.4
   ],
+  "parede_h_mm": 31.7,
   "largura_mm": 46.9,
   "altura_mm": 48.5,
   "svg_mm": [
@@ -1768,6 +1848,7 @@
    28.4,
    33.1
   ],
+  "parede_h_mm": 28.7,
   "largura_mm": 28.5,
   "altura_mm": 38.7,
   "svg_mm": [
@@ -1790,6 +1871,7 @@
    71.8,
    39.7
   ],
+  "parede_h_mm": 39.6,
   "largura_mm": 78.9,
   "altura_mm": 50.1,
   "svg_mm": [
@@ -1812,6 +1894,7 @@
    42.8,
    54.1
   ],
+  "parede_h_mm": 42.0,
   "largura_mm": 42.9,
   "altura_mm": 54.3,
   "svg_mm": [
@@ -1834,6 +1917,7 @@
    41.9,
    112.4
   ],
+  "parede_h_mm": 108.1,
   "largura_mm": 42.2,
   "altura_mm": 112.6,
   "svg_mm": [
@@ -1856,6 +1940,7 @@
    83.3,
    24.3
   ],
+  "parede_h_mm": 14.3,
   "largura_mm": 97.1,
   "altura_mm": 33.3,
   "svg_mm": [
@@ -1878,6 +1963,7 @@
    92.3,
    34.7
   ],
+  "parede_h_mm": 26.1,
   "largura_mm": 105.2,
   "altura_mm": 49.2,
   "svg_mm": [
@@ -1900,6 +1986,7 @@
    165.7,
    19.3
   ],
+  "parede_h_mm": 19.3,
   "largura_mm": 165.9,
   "altura_mm": 44.9,
   "svg_mm": [
@@ -1922,6 +2009,7 @@
    59.7,
    68.1
   ],
+  "parede_h_mm": 9.9,
   "largura_mm": 59.8,
   "altura_mm": 73.7,
   "svg_mm": [
@@ -1944,6 +2032,7 @@
    18.6,
    18.3
   ],
+  "parede_h_mm": 11.6,
   "largura_mm": 28.9,
   "altura_mm": 29.6,
   "svg_mm": [
@@ -1966,6 +2055,7 @@
    32.5,
    28.2
   ],
+  "parede_h_mm": 14.5,
   "largura_mm": 36.0,
   "altura_mm": 28.6,
   "svg_mm": [
@@ -1988,6 +2078,7 @@
    28.0,
    28.0
   ],
+  "parede_h_mm": 12.8,
   "largura_mm": 28.0,
   "altura_mm": 33.8,
   "svg_mm": [
@@ -2010,6 +2101,7 @@
    26.7,
    36.2
   ],
+  "parede_h_mm": 24.7,
   "largura_mm": 37.0,
   "altura_mm": 45.6,
   "svg_mm": [
@@ -2032,6 +2124,7 @@
    124.1,
    98.9
   ],
+  "parede_h_mm": 98.8,
   "largura_mm": 124.2,
   "altura_mm": 106.1,
   "svg_mm": [
@@ -2054,6 +2147,7 @@
    142.7,
    44.9
   ],
+  "parede_h_mm": 14.4,
   "largura_mm": 153.0,
   "altura_mm": 61.7,
   "svg_mm": [
@@ -2076,6 +2170,7 @@
    50.2,
    73.2
   ],
+  "parede_h_mm": 69.5,
   "largura_mm": 50.4,
   "altura_mm": 82.4,
   "svg_mm": [
@@ -2098,6 +2193,7 @@
    50.6,
    100.4
   ],
+  "parede_h_mm": 80.3,
   "largura_mm": 50.8,
   "altura_mm": 109.8,
   "svg_mm": [
@@ -2120,6 +2216,7 @@
    49.7,
    100.4
   ],
+  "parede_h_mm": 80.4,
   "largura_mm": 55.6,
   "altura_mm": 108.3,
   "svg_mm": [
@@ -2142,6 +2239,7 @@
    47.2,
    20.4
   ],
+  "parede_h_mm": 14.3,
   "largura_mm": 57.4,
   "altura_mm": 31.4,
   "svg_mm": [
@@ -2164,6 +2262,7 @@
    59.1,
    46.3
   ],
+  "parede_h_mm": 28.3,
   "largura_mm": 69.7,
   "altura_mm": 55.2,
   "svg_mm": [
@@ -2186,6 +2285,7 @@
    64.6,
    34.3
   ],
+  "parede_h_mm": 30.7,
   "largura_mm": 64.7,
   "altura_mm": 34.6,
   "svg_mm": [
@@ -2208,6 +2308,7 @@
    51.9,
    42.3
   ],
+  "parede_h_mm": 42.3,
   "largura_mm": 64.3,
   "altura_mm": 42.4,
   "svg_mm": [
@@ -2230,6 +2331,7 @@
    55.7,
    31.9
   ],
+  "parede_h_mm": 31.9,
   "largura_mm": 66.5,
   "altura_mm": 42.5,
   "svg_mm": [
@@ -2252,6 +2354,7 @@
    51.7,
    79.5
   ],
+  "parede_h_mm": 59.5,
   "largura_mm": 60.4,
   "altura_mm": 79.6,
   "svg_mm": [
@@ -2274,6 +2377,7 @@
    46.1,
    100.3
   ],
+  "parede_h_mm": 95.8,
   "largura_mm": 46.2,
   "altura_mm": 100.5,
   "svg_mm": [
@@ -2296,6 +2400,7 @@
    84.7,
    52.1
   ],
+  "parede_h_mm": 52.1,
   "largura_mm": 84.9,
   "altura_mm": 61.6,
   "svg_mm": [
@@ -2318,6 +2423,7 @@
    48.0,
    93.1
   ],
+  "parede_h_mm": 14.2,
   "largura_mm": 57.6,
   "altura_mm": 93.2,
   "svg_mm": [
@@ -2340,6 +2446,7 @@
    16.7,
    69.7
   ],
+  "parede_h_mm": 10.6,
   "largura_mm": 26.4,
   "altura_mm": 78.3,
   "svg_mm": [
@@ -2362,6 +2469,7 @@
    33.2,
    34.7
   ],
+  "parede_h_mm": 33.4,
   "largura_mm": 43.9,
   "altura_mm": 44.2,
   "svg_mm": [
@@ -2384,6 +2492,7 @@
    22.4,
    48.4
   ],
+  "parede_h_mm": 21.0,
   "largura_mm": 31.1,
   "altura_mm": 48.5,
   "svg_mm": [
@@ -2406,6 +2515,7 @@
    28.1,
    25.1
   ],
+  "parede_h_mm": 12.7,
   "largura_mm": 32.2,
   "altura_mm": 30.8,
   "svg_mm": [
@@ -2428,6 +2538,7 @@
    154.1,
    61.9
   ],
+  "parede_h_mm": 39.8,
   "largura_mm": 170.2,
   "altura_mm": 71.5,
   "svg_mm": [
@@ -2450,6 +2561,7 @@
    22.3,
    200.3
   ],
+  "parede_h_mm": 200.2,
   "largura_mm": 42.2,
   "altura_mm": 200.4,
   "svg_mm": [
@@ -2472,6 +2584,7 @@
    180.3,
    59.0
   ],
+  "parede_h_mm": 45.2,
   "largura_mm": 180.4,
   "altura_mm": 59.1,
   "svg_mm": [
@@ -2494,6 +2607,7 @@
    34.0,
    153.6
   ],
+  "parede_h_mm": 153.5,
   "largura_mm": 34.0,
   "altura_mm": 153.7,
   "svg_mm": [
@@ -2516,6 +2630,7 @@
    21.5,
    33.0
   ],
+  "parede_h_mm": 30.1,
   "largura_mm": 33.4,
   "altura_mm": 40.0,
   "svg_mm": [
@@ -2538,6 +2653,7 @@
    32.7,
    25.9
   ],
+  "parede_h_mm": 15.1,
   "largura_mm": 50.7,
   "altura_mm": 26.2,
   "svg_mm": [
@@ -2560,6 +2676,7 @@
    37.7,
    66.3
   ],
+  "parede_h_mm": 33.8,
   "largura_mm": 37.7,
   "altura_mm": 66.8,
   "svg_mm": [
@@ -2582,6 +2699,7 @@
    40.6,
    60.9
   ],
+  "parede_h_mm": 55.3,
   "largura_mm": 54.0,
   "altura_mm": 61.1,
   "svg_mm": [
@@ -2604,6 +2722,7 @@
    60.7,
    60.3
   ],
+  "parede_h_mm": 14.3,
   "largura_mm": 60.9,
   "altura_mm": 60.4,
   "svg_mm": [
@@ -2626,6 +2745,7 @@
    9.9,
    21.7
   ],
+  "parede_h_mm": 15.9,
   "largura_mm": 22.9,
   "altura_mm": 21.9,
   "svg_mm": [
@@ -2648,6 +2768,7 @@
    28.8,
    104.1
   ],
+  "parede_h_mm": 63.5,
   "largura_mm": 42.6,
   "altura_mm": 116.4,
   "svg_mm": [
@@ -2670,6 +2791,7 @@
    31.4,
    187.9
   ],
+  "parede_h_mm": 145.6,
   "largura_mm": 41.7,
   "altura_mm": 198.9,
   "svg_mm": [
@@ -2692,6 +2814,7 @@
    150.5,
    34.0
   ],
+  "parede_h_mm": 30.7,
   "largura_mm": 150.6,
   "altura_mm": 47.8,
   "svg_mm": [
@@ -2714,6 +2837,7 @@
    24.9,
    214.0
   ],
+  "parede_h_mm": 135.8,
   "largura_mm": 31.5,
   "altura_mm": 224.2,
   "svg_mm": [
@@ -2736,6 +2860,7 @@
    39.2,
    65.5
   ],
+  "parede_h_mm": 50.5,
   "largura_mm": 47.6,
   "altura_mm": 80.8,
   "svg_mm": [
@@ -2758,6 +2883,7 @@
    53.7,
    20.4
   ],
+  "parede_h_mm": 20.2,
   "largura_mm": 53.9,
   "altura_mm": 34.0,
   "svg_mm": [
@@ -2780,6 +2906,7 @@
    39.0,
    179.9
   ],
+  "parede_h_mm": 164.9,
   "largura_mm": 46.4,
   "altura_mm": 196.1,
   "svg_mm": [
@@ -2802,6 +2929,7 @@
    128.1,
    18.7
   ],
+  "parede_h_mm": 18.7,
   "largura_mm": 128.8,
   "altura_mm": 29.4,
   "svg_mm": [
@@ -2824,6 +2952,7 @@
    159.7,
    132.2
   ],
+  "parede_h_mm": 132.2,
   "largura_mm": 178.3,
   "altura_mm": 144.5,
   "svg_mm": [
@@ -2846,6 +2975,7 @@
    159.5,
    68.0
   ],
+  "parede_h_mm": 22.4,
   "largura_mm": 159.9,
   "altura_mm": 81.6,
   "svg_mm": [
@@ -2868,6 +2998,7 @@
    24.3,
    187.3
   ],
+  "parede_h_mm": 114.1,
   "largura_mm": 40.7,
   "altura_mm": 202.8,
   "svg_mm": [
@@ -2890,6 +3021,7 @@
    36.6,
    169.2
   ],
+  "parede_h_mm": 154.7,
   "largura_mm": 51.0,
   "altura_mm": 180.4,
   "svg_mm": [
@@ -2912,6 +3044,7 @@
    51.9,
    154.6
   ],
+  "parede_h_mm": 150.3,
   "largura_mm": 52.1,
   "altura_mm": 154.7,
   "svg_mm": [
@@ -2934,6 +3067,7 @@
    132.7,
    56.6
   ],
+  "parede_h_mm": 56.6,
   "largura_mm": 132.8,
   "altura_mm": 56.7,
   "svg_mm": [
@@ -2956,6 +3090,7 @@
    54.9,
    112.5
   ],
+  "parede_h_mm": 97.4,
   "largura_mm": 55.0,
   "altura_mm": 112.6,
   "svg_mm": [
@@ -2978,6 +3113,7 @@
    31.8,
    174.3
   ],
+  "parede_h_mm": 161.7,
   "largura_mm": 32.0,
   "altura_mm": 174.4,
   "svg_mm": [
@@ -3000,6 +3136,7 @@
    62.8,
    62.2
   ],
+  "parede_h_mm": 9.8,
   "largura_mm": 64.4,
   "altura_mm": 68.1,
   "svg_mm": [
@@ -3022,6 +3159,7 @@
    95.4,
    54.4
   ],
+  "parede_h_mm": 54.4,
   "largura_mm": 104.4,
   "altura_mm": 61.6,
   "svg_mm": [
@@ -3044,6 +3182,7 @@
    16.8,
    64.6
   ],
+  "parede_h_mm": 11.0,
   "largura_mm": 31.0,
   "altura_mm": 64.6,
   "svg_mm": [
@@ -3066,6 +3205,7 @@
    29.6,
    33.3
   ],
+  "parede_h_mm": 32.9,
   "largura_mm": 49.5,
   "altura_mm": 42.6,
   "svg_mm": [
@@ -3088,6 +3228,7 @@
    65.4,
    67.3
   ],
+  "parede_h_mm": 13.3,
   "largura_mm": 65.6,
   "altura_mm": 76.6,
   "svg_mm": [
@@ -3110,6 +3251,7 @@
    18.3,
    67.3
   ],
+  "parede_h_mm": 15.2,
   "largura_mm": 28.5,
   "altura_mm": 76.6,
   "svg_mm": [
@@ -3132,6 +3274,7 @@
    20.5,
    29.5
   ],
+  "parede_h_mm": 10.9,
   "largura_mm": 30.2,
   "altura_mm": 29.5,
   "svg_mm": [
@@ -3154,6 +3297,7 @@
    23.8,
    16.0
   ],
+  "parede_h_mm": 8.2,
   "largura_mm": 24.0,
   "altura_mm": 20.1,
   "svg_mm": [
@@ -3176,6 +3320,7 @@
    55.2,
    54.9
   ],
+  "parede_h_mm": 53.8,
   "largura_mm": 64.8,
   "altura_mm": 70.9,
   "svg_mm": [
@@ -3198,6 +3343,7 @@
    14.0,
    22.3
   ],
+  "parede_h_mm": 21.9,
   "largura_mm": 24.0,
   "altura_mm": 31.6,
   "svg_mm": [
@@ -3220,6 +3366,7 @@
    28.6,
    32.5
   ],
+  "parede_h_mm": 24.2,
   "largura_mm": 34.2,
   "altura_mm": 32.5,
   "svg_mm": [
@@ -3242,6 +3389,7 @@
    36.7,
    13.5
   ],
+  "parede_h_mm": 12.9,
   "largura_mm": 47.3,
   "altura_mm": 23.9,
   "svg_mm": [
@@ -3264,6 +3412,7 @@
    25.9,
    23.2
   ],
+  "parede_h_mm": 19.5,
   "largura_mm": 36.1,
   "altura_mm": 23.3,
   "svg_mm": [
@@ -3286,6 +3435,7 @@
    49.1,
    36.7
   ],
+  "parede_h_mm": 8.0,
   "largura_mm": 49.2,
   "altura_mm": 36.8,
   "svg_mm": [
@@ -3308,6 +3458,7 @@
    38.6,
    31.6
   ],
+  "parede_h_mm": 18.2,
   "largura_mm": 38.7,
   "altura_mm": 37.1,
   "svg_mm": [
@@ -3330,6 +3481,7 @@
    40.7,
    63.3
   ],
+  "parede_h_mm": 43.3,
   "largura_mm": 47.0,
   "altura_mm": 63.4,
   "svg_mm": [
@@ -3352,6 +3504,7 @@
    56.8,
    38.7
   ],
+  "parede_h_mm": 22.8,
   "largura_mm": 64.2,
   "altura_mm": 45.2,
   "svg_mm": [
@@ -3374,6 +3527,7 @@
    59.4,
    69.3
   ],
+  "parede_h_mm": 10.6,
   "largura_mm": 59.5,
   "altura_mm": 87.2,
   "svg_mm": [
@@ -3396,6 +3550,7 @@
    16.7,
    69.3
   ],
+  "parede_h_mm": 10.3,
   "largura_mm": 26.2,
   "altura_mm": 79.2,
   "svg_mm": [
@@ -3418,6 +3573,7 @@
    99.1,
    38.8
   ],
+  "parede_h_mm": 18.9,
   "largura_mm": 99.3,
   "altura_mm": 47.5,
   "svg_mm": [
@@ -3440,6 +3596,7 @@
    125.5,
    36.2
   ],
+  "parede_h_mm": 24.9,
   "largura_mm": 135.7,
   "altura_mm": 36.3,
   "svg_mm": [
@@ -3462,6 +3619,7 @@
    27.5,
    126.0
   ],
+  "parede_h_mm": 126.0,
   "largura_mm": 38.2,
   "altura_mm": 135.7,
   "svg_mm": [
@@ -3484,6 +3642,7 @@
    78.6,
    116.8
   ],
+  "parede_h_mm": 116.7,
   "largura_mm": 78.7,
   "altura_mm": 126.4,
   "svg_mm": [
@@ -3506,6 +3665,7 @@
    25.5,
    163.8
   ],
+  "parede_h_mm": 11.2,
   "largura_mm": 28.0,
   "altura_mm": 164.0,
   "svg_mm": [
@@ -3528,6 +3688,7 @@
    40.5,
    138.6
   ],
+  "parede_h_mm": 10.5,
   "largura_mm": 51.3,
   "altura_mm": 148.0,
   "svg_mm": [
@@ -3550,6 +3711,7 @@
    124.4,
    43.0
   ],
+  "parede_h_mm": 36.4,
   "largura_mm": 134.1,
   "altura_mm": 52.7,
   "svg_mm": [
@@ -3572,6 +3734,7 @@
    25.5,
    14.6
   ],
+  "parede_h_mm": 13.4,
   "largura_mm": 25.7,
   "altura_mm": 25.0,
   "svg_mm": [
@@ -3594,6 +3757,7 @@
    55.8,
    49.3
   ],
+  "parede_h_mm": 25.5,
   "largura_mm": 67.2,
   "altura_mm": 56.3,
   "svg_mm": [
@@ -3616,6 +3780,7 @@
    26.1,
    64.3
   ],
+  "parede_h_mm": 64.2,
   "largura_mm": 38.5,
   "altura_mm": 73.8,
   "svg_mm": [
@@ -3638,6 +3803,7 @@
    23.9,
    59.1
   ],
+  "parede_h_mm": 59.0,
   "largura_mm": 35.2,
   "altura_mm": 68.4,
   "svg_mm": [
@@ -3660,6 +3826,7 @@
    37.5,
    40.1
   ],
+  "parede_h_mm": 22.5,
   "largura_mm": 38.5,
   "altura_mm": 49.9,
   "svg_mm": [
@@ -3682,6 +3849,7 @@
    40.3,
    143.5
   ],
+  "parede_h_mm": 104.7,
   "largura_mm": 54.7,
   "altura_mm": 143.7,
   "svg_mm": [
@@ -3704,6 +3872,7 @@
    91.4,
    18.5
   ],
+  "parede_h_mm": 17.1,
   "largura_mm": 102.4,
   "altura_mm": 27.3,
   "svg_mm": [
@@ -3726,6 +3895,7 @@
    33.7,
    17.7
   ],
+  "parede_h_mm": 17.7,
   "largura_mm": 48.9,
   "altura_mm": 28.2,
   "svg_mm": [
@@ -3748,6 +3918,7 @@
    24.0,
    22.1
   ],
+  "parede_h_mm": 10.9,
   "largura_mm": 28.8,
   "altura_mm": 24.0,
   "svg_mm": [
@@ -3770,6 +3941,7 @@
    40.5,
    30.2
   ],
+  "parede_h_mm": 28.9,
   "largura_mm": 54.1,
   "altura_mm": 41.6,
   "svg_mm": [
@@ -3792,6 +3964,7 @@
    50.1,
    30.2
   ],
+  "parede_h_mm": 28.9,
   "largura_mm": 63.7,
   "altura_mm": 41.6,
   "svg_mm": [
@@ -3814,6 +3987,7 @@
    178.6,
    14.6
   ],
+  "parede_h_mm": 1.5,
   "largura_mm": 178.8,
   "altura_mm": 44.1,
   "svg_mm": [
@@ -3836,6 +4010,7 @@
    178.6,
    14.6
   ],
+  "parede_h_mm": 1.5,
   "largura_mm": 178.8,
   "altura_mm": 44.1,
   "svg_mm": [
@@ -3858,6 +4033,7 @@
    105.8,
    40.2
   ],
+  "parede_h_mm": 31.3,
   "largura_mm": 116.3,
   "altura_mm": 51.2,
   "svg_mm": [
@@ -3880,6 +4056,7 @@
    86.8,
    40.8
   ],
+  "parede_h_mm": 23.9,
   "largura_mm": 96.2,
   "altura_mm": 49.5,
   "svg_mm": [
@@ -3902,6 +4079,7 @@
    44.5,
    65.2
   ],
+  "parede_h_mm": 65.1,
   "largura_mm": 55.2,
   "altura_mm": 77.5,
   "svg_mm": [
@@ -3924,6 +4102,7 @@
    45.0,
    242.3
   ],
+  "parede_h_mm": 118.9,
   "largura_mm": 57.8,
   "altura_mm": 242.4,
   "svg_mm": [
@@ -3946,6 +4125,7 @@
    29.3,
    242.5
   ],
+  "parede_h_mm": 242.4,
   "largura_mm": 29.4,
   "altura_mm": 242.6,
   "svg_mm": [
@@ -3968,6 +4148,7 @@
    60.3,
    16.5
   ],
+  "parede_h_mm": 10.7,
   "largura_mm": 68.4,
   "altura_mm": 20.0,
   "svg_mm": [
@@ -3990,6 +4171,7 @@
    61.1,
    31.8
   ],
+  "parede_h_mm": 31.8,
   "largura_mm": 76.7,
   "altura_mm": 41.9,
   "svg_mm": [
@@ -4012,6 +4194,7 @@
    31.0,
    218.5
   ],
+  "parede_h_mm": 205.9,
   "largura_mm": 46.3,
   "altura_mm": 227.0,
   "svg_mm": [
@@ -4034,6 +4217,7 @@
    48.3,
    141.6
   ],
+  "parede_h_mm": 95.2,
   "largura_mm": 61.6,
   "altura_mm": 146.2,
   "svg_mm": [
@@ -4056,6 +4240,7 @@
    129.3,
    88.9
   ],
+  "parede_h_mm": 69.7,
   "largura_mm": 129.4,
   "altura_mm": 89.1,
   "svg_mm": [
@@ -4078,6 +4263,7 @@
    60.7,
    99.9
   ],
+  "parede_h_mm": 65.4,
   "largura_mm": 72.1,
   "altura_mm": 110.2,
   "svg_mm": [
@@ -4100,6 +4286,7 @@
    165.2,
    40.0
   ],
+  "parede_h_mm": 39.8,
   "largura_mm": 165.4,
   "altura_mm": 40.0,
   "svg_mm": [
@@ -4122,6 +4309,7 @@
    25.3,
    27.9
   ],
+  "parede_h_mm": 9.4,
   "largura_mm": 37.7,
   "altura_mm": 36.6,
   "svg_mm": [
@@ -4144,6 +4332,7 @@
    37.5,
    19.5
   ],
+  "parede_h_mm": 19.4,
   "largura_mm": 37.6,
   "altura_mm": 28.2,
   "svg_mm": [
@@ -4166,6 +4355,7 @@
    97.8,
    105.8
   ],
+  "parede_h_mm": 49.7,
   "largura_mm": 97.9,
   "altura_mm": 106.2,
   "svg_mm": [
@@ -4188,6 +4378,7 @@
    27.4,
    25.0
   ],
+  "parede_h_mm": 13.5,
   "largura_mm": 39.5,
   "altura_mm": 34.3,
   "svg_mm": [
@@ -4210,6 +4401,7 @@
    53.4,
    36.9
   ],
+  "parede_h_mm": 36.2,
   "largura_mm": 53.6,
   "altura_mm": 43.2,
   "svg_mm": [
@@ -4232,6 +4424,7 @@
    81.9,
    31.4
   ],
+  "parede_h_mm": 31.4,
   "largura_mm": 82.0,
   "altura_mm": 39.6,
   "svg_mm": [
@@ -4254,6 +4447,7 @@
    31.6,
    117.3
   ],
+  "parede_h_mm": 116.0,
   "largura_mm": 40.0,
   "altura_mm": 128.5,
   "svg_mm": [
@@ -4276,6 +4470,7 @@
    61.6,
    45.3
   ],
+  "parede_h_mm": 18.7,
   "largura_mm": 61.7,
   "altura_mm": 45.4,
   "svg_mm": [
@@ -4298,6 +4493,7 @@
    98.5,
    38.3
   ],
+  "parede_h_mm": 16.6,
   "largura_mm": 98.7,
   "altura_mm": 38.5,
   "svg_mm": [
@@ -4320,6 +4516,7 @@
    63.0,
    50.3
   ],
+  "parede_h_mm": 38.1,
   "largura_mm": 71.1,
   "altura_mm": 58.5,
   "svg_mm": [
@@ -4342,6 +4539,7 @@
    93.0,
    50.3
   ],
+  "parede_h_mm": 37.3,
   "largura_mm": 101.2,
   "altura_mm": 57.8,
   "svg_mm": [
@@ -4364,6 +4562,7 @@
    52.7,
    29.6
   ],
+  "parede_h_mm": 28.3,
   "largura_mm": 60.7,
   "altura_mm": 29.7,
   "svg_mm": [
@@ -4386,6 +4585,7 @@
    43.5,
    34.2
   ],
+  "parede_h_mm": 27.0,
   "largura_mm": 51.2,
   "altura_mm": 41.2,
   "svg_mm": [
@@ -4408,6 +4608,7 @@
    43.4,
    27.2
   ],
+  "parede_h_mm": 26.9,
   "largura_mm": 50.7,
   "altura_mm": 34.0,
   "svg_mm": [
@@ -4430,6 +4631,7 @@
    82.1,
    25.8
   ],
+  "parede_h_mm": 20.5,
   "largura_mm": 82.2,
   "altura_mm": 37.4,
   "svg_mm": [
@@ -4452,6 +4654,7 @@
    82.3,
    23.5
   ],
+  "parede_h_mm": 18.2,
   "largura_mm": 82.4,
   "altura_mm": 35.9,
   "svg_mm": [
@@ -4474,6 +4677,7 @@
    82.5,
    25.8
   ],
+  "parede_h_mm": 20.6,
   "largura_mm": 82.6,
   "altura_mm": 37.4,
   "svg_mm": [
@@ -4496,6 +4700,7 @@
    62.8,
    25.8
   ],
+  "parede_h_mm": 20.6,
   "largura_mm": 62.9,
   "altura_mm": 37.4,
   "svg_mm": [
@@ -4518,6 +4723,7 @@
    62.7,
    25.8
   ],
+  "parede_h_mm": 20.5,
   "largura_mm": 62.8,
   "altura_mm": 37.2,
   "svg_mm": [
@@ -4540,6 +4746,7 @@
    86.7,
    32.8
   ],
+  "parede_h_mm": 26.1,
   "largura_mm": 89.8,
   "altura_mm": 40.8,
   "svg_mm": [
@@ -4562,6 +4769,7 @@
    87.0,
    33.0
   ],
+  "parede_h_mm": 26.3,
   "largura_mm": 87.0,
   "altura_mm": 44.8,
   "svg_mm": [
@@ -4584,6 +4792,7 @@
    68.0,
    33.0
   ],
+  "parede_h_mm": 26.2,
   "largura_mm": 68.1,
   "altura_mm": 41.9,
   "svg_mm": [
@@ -4606,6 +4815,7 @@
    38.4,
    34.7
   ],
+  "parede_h_mm": 30.7,
   "largura_mm": 46.2,
   "altura_mm": 34.7,
   "svg_mm": [
@@ -4628,6 +4838,7 @@
    40.0,
    41.7
   ],
+  "parede_h_mm": 37.8,
   "largura_mm": 49.7,
   "altura_mm": 41.8,
   "svg_mm": [
@@ -4650,6 +4861,7 @@
    21.0,
    38.5
   ],
+  "parede_h_mm": 34.5,
   "largura_mm": 28.0,
   "altura_mm": 38.5,
   "svg_mm": [
@@ -4672,6 +4884,7 @@
    21.0,
    33.4
   ],
+  "parede_h_mm": 29.6,
   "largura_mm": 28.8,
   "altura_mm": 33.5,
   "svg_mm": [
@@ -4694,6 +4907,7 @@
    48.2,
    31.7
   ],
+  "parede_h_mm": 31.4,
   "largura_mm": 55.0,
   "altura_mm": 31.7,
   "svg_mm": [
@@ -4716,6 +4930,7 @@
    39.1,
    32.6
   ],
+  "parede_h_mm": 32.4,
   "largura_mm": 48.4,
   "altura_mm": 32.7,
   "svg_mm": [
@@ -4738,6 +4953,7 @@
    60.6,
    18.0
   ],
+  "parede_h_mm": 11.3,
   "largura_mm": 68.0,
   "altura_mm": 25.2,
   "svg_mm": [
@@ -4760,6 +4976,7 @@
    56.7,
    41.2
   ],
+  "parede_h_mm": 27.2,
   "largura_mm": 65.4,
   "altura_mm": 41.4,
   "svg_mm": [
@@ -4782,6 +4999,7 @@
    28.4,
    43.1
   ],
+  "parede_h_mm": 26.7,
   "largura_mm": 28.5,
   "altura_mm": 43.2,
   "svg_mm": [
@@ -4804,6 +5022,7 @@
    22.6,
    45.3
   ],
+  "parede_h_mm": 44.8,
   "largura_mm": 22.7,
   "altura_mm": 45.4,
   "svg_mm": [
@@ -4826,6 +5045,7 @@
    12.5,
    82.5
   ],
+  "parede_h_mm": 3.2,
   "largura_mm": 24.5,
   "altura_mm": 88.3,
   "svg_mm": [
@@ -4848,6 +5068,7 @@
    54.5,
    91.9
   ],
+  "parede_h_mm": 87.9,
   "largura_mm": 90.8,
   "altura_mm": 96.7,
   "svg_mm": [
@@ -4870,6 +5091,7 @@
    96.2,
    47.2
   ],
+  "parede_h_mm": 10.2,
   "largura_mm": 105.2,
   "altura_mm": 56.3,
   "svg_mm": [
@@ -4892,6 +5114,7 @@
    96.2,
    54.2
   ],
+  "parede_h_mm": 17.2,
   "largura_mm": 105.2,
   "altura_mm": 63.2,
   "svg_mm": [
@@ -4914,6 +5137,7 @@
    65.4,
    96.0
   ],
+  "parede_h_mm": 11.2,
   "largura_mm": 81.9,
   "altura_mm": 105.0,
   "svg_mm": [
@@ -4936,6 +5160,7 @@
    59.7,
    96.2
   ],
+  "parede_h_mm": 67.6,
   "largura_mm": 69.1,
   "altura_mm": 105.2,
   "svg_mm": [
@@ -4958,6 +5183,7 @@
    92.5,
    95.6
   ],
+  "parede_h_mm": 11.0,
   "largura_mm": 109.1,
   "altura_mm": 104.6,
   "svg_mm": [
@@ -4980,6 +5206,7 @@
    47.9,
    67.6
   ],
+  "parede_h_mm": 65.1,
   "largura_mm": 57.1,
   "altura_mm": 83.7,
   "svg_mm": [
@@ -5002,6 +5229,7 @@
    68.2,
    47.7
   ],
+  "parede_h_mm": 47.7,
   "largura_mm": 84.2,
   "altura_mm": 56.7,
   "svg_mm": [
@@ -5024,6 +5252,7 @@
    71.2,
    122.6
   ],
+  "parede_h_mm": 9.8,
   "largura_mm": 88.0,
   "altura_mm": 131.5,
   "svg_mm": [
@@ -5046,6 +5275,7 @@
    22.3,
    17.1
   ],
+  "parede_h_mm": 10.4,
   "largura_mm": 31.0,
   "altura_mm": 19.1,
   "svg_mm": [
@@ -5068,6 +5298,7 @@
    75.7,
    28.2
   ],
+  "parede_h_mm": 26.8,
   "largura_mm": 75.8,
   "altura_mm": 44.3,
   "svg_mm": [
@@ -5090,6 +5321,7 @@
    72.7,
    32.7
   ],
+  "parede_h_mm": 9.3,
   "largura_mm": 82.2,
   "altura_mm": 42.2,
   "svg_mm": [
@@ -5112,6 +5344,7 @@
    10.0,
    30.1
   ],
+  "parede_h_mm": 28.4,
   "largura_mm": 19.0,
   "altura_mm": 38.5,
   "svg_mm": [
@@ -5134,6 +5367,7 @@
    96.1,
    86.2
   ],
+  "parede_h_mm": 49.2,
   "largura_mm": 105.2,
   "altura_mm": 86.3,
   "svg_mm": [
@@ -5156,6 +5390,7 @@
    92.3,
    74.5
   ],
+  "parede_h_mm": 11.0,
   "largura_mm": 101.9,
   "altura_mm": 83.5,
   "svg_mm": [
@@ -5178,6 +5413,7 @@
    120.6,
    32.7
   ],
+  "parede_h_mm": 9.3,
   "largura_mm": 130.2,
   "altura_mm": 42.3,
   "svg_mm": [
@@ -5200,6 +5436,7 @@
    54.9,
    67.6
   ],
+  "parede_h_mm": 65.1,
   "largura_mm": 64.1,
   "altura_mm": 83.7,
   "svg_mm": [
@@ -5222,6 +5459,7 @@
    71.2,
    100.5
   ],
+  "parede_h_mm": 10.1,
   "largura_mm": 87.8,
   "altura_mm": 109.4,
   "svg_mm": [
@@ -5244,6 +5482,7 @@
    64.4,
    81.8
   ],
+  "parede_h_mm": 18.1,
   "largura_mm": 81.0,
   "altura_mm": 81.8,
   "svg_mm": [
@@ -5266,6 +5505,7 @@
    50.4,
    83.1
   ],
+  "parede_h_mm": 11.1,
   "largura_mm": 59.4,
   "altura_mm": 92.2,
   "svg_mm": [
@@ -5288,6 +5528,7 @@
    71.3,
    151.4
   ],
+  "parede_h_mm": 10.7,
   "largura_mm": 88.3,
   "altura_mm": 160.4,
   "svg_mm": [
@@ -5310,6 +5551,7 @@
    64.2,
    67.4
   ],
+  "parede_h_mm": 8.7,
   "largura_mm": 80.8,
   "altura_mm": 74.4,
   "svg_mm": [
@@ -5332,6 +5574,7 @@
    73.2,
    33.6
   ],
+  "parede_h_mm": 10.5,
   "largura_mm": 82.6,
   "altura_mm": 43.1,
   "svg_mm": [
@@ -5354,6 +5597,7 @@
    20.3,
    14.6
   ],
+  "parede_h_mm": 9.9,
   "largura_mm": 28.2,
   "altura_mm": 23.7,
   "svg_mm": [
@@ -5376,6 +5620,7 @@
    96.2,
    129.1
   ],
+  "parede_h_mm": 12.1,
   "largura_mm": 110.8,
   "altura_mm": 138.2,
   "svg_mm": [
@@ -5398,6 +5643,7 @@
    91.5,
    122.9
   ],
+  "parede_h_mm": 11.0,
   "largura_mm": 108.2,
   "altura_mm": 132.0,
   "svg_mm": [
@@ -5420,6 +5666,7 @@
    87.2,
    78.6
   ],
+  "parede_h_mm": 10.4,
   "largura_mm": 96.3,
   "altura_mm": 87.6,
   "svg_mm": [
@@ -5442,6 +5689,7 @@
    102.7,
    37.7
   ],
+  "parede_h_mm": 37.6,
   "largura_mm": 102.8,
   "altura_mm": 37.7,
   "svg_mm": [
@@ -5464,6 +5712,7 @@
    42.2,
    53.3
   ],
+  "parede_h_mm": 53.2,
   "largura_mm": 50.4,
   "altura_mm": 61.1,
   "svg_mm": [
@@ -5486,6 +5735,7 @@
    190.2,
    91.6
   ],
+  "parede_h_mm": 24.6,
   "largura_mm": 190.3,
   "altura_mm": 91.8,
   "svg_mm": [
@@ -5508,6 +5758,7 @@
    78.0,
    154.6
   ],
+  "parede_h_mm": 11.7,
   "largura_mm": 78.1,
   "altura_mm": 170.5,
   "svg_mm": [
@@ -5530,6 +5781,7 @@
    96.2,
    101.2
   ],
+  "parede_h_mm": 11.2,
   "largura_mm": 112.3,
   "altura_mm": 110.2,
   "svg_mm": [
@@ -5552,6 +5804,7 @@
    71.3,
    171.5
   ],
+  "parede_h_mm": 169.1,
   "largura_mm": 71.3,
   "altura_mm": 177.8,
   "svg_mm": [
@@ -5574,6 +5827,7 @@
    47.4,
    74.6
   ],
+  "parede_h_mm": 65.1,
   "largura_mm": 64.0,
   "altura_mm": 90.8,
   "svg_mm": [
@@ -5596,6 +5850,7 @@
    75.1,
    47.7
   ],
+  "parede_h_mm": 47.7,
   "largura_mm": 91.5,
   "altura_mm": 63.9,
   "svg_mm": [
@@ -5618,6 +5873,7 @@
    47.4,
    74.6
   ],
+  "parede_h_mm": 65.1,
   "largura_mm": 64.0,
   "altura_mm": 90.8,
   "svg_mm": [
@@ -5640,6 +5896,7 @@
    75.1,
    47.7
   ],
+  "parede_h_mm": 47.7,
   "largura_mm": 91.5,
   "altura_mm": 63.9,
   "svg_mm": [
@@ -5662,6 +5919,7 @@
    100.6,
    32.7
   ],
+  "parede_h_mm": 9.3,
   "largura_mm": 110.2,
   "altura_mm": 42.3,
   "svg_mm": [
@@ -5684,6 +5942,7 @@
    72.0,
    16.9
   ],
+  "parede_h_mm": 14.7,
   "largura_mm": 72.1,
   "altura_mm": 26.8,
   "svg_mm": [
@@ -5706,6 +5965,7 @@
    74.7,
    19.3
   ],
+  "parede_h_mm": 15.4,
   "largura_mm": 74.8,
   "altura_mm": 26.8,
   "svg_mm": [
@@ -5728,6 +5988,7 @@
    71.2,
    122.7
   ],
+  "parede_h_mm": 9.9,
   "largura_mm": 81.5,
   "altura_mm": 131.5,
   "svg_mm": [
@@ -5750,6 +6011,7 @@
    124.7,
    78.9
   ],
+  "parede_h_mm": 40.8,
   "largura_mm": 133.4,
   "altura_mm": 85.8,
   "svg_mm": [
@@ -5772,6 +6034,7 @@
    115.0,
    87.2
   ],
+  "parede_h_mm": 19.0,
   "largura_mm": 124.6,
   "altura_mm": 87.3,
   "svg_mm": [
@@ -5794,6 +6057,7 @@
    122.1,
    48.7
   ],
+  "parede_h_mm": 10.5,
   "largura_mm": 131.0,
   "altura_mm": 48.8,
   "svg_mm": [
@@ -5816,6 +6080,7 @@
    121.4,
    47.3
   ],
+  "parede_h_mm": 18.4,
   "largura_mm": 121.5,
   "altura_mm": 47.4,
   "svg_mm": [
@@ -5838,6 +6103,7 @@
    112.8,
    39.2
   ],
+  "parede_h_mm": 10.5,
   "largura_mm": 120.8,
   "altura_mm": 47.7,
   "svg_mm": [
@@ -5860,6 +6126,7 @@
    117.5,
    48.8
   ],
+  "parede_h_mm": 17.2,
   "largura_mm": 126.2,
   "altura_mm": 55.2,
   "svg_mm": [
@@ -5882,6 +6149,7 @@
    71.2,
    100.4
   ],
+  "parede_h_mm": 9.8,
   "largura_mm": 80.2,
   "altura_mm": 109.4,
   "svg_mm": [
@@ -5904,6 +6172,7 @@
    22.9,
    18.2
   ],
+  "parede_h_mm": 4.3,
   "largura_mm": 23.0,
   "altura_mm": 18.3,
   "svg_mm": [
@@ -5926,6 +6195,7 @@
    28.0,
    46.7
   ],
+  "parede_h_mm": 15.2,
   "largura_mm": 28.1,
   "altura_mm": 57.9,
   "svg_mm": [
@@ -5948,6 +6218,7 @@
    73.2,
    38.0
   ],
+  "parede_h_mm": 19.7,
   "largura_mm": 73.6,
   "altura_mm": 38.1,
   "svg_mm": [
@@ -5970,6 +6241,7 @@
    27.9,
    69.9
   ],
+  "parede_h_mm": 69.4,
   "largura_mm": 32.9,
   "altura_mm": 70.0,
   "svg_mm": [
@@ -5992,6 +6264,7 @@
    25.3,
    35.3
   ],
+  "parede_h_mm": 20.5,
   "largura_mm": 33.9,
   "altura_mm": 40.5,
   "svg_mm": [
@@ -6014,6 +6287,7 @@
    39.5,
    81.4
   ],
+  "parede_h_mm": 36.3,
   "largura_mm": 46.3,
   "altura_mm": 81.5,
   "svg_mm": [
@@ -6036,6 +6310,7 @@
    32.9,
    36.6
   ],
+  "parede_h_mm": 23.0,
   "largura_mm": 33.0,
   "altura_mm": 37.0,
   "svg_mm": [
@@ -6058,6 +6333,7 @@
    39.2,
    20.3
   ],
+  "parede_h_mm": 15.0,
   "largura_mm": 47.1,
   "altura_mm": 26.9,
   "svg_mm": [
@@ -6080,6 +6356,7 @@
    48.3,
    22.8
   ],
+  "parede_h_mm": 21.2,
   "largura_mm": 53.8,
   "altura_mm": 30.3,
   "svg_mm": [
@@ -6102,6 +6379,7 @@
    27.6,
    42.6
   ],
+  "parede_h_mm": 16.8,
   "largura_mm": 27.7,
   "altura_mm": 46.9,
   "svg_mm": [
@@ -6124,6 +6402,7 @@
    93.3,
    39.4
   ],
+  "parede_h_mm": 21.2,
   "largura_mm": 101.1,
   "altura_mm": 39.5,
   "svg_mm": [
@@ -6146,6 +6425,7 @@
    37.8,
    50.5
   ],
+  "parede_h_mm": 50.2,
   "largura_mm": 38.0,
   "altura_mm": 60.0,
   "svg_mm": [
@@ -6168,6 +6448,7 @@
    25.0,
    25.1
   ],
+  "parede_h_mm": 25.0,
   "largura_mm": 25.3,
   "altura_mm": 34.6,
   "svg_mm": [
@@ -6190,6 +6471,7 @@
    39.2,
    27.6
   ],
+  "parede_h_mm": 27.2,
   "largura_mm": 45.5,
   "altura_mm": 34.9,
   "svg_mm": [
@@ -6212,6 +6494,7 @@
    37.8,
    101.0
   ],
+  "parede_h_mm": 100.9,
   "largura_mm": 46.7,
   "altura_mm": 101.1,
   "svg_mm": [
@@ -6234,6 +6517,7 @@
    40.0,
    94.5
   ],
+  "parede_h_mm": 52.8,
   "largura_mm": 40.5,
   "altura_mm": 110.4,
   "svg_mm": [
@@ -6256,6 +6540,7 @@
    53.1,
    35.8
   ],
+  "parede_h_mm": 30.6,
   "largura_mm": 63.2,
   "altura_mm": 43.2,
   "svg_mm": [
@@ -6278,6 +6563,7 @@
    58.8,
    20.9
   ],
+  "parede_h_mm": 20.6,
   "largura_mm": 58.9,
   "altura_mm": 28.1,
   "svg_mm": [
@@ -6300,6 +6586,7 @@
    28.0,
    52.8
   ],
+  "parede_h_mm": 38.1,
   "largura_mm": 28.0,
   "altura_mm": 58.1,
   "svg_mm": [
@@ -6322,6 +6609,7 @@
    30.2,
    82.9
   ],
+  "parede_h_mm": 51.5,
   "largura_mm": 30.3,
   "altura_mm": 83.1,
   "svg_mm": [
@@ -6344,6 +6632,7 @@
    17.8,
    43.8
   ],
+  "parede_h_mm": 12.6,
   "largura_mm": 24.6,
   "altura_mm": 50.6,
   "svg_mm": [
@@ -6366,6 +6655,7 @@
    15.9,
    21.9
   ],
+  "parede_h_mm": 10.5,
   "largura_mm": 28.1,
   "altura_mm": 26.5,
   "svg_mm": [
@@ -6388,6 +6678,7 @@
    36.5,
    28.4
   ],
+  "parede_h_mm": 13.8,
   "largura_mm": 38.4,
   "altura_mm": 34.1,
   "svg_mm": [
@@ -6410,6 +6701,7 @@
    22.6,
    21.1
   ],
+  "parede_h_mm": 7.3,
   "largura_mm": 25.0,
   "altura_mm": 21.2,
   "svg_mm": [
@@ -6432,6 +6724,7 @@
    26.3,
    31.3
   ],
+  "parede_h_mm": 12.8,
   "largura_mm": 34.9,
   "altura_mm": 36.9,
   "svg_mm": [
@@ -6454,6 +6747,7 @@
    34.5,
    28.1
   ],
+  "parede_h_mm": 9.3,
   "largura_mm": 44.4,
   "altura_mm": 28.6,
   "svg_mm": [
@@ -6476,6 +6770,7 @@
    35.9,
    28.6
   ],
+  "parede_h_mm": 25.5,
   "largura_mm": 36.0,
   "altura_mm": 28.7,
   "svg_mm": [
@@ -6498,6 +6793,7 @@
    27.4,
    30.3
   ],
+  "parede_h_mm": 11.8,
   "largura_mm": 39.7,
   "altura_mm": 40.5,
   "svg_mm": [
@@ -6520,6 +6816,7 @@
    19.0,
    27.6
   ],
+  "parede_h_mm": 10.5,
   "largura_mm": 33.3,
   "altura_mm": 36.7,
   "svg_mm": [
@@ -6542,6 +6839,7 @@
    28.1,
    47.5
   ],
+  "parede_h_mm": 32.2,
   "largura_mm": 37.3,
   "altura_mm": 47.6,
   "svg_mm": [
@@ -6564,6 +6862,7 @@
    26.8,
    43.1
   ],
+  "parede_h_mm": 28.3,
   "largura_mm": 36.2,
   "altura_mm": 43.2,
   "svg_mm": [
@@ -6586,6 +6885,7 @@
    25.0,
    34.0
   ],
+  "parede_h_mm": 10.2,
   "largura_mm": 34.6,
   "altura_mm": 34.2,
   "svg_mm": [
@@ -6608,6 +6908,7 @@
    45.9,
    41.6
   ],
+  "parede_h_mm": 18.2,
   "largura_mm": 46.0,
   "altura_mm": 41.9,
   "svg_mm": [
@@ -6630,6 +6931,7 @@
    30.2,
    45.9
   ],
+  "parede_h_mm": 29.6,
   "largura_mm": 30.3,
   "altura_mm": 46.1,
   "svg_mm": [
@@ -6652,6 +6954,7 @@
    44.5,
    24.1
   ],
+  "parede_h_mm": 22.4,
   "largura_mm": 44.6,
   "altura_mm": 31.7,
   "svg_mm": [
@@ -6674,6 +6977,7 @@
    49.7,
    61.9
   ],
+  "parede_h_mm": 13.4,
   "largura_mm": 65.4,
   "altura_mm": 62.0,
   "svg_mm": [
@@ -6696,6 +7000,7 @@
    17.9,
    31.9
   ],
+  "parede_h_mm": 13.5,
   "largura_mm": 30.2,
   "altura_mm": 32.1,
   "svg_mm": [
@@ -6718,6 +7023,7 @@
    56.9,
    31.1
   ],
+  "parede_h_mm": 28.7,
   "largura_mm": 57.1,
   "altura_mm": 31.2,
   "svg_mm": [
@@ -6740,6 +7046,7 @@
    42.0,
    15.3
   ],
+  "parede_h_mm": 14.7,
   "largura_mm": 65.3,
   "altura_mm": 33.2,
   "svg_mm": [
@@ -6762,6 +7069,7 @@
    67.1,
    60.1
   ],
+  "parede_h_mm": 16.5,
   "largura_mm": 67.4,
   "altura_mm": 60.2,
   "svg_mm": [
@@ -6784,6 +7092,7 @@
    36.6,
    38.5
   ],
+  "parede_h_mm": 19.9,
   "largura_mm": 42.9,
   "altura_mm": 38.5,
   "svg_mm": [
@@ -6806,6 +7115,7 @@
    55.2,
    22.8
   ],
+  "parede_h_mm": 17.3,
   "largura_mm": 55.3,
   "altura_mm": 36.4,
   "svg_mm": [
@@ -6828,6 +7138,7 @@
    16.1,
    28.4
   ],
+  "parede_h_mm": 14.9,
   "largura_mm": 34.8,
   "altura_mm": 46.8,
   "svg_mm": [
@@ -6850,6 +7161,7 @@
    18.3,
    33.7
   ],
+  "parede_h_mm": 21.1,
   "largura_mm": 19.6,
   "altura_mm": 33.9,
   "svg_mm": [
@@ -6872,6 +7184,7 @@
    45.4,
    33.5
   ],
+  "parede_h_mm": 33.5,
   "largura_mm": 47.3,
   "altura_mm": 43.4,
   "svg_mm": [
@@ -6894,6 +7207,7 @@
    46.1,
    21.7
   ],
+  "parede_h_mm": 21.7,
   "largura_mm": 46.3,
   "altura_mm": 33.4,
   "svg_mm": [
@@ -6916,6 +7230,7 @@
    20.6,
    28.4
   ],
+  "parede_h_mm": 8.8,
   "largura_mm": 29.6,
   "altura_mm": 33.0,
   "svg_mm": [
@@ -6938,6 +7253,7 @@
    39.2,
    22.4
   ],
+  "parede_h_mm": 22.0,
   "largura_mm": 43.9,
   "altura_mm": 32.2,
   "svg_mm": [
@@ -6960,6 +7276,7 @@
    27.4,
    36.1
   ],
+  "parede_h_mm": 12.2,
   "largura_mm": 31.4,
   "altura_mm": 36.2,
   "svg_mm": [
@@ -6982,6 +7299,7 @@
    25.4,
    40.0
   ],
+  "parede_h_mm": 24.0,
   "largura_mm": 30.5,
   "altura_mm": 40.1,
   "svg_mm": [
@@ -7004,6 +7322,7 @@
    29.4,
    28.1
   ],
+  "parede_h_mm": 12.7,
   "largura_mm": 38.5,
   "altura_mm": 36.2,
   "svg_mm": [
@@ -7026,6 +7345,7 @@
    45.2,
    25.0
   ],
+  "parede_h_mm": 23.3,
   "largura_mm": 45.3,
   "altura_mm": 33.0,
   "svg_mm": [
@@ -7048,6 +7368,7 @@
    37.0,
    33.9
   ],
+  "parede_h_mm": 10.0,
   "largura_mm": 37.1,
   "altura_mm": 34.0,
   "svg_mm": [
@@ -7070,6 +7391,7 @@
    49.9,
    58.1
   ],
+  "parede_h_mm": 9.5,
   "largura_mm": 61.5,
   "altura_mm": 58.2,
   "svg_mm": [
@@ -7092,6 +7414,7 @@
    28.1,
    57.1
   ],
+  "parede_h_mm": 56.8,
   "largura_mm": 39.4,
   "altura_mm": 57.1,
   "svg_mm": [
@@ -7114,6 +7437,7 @@
    17.6,
    28.5
   ],
+  "parede_h_mm": 10.0,
   "largura_mm": 28.8,
   "altura_mm": 28.7,
   "svg_mm": [
@@ -7136,6 +7460,7 @@
    64.2,
    30.1
   ],
+  "parede_h_mm": 28.4,
   "largura_mm": 64.3,
   "altura_mm": 30.2,
   "svg_mm": [
@@ -7158,6 +7483,7 @@
    54.6,
    30.9
   ],
+  "parede_h_mm": 27.6,
   "largura_mm": 54.7,
   "altura_mm": 31.0,
   "svg_mm": [
@@ -7180,6 +7506,7 @@
    43.4,
    17.2
   ],
+  "parede_h_mm": 14.9,
   "largura_mm": 53.3,
   "altura_mm": 26.6,
   "svg_mm": [
@@ -7202,6 +7529,7 @@
    51.8,
    32.0
   ],
+  "parede_h_mm": 28.8,
   "largura_mm": 51.9,
   "altura_mm": 40.2,
   "svg_mm": [
@@ -7224,6 +7552,7 @@
    55.9,
    68.2
   ],
+  "parede_h_mm": 9.6,
   "largura_mm": 56.1,
   "altura_mm": 74.1,
   "svg_mm": [
@@ -7246,6 +7575,7 @@
    20.2,
    67.6
   ],
+  "parede_h_mm": 6.8,
   "largura_mm": 30.4,
   "altura_mm": 75.7,
   "svg_mm": [
@@ -7268,6 +7598,7 @@
    51.0,
    40.8
   ],
+  "parede_h_mm": 39.3,
   "largura_mm": 51.3,
   "altura_mm": 40.9,
   "svg_mm": [
@@ -7290,6 +7621,7 @@
    24.3,
    23.1
   ],
+  "parede_h_mm": 22.1,
   "largura_mm": 36.2,
   "altura_mm": 34.8,
   "svg_mm": [
@@ -7312,6 +7644,7 @@
    50.4,
    53.2
   ],
+  "parede_h_mm": 42.3,
   "largura_mm": 51.7,
   "altura_mm": 61.6,
   "svg_mm": [
@@ -7334,6 +7667,7 @@
    75.4,
    80.7
   ],
+  "parede_h_mm": 69.9,
   "largura_mm": 75.5,
   "altura_mm": 89.3,
   "svg_mm": [
@@ -7356,6 +7690,7 @@
    51.2,
    72.5
   ],
+  "parede_h_mm": 14.6,
   "largura_mm": 58.8,
   "altura_mm": 83.3,
   "svg_mm": [
@@ -7378,6 +7713,7 @@
    28.5,
    73.5
   ],
+  "parede_h_mm": 12.7,
   "largura_mm": 37.9,
   "altura_mm": 82.4,
   "svg_mm": [
@@ -7400,6 +7736,7 @@
    68.9,
    30.3
   ],
+  "parede_h_mm": 3.7,
   "largura_mm": 69.0,
   "altura_mm": 37.3,
   "svg_mm": [
@@ -7422,6 +7759,7 @@
    29.9,
    11.4
   ],
+  "parede_h_mm": 7.1,
   "largura_mm": 41.3,
   "altura_mm": 22.8,
   "svg_mm": [
@@ -7444,6 +7782,7 @@
    45.2,
    55.0
   ],
+  "parede_h_mm": 12.4,
   "largura_mm": 56.7,
   "altura_mm": 55.2,
   "svg_mm": [
@@ -7466,6 +7805,7 @@
    50.2,
    70.2
   ],
+  "parede_h_mm": 70.2,
   "largura_mm": 62.0,
   "altura_mm": 83.8,
   "svg_mm": [
@@ -7488,6 +7828,7 @@
    61.3,
    23.7
   ],
+  "parede_h_mm": 11.2,
   "largura_mm": 61.4,
   "altura_mm": 32.5,
   "svg_mm": [
@@ -7510,6 +7851,7 @@
    53.2,
    24.8
   ],
+  "parede_h_mm": 9.7,
   "largura_mm": 64.4,
   "altura_mm": 24.9,
   "svg_mm": [
@@ -7532,6 +7874,7 @@
    60.5,
    23.2
   ],
+  "parede_h_mm": 21.9,
   "largura_mm": 60.6,
   "altura_mm": 32.8,
   "svg_mm": [
@@ -7554,6 +7897,7 @@
    47.1,
    47.2
   ],
+  "parede_h_mm": 47.1,
   "largura_mm": 47.2,
   "altura_mm": 47.3,
   "svg_mm": [
@@ -7576,6 +7920,7 @@
    42.3,
    35.2
   ],
+  "parede_h_mm": 35.1,
   "largura_mm": 53.2,
   "altura_mm": 43.3,
   "svg_mm": [
@@ -7598,6 +7943,7 @@
    48.7,
    24.2
   ],
+  "parede_h_mm": 10.8,
   "largura_mm": 57.9,
   "altura_mm": 24.5,
   "svg_mm": [
@@ -7620,6 +7966,7 @@
    37.5,
    13.4
   ],
+  "parede_h_mm": 13.4,
   "largura_mm": 46.2,
   "altura_mm": 21.9,
   "svg_mm": [
@@ -7642,6 +7989,7 @@
    28.7,
    30.3
   ],
+  "parede_h_mm": 30.2,
   "largura_mm": 38.6,
   "altura_mm": 39.5,
   "svg_mm": [
@@ -7664,6 +8012,7 @@
    65.2,
    23.3
   ],
+  "parede_h_mm": 21.7,
   "largura_mm": 65.4,
   "altura_mm": 31.0,
   "svg_mm": [
@@ -7686,6 +8035,7 @@
    35.8,
    42.2
   ],
+  "parede_h_mm": 11.1,
   "largura_mm": 46.0,
   "altura_mm": 42.2,
   "svg_mm": [
@@ -7708,6 +8058,7 @@
    69.1,
    33.5
   ],
+  "parede_h_mm": 32.9,
   "largura_mm": 77.8,
   "altura_mm": 45.3,
   "svg_mm": [
@@ -7730,6 +8081,7 @@
    111.7,
    99.3
   ],
+  "parede_h_mm": 14.9,
   "largura_mm": 111.7,
   "altura_mm": 100.2,
   "svg_mm": [
@@ -7752,6 +8104,7 @@
    93.7,
    69.7
   ],
+  "parede_h_mm": 48.4,
   "largura_mm": 111.3,
   "altura_mm": 76.7,
   "svg_mm": [
@@ -7774,6 +8127,7 @@
    22.3,
    35.5
   ],
+  "parede_h_mm": 34.4,
   "largura_mm": 32.7,
   "altura_mm": 35.6,
   "svg_mm": [
@@ -7796,6 +8150,7 @@
    50.9,
    50.9
   ],
+  "parede_h_mm": 50.8,
   "largura_mm": 51.0,
   "altura_mm": 58.6,
   "svg_mm": [
@@ -7818,6 +8173,7 @@
    127.7,
    106.5
   ],
+  "parede_h_mm": 85.6,
   "largura_mm": 143.1,
   "altura_mm": 116.6,
   "svg_mm": [
@@ -7840,6 +8196,7 @@
    48.6,
    32.9
   ],
+  "parede_h_mm": 11.3,
   "largura_mm": 48.9,
   "altura_mm": 33.0,
   "svg_mm": [
@@ -7862,6 +8219,7 @@
    61.2,
    61.0
   ],
+  "parede_h_mm": 11.9,
   "largura_mm": 71.4,
   "altura_mm": 61.2,
   "svg_mm": [
@@ -7884,6 +8242,7 @@
    76.1,
    76.2
   ],
+  "parede_h_mm": 12.0,
   "largura_mm": 87.0,
   "altura_mm": 76.3,
   "svg_mm": [
@@ -7906,6 +8265,7 @@
    60.6,
    3.8
   ],
+  "parede_h_mm": 1.6,
   "largura_mm": 60.8,
   "altura_mm": 12.8,
   "svg_mm": [
@@ -7928,6 +8288,7 @@
    50.4,
    3.8
   ],
+  "parede_h_mm": 3.2,
   "largura_mm": 50.5,
   "altura_mm": 16.6,
   "svg_mm": [
@@ -7950,6 +8311,7 @@
    44.4,
    28.7
   ],
+  "parede_h_mm": 12.7,
   "largura_mm": 49.9,
   "altura_mm": 35.3,
   "svg_mm": [
@@ -7972,6 +8334,7 @@
    67.3,
    31.8
   ],
+  "parede_h_mm": 29.8,
   "largura_mm": 67.4,
   "altura_mm": 31.9,
   "svg_mm": [
@@ -7994,6 +8357,7 @@
    19.3,
    17.6
   ],
+  "parede_h_mm": 10.1,
   "largura_mm": 31.5,
   "altura_mm": 28.6,
   "svg_mm": [
@@ -8016,6 +8380,7 @@
    100.3,
    27.9
   ],
+  "parede_h_mm": 17.9,
   "largura_mm": 113.3,
   "altura_mm": 43.5,
   "svg_mm": [
@@ -8038,6 +8403,7 @@
    42.0,
    36.9
   ],
+  "parede_h_mm": 27.1,
   "largura_mm": 42.1,
   "altura_mm": 37.0,
   "svg_mm": [
@@ -8060,6 +8426,7 @@
    88.2,
    27.8
   ],
+  "parede_h_mm": 17.6,
   "largura_mm": 89.3,
   "altura_mm": 40.1,
   "svg_mm": [
@@ -8082,6 +8449,7 @@
    71.3,
    34.6
   ],
+  "parede_h_mm": 24.6,
   "largura_mm": 80.7,
   "altura_mm": 45.0,
   "svg_mm": [
@@ -8104,6 +8472,7 @@
    28.8,
    34.0
   ],
+  "parede_h_mm": 24.6,
   "largura_mm": 38.0,
   "altura_mm": 34.0,
   "svg_mm": [
@@ -8126,6 +8495,7 @@
    17.3,
    40.5
   ],
+  "parede_h_mm": 22.8,
   "largura_mm": 37.7,
   "altura_mm": 48.7,
   "svg_mm": [
@@ -8148,6 +8518,7 @@
    17.2,
    33.4
   ],
+  "parede_h_mm": 23.3,
   "largura_mm": 38.2,
   "altura_mm": 42.6,
   "svg_mm": [
@@ -8170,6 +8541,7 @@
    40.6,
    34.8
   ],
+  "parede_h_mm": 24.6,
   "largura_mm": 40.7,
   "altura_mm": 35.2,
   "svg_mm": [
@@ -8192,6 +8564,7 @@
    34.6,
    23.6
   ],
+  "parede_h_mm": 21.1,
   "largura_mm": 34.7,
   "altura_mm": 23.7,
   "svg_mm": [
@@ -8214,6 +8587,7 @@
    24.6,
    23.4
   ],
+  "parede_h_mm": 20.6,
   "largura_mm": 29.3,
   "altura_mm": 23.5,
   "svg_mm": [
@@ -8236,6 +8610,7 @@
    44.1,
    33.3
   ],
+  "parede_h_mm": 10.5,
   "largura_mm": 53.4,
   "altura_mm": 42.3,
   "svg_mm": [
@@ -8258,6 +8633,7 @@
    48.4,
    31.0
   ],
+  "parede_h_mm": 20.1,
   "largura_mm": 57.1,
   "altura_mm": 33.3,
   "svg_mm": [
@@ -8280,6 +8656,7 @@
    38.5,
    30.1
   ],
+  "parede_h_mm": 19.6,
   "largura_mm": 49.0,
   "altura_mm": 35.5,
   "svg_mm": [
@@ -8302,6 +8679,7 @@
    26.9,
    24.3
   ],
+  "parede_h_mm": 13.4,
   "largura_mm": 45.7,
   "altura_mm": 37.9,
   "svg_mm": [
@@ -8324,6 +8702,7 @@
    45.5,
    25.6
   ],
+  "parede_h_mm": 11.8,
   "largura_mm": 66.5,
   "altura_mm": 35.2,
   "svg_mm": [
@@ -8346,6 +8725,7 @@
    63.6,
    21.1
   ],
+  "parede_h_mm": 9.3,
   "largura_mm": 74.0,
   "altura_mm": 21.2,
   "svg_mm": [
@@ -8368,6 +8748,7 @@
    129.9,
    29.9
   ],
+  "parede_h_mm": 23.9,
   "largura_mm": 130.1,
   "altura_mm": 45.2,
   "svg_mm": [
@@ -8390,6 +8771,7 @@
    52.0,
    56.9
   ],
+  "parede_h_mm": 46.2,
   "largura_mm": 52.1,
   "altura_mm": 65.4,
   "svg_mm": [
@@ -8412,6 +8794,7 @@
    37.7,
    32.2
   ],
+  "parede_h_mm": 22.1,
   "largura_mm": 49.2,
   "altura_mm": 42.8,
   "svg_mm": [
@@ -8434,6 +8817,7 @@
    17.9,
    40.6
   ],
+  "parede_h_mm": 7.9,
   "largura_mm": 35.1,
   "altura_mm": 40.7,
   "svg_mm": [
@@ -8456,6 +8840,7 @@
    25.2,
    42.9
   ],
+  "parede_h_mm": 10.3,
   "largura_mm": 38.4,
   "altura_mm": 58.2,
   "svg_mm": [
@@ -8478,6 +8863,7 @@
    38.7,
    56.2
   ],
+  "parede_h_mm": 45.3,
   "largura_mm": 48.4,
   "altura_mm": 63.4,
   "svg_mm": [
@@ -8500,6 +8886,7 @@
    52.2,
    45.8
   ],
+  "parede_h_mm": 12.4,
   "largura_mm": 59.8,
   "altura_mm": 54.4,
   "svg_mm": [
@@ -8522,6 +8909,7 @@
    48.6,
    26.5
   ],
+  "parede_h_mm": 26.1,
   "largura_mm": 57.7,
   "altura_mm": 38.8,
   "svg_mm": [
@@ -8544,6 +8932,7 @@
    40.4,
    24.1
   ],
+  "parede_h_mm": 23.8,
   "largura_mm": 50.5,
   "altura_mm": 32.3,
   "svg_mm": [
@@ -8566,6 +8955,7 @@
    67.0,
    49.4
   ],
+  "parede_h_mm": 46.0,
   "largura_mm": 67.1,
   "altura_mm": 60.9,
   "svg_mm": [
@@ -8588,6 +8978,7 @@
    93.8,
    66.1
   ],
+  "parede_h_mm": 66.1,
   "largura_mm": 98.8,
   "altura_mm": 71.4,
   "svg_mm": [
@@ -8610,6 +9001,7 @@
    23.5,
    25.3
   ],
+  "parede_h_mm": 23.2,
   "largura_mm": 28.2,
   "altura_mm": 34.7,
   "svg_mm": [
@@ -8632,6 +9024,7 @@
    45.6,
    35.3
   ],
+  "parede_h_mm": 1.9,
   "largura_mm": 45.7,
   "altura_mm": 47.5,
   "svg_mm": [
@@ -8654,6 +9047,7 @@
    38.5,
    23.2
   ],
+  "parede_h_mm": 22.5,
   "largura_mm": 48.9,
   "altura_mm": 23.3,
   "svg_mm": [
@@ -8676,6 +9070,7 @@
    47.4,
    45.3
   ],
+  "parede_h_mm": 45.3,
   "largura_mm": 47.5,
   "altura_mm": 45.4,
   "svg_mm": [
@@ -8698,6 +9093,7 @@
    96.0,
    72.1
   ],
+  "parede_h_mm": 72.0,
   "largura_mm": 96.1,
   "altura_mm": 81.1,
   "svg_mm": [
@@ -8720,6 +9116,7 @@
    38.6,
    33.2
   ],
+  "parede_h_mm": 22.6,
   "largura_mm": 48.4,
   "altura_mm": 33.2,
   "svg_mm": [
@@ -8742,6 +9139,7 @@
    47.7,
    28.4
   ],
+  "parede_h_mm": 14.9,
   "largura_mm": 48.1,
   "altura_mm": 34.3,
   "svg_mm": [
@@ -8764,6 +9162,7 @@
    34.7,
    26.9
   ],
+  "parede_h_mm": 11.5,
   "largura_mm": 37.0,
   "altura_mm": 32.5,
   "svg_mm": [
@@ -8786,6 +9185,7 @@
    22.8,
    30.8
   ],
+  "parede_h_mm": 19.6,
   "largura_mm": 31.0,
   "altura_mm": 31.0,
   "svg_mm": [
@@ -8808,6 +9208,7 @@
    32.6,
    28.8
   ],
+  "parede_h_mm": 19.5,
   "largura_mm": 33.4,
   "altura_mm": 30.5,
   "svg_mm": [
@@ -8830,6 +9231,7 @@
    34.2,
    28.9
   ],
+  "parede_h_mm": 14.9,
   "largura_mm": 37.5,
   "altura_mm": 29.1,
   "svg_mm": [
@@ -8852,6 +9254,7 @@
    34.6,
    28.7
   ],
+  "parede_h_mm": 11.6,
   "largura_mm": 37.6,
   "altura_mm": 30.9,
   "svg_mm": [
@@ -8874,6 +9277,7 @@
    29.5,
    15.7
   ],
+  "parede_h_mm": 15.6,
   "largura_mm": 34.3,
   "altura_mm": 24.3,
   "svg_mm": [
@@ -8896,6 +9300,7 @@
    34.7,
    14.6
   ],
+  "parede_h_mm": 14.5,
   "largura_mm": 40.4,
   "altura_mm": 20.2,
   "svg_mm": [
@@ -8918,6 +9323,7 @@
    18.7,
    34.1
   ],
+  "parede_h_mm": 18.2,
   "largura_mm": 27.5,
   "altura_mm": 43.7,
   "svg_mm": [
@@ -8940,6 +9346,7 @@
    34.0,
    45.9
   ],
+  "parede_h_mm": 38.6,
   "largura_mm": 34.0,
   "altura_mm": 47.6,
   "svg_mm": [
@@ -8962,6 +9369,7 @@
    40.1,
    43.7
   ],
+  "parede_h_mm": 9.5,
   "largura_mm": 50.7,
   "altura_mm": 43.7,
   "svg_mm": [
@@ -8984,6 +9392,7 @@
    56.8,
    22.8
   ],
+  "parede_h_mm": 9.8,
   "largura_mm": 67.4,
   "altura_mm": 40.3,
   "svg_mm": [
@@ -9006,6 +9415,7 @@
    80.3,
    23.0
   ],
+  "parede_h_mm": 10.0,
   "largura_mm": 90.8,
   "altura_mm": 40.8,
   "svg_mm": [
@@ -9028,6 +9438,7 @@
    48.2,
    50.2
   ],
+  "parede_h_mm": 14.1,
   "largura_mm": 59.8,
   "altura_mm": 57.5,
   "svg_mm": [
@@ -9050,6 +9461,7 @@
    40.8,
    55.1
   ],
+  "parede_h_mm": 53.5,
   "largura_mm": 41.1,
   "altura_mm": 55.3,
   "svg_mm": [
@@ -9072,6 +9484,7 @@
    56.7,
    34.1
   ],
+  "parede_h_mm": 27.0,
   "largura_mm": 56.8,
   "altura_mm": 34.2,
   "svg_mm": [
@@ -9094,6 +9507,7 @@
    67.9,
    16.9
   ],
+  "parede_h_mm": 8.2,
   "largura_mm": 68.0,
   "altura_mm": 24.5,
   "svg_mm": [
@@ -9116,6 +9530,7 @@
    57.5,
    27.9
   ],
+  "parede_h_mm": 25.4,
   "largura_mm": 57.6,
   "altura_mm": 28.0,
   "svg_mm": [
@@ -9138,6 +9553,7 @@
    57.9,
    37.2
   ],
+  "parede_h_mm": 37.2,
   "largura_mm": 58.0,
   "altura_mm": 37.4,
   "svg_mm": [
@@ -9160,6 +9576,7 @@
    55.5,
    41.5
   ],
+  "parede_h_mm": 28.2,
   "largura_mm": 67.6,
   "altura_mm": 41.6,
   "svg_mm": [
@@ -9182,6 +9599,7 @@
    62.4,
    29.6
   ],
+  "parede_h_mm": 14.5,
   "largura_mm": 75.7,
   "altura_mm": 37.0,
   "svg_mm": [
@@ -9204,6 +9622,7 @@
    61.9,
    58.2
   ],
+  "parede_h_mm": 39.5,
   "largura_mm": 72.5,
   "altura_mm": 58.6,
   "svg_mm": [
@@ -9226,6 +9645,7 @@
    60.5,
    60.0
   ],
+  "parede_h_mm": 53.8,
   "largura_mm": 72.7,
   "altura_mm": 60.1,
   "svg_mm": [
@@ -9248,6 +9668,7 @@
    30.3,
    60.8
   ],
+  "parede_h_mm": 51.8,
   "largura_mm": 41.5,
   "altura_mm": 67.8,
   "svg_mm": [
@@ -9270,6 +9691,7 @@
    59.9,
    23.7
   ],
+  "parede_h_mm": 13.0,
   "largura_mm": 60.0,
   "altura_mm": 32.0,
   "svg_mm": [
@@ -9292,6 +9714,7 @@
    61.1,
    33.0
   ],
+  "parede_h_mm": 20.1,
   "largura_mm": 70.4,
   "altura_mm": 33.1,
   "svg_mm": [
@@ -9314,6 +9737,7 @@
    46.7,
    26.4
   ],
+  "parede_h_mm": 15.5,
   "largura_mm": 58.0,
   "altura_mm": 32.8,
   "svg_mm": [
@@ -9336,6 +9760,7 @@
    58.9,
    19.2
   ],
+  "parede_h_mm": 12.9,
   "largura_mm": 59.0,
   "altura_mm": 31.2,
   "svg_mm": [
@@ -9358,6 +9783,7 @@
    38.0,
    19.4
   ],
+  "parede_h_mm": 9.3,
   "largura_mm": 45.9,
   "altura_mm": 25.9,
   "svg_mm": [
@@ -9380,6 +9806,7 @@
    51.6,
    40.4
   ],
+  "parede_h_mm": 32.1,
   "largura_mm": 66.7,
   "altura_mm": 40.6,
   "svg_mm": [
@@ -9402,6 +9829,7 @@
    14.9,
    57.9
   ],
+  "parede_h_mm": 30.9,
   "largura_mm": 24.3,
   "altura_mm": 57.9,
   "svg_mm": [
@@ -9424,6 +9852,7 @@
    16.8,
    64.6
   ],
+  "parede_h_mm": 44.0,
   "largura_mm": 26.8,
   "altura_mm": 72.5,
   "svg_mm": [
@@ -9446,6 +9875,7 @@
    17.6,
    60.1
   ],
+  "parede_h_mm": 60.1,
   "largura_mm": 25.5,
   "altura_mm": 60.3,
   "svg_mm": [
@@ -9468,6 +9898,7 @@
    67.6,
    91.1
   ],
+  "parede_h_mm": 49.7,
   "largura_mm": 82.9,
   "altura_mm": 91.2,
   "svg_mm": [
@@ -9490,6 +9921,7 @@
    42.8,
    62.8
   ],
+  "parede_h_mm": 61.2,
   "largura_mm": 52.7,
   "altura_mm": 71.8,
   "svg_mm": [
@@ -9512,6 +9944,7 @@
    47.4,
    19.0
   ],
+  "parede_h_mm": 15.0,
   "largura_mm": 47.4,
   "altura_mm": 26.4,
   "svg_mm": [
@@ -9534,6 +9967,7 @@
    105.7,
    25.2
   ],
+  "parede_h_mm": 15.1,
   "largura_mm": 122.9,
   "altura_mm": 36.6,
   "svg_mm": [
@@ -9556,6 +9990,7 @@
    60.4,
    34.9
   ],
+  "parede_h_mm": 33.9,
   "largura_mm": 60.6,
   "altura_mm": 35.0,
   "svg_mm": [
@@ -9578,6 +10013,7 @@
    71.5,
    66.0
   ],
+  "parede_h_mm": 60.4,
   "largura_mm": 77.6,
   "altura_mm": 78.0,
   "svg_mm": [
@@ -9600,6 +10036,7 @@
    49.8,
    83.7
   ],
+  "parede_h_mm": 43.4,
   "largura_mm": 63.1,
   "altura_mm": 91.1,
   "svg_mm": [
@@ -9622,6 +10059,7 @@
    61.6,
    43.9
   ],
+  "parede_h_mm": 43.2,
   "largura_mm": 62.4,
   "altura_mm": 51.6,
   "svg_mm": [
@@ -9644,6 +10082,7 @@
    33.6,
    36.9
   ],
+  "parede_h_mm": 13.0,
   "largura_mm": 36.2,
   "altura_mm": 37.0,
   "svg_mm": [
@@ -9666,6 +10105,7 @@
    30.3,
    34.5
   ],
+  "parede_h_mm": 27.9,
   "largura_mm": 39.3,
   "altura_mm": 41.9,
   "svg_mm": [
@@ -9688,6 +10128,7 @@
    61.7,
    43.5
   ],
+  "parede_h_mm": 39.5,
   "largura_mm": 86.1,
   "altura_mm": 54.2,
   "svg_mm": [
@@ -9710,6 +10151,7 @@
    80.8,
    65.1
   ],
+  "parede_h_mm": 59.3,
   "largura_mm": 90.0,
   "altura_mm": 76.2,
   "svg_mm": [
@@ -9732,6 +10174,7 @@
    66.6,
    56.2
   ],
+  "parede_h_mm": 55.1,
   "largura_mm": 68.0,
   "altura_mm": 63.7,
   "svg_mm": [
@@ -9754,6 +10197,7 @@
    42.8,
    31.6
   ],
+  "parede_h_mm": 19.5,
   "largura_mm": 42.9,
   "altura_mm": 31.7,
   "svg_mm": [
@@ -9776,6 +10220,7 @@
    13.6,
    17.0
   ],
+  "parede_h_mm": 10.5,
   "largura_mm": 18.9,
   "altura_mm": 22.1,
   "svg_mm": [
@@ -9798,6 +10243,7 @@
    60.5,
    108.7
   ],
+  "parede_h_mm": 68.0,
   "largura_mm": 72.1,
   "altura_mm": 116.1,
   "svg_mm": [
@@ -9820,6 +10266,7 @@
    60.2,
    58.6
   ],
+  "parede_h_mm": 53.5,
   "largura_mm": 62.5,
   "altura_mm": 65.1,
   "svg_mm": [
@@ -9842,6 +10289,7 @@
    63.0,
    78.7
   ],
+  "parede_h_mm": 40.8,
   "largura_mm": 72.7,
   "altura_mm": 80.7,
   "svg_mm": [
@@ -9864,6 +10312,7 @@
    33.0,
    31.0
   ],
+  "parede_h_mm": 7.2,
   "largura_mm": 46.5,
   "altura_mm": 31.0,
   "svg_mm": [
@@ -9886,6 +10335,7 @@
    41.1,
    32.7
   ],
+  "parede_h_mm": 9.0,
   "largura_mm": 52.0,
   "altura_mm": 32.8,
   "svg_mm": [
@@ -9908,6 +10358,7 @@
    78.7,
    71.6
   ],
+  "parede_h_mm": 51.3,
   "largura_mm": 79.1,
   "altura_mm": 79.3,
   "svg_mm": [
@@ -9930,6 +10381,7 @@
    94.3,
    79.9
   ],
+  "parede_h_mm": 35.1,
   "largura_mm": 94.4,
   "altura_mm": 80.0,
   "svg_mm": [
@@ -9952,6 +10404,7 @@
    71.4,
    104.6
   ],
+  "parede_h_mm": 35.4,
   "largura_mm": 80.3,
   "altura_mm": 106.7,
   "svg_mm": [
@@ -9974,6 +10427,7 @@
    67.1,
    110.5
   ],
+  "parede_h_mm": 104.0,
   "largura_mm": 78.0,
   "altura_mm": 110.6,
   "svg_mm": [
@@ -9996,6 +10450,7 @@
    40.1,
    79.6
   ],
+  "parede_h_mm": 79.5,
   "largura_mm": 54.2,
   "altura_mm": 91.6,
   "svg_mm": [
@@ -10018,6 +10473,7 @@
    42.2,
    30.6
   ],
+  "parede_h_mm": 12.0,
   "largura_mm": 52.6,
   "altura_mm": 38.1,
   "svg_mm": [
@@ -10040,6 +10496,7 @@
    40.0,
    22.8
   ],
+  "parede_h_mm": 22.5,
   "largura_mm": 48.9,
   "altura_mm": 22.8,
   "svg_mm": [
@@ -10062,6 +10519,7 @@
    50.7,
    99.4
   ],
+  "parede_h_mm": 99.4,
   "largura_mm": 64.0,
   "altura_mm": 109.6,
   "svg_mm": [
@@ -10084,6 +10542,7 @@
    60.2,
    19.0
   ],
+  "parede_h_mm": 13.2,
   "largura_mm": 60.3,
   "altura_mm": 29.2,
   "svg_mm": [
@@ -10106,6 +10565,7 @@
    154.5,
    52.3
   ],
+  "parede_h_mm": 52.3,
   "largura_mm": 163.3,
   "altura_mm": 60.0,
   "svg_mm": [
@@ -10128,6 +10588,7 @@
    158.7,
    61.8
   ],
+  "parede_h_mm": 38.8,
   "largura_mm": 169.7,
   "altura_mm": 61.9,
   "svg_mm": [
@@ -10150,6 +10611,7 @@
    88.3,
    105.5
   ],
+  "parede_h_mm": 10.4,
   "largura_mm": 105.6,
   "altura_mm": 113.8,
   "svg_mm": [
@@ -10172,6 +10634,7 @@
    52.4,
    49.3
   ],
+  "parede_h_mm": 36.9,
   "largura_mm": 66.1,
   "altura_mm": 49.4,
   "svg_mm": [
@@ -10194,6 +10657,7 @@
    61.8,
    74.4
   ],
+  "parede_h_mm": 38.1,
   "largura_mm": 77.6,
   "altura_mm": 74.5,
   "svg_mm": [
@@ -10216,6 +10680,7 @@
    60.5,
    46.0
   ],
+  "parede_h_mm": 24.1,
   "largura_mm": 70.3,
   "altura_mm": 52.6,
   "svg_mm": [
@@ -10238,6 +10703,7 @@
    84.5,
    23.5
   ],
+  "parede_h_mm": 12.0,
   "largura_mm": 96.0,
   "altura_mm": 32.7,
   "svg_mm": [
@@ -10260,6 +10726,7 @@
    75.3,
    55.7
   ],
+  "parede_h_mm": 13.0,
   "largura_mm": 82.0,
   "altura_mm": 64.8,
   "svg_mm": [
@@ -10282,6 +10749,7 @@
    75.3,
    57.6
   ],
+  "parede_h_mm": 57.5,
   "largura_mm": 76.4,
   "altura_mm": 68.8,
   "svg_mm": [
@@ -10304,6 +10772,7 @@
    109.2,
    54.1
   ],
+  "parede_h_mm": 13.4,
   "largura_mm": 124.4,
   "altura_mm": 65.3,
   "svg_mm": [
@@ -10326,6 +10795,7 @@
    118.1,
    33.2
   ],
+  "parede_h_mm": 13.3,
   "largura_mm": 132.5,
   "altura_mm": 33.3,
   "svg_mm": [
@@ -10348,6 +10818,7 @@
    71.6,
    75.1
   ],
+  "parede_h_mm": 53.7,
   "largura_mm": 79.8,
   "altura_mm": 75.3,
   "svg_mm": [
@@ -10370,6 +10841,7 @@
    135.9,
    35.6
   ],
+  "parede_h_mm": 12.2,
   "largura_mm": 148.3,
   "altura_mm": 35.8,
   "svg_mm": [
@@ -10392,6 +10864,7 @@
    75.0,
    10.3
   ],
+  "parede_h_mm": 10.3,
   "largura_mm": 83.7,
   "altura_mm": 19.4,
   "svg_mm": [
@@ -10414,6 +10887,7 @@
    51.4,
    45.6
   ],
+  "parede_h_mm": 23.7,
   "largura_mm": 65.6,
   "altura_mm": 53.0,
   "svg_mm": [
@@ -10436,6 +10910,7 @@
    73.9,
    49.6
   ],
+  "parede_h_mm": 27.6,
   "largura_mm": 74.2,
   "altura_mm": 49.7,
   "svg_mm": [
@@ -10458,6 +10933,7 @@
    52.7,
    28.5
   ],
+  "parede_h_mm": 10.0,
   "largura_mm": 62.9,
   "altura_mm": 34.6,
   "svg_mm": [
@@ -10480,6 +10956,7 @@
    50.7,
    21.0
   ],
+  "parede_h_mm": 18.5,
   "largura_mm": 60.7,
   "altura_mm": 21.1,
   "svg_mm": [
@@ -10502,6 +10979,7 @@
    172.9,
    27.2
   ],
+  "parede_h_mm": 22.5,
   "largura_mm": 173.0,
   "altura_mm": 37.5,
   "svg_mm": [
@@ -10524,6 +11002,7 @@
    189.0,
    50.1
   ],
+  "parede_h_mm": 45.6,
   "largura_mm": 189.4,
   "altura_mm": 67.7,
   "svg_mm": [
@@ -10546,6 +11025,7 @@
    177.6,
    11.9
   ],
+  "parede_h_mm": 7.8,
   "largura_mm": 178.1,
   "altura_mm": 29.5,
   "svg_mm": [
@@ -10568,6 +11048,7 @@
    167.7,
    7.1
   ],
+  "parede_h_mm": 1.6,
   "largura_mm": 168.4,
   "altura_mm": 15.8,
   "svg_mm": [
@@ -10590,6 +11071,7 @@
    45.5,
    181.2
   ],
+  "parede_h_mm": 23.1,
   "largura_mm": 81.8,
   "altura_mm": 196.1,
   "svg_mm": [
@@ -10612,6 +11094,7 @@
    174.6,
    38.3
   ],
+  "parede_h_mm": 32.9,
   "largura_mm": 174.7,
   "altura_mm": 55.8,
   "svg_mm": [
@@ -10634,6 +11117,7 @@
    161.8,
    36.2
   ],
+  "parede_h_mm": 30.8,
   "largura_mm": 162.0,
   "altura_mm": 53.0,
   "svg_mm": [
@@ -10656,6 +11140,7 @@
    185.7,
    28.2
   ],
+  "parede_h_mm": 23.0,
   "largura_mm": 185.9,
   "altura_mm": 45.9,
   "svg_mm": [
@@ -10678,6 +11163,7 @@
    112.5,
    37.5
   ],
+  "parede_h_mm": 25.0,
   "largura_mm": 123.9,
   "altura_mm": 37.6,
   "svg_mm": [
@@ -10700,6 +11186,7 @@
    117.2,
    39.0
   ],
+  "parede_h_mm": 26.9,
   "largura_mm": 127.3,
   "altura_mm": 43.7,
   "svg_mm": [
@@ -10722,6 +11209,7 @@
    116.2,
    70.3
   ],
+  "parede_h_mm": 48.1,
   "largura_mm": 146.6,
   "altura_mm": 80.8,
   "svg_mm": [
@@ -10744,6 +11232,7 @@
    101.2,
    92.1
   ],
+  "parede_h_mm": 56.6,
   "largura_mm": 101.4,
   "altura_mm": 92.2,
   "svg_mm": [
@@ -10766,6 +11255,7 @@
    50.1,
    66.9
   ],
+  "parede_h_mm": 48.8,
   "largura_mm": 68.7,
   "altura_mm": 67.0,
   "svg_mm": [
@@ -10788,6 +11278,7 @@
    48.8,
    100.7
   ],
+  "parede_h_mm": 63.8,
   "largura_mm": 73.0,
   "altura_mm": 100.8,
   "svg_mm": [
@@ -10810,6 +11301,7 @@
    28.1,
    30.3
   ],
+  "parede_h_mm": 27.4,
   "largura_mm": 40.0,
   "altura_mm": 30.3,
   "svg_mm": [
@@ -10832,6 +11324,7 @@
    41.0,
    48.9
   ],
+  "parede_h_mm": 12.7,
   "largura_mm": 62.9,
   "altura_mm": 63.6,
   "svg_mm": [
@@ -10854,6 +11347,7 @@
    74.6,
    70.6
   ],
+  "parede_h_mm": 70.6,
   "largura_mm": 85.5,
   "altura_mm": 94.2,
   "svg_mm": [
@@ -10876,6 +11370,7 @@
    67.6,
    83.2
   ],
+  "parede_h_mm": 74.0,
   "largura_mm": 81.5,
   "altura_mm": 98.2,
   "svg_mm": [
@@ -10898,6 +11393,7 @@
    76.0,
    62.7
   ],
+  "parede_h_mm": 62.7,
   "largura_mm": 92.0,
   "altura_mm": 81.9,
   "svg_mm": [
@@ -10920,6 +11416,7 @@
    82.6,
    66.1
   ],
+  "parede_h_mm": 59.0,
   "largura_mm": 89.3,
   "altura_mm": 83.3,
   "svg_mm": [
@@ -10942,6 +11439,7 @@
    68.1,
    87.7
   ],
+  "parede_h_mm": 77.9,
   "largura_mm": 85.0,
   "altura_mm": 103.5,
   "svg_mm": [
@@ -10964,6 +11462,7 @@
    50.4,
    100.7
   ],
+  "parede_h_mm": 82.6,
   "largura_mm": 67.0,
   "altura_mm": 111.6,
   "svg_mm": [
@@ -10986,6 +11485,7 @@
    60.4,
    63.7
   ],
+  "parede_h_mm": 63.5,
   "largura_mm": 84.9,
   "altura_mm": 99.5,
   "svg_mm": [
@@ -11008,6 +11508,7 @@
    109.6,
    64.6
   ],
+  "parede_h_mm": 52.1,
   "largura_mm": 121.9,
   "altura_mm": 70.4,
   "svg_mm": [
@@ -11030,6 +11531,7 @@
    19.0,
    27.6
   ],
+  "parede_h_mm": 10.5,
   "largura_mm": 33.3,
   "altura_mm": 36.7,
   "svg_mm": [
@@ -11052,6 +11554,7 @@
    19.2,
    31.0
   ],
+  "parede_h_mm": 28.3,
   "largura_mm": 30.5,
   "altura_mm": 40.3,
   "svg_mm": [
@@ -11074,6 +11577,7 @@
    46.7,
    31.0
   ],
+  "parede_h_mm": 29.5,
   "largura_mm": 57.7,
   "altura_mm": 42.1,
   "svg_mm": [
@@ -11096,6 +11600,7 @@
    32.5,
    100.7
   ],
+  "parede_h_mm": 96.3,
   "largura_mm": 45.6,
   "altura_mm": 113.9,
   "svg_mm": [
@@ -11118,6 +11623,7 @@
    49.2,
    71.2
   ],
+  "parede_h_mm": 66.7,
   "largura_mm": 57.8,
   "altura_mm": 84.0,
   "svg_mm": [
@@ -11140,6 +11646,7 @@
    114.1,
    52.3
   ],
+  "parede_h_mm": 30.1,
   "largura_mm": 123.1,
   "altura_mm": 52.4,
   "svg_mm": [
@@ -11162,6 +11669,7 @@
    102.9,
    47.2
   ],
+  "parede_h_mm": 34.7,
   "largura_mm": 113.7,
   "altura_mm": 56.4,
   "svg_mm": [
@@ -11184,6 +11692,7 @@
    49.3,
    23.3
   ],
+  "parede_h_mm": 16.3,
   "largura_mm": 57.2,
   "altura_mm": 34.7,
   "svg_mm": [
@@ -11206,6 +11715,7 @@
    124.4,
    51.2
   ],
+  "parede_h_mm": 38.7,
   "largura_mm": 145.3,
   "altura_mm": 64.8,
   "svg_mm": [
@@ -11228,6 +11738,7 @@
    67.4,
    49.8
   ],
+  "parede_h_mm": 40.2,
   "largura_mm": 77.9,
   "altura_mm": 60.9,
   "svg_mm": [
@@ -11250,6 +11761,7 @@
    69.6,
    57.9
   ],
+  "parede_h_mm": 57.8,
   "largura_mm": 79.5,
   "altura_mm": 73.1,
   "svg_mm": [
@@ -11272,6 +11784,7 @@
    44.5,
    69.5
   ],
+  "parede_h_mm": 54.4,
   "largura_mm": 65.3,
   "altura_mm": 77.9,
   "svg_mm": [
@@ -11294,6 +11807,7 @@
    81.6,
    57.9
   ],
+  "parede_h_mm": 50.8,
   "largura_mm": 87.2,
   "altura_mm": 72.6,
   "svg_mm": [
@@ -11316,6 +11830,7 @@
    72.2,
    99.3
   ],
+  "parede_h_mm": 98.6,
   "largura_mm": 85.7,
   "altura_mm": 99.4,
   "svg_mm": [
@@ -11338,6 +11853,7 @@
    78.8,
    90.4
   ],
+  "parede_h_mm": 44.8,
   "largura_mm": 87.6,
   "altura_mm": 102.2,
   "svg_mm": [
@@ -11360,6 +11876,7 @@
    39.2,
    74.0
   ],
+  "parede_h_mm": 55.9,
   "largura_mm": 49.7,
   "altura_mm": 74.1,
   "svg_mm": [
@@ -11382,6 +11899,7 @@
    53.8,
    53.8
   ],
+  "parede_h_mm": 14.1,
   "largura_mm": 64.5,
   "altura_mm": 63.5,
   "svg_mm": [
@@ -11404,6 +11922,7 @@
    44.8,
    53.0
   ],
+  "parede_h_mm": 40.4,
   "largura_mm": 56.9,
   "altura_mm": 61.7,
   "svg_mm": [
@@ -11426,6 +11945,7 @@
    38.5,
    57.5
   ],
+  "parede_h_mm": 7.9,
   "largura_mm": 49.4,
   "altura_mm": 63.8,
   "svg_mm": [
@@ -11448,6 +11968,7 @@
    19.0,
    27.1
   ],
+  "parede_h_mm": 10.1,
   "largura_mm": 29.2,
   "altura_mm": 27.2,
   "svg_mm": [
@@ -11470,6 +11991,7 @@
    38.8,
    24.7
   ],
+  "parede_h_mm": 9.6,
   "largura_mm": 48.1,
   "altura_mm": 34.7,
   "svg_mm": [
@@ -11492,6 +12014,7 @@
    32.4,
    36.1
   ],
+  "parede_h_mm": 30.8,
   "largura_mm": 45.7,
   "altura_mm": 59.2,
   "svg_mm": [
@@ -11514,6 +12037,7 @@
    158.8,
    52.2
   ],
+  "parede_h_mm": 30.1,
   "largura_mm": 167.6,
   "altura_mm": 52.3,
   "svg_mm": [
@@ -11536,6 +12060,7 @@
    58.1,
    54.4
   ],
+  "parede_h_mm": 31.6,
   "largura_mm": 58.2,
   "altura_mm": 69.2,
   "svg_mm": [
@@ -11558,6 +12083,7 @@
    159.5,
    47.8
   ],
+  "parede_h_mm": 35.3,
   "largura_mm": 170.5,
   "altura_mm": 57.8,
   "svg_mm": [
@@ -11580,6 +12106,7 @@
    156.2,
    46.5
   ],
+  "parede_h_mm": 34.0,
   "largura_mm": 172.7,
   "altura_mm": 55.8,
   "svg_mm": [
@@ -11602,6 +12129,7 @@
    47.2,
    44.6
   ],
+  "parede_h_mm": 14.0,
   "largura_mm": 53.3,
   "altura_mm": 65.4,
   "svg_mm": [
@@ -11624,6 +12152,7 @@
    44.7,
    192.4
   ],
+  "parede_h_mm": 73.2,
   "largura_mm": 63.0,
   "altura_mm": 200.8,
   "svg_mm": [
@@ -11646,6 +12175,7 @@
    49.3,
    202.6
   ],
+  "parede_h_mm": 11.5,
   "largura_mm": 60.1,
   "altura_mm": 202.7,
   "svg_mm": [
@@ -11668,6 +12198,7 @@
    35.1,
    184.9
   ],
+  "parede_h_mm": 1.7,
   "largura_mm": 45.3,
   "altura_mm": 185.0,
   "svg_mm": [
@@ -11690,6 +12221,7 @@
    76.6,
    44.6
   ],
+  "parede_h_mm": 14.0,
   "largura_mm": 87.4,
   "altura_mm": 64.9,
   "svg_mm": [
@@ -11712,6 +12244,7 @@
    73.3,
    75.0
   ],
+  "parede_h_mm": 1.4,
   "largura_mm": 83.1,
   "altura_mm": 75.8,
   "svg_mm": [
@@ -11734,6 +12267,7 @@
    32.1,
    71.3
   ],
+  "parede_h_mm": 28.9,
   "largura_mm": 50.4,
   "altura_mm": 79.9,
   "svg_mm": [
@@ -11756,6 +12290,7 @@
    53.7,
    46.4
   ],
+  "parede_h_mm": 15.7,
   "largura_mm": 53.8,
   "altura_mm": 60.7,
   "svg_mm": [
@@ -11778,6 +12313,7 @@
    72.9,
    42.4
   ],
+  "parede_h_mm": 42.4,
   "largura_mm": 73.0,
   "altura_mm": 55.8,
   "svg_mm": [
@@ -11800,6 +12336,7 @@
    72.3,
    74.9
   ],
+  "parede_h_mm": 32.1,
   "largura_mm": 85.6,
   "altura_mm": 75.7,
   "svg_mm": [
@@ -11822,6 +12359,7 @@
    54.4,
    47.3
   ],
+  "parede_h_mm": 16.6,
   "largura_mm": 54.5,
   "altura_mm": 48.1,
   "svg_mm": [
@@ -11844,6 +12382,7 @@
    35.9,
    40.5
   ],
+  "parede_h_mm": 40.4,
   "largura_mm": 54.2,
   "altura_mm": 55.5,
   "svg_mm": [
@@ -11866,6 +12405,7 @@
    63.3,
    42.1
   ],
+  "parede_h_mm": 42.0,
   "largura_mm": 63.4,
   "altura_mm": 58.1,
   "svg_mm": [
@@ -11888,6 +12428,7 @@
    25.8,
    15.2
   ],
+  "parede_h_mm": 5.8,
   "largura_mm": 25.9,
   "altura_mm": 25.8,
   "svg_mm": [
@@ -11910,6 +12451,7 @@
    20.2,
    21.2
   ],
+  "parede_h_mm": 11.8,
   "largura_mm": 23.8,
   "altura_mm": 32.5,
   "svg_mm": [
@@ -11932,6 +12474,7 @@
    14.2,
    13.8
   ],
+  "parede_h_mm": 8.2,
   "largura_mm": 14.4,
   "altura_mm": 14.0,
   "svg_mm": [
@@ -11949,22 +12492,23 @@
   "pacote": "gold",
   "arquivo": "gold/LG-124_LG124.svg",
   "corpo_mm": [
-   10.8,
-   9.2,
-   45.0,
-   111.6
+   0.5,
+   9.4,
+   102.9,
+   43.7
   ],
-  "largura_mm": 45.1,
-  "altura_mm": 112.1,
+  "parede_h_mm": 31.1,
+  "largura_mm": 112.4,
+  "altura_mm": 43.7,
   "svg_mm": [
-   47.1,
-   114.8
+   114.8,
+   47.1
   ],
   "recorte": [
-   3.0,
-   4.75,
-   127.75,
-   317.75
+   -322.55,
+   6.75,
+   318.75,
+   124.0
   ]
  },
  "LG-126": {
@@ -11976,6 +12520,7 @@
    85.8,
    69.1
   ],
+  "parede_h_mm": 42.4,
   "largura_mm": 87.3,
   "altura_mm": 69.6,
   "svg_mm": [
@@ -11998,6 +12543,7 @@
    66.2,
    94.8
   ],
+  "parede_h_mm": 85.7,
   "largura_mm": 76.5,
   "altura_mm": 103.4,
   "svg_mm": [
@@ -12020,6 +12566,7 @@
    66.5,
    40.9
   ],
+  "parede_h_mm": 40.3,
   "largura_mm": 76.0,
   "altura_mm": 58.4,
   "svg_mm": [
@@ -12042,6 +12589,7 @@
    44.1,
    105.0
   ],
+  "parede_h_mm": 69.0,
   "largura_mm": 54.3,
   "altura_mm": 105.0,
   "svg_mm": [
@@ -12064,6 +12612,7 @@
    42.2,
    106.4
   ],
+  "parede_h_mm": 89.6,
   "largura_mm": 52.9,
   "altura_mm": 106.5,
   "svg_mm": [
@@ -12086,6 +12635,7 @@
    37.7,
    63.3
   ],
+  "parede_h_mm": 45.8,
   "largura_mm": 47.6,
   "altura_mm": 63.4,
   "svg_mm": [
@@ -12108,6 +12658,7 @@
    76.8,
    40.3
   ],
+  "parede_h_mm": 40.1,
   "largura_mm": 76.9,
   "altura_mm": 49.2,
   "svg_mm": [
@@ -12130,6 +12681,7 @@
    79.4,
    47.2
   ],
+  "parede_h_mm": 40.2,
   "largura_mm": 86.3,
   "altura_mm": 53.9,
   "svg_mm": [
@@ -12152,6 +12704,7 @@
    84.0,
    81.1
   ],
+  "parede_h_mm": 54.5,
   "largura_mm": 100.5,
   "altura_mm": 81.3,
   "svg_mm": [
@@ -12174,6 +12727,7 @@
    155.2,
    42.7
   ],
+  "parede_h_mm": 35.2,
   "largura_mm": 172.0,
   "altura_mm": 51.6,
   "svg_mm": [
@@ -12191,22 +12745,23 @@
   "pacote": "gold",
   "arquivo": "gold/LG-144_LG144.svg",
   "corpo_mm": [
-   9.3,
-   16.4,
-   156.3,
-   49.6
+   0.1,
+   8.9,
+   147.1,
+   42.1
   ],
+  "parede_h_mm": 29.9,
   "largura_mm": 156.4,
-  "altura_mm": 58.5,
+  "altura_mm": 58.6,
   "svg_mm": [
    158.3,
    63.8
   ],
   "recorte": [
-   2.75,
-   8.75,
+   -445.95,
+   -174.47,
    443.25,
-   165.75
+   166.25
   ]
  },
  "LG-145": {
@@ -12218,6 +12773,7 @@
    156.1,
    43.1
   ],
+  "parede_h_mm": 30.6,
   "largura_mm": 156.3,
   "altura_mm": 58.8,
   "svg_mm": [
@@ -12240,6 +12796,7 @@
    161.8,
    26.2
   ],
+  "parede_h_mm": 13.9,
   "largura_mm": 161.9,
   "altura_mm": 42.2,
   "svg_mm": [
@@ -12262,6 +12819,7 @@
    111.7,
    54.3
   ],
+  "parede_h_mm": 41.8,
   "largura_mm": 121.4,
   "altura_mm": 71.9,
   "svg_mm": [
@@ -12279,21 +12837,22 @@
   "pacote": "gold",
   "arquivo": "gold/LG-160_LG160.svg",
   "corpo_mm": [
-   10.0,
+   9.9,
    0.1,
-   54.4,
+   54.3,
    184.9
   ],
-  "largura_mm": 64.4,
+  "parede_h_mm": 181.5,
+  "largura_mm": 64.3,
   "altura_mm": 200.2,
   "svg_mm": [
    67.1,
    202.0
   ],
   "recorte": [
-   3.25,
+   -185.57,
    2.5,
-   182.5,
+   182.25,
    567.5
   ]
  },
@@ -12301,21 +12860,22 @@
   "pacote": "gold",
   "arquivo": "gold/LG-161_LG161.svg",
   "corpo_mm": [
-   9.7,
-   0.2,
-   36.6,
-   185.0
+   22.0,
+   8.0,
+   48.9,
+   192.9
   ],
-  "largura_mm": 58.6,
+  "parede_h_mm": 13.0,
+  "largura_mm": 58.5,
   "altura_mm": 193.1,
   "svg_mm": [
    61.4,
    194.9
   ],
   "recorte": [
-   3.25,
-   2.5,
-   166.25,
+   -169.25,
+   -549.76,
+   165.75,
    547.25
   ]
  },
@@ -12328,6 +12888,7 @@
    66.7,
    57.5
   ],
+  "parede_h_mm": 47.9,
   "largura_mm": 75.5,
   "altura_mm": 60.2,
   "svg_mm": [
@@ -12350,6 +12911,7 @@
    18.9,
    18.2
   ],
+  "parede_h_mm": 1.2,
   "largura_mm": 27.0,
   "altura_mm": 27.3,
   "svg_mm": [
@@ -12372,6 +12934,7 @@
    68.9,
    111.4
   ],
+  "parede_h_mm": 109.6,
   "largura_mm": 69.0,
   "altura_mm": 120.3,
   "svg_mm": [
@@ -12394,6 +12957,7 @@
    86.5,
    85.6
   ],
+  "parede_h_mm": 58.9,
   "largura_mm": 86.8,
   "altura_mm": 92.6,
   "svg_mm": [
@@ -12416,6 +12980,7 @@
    66.2,
    156.8
   ],
+  "parede_h_mm": 156.8,
   "largura_mm": 76.1,
   "altura_mm": 167.0,
   "svg_mm": [
@@ -12438,6 +13003,7 @@
    155.6,
    31.7
   ],
+  "parede_h_mm": 19.3,
   "largura_mm": 155.8,
   "altura_mm": 47.1,
   "svg_mm": [
@@ -12460,6 +13026,7 @@
    32.6,
    212.7
   ],
+  "parede_h_mm": 209.5,
   "largura_mm": 44.3,
   "altura_mm": 219.4,
   "svg_mm": [
@@ -12482,6 +13049,7 @@
    46.3,
    236.3
   ],
+  "parede_h_mm": 232.8,
   "largura_mm": 61.0,
   "altura_mm": 248.7,
   "svg_mm": [
@@ -12504,6 +13072,7 @@
    23.6,
    212.7
   ],
+  "parede_h_mm": 212.7,
   "largura_mm": 36.4,
   "altura_mm": 218.9,
   "svg_mm": [
@@ -12526,6 +13095,7 @@
    158.9,
    29.5
   ],
+  "parede_h_mm": 14.1,
   "largura_mm": 170.0,
   "altura_mm": 37.9,
   "svg_mm": [
@@ -12548,6 +13118,7 @@
    58.8,
    45.6
   ],
+  "parede_h_mm": 34.0,
   "largura_mm": 69.6,
   "altura_mm": 54.9,
   "svg_mm": [
@@ -12570,6 +13141,7 @@
    55.4,
    36.6
   ],
+  "parede_h_mm": 20.6,
   "largura_mm": 72.2,
   "altura_mm": 50.4,
   "svg_mm": [
@@ -12592,6 +13164,7 @@
    61.6,
    15.7
   ],
+  "parede_h_mm": 2.8,
   "largura_mm": 61.8,
   "altura_mm": 27.0,
   "svg_mm": [
@@ -12614,6 +13187,7 @@
    75.8,
    44.6
   ],
+  "parede_h_mm": 33.1,
   "largura_mm": 85.8,
   "altura_mm": 56.1,
   "svg_mm": [
@@ -12636,6 +13210,7 @@
    75.8,
    35.1
   ],
+  "parede_h_mm": 19.0,
   "largura_mm": 84.1,
   "altura_mm": 48.9,
   "svg_mm": [
@@ -12658,6 +13233,7 @@
    87.1,
    15.8
   ],
+  "parede_h_mm": 3.0,
   "largura_mm": 87.5,
   "altura_mm": 26.6,
   "svg_mm": [
@@ -12680,6 +13256,7 @@
    25.4,
    31.6
   ],
+  "parede_h_mm": 31.5,
   "largura_mm": 30.2,
   "altura_mm": 42.5,
   "svg_mm": [
@@ -12702,6 +13279,7 @@
    27.3,
    38.8
   ],
+  "parede_h_mm": 14.0,
   "largura_mm": 39.4,
   "altura_mm": 52.6,
   "svg_mm": [
@@ -12724,6 +13302,7 @@
    31.6,
    16.5
   ],
+  "parede_h_mm": 16.4,
   "largura_mm": 42.5,
   "altura_mm": 27.8,
   "svg_mm": [
@@ -12746,6 +13325,7 @@
    39.2,
    22.0
   ],
+  "parede_h_mm": 21.9,
   "largura_mm": 49.7,
   "altura_mm": 33.6,
   "svg_mm": [
@@ -12768,6 +13348,7 @@
    38.9,
    32.5
   ],
+  "parede_h_mm": 32.3,
   "largura_mm": 48.4,
   "altura_mm": 43.3,
   "svg_mm": [
@@ -12790,6 +13371,7 @@
    39.4,
    32.6
   ],
+  "parede_h_mm": 12.1,
   "largura_mm": 50.9,
   "altura_mm": 41.6,
   "svg_mm": [
@@ -12812,6 +13394,7 @@
    41.4,
    34.7
   ],
+  "parede_h_mm": 29.1,
   "largura_mm": 54.1,
   "altura_mm": 40.6,
   "svg_mm": [
@@ -12834,6 +13417,7 @@
    31.7,
    22.4
   ],
+  "parede_h_mm": 10.6,
   "largura_mm": 32.5,
   "altura_mm": 33.6,
   "svg_mm": [
@@ -12856,6 +13440,7 @@
    55.2,
    41.9
   ],
+  "parede_h_mm": 16.3,
   "largura_mm": 69.3,
   "altura_mm": 51.2,
   "svg_mm": [
@@ -12878,6 +13463,7 @@
    16.9,
    31.0
   ],
+  "parede_h_mm": 8.6,
   "largura_mm": 28.0,
   "altura_mm": 39.5,
   "svg_mm": [
@@ -12900,6 +13486,7 @@
    22.8,
    47.8
   ],
+  "parede_h_mm": 39.0,
   "largura_mm": 32.8,
   "altura_mm": 47.9,
   "svg_mm": [
@@ -12922,6 +13509,7 @@
    27.2,
    55.5
   ],
+  "parede_h_mm": 49.3,
   "largura_mm": 27.3,
   "altura_mm": 63.9,
   "svg_mm": [
@@ -12944,6 +13532,7 @@
    134.3,
    45.9
   ],
+  "parede_h_mm": 31.2,
   "largura_mm": 146.6,
   "altura_mm": 45.9,
   "svg_mm": [
@@ -12966,6 +13555,7 @@
    105.7,
    12.8
   ],
+  "parede_h_mm": 12.7,
   "largura_mm": 116.1,
   "altura_mm": 23.9,
   "svg_mm": [
@@ -12988,6 +13578,7 @@
    145.2,
    21.5
   ],
+  "parede_h_mm": 21.5,
   "largura_mm": 145.3,
   "altura_mm": 32.6,
   "svg_mm": [
@@ -13010,6 +13601,7 @@
    88.7,
    113.9
   ],
+  "parede_h_mm": 9.7,
   "largura_mm": 107.3,
   "altura_mm": 114.1,
   "svg_mm": [
@@ -13032,6 +13624,7 @@
    77.3,
    108.0
   ],
+  "parede_h_mm": 106.4,
   "largura_mm": 94.4,
   "altura_mm": 116.0,
   "svg_mm": [
@@ -13054,6 +13647,7 @@
    69.1,
    41.3
   ],
+  "parede_h_mm": 35.1,
   "largura_mm": 69.2,
   "altura_mm": 47.2,
   "svg_mm": [
@@ -13076,6 +13670,7 @@
    58.6,
    190.8
   ],
+  "parede_h_mm": 17.5,
   "largura_mm": 82.6,
   "altura_mm": 206.6,
   "svg_mm": [
@@ -13098,6 +13693,7 @@
    134.3,
    54.8
   ],
+  "parede_h_mm": 33.7,
   "largura_mm": 146.5,
   "altura_mm": 63.9,
   "svg_mm": [
@@ -13120,6 +13716,7 @@
    59.3,
    71.5
   ],
+  "parede_h_mm": 70.0,
   "largura_mm": 78.3,
   "altura_mm": 71.6,
   "svg_mm": [
@@ -13142,6 +13739,7 @@
    110.5,
    28.0
   ],
+  "parede_h_mm": 12.7,
   "largura_mm": 120.3,
   "altura_mm": 28.1,
   "svg_mm": [
@@ -13164,6 +13762,7 @@
    76.7,
    33.8
   ],
+  "parede_h_mm": 33.6,
   "largura_mm": 86.4,
   "altura_mm": 33.9,
   "svg_mm": [
@@ -13186,6 +13785,7 @@
    134.3,
    73.7
   ],
+  "parede_h_mm": 52.7,
   "largura_mm": 148.3,
   "altura_mm": 82.7,
   "svg_mm": [
@@ -13208,6 +13808,7 @@
    32.5,
    167.6
   ],
+  "parede_h_mm": 9.7,
   "largura_mm": 45.4,
   "altura_mm": 175.7,
   "svg_mm": [
@@ -13230,6 +13831,7 @@
    56.1,
    187.1
   ],
+  "parede_h_mm": 12.7,
   "largura_mm": 72.3,
   "altura_mm": 199.1,
   "svg_mm": [
@@ -13252,6 +13854,7 @@
    59.1,
    213.2
   ],
+  "parede_h_mm": 10.6,
   "largura_mm": 59.2,
   "altura_mm": 213.3,
   "svg_mm": [
@@ -13274,6 +13877,7 @@
    98.2,
    43.2
   ],
+  "parede_h_mm": 9.7,
   "largura_mm": 107.1,
   "altura_mm": 51.8,
   "svg_mm": [
@@ -13296,6 +13900,7 @@
    23.2,
    49.1
   ],
+  "parede_h_mm": 46.5,
   "largura_mm": 34.2,
   "altura_mm": 49.2,
   "svg_mm": [
@@ -13318,6 +13923,7 @@
    49.8,
    49.7
   ],
+  "parede_h_mm": 47.9,
   "largura_mm": 62.9,
   "altura_mm": 59.0,
   "svg_mm": [
@@ -13340,6 +13946,7 @@
    111.5,
    60.5
   ],
+  "parede_h_mm": 13.3,
   "largura_mm": 111.6,
   "altura_mm": 60.6,
   "svg_mm": [
@@ -13362,6 +13969,7 @@
    63.8,
    36.8
   ],
+  "parede_h_mm": 36.7,
   "largura_mm": 66.9,
   "altura_mm": 48.3,
   "svg_mm": [
@@ -13384,6 +13992,7 @@
    90.0,
    49.0
   ],
+  "parede_h_mm": 49.0,
   "largura_mm": 93.0,
   "altura_mm": 58.8,
   "svg_mm": [
@@ -13406,6 +14015,7 @@
    62.5,
    49.2
   ],
+  "parede_h_mm": 49.2,
   "largura_mm": 65.7,
   "altura_mm": 56.8,
   "svg_mm": [
@@ -13428,6 +14038,7 @@
    97.2,
    35.2
   ],
+  "parede_h_mm": 22.0,
   "largura_mm": 97.3,
   "altura_mm": 35.4,
   "svg_mm": [
@@ -13450,6 +14061,7 @@
    48.7,
    38.7
   ],
+  "parede_h_mm": 25.6,
   "largura_mm": 63.5,
   "altura_mm": 39.0,
   "svg_mm": [
@@ -13472,6 +14084,7 @@
    116.9,
    58.6
   ],
+  "parede_h_mm": 58.6,
   "largura_mm": 116.9,
   "altura_mm": 58.7,
   "svg_mm": [
@@ -13494,6 +14107,7 @@
    82.6,
    60.9
   ],
+  "parede_h_mm": 60.7,
   "largura_mm": 96.8,
   "altura_mm": 69.6,
   "svg_mm": [
@@ -13516,6 +14130,7 @@
    69.4,
    59.7
   ],
+  "parede_h_mm": 59.6,
   "largura_mm": 77.2,
   "altura_mm": 67.5,
   "svg_mm": [
@@ -13538,6 +14153,7 @@
    48.6,
    88.8
   ],
+  "parede_h_mm": 69.1,
   "largura_mm": 60.5,
   "altura_mm": 99.1,
   "svg_mm": [
@@ -13560,6 +14176,7 @@
    90.8,
    46.6
   ],
+  "parede_h_mm": 45.2,
   "largura_mm": 90.8,
   "altura_mm": 56.0,
   "svg_mm": [
@@ -13582,6 +14199,7 @@
    24.2,
    64.3
   ],
+  "parede_h_mm": 1.5,
   "largura_mm": 35.5,
   "altura_mm": 64.4,
   "svg_mm": [
@@ -13604,6 +14222,7 @@
    61.2,
    43.3
   ],
+  "parede_h_mm": 26.2,
   "largura_mm": 76.8,
   "altura_mm": 57.1,
   "svg_mm": [
@@ -13626,6 +14245,7 @@
    59.9,
    13.1
   ],
+  "parede_h_mm": 9.1,
   "largura_mm": 60.0,
   "altura_mm": 16.1,
   "svg_mm": [
@@ -13648,6 +14268,7 @@
    59.2,
    10.0
   ],
+  "parede_h_mm": 6.6,
   "largura_mm": 59.3,
   "altura_mm": 19.0,
   "svg_mm": [
@@ -13670,6 +14291,7 @@
    50.4,
    16.1
   ],
+  "parede_h_mm": 13.2,
   "largura_mm": 50.7,
   "altura_mm": 16.1,
   "svg_mm": [
@@ -13692,6 +14314,7 @@
    15.6,
    34.1
   ],
+  "parede_h_mm": 23.2,
   "largura_mm": 30.9,
   "altura_mm": 49.0,
   "svg_mm": [
@@ -13714,6 +14337,7 @@
    33.1,
    15.8
   ],
+  "parede_h_mm": 15.7,
   "largura_mm": 33.2,
   "altura_mm": 24.1,
   "svg_mm": [
@@ -13736,6 +14360,7 @@
    57.9,
    51.3
   ],
+  "parede_h_mm": 29.4,
   "largura_mm": 70.5,
   "altura_mm": 62.5,
   "svg_mm": [
@@ -13758,6 +14383,7 @@
    57.9,
    47.4
   ],
+  "parede_h_mm": 35.1,
   "largura_mm": 67.9,
   "altura_mm": 60.0,
   "svg_mm": [
@@ -13780,6 +14406,7 @@
    52.5,
    28.6
   ],
+  "parede_h_mm": 27.0,
   "largura_mm": 62.6,
   "altura_mm": 39.4,
   "svg_mm": [
@@ -13802,6 +14429,7 @@
    21.3,
    88.4
   ],
+  "parede_h_mm": 13.6,
   "largura_mm": 29.7,
   "altura_mm": 88.5,
   "svg_mm": [
@@ -13824,6 +14452,7 @@
    26.5,
    71.0
   ],
+  "parede_h_mm": 70.4,
   "largura_mm": 34.9,
   "altura_mm": 71.1,
   "svg_mm": [
@@ -13846,6 +14475,7 @@
    51.2,
    49.2
   ],
+  "parede_h_mm": 42.2,
   "largura_mm": 60.6,
   "altura_mm": 57.6,
   "svg_mm": [
@@ -13868,6 +14498,7 @@
    62.4,
    29.5
   ],
+  "parede_h_mm": 29.3,
   "largura_mm": 77.8,
   "altura_mm": 37.7,
   "svg_mm": [
@@ -13890,6 +14521,7 @@
    51.1,
    42.3
   ],
+  "parede_h_mm": 42.0,
   "largura_mm": 60.5,
   "altura_mm": 50.7,
   "svg_mm": [
@@ -13912,6 +14544,7 @@
    26.9,
    58.5
   ],
+  "parede_h_mm": 27.3,
   "largura_mm": 35.3,
   "altura_mm": 67.5,
   "svg_mm": [
@@ -13934,6 +14567,7 @@
    63.3,
    41.9
   ],
+  "parede_h_mm": 41.8,
   "largura_mm": 79.8,
   "altura_mm": 57.2,
   "svg_mm": [
@@ -13956,6 +14590,7 @@
    44.0,
    78.4
   ],
+  "parede_h_mm": 78.1,
   "largura_mm": 60.5,
   "altura_mm": 86.8,
   "svg_mm": [
@@ -13978,6 +14613,7 @@
    26.9,
    75.4
   ],
+  "parede_h_mm": 44.2,
   "largura_mm": 35.3,
   "altura_mm": 84.3,
   "svg_mm": [
@@ -14000,6 +14636,7 @@
    26.8,
    43.5
   ],
+  "parede_h_mm": 32.7,
   "largura_mm": 35.2,
   "altura_mm": 52.1,
   "svg_mm": [
@@ -14022,6 +14659,7 @@
    69.7,
    58.4
   ],
+  "parede_h_mm": 50.9,
   "largura_mm": 78.1,
   "altura_mm": 66.8,
   "svg_mm": [
@@ -14044,6 +14682,7 @@
    69.4,
    42.4
   ],
+  "parede_h_mm": 25.4,
   "largura_mm": 77.8,
   "altura_mm": 50.7,
   "svg_mm": [
@@ -14066,6 +14705,7 @@
    35.5,
    68.4
   ],
+  "parede_h_mm": 68.2,
   "largura_mm": 43.9,
   "altura_mm": 76.7,
   "svg_mm": [
@@ -14088,6 +14728,7 @@
    99.7,
    58.4
   ],
+  "parede_h_mm": 50.5,
   "largura_mm": 108.1,
   "altura_mm": 73.7,
   "svg_mm": [
@@ -14110,6 +14751,7 @@
    98.5,
    42.3
   ],
+  "parede_h_mm": 25.4,
   "largura_mm": 108.0,
   "altura_mm": 50.7,
   "svg_mm": [
@@ -14132,6 +14774,7 @@
    35.5,
    98.4
   ],
+  "parede_h_mm": 98.2,
   "largura_mm": 43.9,
   "altura_mm": 106.7,
   "svg_mm": [
@@ -14154,6 +14797,7 @@
    35.1,
    98.4
   ],
+  "parede_h_mm": 98.2,
   "largura_mm": 43.5,
   "altura_mm": 106.7,
   "svg_mm": [
@@ -14176,6 +14820,7 @@
    37.0,
    37.9
   ],
+  "parede_h_mm": 27.9,
   "largura_mm": 53.4,
   "altura_mm": 53.9,
   "svg_mm": [
@@ -14198,6 +14843,7 @@
    112.4,
    55.4
   ],
+  "parede_h_mm": 47.7,
   "largura_mm": 120.8,
   "altura_mm": 64.1,
   "svg_mm": [
@@ -14220,6 +14866,7 @@
    43.6,
    33.2
   ],
+  "parede_h_mm": 16.4,
   "largura_mm": 51.9,
   "altura_mm": 33.3,
   "svg_mm": [
@@ -14242,6 +14889,7 @@
    28.7,
    20.0
   ],
+  "parede_h_mm": 4.4,
   "largura_mm": 37.8,
   "altura_mm": 28.6,
   "svg_mm": [
@@ -14264,6 +14912,7 @@
    90.0,
    40.0
   ],
+  "parede_h_mm": 22.6,
   "largura_mm": 98.4,
   "altura_mm": 43.7,
   "svg_mm": [
@@ -14286,6 +14935,7 @@
    36.5,
    47.8
   ],
+  "parede_h_mm": 28.0,
   "largura_mm": 52.9,
   "altura_mm": 63.5,
   "svg_mm": [
@@ -14308,6 +14958,7 @@
    35.9,
    45.5
   ],
+  "parede_h_mm": 41.8,
   "largura_mm": 44.8,
   "altura_mm": 54.4,
   "svg_mm": [
@@ -14330,6 +14981,7 @@
    97.6,
    45.8
   ],
+  "parede_h_mm": 22.0,
   "largura_mm": 108.7,
   "altura_mm": 54.0,
   "svg_mm": [
@@ -14352,6 +15004,7 @@
    85.6,
    43.3
   ],
+  "parede_h_mm": 23.2,
   "largura_mm": 110.9,
   "altura_mm": 43.4,
   "svg_mm": [
@@ -14374,6 +15027,7 @@
    85.0,
    47.4
   ],
+  "parede_h_mm": 32.8,
   "largura_mm": 113.8,
   "altura_mm": 65.4,
   "svg_mm": [
@@ -14396,6 +15050,7 @@
    85.7,
    44.9
   ],
+  "parede_h_mm": 33.0,
   "largura_mm": 107.9,
   "altura_mm": 57.9,
   "svg_mm": [
@@ -14418,6 +15073,7 @@
    85.8,
    44.8
   ],
+  "parede_h_mm": 31.7,
   "largura_mm": 105.8,
   "altura_mm": 44.9,
   "svg_mm": [
@@ -14440,6 +15096,7 @@
    70.1,
    55.5
   ],
+  "parede_h_mm": 35.3,
   "largura_mm": 94.5,
   "altura_mm": 66.1,
   "svg_mm": [
@@ -14462,6 +15119,7 @@
    69.8,
    61.2
   ],
+  "parede_h_mm": 48.1,
   "largura_mm": 94.4,
   "altura_mm": 70.9,
   "svg_mm": [
@@ -14484,6 +15142,7 @@
    71.3,
    37.0
   ],
+  "parede_h_mm": 25.3,
   "largura_mm": 92.8,
   "altura_mm": 49.1,
   "svg_mm": [
@@ -14506,6 +15165,7 @@
    42.4,
    29.3
   ],
+  "parede_h_mm": 1.5,
   "largura_mm": 66.1,
   "altura_mm": 44.9,
   "svg_mm": [
@@ -14528,6 +15188,7 @@
    84.1,
    61.5
   ],
+  "parede_h_mm": 48.4,
   "largura_mm": 96.4,
   "altura_mm": 63.3,
   "svg_mm": [
@@ -14550,6 +15211,7 @@
    118.5,
    45.6
   ],
+  "parede_h_mm": 25.6,
   "largura_mm": 143.8,
   "altura_mm": 45.7,
   "svg_mm": [
@@ -14572,6 +15234,7 @@
    118.2,
    51.5
   ],
+  "parede_h_mm": 36.7,
   "largura_mm": 135.9,
   "altura_mm": 64.4,
   "svg_mm": [
@@ -14594,6 +15257,7 @@
    116.6,
    37.9
   ],
+  "parede_h_mm": 26.2,
   "largura_mm": 149.2,
   "altura_mm": 62.1,
   "svg_mm": [
@@ -14616,6 +15280,7 @@
    120.3,
    26.4
   ],
+  "parede_h_mm": 14.7,
   "largura_mm": 132.2,
   "altura_mm": 45.9,
   "svg_mm": [
@@ -14638,6 +15303,7 @@
    106.5,
    26.5
   ],
+  "parede_h_mm": 14.8,
   "largura_mm": 106.5,
   "altura_mm": 51.6,
   "svg_mm": [
@@ -14660,6 +15326,7 @@
    118.8,
    44.1
   ],
+  "parede_h_mm": 24.1,
   "largura_mm": 118.9,
   "altura_mm": 52.7,
   "svg_mm": [
@@ -14682,6 +15349,7 @@
    106.2,
    47.3
   ],
+  "parede_h_mm": 34.8,
   "largura_mm": 117.9,
   "altura_mm": 58.2,
   "svg_mm": [
@@ -14704,6 +15372,7 @@
    21.7,
    29.2
   ],
+  "parede_h_mm": 28.5,
   "largura_mm": 22.0,
   "altura_mm": 40.4,
   "svg_mm": [
@@ -14726,6 +15395,7 @@
    118.3,
    42.2
   ],
+  "parede_h_mm": 29.1,
   "largura_mm": 129.3,
   "altura_mm": 56.9,
   "svg_mm": [
@@ -14748,6 +15418,7 @@
    124.6,
    59.6
   ],
+  "parede_h_mm": 39.5,
   "largura_mm": 136.1,
   "altura_mm": 73.4,
   "svg_mm": [
@@ -14770,6 +15441,7 @@
    103.5,
    26.5
   ],
+  "parede_h_mm": 20.4,
   "largura_mm": 103.5,
   "altura_mm": 39.2,
   "svg_mm": [
@@ -14792,6 +15464,7 @@
    67.0,
    34.5
   ],
+  "parede_h_mm": 34.4,
   "largura_mm": 78.1,
   "altura_mm": 46.3,
   "svg_mm": [
@@ -14814,6 +15487,7 @@
    42.7,
    39.0
   ],
+  "parede_h_mm": 33.3,
   "largura_mm": 58.8,
   "altura_mm": 48.1,
   "svg_mm": [
@@ -14836,6 +15510,7 @@
    50.4,
    33.2
   ],
+  "parede_h_mm": 33.0,
   "largura_mm": 57.3,
   "altura_mm": 48.5,
   "svg_mm": [
@@ -14858,6 +15533,7 @@
    55.6,
    44.4
   ],
+  "parede_h_mm": 38.8,
   "largura_mm": 75.1,
   "altura_mm": 44.5,
   "svg_mm": [
@@ -14880,6 +15556,7 @@
    67.6,
    60.6
   ],
+  "parede_h_mm": 35.7,
   "largura_mm": 77.9,
   "altura_mm": 69.6,
   "svg_mm": [
@@ -14902,6 +15579,7 @@
    68.8,
    52.3
   ],
+  "parede_h_mm": 25.6,
   "largura_mm": 80.1,
   "altura_mm": 63.1,
   "svg_mm": [
@@ -14924,6 +15602,7 @@
    54.7,
    77.3
   ],
+  "parede_h_mm": 71.5,
   "largura_mm": 67.0,
   "altura_mm": 89.3,
   "svg_mm": [
@@ -14946,6 +15625,7 @@
    66.1,
    54.9
   ],
+  "parede_h_mm": 54.6,
   "largura_mm": 77.6,
   "altura_mm": 71.3,
   "svg_mm": [
@@ -14968,6 +15648,7 @@
    56.5,
    71.3
   ],
+  "parede_h_mm": 70.7,
   "largura_mm": 72.3,
   "altura_mm": 85.0,
   "svg_mm": [
@@ -14990,6 +15671,7 @@
    42.9,
    100.4
   ],
+  "parede_h_mm": 84.8,
   "largura_mm": 55.8,
   "altura_mm": 107.2,
   "svg_mm": [
@@ -15012,6 +15694,7 @@
    42.9,
    55.7
   ],
+  "parede_h_mm": 21.1,
   "largura_mm": 59.3,
   "altura_mm": 67.5,
   "svg_mm": [
@@ -15034,6 +15717,7 @@
    68.0,
    34.3
   ],
+  "parede_h_mm": 34.1,
   "largura_mm": 79.9,
   "altura_mm": 43.0,
   "svg_mm": [
@@ -15056,6 +15740,7 @@
    54.5,
    44.3
   ],
+  "parede_h_mm": 43.6,
   "largura_mm": 66.5,
   "altura_mm": 44.4,
   "svg_mm": [
@@ -15078,6 +15763,7 @@
    50.5,
    51.8
   ],
+  "parede_h_mm": 44.9,
   "largura_mm": 67.3,
   "altura_mm": 51.9,
   "svg_mm": [
@@ -15100,6 +15786,7 @@
    56.9,
    40.7
   ],
+  "parede_h_mm": 33.6,
   "largura_mm": 67.9,
   "altura_mm": 53.9,
   "svg_mm": [
@@ -15122,6 +15809,7 @@
    60.7,
    63.7
   ],
+  "parede_h_mm": 37.0,
   "largura_mm": 78.8,
   "altura_mm": 75.8,
   "svg_mm": [
@@ -15144,6 +15832,7 @@
    64.4,
    85.8
   ],
+  "parede_h_mm": 85.2,
   "largura_mm": 64.5,
   "altura_mm": 96.4,
   "svg_mm": [
@@ -15166,6 +15855,7 @@
    55.7,
    25.3
   ],
+  "parede_h_mm": 25.3,
   "largura_mm": 66.9,
   "altura_mm": 36.5,
   "svg_mm": [
@@ -15188,6 +15878,7 @@
    54.3,
    42.6
   ],
+  "parede_h_mm": 36.9,
   "largura_mm": 62.8,
   "altura_mm": 50.4,
   "svg_mm": [
@@ -15210,6 +15901,7 @@
    57.8,
    33.2
   ],
+  "parede_h_mm": 32.9,
   "largura_mm": 57.9,
   "altura_mm": 44.2,
   "svg_mm": [
@@ -15232,6 +15924,7 @@
    51.4,
    37.6
   ],
+  "parede_h_mm": 37.4,
   "largura_mm": 63.2,
   "altura_mm": 49.5,
   "svg_mm": [
@@ -15254,6 +15947,7 @@
    58.3,
    34.8
   ],
+  "parede_h_mm": 34.8,
   "largura_mm": 70.8,
   "altura_mm": 45.9,
   "svg_mm": [
@@ -15276,6 +15970,7 @@
    48.4,
    48.8
   ],
+  "parede_h_mm": 48.7,
   "largura_mm": 62.9,
   "altura_mm": 61.5,
   "svg_mm": [
@@ -15298,6 +15993,7 @@
    69.7,
    30.8
   ],
+  "parede_h_mm": 25.2,
   "largura_mm": 70.6,
   "altura_mm": 41.9,
   "svg_mm": [
@@ -15320,6 +16016,7 @@
    40.0,
    38.7
   ],
+  "parede_h_mm": 23.5,
   "largura_mm": 51.5,
   "altura_mm": 51.9,
   "svg_mm": [
@@ -15342,6 +16039,7 @@
    39.2,
    43.0
   ],
+  "parede_h_mm": 17.9,
   "largura_mm": 59.9,
   "altura_mm": 43.2,
   "svg_mm": [
@@ -15364,6 +16062,7 @@
    51.7,
    45.6
   ],
+  "parede_h_mm": 44.3,
   "largura_mm": 68.0,
   "altura_mm": 54.9,
   "svg_mm": [
@@ -15386,6 +16085,7 @@
    37.8,
    33.7
   ],
+  "parede_h_mm": 30.1,
   "largura_mm": 59.5,
   "altura_mm": 51.5,
   "svg_mm": [
@@ -15408,6 +16108,7 @@
    33.2,
    45.5
   ],
+  "parede_h_mm": 17.7,
   "largura_mm": 40.4,
   "altura_mm": 45.9,
   "svg_mm": [
@@ -15430,6 +16131,7 @@
    40.5,
    43.0
   ],
+  "parede_h_mm": 31.2,
   "largura_mm": 40.6,
   "altura_mm": 54.8,
   "svg_mm": [
@@ -15452,6 +16154,7 @@
    46.3,
    57.2
   ],
+  "parede_h_mm": 38.8,
   "largura_mm": 46.4,
   "altura_mm": 57.3,
   "svg_mm": [
@@ -15474,6 +16177,7 @@
    68.4,
    37.7
   ],
+  "parede_h_mm": 37.7,
   "largura_mm": 68.5,
   "altura_mm": 55.0,
   "svg_mm": [
@@ -15496,6 +16200,7 @@
    39.4,
    32.3
   ],
+  "parede_h_mm": 16.6,
   "largura_mm": 51.8,
   "altura_mm": 39.1,
   "svg_mm": [
@@ -15518,6 +16223,7 @@
    38.6,
    54.7
   ],
+  "parede_h_mm": 39.2,
   "largura_mm": 51.5,
   "altura_mm": 63.1,
   "svg_mm": [
@@ -15540,6 +16246,7 @@
    61.8,
    43.5
   ],
+  "parede_h_mm": 42.3,
   "largura_mm": 75.8,
   "altura_mm": 59.3,
   "svg_mm": [
@@ -15562,6 +16269,7 @@
    41.6,
    26.8
   ],
+  "parede_h_mm": 14.8,
   "largura_mm": 58.0,
   "altura_mm": 42.1,
   "svg_mm": [
@@ -15584,6 +16292,7 @@
    40.7,
    48.8
   ],
+  "parede_h_mm": 23.0,
   "largura_mm": 55.8,
   "altura_mm": 60.9,
   "svg_mm": [
@@ -15606,6 +16315,7 @@
    40.6,
    35.1
   ],
+  "parede_h_mm": 35.0,
   "largura_mm": 52.2,
   "altura_mm": 50.3,
   "svg_mm": [
@@ -15628,6 +16338,7 @@
    26.8,
    45.6
   ],
+  "parede_h_mm": 45.6,
   "largura_mm": 45.8,
   "altura_mm": 60.4,
   "svg_mm": [
@@ -15650,6 +16361,7 @@
    44.5,
    57.9
   ],
+  "parede_h_mm": 47.0,
   "largura_mm": 68.0,
   "altura_mm": 65.8,
   "svg_mm": [
@@ -15672,6 +16384,7 @@
    45.4,
    38.9
   ],
+  "parede_h_mm": 12.1,
   "largura_mm": 58.8,
   "altura_mm": 51.7,
   "svg_mm": [
@@ -15694,6 +16407,7 @@
    41.8,
    34.8
   ],
+  "parede_h_mm": 28.0,
   "largura_mm": 55.7,
   "altura_mm": 51.6,
   "svg_mm": [
@@ -15716,6 +16430,7 @@
    42.1,
    30.2
   ],
+  "parede_h_mm": 26.6,
   "largura_mm": 58.7,
   "altura_mm": 56.3,
   "svg_mm": [
@@ -15738,6 +16453,7 @@
    25.9,
    28.5
   ],
+  "parede_h_mm": 13.6,
   "largura_mm": 40.3,
   "altura_mm": 64.5,
   "svg_mm": [
@@ -15760,6 +16476,7 @@
    28.8,
    30.9
   ],
+  "parede_h_mm": 13.0,
   "largura_mm": 44.1,
   "altura_mm": 47.6,
   "svg_mm": [
@@ -15782,6 +16499,7 @@
    38.5,
    26.8
   ],
+  "parede_h_mm": 1.4,
   "largura_mm": 38.5,
   "altura_mm": 38.0,
   "svg_mm": [
@@ -15804,6 +16522,7 @@
    43.0,
    33.0
   ],
+  "parede_h_mm": 10.4,
   "largura_mm": 67.8,
   "altura_mm": 48.6,
   "svg_mm": [
@@ -15826,6 +16545,7 @@
    44.2,
    55.8
   ],
+  "parede_h_mm": 12.7,
   "largura_mm": 56.8,
   "altura_mm": 65.4,
   "svg_mm": [
@@ -15848,6 +16568,7 @@
    62.2,
    35.8
   ],
+  "parede_h_mm": 35.8,
   "largura_mm": 71.7,
   "altura_mm": 49.4,
   "svg_mm": [
@@ -15870,6 +16591,7 @@
    53.5,
    37.3
   ],
+  "parede_h_mm": 37.2,
   "largura_mm": 61.8,
   "altura_mm": 52.7,
   "svg_mm": [
@@ -15892,6 +16614,7 @@
    149.9,
    43.8
   ],
+  "parede_h_mm": 23.8,
   "largura_mm": 167.7,
   "altura_mm": 43.9,
   "svg_mm": [
@@ -15914,6 +16637,7 @@
    149.9,
    47.3
   ],
+  "parede_h_mm": 35.5,
   "largura_mm": 157.5,
   "altura_mm": 56.7,
   "svg_mm": [
@@ -15936,6 +16660,7 @@
    141.2,
    44.0
   ],
+  "parede_h_mm": 32.3,
   "largura_mm": 142.6,
   "altura_mm": 58.1,
   "svg_mm": [
@@ -15958,6 +16683,7 @@
    47.7,
    65.4
   ],
+  "parede_h_mm": 32.0,
   "largura_mm": 61.5,
   "altura_mm": 77.8,
   "svg_mm": [
@@ -15980,6 +16706,7 @@
    43.7,
    51.3
   ],
+  "parede_h_mm": 35.8,
   "largura_mm": 43.7,
   "altura_mm": 62.8,
   "svg_mm": [
@@ -16002,6 +16729,7 @@
    44.4,
    60.4
   ],
+  "parede_h_mm": 48.7,
   "largura_mm": 57.1,
   "altura_mm": 72.8,
   "svg_mm": [
@@ -16024,6 +16752,7 @@
    64.3,
    36.2
   ],
+  "parede_h_mm": 35.8,
   "largura_mm": 85.8,
   "altura_mm": 49.9,
   "svg_mm": [
@@ -16046,6 +16775,7 @@
    72.6,
    55.0
   ],
+  "parede_h_mm": 55.0,
   "largura_mm": 88.6,
   "altura_mm": 71.0,
   "svg_mm": [
@@ -16068,6 +16798,7 @@
    73.3,
    54.2
   ],
+  "parede_h_mm": 54.1,
   "largura_mm": 92.3,
   "altura_mm": 72.0,
   "svg_mm": [
@@ -16090,6 +16821,7 @@
    54.6,
    39.5
   ],
+  "parede_h_mm": 36.6,
   "largura_mm": 69.8,
   "altura_mm": 49.2,
   "svg_mm": [
@@ -16112,6 +16844,7 @@
    32.8,
    30.3
   ],
+  "parede_h_mm": 12.2,
   "largura_mm": 44.7,
   "altura_mm": 30.3,
   "svg_mm": [
@@ -16134,6 +16867,7 @@
    43.2,
    30.7
   ],
+  "parede_h_mm": 15.7,
   "largura_mm": 57.4,
   "altura_mm": 66.7,
   "svg_mm": [
@@ -16156,6 +16890,7 @@
    43.4,
    100.3
   ],
+  "parede_h_mm": 66.3,
   "largura_mm": 51.5,
   "altura_mm": 109.9,
   "svg_mm": [
@@ -16178,6 +16913,7 @@
    43.2,
    96.8
   ],
+  "parede_h_mm": 62.6,
   "largura_mm": 55.1,
   "altura_mm": 109.5,
   "svg_mm": [
@@ -16200,6 +16936,7 @@
    47.4,
    60.0
   ],
+  "parede_h_mm": 44.4,
   "largura_mm": 63.2,
   "altura_mm": 73.1,
   "svg_mm": [
@@ -16222,6 +16959,7 @@
    104.0,
    49.1
   ],
+  "parede_h_mm": 45.0,
   "largura_mm": 145.6,
   "altura_mm": 71.4,
   "svg_mm": [
@@ -16244,6 +16982,7 @@
    114.1,
    40.2
   ],
+  "parede_h_mm": 37.3,
   "largura_mm": 130.4,
   "altura_mm": 52.2,
   "svg_mm": [
@@ -16266,6 +17005,7 @@
    96.4,
    48.9
   ],
+  "parede_h_mm": 45.7,
   "largura_mm": 104.5,
   "altura_mm": 49.0,
   "svg_mm": [
@@ -16288,6 +17028,7 @@
    67.7,
    36.7
   ],
+  "parede_h_mm": 36.5,
   "largura_mm": 78.5,
   "altura_mm": 49.2,
   "svg_mm": [
@@ -16310,6 +17051,7 @@
    61.5,
    52.3
   ],
+  "parede_h_mm": 21.7,
   "largura_mm": 90.7,
   "altura_mm": 52.4,
   "svg_mm": [
@@ -16332,6 +17074,7 @@
    70.3,
    38.6
   ],
+  "parede_h_mm": 38.5,
   "largura_mm": 83.0,
   "altura_mm": 47.7,
   "svg_mm": [
@@ -16354,6 +17097,7 @@
    79.6,
    34.9
   ],
+  "parede_h_mm": 34.8,
   "largura_mm": 79.6,
   "altura_mm": 53.4,
   "svg_mm": [
@@ -16376,6 +17120,7 @@
    76.0,
    40.1
   ],
+  "parede_h_mm": 34.4,
   "largura_mm": 85.5,
   "altura_mm": 51.9,
   "svg_mm": [
@@ -16398,6 +17143,7 @@
    80.7,
    36.9
   ],
+  "parede_h_mm": 12.3,
   "largura_mm": 88.0,
   "altura_mm": 39.2,
   "svg_mm": [
@@ -16420,6 +17166,7 @@
    75.5,
    27.5
   ],
+  "parede_h_mm": 27.4,
   "largura_mm": 75.6,
   "altura_mm": 45.2,
   "svg_mm": [
@@ -16442,6 +17189,7 @@
    64.9,
    62.4
   ],
+  "parede_h_mm": 11.7,
   "largura_mm": 75.3,
   "altura_mm": 62.6,
   "svg_mm": [
@@ -16464,6 +17212,7 @@
    68.5,
    35.0
   ],
+  "parede_h_mm": 31.3,
   "largura_mm": 84.0,
   "altura_mm": 51.1,
   "svg_mm": [
@@ -16486,6 +17235,7 @@
    25.2,
    33.2
   ],
+  "parede_h_mm": 28.8,
   "largura_mm": 46.0,
   "altura_mm": 33.3,
   "svg_mm": [
@@ -16508,6 +17258,7 @@
    42.7,
    33.2
   ],
+  "parede_h_mm": 26.0,
   "largura_mm": 59.8,
   "altura_mm": 33.2,
   "svg_mm": [
@@ -16530,6 +17281,7 @@
    43.1,
    26.3
   ],
+  "parede_h_mm": 1.3,
   "largura_mm": 43.2,
   "altura_mm": 26.4,
   "svg_mm": [
@@ -16552,6 +17304,7 @@
    53.6,
    43.2
   ],
+  "parede_h_mm": 11.2,
   "largura_mm": 60.7,
   "altura_mm": 64.2,
   "svg_mm": [
@@ -16574,6 +17327,7 @@
    74.8,
    58.0
   ],
+  "parede_h_mm": 57.9,
   "largura_mm": 74.9,
   "altura_mm": 76.5,
   "svg_mm": [
@@ -16596,6 +17350,7 @@
    67.1,
    84.0
   ],
+  "parede_h_mm": 72.0,
   "largura_mm": 67.2,
   "altura_mm": 96.7,
   "svg_mm": [
@@ -16618,6 +17373,7 @@
    86.5,
    83.1
   ],
+  "parede_h_mm": 77.5,
   "largura_mm": 86.6,
   "altura_mm": 95.1,
   "svg_mm": [
@@ -16640,6 +17396,7 @@
    65.4,
    86.8
   ],
+  "parede_h_mm": 48.6,
   "largura_mm": 82.6,
   "altura_mm": 97.5,
   "svg_mm": [
@@ -16662,6 +17419,7 @@
    28.7,
    17.8
   ],
+  "parede_h_mm": 14.5,
   "largura_mm": 43.0,
   "altura_mm": 33.2,
   "svg_mm": [
@@ -16684,6 +17442,7 @@
    37.3,
    44.4
   ],
+  "parede_h_mm": 32.0,
   "largura_mm": 47.1,
   "altura_mm": 48.2,
   "svg_mm": [
@@ -16706,6 +17465,7 @@
    26.4,
    26.1
   ],
+  "parede_h_mm": 11.3,
   "largura_mm": 36.2,
   "altura_mm": 33.7,
   "svg_mm": [
@@ -16728,6 +17488,7 @@
    41.2,
    186.4
   ],
+  "parede_h_mm": 136.0,
   "largura_mm": 46.1,
   "altura_mm": 186.5,
   "svg_mm": [
@@ -16750,6 +17511,7 @@
    47.3,
    186.4
   ],
+  "parede_h_mm": 11.9,
   "largura_mm": 52.5,
   "altura_mm": 186.5,
   "svg_mm": [
@@ -16772,6 +17534,7 @@
    26.4,
    188.1
   ],
+  "parede_h_mm": 13.5,
   "largura_mm": 37.3,
   "altura_mm": 195.4,
   "svg_mm": [
@@ -16794,6 +17557,7 @@
    67.9,
    8.0
   ],
+  "parede_h_mm": 8.0,
   "largura_mm": 68.0,
   "altura_mm": 19.7,
   "svg_mm": [
@@ -16816,6 +17580,7 @@
    61.7,
    58.0
   ],
+  "parede_h_mm": 57.5,
   "largura_mm": 69.2,
   "altura_mm": 69.8,
   "svg_mm": [
@@ -16838,6 +17603,7 @@
    67.8,
    28.9
   ],
+  "parede_h_mm": 2.7,
   "largura_mm": 80.2,
   "altura_mm": 40.3,
   "svg_mm": [
@@ -16860,6 +17626,7 @@
    68.6,
    57.9
   ],
+  "parede_h_mm": 56.9,
   "largura_mm": 76.9,
   "altura_mm": 67.8,
   "svg_mm": [
@@ -16882,6 +17649,7 @@
    63.0,
    43.8
   ],
+  "parede_h_mm": 43.8,
   "largura_mm": 74.5,
   "altura_mm": 57.4,
   "svg_mm": [
@@ -16904,6 +17672,7 @@
    66.9,
    29.5
   ],
+  "parede_h_mm": 15.6,
   "largura_mm": 67.0,
   "altura_mm": 40.6,
   "svg_mm": [
@@ -16926,6 +17695,7 @@
    53.7,
    20.6
   ],
+  "parede_h_mm": 20.4,
   "largura_mm": 63.2,
   "altura_mm": 30.3,
   "svg_mm": [
@@ -16948,6 +17718,7 @@
    65.9,
    63.3
   ],
+  "parede_h_mm": 40.1,
   "largura_mm": 77.5,
   "altura_mm": 76.9,
   "svg_mm": [
@@ -16970,6 +17741,7 @@
    65.4,
    51.8
   ],
+  "parede_h_mm": 35.0,
   "largura_mm": 65.4,
   "altura_mm": 58.6,
   "svg_mm": [
@@ -16992,6 +17764,7 @@
    67.6,
    71.5
   ],
+  "parede_h_mm": 13.7,
   "largura_mm": 67.6,
   "altura_mm": 71.6,
   "svg_mm": [
@@ -17014,6 +17787,7 @@
    23.0,
    96.7
   ],
+  "parede_h_mm": 29.3,
   "largura_mm": 38.5,
   "altura_mm": 112.2,
   "svg_mm": [
@@ -17036,6 +17810,7 @@
    20.5,
    79.9
   ],
+  "parede_h_mm": 11.3,
   "largura_mm": 28.5,
   "altura_mm": 80.1,
   "svg_mm": [
@@ -17058,6 +17833,7 @@
    17.2,
    82.1
   ],
+  "parede_h_mm": 15.0,
   "largura_mm": 36.1,
   "altura_mm": 112.8,
   "svg_mm": [
@@ -17080,6 +17856,7 @@
    42.1,
    75.9
   ],
+  "parede_h_mm": 49.3,
   "largura_mm": 55.6,
   "altura_mm": 76.1,
   "svg_mm": [
@@ -17102,6 +17879,7 @@
    42.8,
    55.2
   ],
+  "parede_h_mm": 38.6,
   "largura_mm": 60.5,
   "altura_mm": 55.3,
   "svg_mm": [
@@ -17124,6 +17902,7 @@
    26.4,
    83.6
   ],
+  "parede_h_mm": 16.7,
   "largura_mm": 38.0,
   "altura_mm": 83.7,
   "svg_mm": [
@@ -17146,6 +17925,7 @@
    42.2,
    50.3
   ],
+  "parede_h_mm": 8.3,
   "largura_mm": 55.0,
   "altura_mm": 60.3,
   "svg_mm": [
