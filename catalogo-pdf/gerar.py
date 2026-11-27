@@ -186,15 +186,41 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
                 return m["largura_mm"] * esc_l, m["altura_mm"] * esc_l, esc_l, True
         return m["largura_mm"] * esc, m["altura_mm"] * esc, esc, False
 
+    def faixa_x(e, t):
+        """Posições possíveis (mm, dentro do espaço) para a borda esquerda do desenho."""
+        w, _, _, lado = t
+        ini = TEXTO_LADO if lado else RES_LAT
+        fim = e["largura"] - (MARGEM_LADO if lado else RES_LAT) - w
+        return ini, fim
+
+    def alinhar_coluna(itens):
+        """Alinhamento pedido pelo cliente (27/11): na mesma coluna da página,
+        o CORPO dos perfis (sem as cotas) fica alinhado pela borda direita
+        (ou pela esquerda, se a direita não couber); o conjunto fica centralizado.
+        itens: [(espaço, tamanho)] → {código: x}"""
+        if len(itens) < 2 or any(not medidas[e["codigo"]].get("corpo_mm") for e, _ in itens):
+            return {}
+        larg = itens[0][0]["largura"]
+        for lado in (2, 0):  # borda direita do corpo; senão a esquerda
+            refs = [medidas[e["codigo"]]["corpo_mm"][lado] * t[2] for e, t in itens]
+            lo = max(faixa_x(e, t)[0] + r for (e, t), r in zip(itens, refs))
+            hi = min(faixa_x(e, t)[1] + r for (e, t), r in zip(itens, refs))
+            if lo <= hi + 0.01:
+                a = min(-r for r in refs)
+                b = max(t[0] - r for (_, t), r in zip(itens, refs))
+                X = min(max(larg / 2 - (a + b) / 2, lo), hi)
+                return {e["codigo"]: X - r for (e, _), r in zip(itens, refs)}
+        return {}
+
     for np_, pag in enumerate(paginas, 1):
-        # Alinhamento: na mesma coluna da página, os desenhos começam na mesma
-        # margem esquerda (a do mais largo), e o conjunto fica centralizado.
-        maior_na_coluna = {}
+        colunas = {}
         for e in pag["espacos"]:
             t = tamanho(e)
-            if t and not t[3]:
-                k = (round(e["x"], 1), round(e["largura"], 1))
-                maior_na_coluna[k] = max(maior_na_coluna.get(k, 0), t[0])
+            if t:
+                colunas.setdefault((round(e["x"], 1), round(e["largura"], 1)), []).append((e, t))
+        x_alinhado = {}
+        for itens in colunas.values():
+            x_alinhado.update(alinhar_coluna(itens))
         espacos = []
         for e in pag["espacos"]:
             p = perfis[e["codigo"]]
@@ -211,9 +237,9 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
                 else:
                     aw = e["largura"] - 2 * RES_LAT
                     ah = e["altura"] - RES_TOPO - RES_BASE
-                    larg_col = maior_na_coluna[(round(e["x"], 1), round(e["largura"], 1))]
-                    x = RES_LAT + (aw - larg_col) / 2
+                    x = RES_LAT + (aw - w) / 2
                     y = RES_TOPO + (ah - h) / 2
+                x = x_alinhado.get(e["codigo"], x)
                 src = "data:image/svg+xml;base64," + base64.b64encode(svg_do_desenho(m)).decode()
                 corpo = (f'<img class="des" src="{src}" style="left:{x:.2f}mm;top:{y:.2f}mm;'
                          f'width:{w:.2f}mm;height:{h:.2f}mm">')

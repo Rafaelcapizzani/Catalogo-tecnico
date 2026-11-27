@@ -2,6 +2,12 @@
  "25-001": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-001.svg",
+  "corpo_mm": [
+   12.8,
+   4.4,
+   38.0,
+   28.0
+  ],
   "largura_mm": 48.7,
   "altura_mm": 37.6,
   "svg_mm": [
@@ -18,6 +24,12 @@
  "25-002": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-002.svg",
+  "corpo_mm": [
+   10.3,
+   6.2,
+   40.6,
+   43.1
+  ],
   "largura_mm": 51.2,
   "altura_mm": 43.2,
   "svg_mm": [
@@ -34,6 +46,12 @@
  "25-003": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-003.svg",
+  "corpo_mm": [
+   13.2,
+   9.1,
+   42.5,
+   32.7
+  ],
   "largura_mm": 58.5,
   "altura_mm": 36.2,
   "svg_mm": [
@@ -50,6 +68,12 @@
  "25-005": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-005.svg",
+  "corpo_mm": [
+   11.7,
+   5.7,
+   41.7,
+   49.0
+  ],
   "largura_mm": 51.6,
   "altura_mm": 55.9,
   "svg_mm": [
@@ -66,6 +90,12 @@
  "25-006": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-006_Z-114.svg",
+  "corpo_mm": [
+   0.4,
+   14.7,
+   70.6,
+   54.3
+  ],
   "largura_mm": 86.1,
   "altura_mm": 54.6,
   "svg_mm": [
@@ -82,6 +112,12 @@
  "25-007": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-007_Y-215.svg",
+  "corpo_mm": [
+   15.4,
+   14.2,
+   60.1,
+   71.3
+  ],
   "largura_mm": 76.8,
   "altura_mm": 71.5,
   "svg_mm": [
@@ -98,6 +134,12 @@
  "25-011": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-011.svg",
+  "corpo_mm": [
+   10.2,
+   7.4,
+   35.2,
+   47.2
+  ],
   "largura_mm": 50.5,
   "altura_mm": 47.4,
   "svg_mm": [
@@ -114,6 +156,12 @@
  "25-012": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-012.svg",
+  "corpo_mm": [
+   8.6,
+   7.6,
+   33.6,
+   47.4
+  ],
   "largura_mm": 43.3,
   "altura_mm": 55.4,
   "svg_mm": [
@@ -130,6 +178,12 @@
  "25-014": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-014.svg",
+  "corpo_mm": [
+   9.1,
+   7.9,
+   49.7,
+   40.8
+  ],
   "largura_mm": 60.8,
   "altura_mm": 51.0,
   "svg_mm": [
@@ -146,6 +200,12 @@
  "25-015": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-015.svg",
+  "corpo_mm": [
+   0.1,
+   9.9,
+   41.3,
+   42.8
+  ],
   "largura_mm": 47.8,
   "altura_mm": 51.2,
   "svg_mm": [
@@ -162,6 +222,12 @@
  "25-016": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-016.svg",
+  "corpo_mm": [
+   0.2,
+   10.1,
+   40.1,
+   35.1
+  ],
   "largura_mm": 48.9,
   "altura_mm": 46.7,
   "svg_mm": [
@@ -178,6 +244,12 @@
  "25-018": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-018.svg",
+  "corpo_mm": [
+   11.5,
+   0.1,
+   41.5,
+   43.5
+  ],
   "largura_mm": 51.5,
   "altura_mm": 49.0,
   "svg_mm": [
@@ -194,6 +266,12 @@
  "25-019": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-019_I-122.svg",
+  "corpo_mm": [
+   15.3,
+   10.1,
+   40.3,
+   50.3
+  ],
   "largura_mm": 40.5,
   "altura_mm": 50.5,
   "svg_mm": [
@@ -210,6 +288,12 @@
  "25-020": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-020.svg",
+  "corpo_mm": [
+   9.0,
+   7.4,
+   39.1,
+   32.8
+  ],
   "largura_mm": 39.7,
   "altura_mm": 41.9,
   "svg_mm": [
@@ -226,6 +310,12 @@
  "25-021": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-021.svg",
+  "corpo_mm": [
+   12.3,
+   8.0,
+   27.3,
+   37.1
+  ],
   "largura_mm": 63.4,
   "altura_mm": 56.5,
   "svg_mm": [
@@ -242,6 +332,12 @@
  "25-022": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-022_I-117.svg",
+  "corpo_mm": [
+   15.3,
+   12.8,
+   38.3,
+   37.8
+  ],
   "largura_mm": 38.5,
   "altura_mm": 38.0,
   "svg_mm": [
@@ -258,6 +354,12 @@
  "25-023": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-023.svg",
+  "corpo_mm": [
+   0.1,
+   10.1,
+   59.9,
+   40.1
+  ],
   "largura_mm": 67.0,
   "altura_mm": 47.7,
   "svg_mm": [
@@ -274,6 +376,12 @@
  "25-024": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-024.svg",
+  "corpo_mm": [
+   15.1,
+   0.1,
+   84.8,
+   52.8
+  ],
   "largura_mm": 98.4,
   "altura_mm": 65.4,
   "svg_mm": [
@@ -290,6 +398,12 @@
  "25-026": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-026.svg",
+  "corpo_mm": [
+   10.1,
+   0.1,
+   35.2,
+   40.0
+  ],
   "largura_mm": 43.8,
   "altura_mm": 46.7,
   "svg_mm": [
@@ -306,6 +420,12 @@
  "25-032": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-032.svg",
+  "corpo_mm": [
+   16.9,
+   10.1,
+   30.1,
+   23.0
+  ],
   "largura_mm": 43.6,
   "altura_mm": 39.8,
   "svg_mm": [
@@ -322,6 +442,12 @@
  "25-035": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-035_E-276.svg",
+  "corpo_mm": [
+   0.1,
+   14.6,
+   100.2,
+   62.3
+  ],
   "largura_mm": 112.6,
   "altura_mm": 62.4,
   "svg_mm": [
@@ -338,6 +464,12 @@
  "25-043": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-043_L-498.svg",
+  "corpo_mm": [
+   13.6,
+   0.1,
+   36.9,
+   33.2
+  ],
   "largura_mm": 55.2,
   "altura_mm": 42.1,
   "svg_mm": [
@@ -354,6 +486,12 @@
  "25-500": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-500.svg",
+  "corpo_mm": [
+   10.6,
+   7.7,
+   35.6,
+   47.4
+  ],
   "largura_mm": 52.4,
   "altura_mm": 54.2,
   "svg_mm": [
@@ -370,6 +508,12 @@
  "25-502": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-502.svg",
+  "corpo_mm": [
+   10.9,
+   5.6,
+   36.0,
+   61.4
+  ],
   "largura_mm": 44.8,
   "altura_mm": 68.8,
   "svg_mm": [
@@ -386,6 +530,12 @@
  "25-504": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-504.svg",
+  "corpo_mm": [
+   0.2,
+   13.9,
+   56.0,
+   38.9
+  ],
   "largura_mm": 65.4,
   "altura_mm": 48.9,
   "svg_mm": [
@@ -402,6 +552,12 @@
  "25-506": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-506.svg",
+  "corpo_mm": [
+   4.8,
+   16.3,
+   60.7,
+   48.7
+  ],
   "largura_mm": 74.3,
   "altura_mm": 60.6,
   "svg_mm": [
@@ -418,6 +574,12 @@
  "25-507": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-507.svg",
+  "corpo_mm": [
+   11.0,
+   11.4,
+   66.9,
+   43.9
+  ],
   "largura_mm": 68.7,
   "altura_mm": 54.2,
   "svg_mm": [
@@ -434,6 +596,12 @@
  "25-508": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-508.svg",
+  "corpo_mm": [
+   10.3,
+   10.1,
+   35.4,
+   65.7
+  ],
   "largura_mm": 45.3,
   "altura_mm": 70.7,
   "svg_mm": [
@@ -450,6 +618,12 @@
  "25-510": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-510.svg",
+  "corpo_mm": [
+   9.4,
+   7.8,
+   22.5,
+   22.8
+  ],
   "largura_mm": 27.2,
   "altura_mm": 22.8,
   "svg_mm": [
@@ -466,6 +640,12 @@
  "25-511": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-511.svg",
+  "corpo_mm": [
+   13.8,
+   0.3,
+   113.9,
+   52.3
+  ],
   "largura_mm": 114.1,
   "altura_mm": 62.5,
   "svg_mm": [
@@ -482,6 +662,12 @@
  "25-514": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-514.svg",
+  "corpo_mm": [
+   0.3,
+   0.1,
+   70.3,
+   24.2
+  ],
   "largura_mm": 81.9,
   "altura_mm": 35.9,
   "svg_mm": [
@@ -498,6 +684,12 @@
  "25-515": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-515.svg",
+  "corpo_mm": [
+   9.2,
+   11.4,
+   79.4,
+   47.7
+  ],
   "largura_mm": 92.0,
   "altura_mm": 52.3,
   "svg_mm": [
@@ -514,6 +706,12 @@
  "25-516": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-516.svg",
+  "corpo_mm": [
+   18.0,
+   5.2,
+   88.2,
+   41.5
+  ],
   "largura_mm": 98.5,
   "altura_mm": 52.7,
   "svg_mm": [
@@ -530,6 +728,12 @@
  "25-517": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-517.svg",
+  "corpo_mm": [
+   8.6,
+   11.6,
+   79.2,
+   39.3
+  ],
   "largura_mm": 88.8,
   "altura_mm": 48.0,
   "svg_mm": [
@@ -546,6 +750,12 @@
  "25-519": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-519_A-084.svg",
+  "corpo_mm": [
+   0.1,
+   13.1,
+   29.2,
+   48.7
+  ],
   "largura_mm": 46.7,
   "altura_mm": 48.8,
   "svg_mm": [
@@ -562,6 +772,12 @@
  "25-520": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-520_I-090.svg",
+  "corpo_mm": [
+   0.3,
+   11.8,
+   23.8,
+   40.9
+  ],
   "largura_mm": 23.9,
   "altura_mm": 41.0,
   "svg_mm": [
@@ -578,6 +794,12 @@
  "25-522": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-522_P-155.svg",
+  "corpo_mm": [
+   13.6,
+   11.7,
+   43.7,
+   56.8
+  ],
   "largura_mm": 43.7,
   "altura_mm": 56.9,
   "svg_mm": [
@@ -594,6 +816,12 @@
  "25-523": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-523.svg",
+  "corpo_mm": [
+   11.8,
+   9.0,
+   39.9,
+   42.9
+  ],
   "largura_mm": 56.5,
   "altura_mm": 56.4,
   "svg_mm": [
@@ -610,6 +838,12 @@
  "25-524": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-524.svg",
+  "corpo_mm": [
+   10.5,
+   7.1,
+   38.5,
+   41.1
+  ],
   "largura_mm": 49.4,
   "altura_mm": 54.6,
   "svg_mm": [
@@ -626,6 +860,12 @@
  "25-528": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-528_L-418.svg",
+  "corpo_mm": [
+   0.2,
+   9.7,
+   25.2,
+   27.8
+  ],
   "largura_mm": 38.9,
   "altura_mm": 32.6,
   "svg_mm": [
@@ -642,6 +882,12 @@
  "25-529": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-529_U-683.svg",
+  "corpo_mm": [
+   5.6,
+   1.7,
+   35.1,
+   33.3
+  ],
   "largura_mm": 36.9,
   "altura_mm": 35.0,
   "svg_mm": [
@@ -658,6 +904,12 @@
  "25-535": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-535_Z-259.svg",
+  "corpo_mm": [
+   0.4,
+   16.8,
+   70.6,
+   39.0
+  ],
   "largura_mm": 80.4,
   "altura_mm": 39.2,
   "svg_mm": [
@@ -674,6 +926,12 @@
  "25-538": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-538.svg",
+  "corpo_mm": [
+   11.5,
+   4.6,
+   36.5,
+   89.1
+  ],
   "largura_mm": 49.7,
   "altura_mm": 96.7,
   "svg_mm": [
@@ -690,6 +948,12 @@
  "25-539": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/25-539.svg",
+  "corpo_mm": [
+   0.2,
+   0.0,
+   40.0,
+   49.4
+  ],
   "largura_mm": 53.1,
   "altura_mm": 51.5,
   "svg_mm": [
@@ -706,6 +970,12 @@
  "25-540": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-540.svg",
+  "corpo_mm": [
+   0.1,
+   10.6,
+   30.7,
+   49.6
+  ],
   "largura_mm": 45.0,
   "altura_mm": 49.7,
   "svg_mm": [
@@ -722,6 +992,12 @@
  "25-541": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-541.svg",
+  "corpo_mm": [
+   10.2,
+   0.3,
+   40.7,
+   55.9
+  ],
   "largura_mm": 51.1,
   "altura_mm": 62.1,
   "svg_mm": [
@@ -738,6 +1014,12 @@
  "25-542": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-542.svg",
+  "corpo_mm": [
+   14.1,
+   7.1,
+   39.2,
+   64.7
+  ],
   "largura_mm": 55.2,
   "altura_mm": 73.0,
   "svg_mm": [
@@ -754,6 +1036,12 @@
  "25-543": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote9/25-543.svg",
+  "corpo_mm": [
+   16.1,
+   11.6,
+   86.5,
+   42.4
+  ],
   "largura_mm": 100.5,
   "altura_mm": 58.7,
   "svg_mm": [
@@ -770,6 +1058,12 @@
  "25-544": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-544.svg",
+  "corpo_mm": [
+   0.2,
+   8.5,
+   23.6,
+   24.3
+  ],
   "largura_mm": 33.6,
   "altura_mm": 24.4,
   "svg_mm": [
@@ -786,6 +1080,12 @@
  "25-545": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-545.svg",
+  "corpo_mm": [
+   13.3,
+   5.6,
+   38.4,
+   49.4
+  ],
   "largura_mm": 47.4,
   "altura_mm": 58.5,
   "svg_mm": [
@@ -802,6 +1102,12 @@
  "25-548": {
   "pacote": "suprema",
   "arquivo": "suprema/25-548.svg",
+  "corpo_mm": [
+   8.4,
+   6.7,
+   39.1,
+   27.3
+  ],
   "largura_mm": 52.4,
   "altura_mm": 35.3,
   "svg_mm": [
@@ -818,6 +1124,12 @@
  "25-549": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-549.svg",
+  "corpo_mm": [
+   10.1,
+   6.6,
+   35.1,
+   46.5
+  ],
   "largura_mm": 53.4,
   "altura_mm": 55.6,
   "svg_mm": [
@@ -834,6 +1146,12 @@
  "25-550": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-550_P-256.svg",
+  "corpo_mm": [
+   0.4,
+   10.8,
+   25.4,
+   39.9
+  ],
   "largura_mm": 42.8,
   "altura_mm": 40.0,
   "svg_mm": [
@@ -850,6 +1168,12 @@
  "25-551": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-551_Y-312.svg",
+  "corpo_mm": [
+   0.6,
+   11.1,
+   25.7,
+   51.2
+  ],
   "largura_mm": 41.6,
   "altura_mm": 51.2,
   "svg_mm": [
@@ -866,6 +1190,12 @@
  "25-554": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-554.svg",
+  "corpo_mm": [
+   0.1,
+   7.2,
+   30.1,
+   40.1
+  ],
   "largura_mm": 48.2,
   "altura_mm": 40.2,
   "svg_mm": [
@@ -882,6 +1212,12 @@
  "25-661": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-661.svg",
+  "corpo_mm": [
+   13.1,
+   12.6,
+   117.7,
+   49.9
+  ],
   "largura_mm": 137.9,
   "altura_mm": 64.6,
   "svg_mm": [
@@ -898,6 +1234,12 @@
  "25-671": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/25-671.svg",
+  "corpo_mm": [
+   4.4,
+   5.2,
+   109.0,
+   57.4
+  ],
   "largura_mm": 130.5,
   "altura_mm": 71.0,
   "svg_mm": [
@@ -914,6 +1256,12 @@
  "25-800": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/25-800_A-194.svg",
+  "corpo_mm": [
+   12.8,
+   10.3,
+   37.8,
+   66.4
+  ],
   "largura_mm": 37.9,
   "altura_mm": 66.8,
   "svg_mm": [
@@ -930,6 +1278,12 @@
  "2936": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/2936_U-1108.svg",
+  "corpo_mm": [
+   10.1,
+   11.6,
+   33.7,
+   37.7
+  ],
   "largura_mm": 34.0,
   "altura_mm": 37.8,
   "svg_mm": [
@@ -946,6 +1300,12 @@
  "2937": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/2937_BX-241.svg",
+  "corpo_mm": [
+   12.3,
+   10.8,
+   31.5,
+   30.9
+  ],
   "largura_mm": 39.2,
   "altura_mm": 42.8,
   "svg_mm": [
@@ -962,6 +1322,12 @@
  "30-001": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/30-001.svg",
+  "corpo_mm": [
+   10.8,
+   10.3,
+   40.9,
+   50.4
+  ],
   "largura_mm": 41.2,
   "altura_mm": 50.6,
   "svg_mm": [
@@ -978,6 +1344,12 @@
  "30-003": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/30-003.svg",
+  "corpo_mm": [
+   11.6,
+   10.1,
+   41.7,
+   50.2
+  ],
   "largura_mm": 41.9,
   "altura_mm": 50.3,
   "svg_mm": [
@@ -994,6 +1366,12 @@
  "30-008": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/30-008.svg",
+  "corpo_mm": [
+   7.9,
+   9.3,
+   64.3,
+   39.5
+  ],
   "largura_mm": 64.4,
   "altura_mm": 50.4,
   "svg_mm": [
@@ -1010,6 +1388,12 @@
  "30-010": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/30-010.svg",
+  "corpo_mm": [
+   9.7,
+   8.1,
+   40.0,
+   64.3
+  ],
   "largura_mm": 49.9,
   "altura_mm": 64.4,
   "svg_mm": [
@@ -1026,6 +1410,12 @@
  "30-011": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/30-011.svg",
+  "corpo_mm": [
+   9.6,
+   10.3,
+   65.9,
+   49.6
+  ],
   "largura_mm": 72.8,
   "altura_mm": 59.5,
   "svg_mm": [
@@ -1042,6 +1432,12 @@
  "30-012": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/30-012.svg",
+  "corpo_mm": [
+   5.7,
+   8.3,
+   62.1,
+   47.4
+  ],
   "largura_mm": 72.8,
   "altura_mm": 55.3,
   "svg_mm": [
@@ -1058,6 +1454,12 @@
  "30-019": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/30-019.svg",
+  "corpo_mm": [
+   13.6,
+   6.6,
+   30.8,
+   41.8
+  ],
   "largura_mm": 31.0,
   "altura_mm": 50.5,
   "svg_mm": [
@@ -1074,6 +1476,12 @@
  "30-023": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/30-023.svg",
+  "corpo_mm": [
+   0.2,
+   7.3,
+   36.0,
+   47.5
+  ],
   "largura_mm": 50.1,
   "altura_mm": 54.6,
   "svg_mm": [
@@ -1090,6 +1498,12 @@
  "30-025": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/30-025.svg",
+  "corpo_mm": [
+   10.2,
+   4.7,
+   40.5,
+   60.9
+  ],
   "largura_mm": 48.2,
   "altura_mm": 67.5,
   "svg_mm": [
@@ -1106,6 +1520,12 @@
  "30-026": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/30-026.svg",
+  "corpo_mm": [
+   9.3,
+   6.0,
+   39.5,
+   66.3
+  ],
   "largura_mm": 48.2,
   "altura_mm": 73.3,
   "svg_mm": [
@@ -1122,6 +1542,12 @@
  "30-027": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/30-027.svg",
+  "corpo_mm": [
+   0.3,
+   10.6,
+   44.9,
+   66.2
+  ],
   "largura_mm": 55.6,
   "altura_mm": 66.3,
   "svg_mm": [
@@ -1138,6 +1564,12 @@
  "30-028": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/30-028.svg",
+  "corpo_mm": [
+   14.6,
+   4.7,
+   44.8,
+   104.8
+  ],
   "largura_mm": 55.0,
   "altura_mm": 111.8,
   "svg_mm": [
@@ -1154,6 +1586,12 @@
  "30-030": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/30-030.svg",
+  "corpo_mm": [
+   13.6,
+   0.1,
+   43.7,
+   100.3
+  ],
   "largura_mm": 54.6,
   "altura_mm": 108.3,
   "svg_mm": [
@@ -1170,6 +1608,12 @@
  "30-033": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/30-033.svg",
+  "corpo_mm": [
+   10.0,
+   4.7,
+   40.2,
+   84.9
+  ],
   "largura_mm": 51.4,
   "altura_mm": 104.4,
   "svg_mm": [
@@ -1186,6 +1630,12 @@
  "30-034": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/30-034.svg",
+  "corpo_mm": [
+   7.7,
+   8.1,
+   28.3,
+   43.8
+  ],
   "largura_mm": 40.0,
   "altura_mm": 53.9,
   "svg_mm": [
@@ -1202,6 +1652,12 @@
  "30-039": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/30-039_Z-118.svg",
+  "corpo_mm": [
+   0.3,
+   6.3,
+   83.3,
+   47.6
+  ],
   "largura_mm": 94.0,
   "altura_mm": 47.7,
   "svg_mm": [
@@ -1218,6 +1674,12 @@
  "30-042": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/30-042.svg",
+  "corpo_mm": [
+   12.0,
+   8.6,
+   95.0,
+   65.6
+  ],
   "largura_mm": 95.1,
   "altura_mm": 65.7,
   "svg_mm": [
@@ -1234,6 +1696,12 @@
  "30-049": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/30-049.svg",
+  "corpo_mm": [
+   15.0,
+   8.6,
+   50.5,
+   52.3
+  ],
   "largura_mm": 50.6,
   "altura_mm": 52.7,
   "svg_mm": [
@@ -1250,6 +1718,12 @@
  "30-051": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/30-051.svg",
+  "corpo_mm": [
+   0.1,
+   12.0,
+   30.2,
+   35.7
+  ],
   "largura_mm": 41.6,
   "altura_mm": 36.0,
   "svg_mm": [
@@ -1266,6 +1740,12 @@
  "30-054": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/30-054.svg",
+  "corpo_mm": [
+   0.2,
+   10.3,
+   35.2,
+   48.4
+  ],
   "largura_mm": 46.9,
   "altura_mm": 48.5,
   "svg_mm": [
@@ -1282,6 +1762,12 @@
  "30-076": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/30-076_U-685.svg",
+  "corpo_mm": [
+   1.7,
+   1.7,
+   28.4,
+   33.1
+  ],
   "largura_mm": 28.5,
   "altura_mm": 38.7,
   "svg_mm": [
@@ -1298,6 +1784,12 @@
  "30-077": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/30-077.svg",
+  "corpo_mm": [
+   11.6,
+   9.4,
+   71.8,
+   39.7
+  ],
   "largura_mm": 78.9,
   "altura_mm": 50.1,
   "svg_mm": [
@@ -1314,6 +1806,12 @@
  "30-079": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/30-079_P-417.svg",
+  "corpo_mm": [
+   12.7,
+   10.1,
+   42.8,
+   54.1
+  ],
   "largura_mm": 42.9,
   "altura_mm": 54.3,
   "svg_mm": [
@@ -1330,6 +1828,12 @@
  "30-082": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/30-082_P-264.svg",
+  "corpo_mm": [
+   11.8,
+   12.3,
+   41.9,
+   112.4
+  ],
   "largura_mm": 42.2,
   "altura_mm": 112.6,
   "svg_mm": [
@@ -1346,6 +1850,12 @@
  "30-089": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/30-089.svg",
+  "corpo_mm": [
+   0.2,
+   0.3,
+   83.3,
+   24.3
+  ],
   "largura_mm": 97.1,
   "altura_mm": 33.3,
   "svg_mm": [
@@ -1362,6 +1872,12 @@
  "30-248": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/30-248.svg",
+  "corpo_mm": [
+   8.8,
+   10.4,
+   92.3,
+   34.7
+  ],
   "largura_mm": 105.2,
   "altura_mm": 49.2,
   "svg_mm": [
@@ -1378,6 +1894,12 @@
  "31-085": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/31-085_31-085C.svg",
+  "corpo_mm": [
+   15.6,
+   9.3,
+   165.7,
+   19.3
+  ],
   "largura_mm": 165.9,
   "altura_mm": 44.9,
   "svg_mm": [
@@ -1394,6 +1916,12 @@
  "32-104": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/32-104.svg",
+  "corpo_mm": [
+   9.7,
+   7.8,
+   59.7,
+   68.1
+  ],
   "largura_mm": 59.8,
   "altura_mm": 73.7,
   "svg_mm": [
@@ -1410,6 +1938,12 @@
  "37-005": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/37-005.svg",
+  "corpo_mm": [
+   2.2,
+   10.8,
+   18.6,
+   18.3
+  ],
   "largura_mm": 28.9,
   "altura_mm": 29.6,
   "svg_mm": [
@@ -1426,6 +1960,12 @@
  "39-137": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/39-137.svg",
+  "corpo_mm": [
+   1.7,
+   1.6,
+   32.5,
+   28.2
+  ],
   "largura_mm": 36.0,
   "altura_mm": 28.6,
   "svg_mm": [
@@ -1442,6 +1982,12 @@
  "39-143": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/39-143.svg",
+  "corpo_mm": [
+   1.7,
+   1.7,
+   28.0,
+   28.0
+  ],
   "largura_mm": 28.0,
   "altura_mm": 33.8,
   "svg_mm": [
@@ -1458,6 +2004,12 @@
  "39-144": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "perfis-cliente-25-11-b/39-144_BX-316.svg",
+  "corpo_mm": [
+   13.7,
+   12.3,
+   26.7,
+   36.2
+  ],
   "largura_mm": 37.0,
   "altura_mm": 45.6,
   "svg_mm": [
@@ -1474,6 +2026,12 @@
  "39-182": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "perfis-cliente-25-11/39-182.svg",
+  "corpo_mm": [
+   4.7,
+   1.8,
+   124.1,
+   98.9
+  ],
   "largura_mm": 124.2,
   "altura_mm": 106.1,
   "svg_mm": [
@@ -1490,6 +2048,12 @@
  "42-003": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/42-003.svg",
+  "corpo_mm": [
+   12.4,
+   0.1,
+   142.7,
+   44.9
+  ],
   "largura_mm": 153.0,
   "altura_mm": 61.7,
   "svg_mm": [
@@ -1506,6 +2070,12 @@
  "42-004": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/42-004.svg",
+  "corpo_mm": [
+   7.9,
+   0.1,
+   50.2,
+   73.2
+  ],
   "largura_mm": 50.4,
   "altura_mm": 82.4,
   "svg_mm": [
@@ -1522,6 +2092,12 @@
  "42-006": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/42-006.svg",
+  "corpo_mm": [
+   8.4,
+   0.1,
+   50.6,
+   100.4
+  ],
   "largura_mm": 50.8,
   "altura_mm": 109.8,
   "svg_mm": [
@@ -1538,6 +2114,12 @@
  "42-007": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/42-007.svg",
+  "corpo_mm": [
+   7.4,
+   0.2,
+   49.7,
+   100.4
+  ],
   "largura_mm": 55.6,
   "altura_mm": 108.3,
   "svg_mm": [
@@ -1554,6 +2136,12 @@
  "42-008": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/42-008.svg",
+  "corpo_mm": [
+   0.2,
+   0.4,
+   47.2,
+   20.4
+  ],
   "largura_mm": 57.4,
   "altura_mm": 31.4,
   "svg_mm": [
@@ -1570,6 +2158,12 @@
  "42-012": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/42-012.svg",
+  "corpo_mm": [
+   11.7,
+   0.2,
+   59.1,
+   46.3
+  ],
   "largura_mm": 69.7,
   "altura_mm": 55.2,
   "svg_mm": [
@@ -1586,6 +2180,12 @@
  "42-014": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/42-014.svg",
+  "corpo_mm": [
+   16.8,
+   13.1,
+   64.6,
+   34.3
+  ],
   "largura_mm": 64.7,
   "altura_mm": 34.6,
   "svg_mm": [
@@ -1602,6 +2202,12 @@
  "42-021": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/42-021.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   51.9,
+   42.3
+  ],
   "largura_mm": 64.3,
   "altura_mm": 42.4,
   "svg_mm": [
@@ -1618,6 +2224,12 @@
  "42-023": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/42-023.svg",
+  "corpo_mm": [
+   13.6,
+   0.2,
+   55.7,
+   31.9
+  ],
   "largura_mm": 66.5,
   "altura_mm": 42.5,
   "svg_mm": [
@@ -1634,6 +2246,12 @@
  "42-025": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/42-025.svg",
+  "corpo_mm": [
+   9.7,
+   6.6,
+   51.7,
+   79.5
+  ],
   "largura_mm": 60.4,
   "altura_mm": 79.6,
   "svg_mm": [
@@ -1650,6 +2268,12 @@
  "42-032": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/42-032.svg",
+  "corpo_mm": [
+   9.9,
+   0.1,
+   46.1,
+   100.3
+  ],
   "largura_mm": 46.2,
   "altura_mm": 100.5,
   "svg_mm": [
@@ -1666,6 +2290,12 @@
  "42-035": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/42-035.svg",
+  "corpo_mm": [
+   12.1,
+   10.3,
+   84.7,
+   52.1
+  ],
   "largura_mm": 84.9,
   "altura_mm": 61.6,
   "svg_mm": [
@@ -1682,6 +2312,12 @@
  "42-178": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/42-178.svg",
+  "corpo_mm": [
+   5.7,
+   12.6,
+   48.0,
+   93.1
+  ],
   "largura_mm": 57.6,
   "altura_mm": 93.2,
   "svg_mm": [
@@ -1698,6 +2334,12 @@
  "42-304": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/42-304.svg",
+  "corpo_mm": [
+   0.1,
+   9.5,
+   16.7,
+   69.7
+  ],
   "largura_mm": 26.4,
   "altura_mm": 78.3,
   "svg_mm": [
@@ -1714,6 +2356,12 @@
  "42-307": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/42-307.svg",
+  "corpo_mm": [
+   1.4,
+   15.8,
+   33.2,
+   34.7
+  ],
   "largura_mm": 43.9,
   "altura_mm": 44.2,
   "svg_mm": [
@@ -1730,6 +2378,12 @@
  "50-018": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/50-018.svg",
+  "corpo_mm": [
+   0.2,
+   11.6,
+   22.4,
+   48.4
+  ],
   "largura_mm": 31.1,
   "altura_mm": 48.5,
   "svg_mm": [
@@ -1746,6 +2400,12 @@
  "52-001": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/52-001_F-043.svg",
+  "corpo_mm": [
+   0.2,
+   1.7,
+   28.1,
+   25.1
+  ],
   "largura_mm": 32.2,
   "altura_mm": 30.8,
   "svg_mm": [
@@ -1762,6 +2422,12 @@
  "80-034": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/80-034_MG32-034.svg",
+  "corpo_mm": [
+   0.2,
+   15.1,
+   154.1,
+   61.9
+  ],
   "largura_mm": 170.2,
   "altura_mm": 71.5,
   "svg_mm": [
@@ -1778,6 +2444,12 @@
  "80-035": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/80-035_MG32-035.svg",
+  "corpo_mm": [
+   0.1,
+   19.8,
+   22.3,
+   200.3
+  ],
   "largura_mm": 42.2,
   "altura_mm": 200.4,
   "svg_mm": [
@@ -1794,6 +2466,12 @@
  "80-041": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/80-041_MG32-041.svg",
+  "corpo_mm": [
+   0.2,
+   23.1,
+   180.3,
+   59.0
+  ],
   "largura_mm": 180.4,
   "altura_mm": 59.1,
   "svg_mm": [
@@ -1810,6 +2488,12 @@
  "80-058": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/80-058_MG32-058.svg",
+  "corpo_mm": [
+   11.7,
+   13.4,
+   34.0,
+   153.6
+  ],
   "largura_mm": 34.0,
   "altura_mm": 153.7,
   "svg_mm": [
@@ -1826,6 +2510,12 @@
  "A-058": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/A-058.svg",
+  "corpo_mm": [
+   9.4,
+   13.0,
+   21.5,
+   33.0
+  ],
   "largura_mm": 33.4,
   "altura_mm": 40.0,
   "svg_mm": [
@@ -1842,6 +2532,12 @@
  "A-1058": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/A-1058.svg",
+  "corpo_mm": [
+   9.5,
+   13.8,
+   32.7,
+   25.9
+  ],
   "largura_mm": 50.7,
   "altura_mm": 26.2,
   "svg_mm": [
@@ -1858,6 +2554,12 @@
  "A-195": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/A-195.svg",
+  "corpo_mm": [
+   12.5,
+   10.2,
+   37.7,
+   66.3
+  ],
   "largura_mm": 37.7,
   "altura_mm": 66.8,
   "svg_mm": [
@@ -1874,6 +2576,12 @@
  "AL-092": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/AL-092_D-199.svg",
+  "corpo_mm": [
+   0.4,
+   15.8,
+   40.6,
+   60.9
+  ],
   "largura_mm": 54.0,
   "altura_mm": 61.1,
   "svg_mm": [
@@ -1890,6 +2598,12 @@
  "AP-001": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/AP-001_65-241D.svg",
+  "corpo_mm": [
+   12.2,
+   11.8,
+   60.7,
+   60.3
+  ],
   "largura_mm": 60.9,
   "altura_mm": 60.4,
   "svg_mm": [
@@ -1906,6 +2620,12 @@
  "AP-002": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-002.svg",
+  "corpo_mm": [
+   0.1,
+   10.6,
+   9.9,
+   21.7
+  ],
   "largura_mm": 22.9,
   "altura_mm": 21.9,
   "svg_mm": [
@@ -1922,6 +2642,12 @@
  "AP-003": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/AP-003_MG32-118.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   28.8,
+   104.1
+  ],
   "largura_mm": 42.6,
   "altura_mm": 116.4,
   "svg_mm": [
@@ -1938,6 +2664,12 @@
  "AP-004": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-004.svg",
+  "corpo_mm": [
+   16.9,
+   0.1,
+   31.4,
+   187.9
+  ],
   "largura_mm": 41.7,
   "altura_mm": 198.9,
   "svg_mm": [
@@ -1954,6 +2686,12 @@
  "AP-005": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-005.svg",
+  "corpo_mm": [
+   17.5,
+   10.5,
+   150.5,
+   34.0
+  ],
   "largura_mm": 150.6,
   "altura_mm": 47.8,
   "svg_mm": [
@@ -1970,6 +2708,12 @@
  "AP-006": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/AP-006_79-125D.svg",
+  "corpo_mm": [
+   12.3,
+   0.2,
+   24.9,
+   214.0
+  ],
   "largura_mm": 31.5,
   "altura_mm": 224.2,
   "svg_mm": [
@@ -1986,6 +2730,12 @@
  "AP-007": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/AP-007_78-2226C.svg",
+  "corpo_mm": [
+   17.6,
+   15.3,
+   39.2,
+   65.5
+  ],
   "largura_mm": 47.6,
   "altura_mm": 80.8,
   "svg_mm": [
@@ -2002,6 +2752,12 @@
  "AP-008": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/AP-008_78-2302C.svg",
+  "corpo_mm": [
+   18.5,
+   9.0,
+   53.7,
+   20.4
+  ],
   "largura_mm": 53.9,
   "altura_mm": 34.0,
   "svg_mm": [
@@ -2018,6 +2774,12 @@
  "AP-009": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/AP-009_79-060D.svg",
+  "corpo_mm": [
+   17.2,
+   14.6,
+   39.0,
+   179.9
+  ],
   "largura_mm": 46.4,
   "altura_mm": 196.1,
   "svg_mm": [
@@ -2034,6 +2796,12 @@
  "AP-010": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/AP-010_79-089C.svg",
+  "corpo_mm": [
+   19.8,
+   9.0,
+   128.1,
+   18.7
+  ],
   "largura_mm": 128.8,
   "altura_mm": 29.4,
   "svg_mm": [
@@ -2050,6 +2818,12 @@
  "AP-011": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/AP-011_39-811.svg",
+  "corpo_mm": [
+   0.1,
+   0.2,
+   159.7,
+   132.2
+  ],
   "largura_mm": 178.3,
   "altura_mm": 144.5,
   "svg_mm": [
@@ -2066,6 +2840,12 @@
  "AP-012": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/AP-012_29-160.svg",
+  "corpo_mm": [
+   10.1,
+   12.3,
+   159.5,
+   68.0
+  ],
   "largura_mm": 159.9,
   "altura_mm": 81.6,
   "svg_mm": [
@@ -2082,6 +2862,12 @@
  "AP-013": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/AP-013_19-375.svg",
+  "corpo_mm": [
+   9.3,
+   0.5,
+   24.3,
+   187.3
+  ],
   "largura_mm": 40.7,
   "altura_mm": 202.8,
   "svg_mm": [
@@ -2098,6 +2884,12 @@
  "AP-014": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/AP-014_19-575.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   36.6,
+   169.2
+  ],
   "largura_mm": 51.0,
   "altura_mm": 180.4,
   "svg_mm": [
@@ -2114,6 +2906,12 @@
  "AP-015": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/AP-015_78-2151C.svg",
+  "corpo_mm": [
+   11.8,
+   12.2,
+   51.9,
+   154.6
+  ],
   "largura_mm": 52.1,
   "altura_mm": 154.7,
   "svg_mm": [
@@ -2130,6 +2928,12 @@
  "AP-016": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-016.svg",
+  "corpo_mm": [
+   12.0,
+   11.5,
+   132.7,
+   56.6
+  ],
   "largura_mm": 132.8,
   "altura_mm": 56.7,
   "svg_mm": [
@@ -2146,6 +2950,12 @@
  "AP-017": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/AP-017_78-1730C.svg",
+  "corpo_mm": [
+   12.3,
+   12.4,
+   54.9,
+   112.5
+  ],
   "largura_mm": 55.0,
   "altura_mm": 112.6,
   "svg_mm": [
@@ -2162,6 +2972,12 @@
  "AP-018": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/AP-018_78-1740D.svg",
+  "corpo_mm": [
+   9.8,
+   6.8,
+   31.8,
+   174.3
+  ],
   "largura_mm": 32.0,
   "altura_mm": 174.4,
   "svg_mm": [
@@ -2178,6 +2994,12 @@
  "AP-020": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote11/AP-020_MAC-0234.svg",
+  "corpo_mm": [
+   12.4,
+   8.7,
+   62.8,
+   62.2
+  ],
   "largura_mm": 64.4,
   "altura_mm": 68.1,
   "svg_mm": [
@@ -2194,6 +3016,12 @@
  "AP-0201": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "perfis-cliente-25-11/AP-0201_FA-201.svg",
+  "corpo_mm": [
+   13.4,
+   11.9,
+   95.4,
+   54.4
+  ],
   "largura_mm": 104.4,
   "altura_mm": 61.6,
   "svg_mm": [
@@ -2210,6 +3038,12 @@
  "AP-021": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote11/AP-021_MAC-0235.svg",
+  "corpo_mm": [
+   0.1,
+   9.9,
+   16.8,
+   64.6
+  ],
   "largura_mm": 31.0,
   "altura_mm": 64.6,
   "svg_mm": [
@@ -2226,6 +3060,12 @@
  "AP-022": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "perfis-cliente-25-11-b/AP-022_BX-1236.svg",
+  "corpo_mm": [
+   0.2,
+   11.4,
+   29.6,
+   33.3
+  ],
   "largura_mm": 49.5,
   "altura_mm": 42.6,
   "svg_mm": [
@@ -2242,6 +3082,12 @@
  "AP-023": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "perfis-cliente-25-11-b/AP-023_BX-203.svg",
+  "corpo_mm": [
+   14.6,
+   12.3,
+   65.4,
+   67.3
+  ],
   "largura_mm": 65.6,
   "altura_mm": 76.6,
   "svg_mm": [
@@ -2258,6 +3104,12 @@
  "AP-024": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "perfis-cliente-25-11-b/AP-024_BX-205.svg",
+  "corpo_mm": [
+   0.2,
+   12.3,
+   18.3,
+   67.3
+  ],
   "largura_mm": 28.5,
   "altura_mm": 76.6,
   "svg_mm": [
@@ -2274,6 +3126,12 @@
  "AP-025": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-025.svg",
+  "corpo_mm": [
+   6.5,
+   7.3,
+   20.5,
+   29.5
+  ],
   "largura_mm": 30.2,
   "altura_mm": 29.5,
   "svg_mm": [
@@ -2290,6 +3148,12 @@
  "AP-026": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-026.svg",
+  "corpo_mm": [
+   8.1,
+   0.2,
+   23.8,
+   16.0
+  ],
   "largura_mm": 24.0,
   "altura_mm": 20.1,
   "svg_mm": [
@@ -2306,6 +3170,12 @@
  "AP-0269": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-0269_FA-269.svg",
+  "corpo_mm": [
+   9.3,
+   9.0,
+   55.2,
+   54.9
+  ],
   "largura_mm": 64.8,
   "altura_mm": 70.9,
   "svg_mm": [
@@ -2322,6 +3192,12 @@
  "AP-027": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "perfis-cliente-25-11-b/AP-027_BX-223.svg",
+  "corpo_mm": [
+   0.2,
+   12.3,
+   14.0,
+   22.3
+  ],
   "largura_mm": 24.0,
   "altura_mm": 31.6,
   "svg_mm": [
@@ -2338,6 +3214,12 @@
  "AP-028": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/AP-028_39-959.svg",
+  "corpo_mm": [
+   1.7,
+   1.7,
+   28.6,
+   32.5
+  ],
   "largura_mm": 34.2,
   "altura_mm": 32.5,
   "svg_mm": [
@@ -2354,6 +3236,12 @@
  "AP-029": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "perfis-cliente-25-11-b/AP-029_CB-266.svg",
+  "corpo_mm": [
+   13.9,
+   0.1,
+   36.7,
+   13.5
+  ],
   "largura_mm": 47.3,
   "altura_mm": 23.9,
   "svg_mm": [
@@ -2370,6 +3258,12 @@
  "AP-030": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-030.svg",
+  "corpo_mm": [
+   10.8,
+   9.1,
+   25.9,
+   23.2
+  ],
   "largura_mm": 36.1,
   "altura_mm": 23.3,
   "svg_mm": [
@@ -2386,6 +3280,12 @@
  "AP-032": {
   "pacote": "folhas-cliente",
   "arquivo": "folhas-cliente/AP-032.svg",
+  "corpo_mm": [
+   4.9,
+   6.4,
+   49.1,
+   36.7
+  ],
   "largura_mm": 49.2,
   "altura_mm": 36.8,
   "svg_mm": [
@@ -2402,6 +3302,12 @@
  "AP-033": {
   "pacote": "folhas-cliente",
   "arquivo": "folhas-cliente/AP-033.svg",
+  "corpo_mm": [
+   8.3,
+   0.1,
+   38.6,
+   31.6
+  ],
   "largura_mm": 38.7,
   "altura_mm": 37.1,
   "svg_mm": [
@@ -2418,6 +3324,12 @@
  "AP-034": {
   "pacote": "folhas-cliente",
   "arquivo": "folhas-cliente/AP-034.svg",
+  "corpo_mm": [
+   6.0,
+   5.4,
+   40.7,
+   63.3
+  ],
   "largura_mm": 47.0,
   "altura_mm": 63.4,
   "svg_mm": [
@@ -2434,6 +3346,12 @@
  "AP-035": {
   "pacote": "folhas-cliente",
   "arquivo": "folhas-cliente/AP-035.svg",
+  "corpo_mm": [
+   6.0,
+   0.1,
+   56.8,
+   38.7
+  ],
   "largura_mm": 64.2,
   "altura_mm": 45.2,
   "svg_mm": [
@@ -2450,6 +3368,12 @@
  "AP-036": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-036.svg",
+  "corpo_mm": [
+   9.7,
+   9.1,
+   59.4,
+   69.3
+  ],
   "largura_mm": 59.5,
   "altura_mm": 87.2,
   "svg_mm": [
@@ -2466,6 +3390,12 @@
  "AP-037": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-037.svg",
+  "corpo_mm": [
+   0.1,
+   9.1,
+   16.7,
+   69.3
+  ],
   "largura_mm": 26.2,
   "altura_mm": 79.2,
   "svg_mm": [
@@ -2482,6 +3412,12 @@
  "AP-038": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/AP-038_MG25-509.svg",
+  "corpo_mm": [
+   12.1,
+   7.7,
+   99.1,
+   38.8
+  ],
   "largura_mm": 99.3,
   "altura_mm": 47.5,
   "svg_mm": [
@@ -2498,6 +3434,12 @@
  "AP-039": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-039.svg",
+  "corpo_mm": [
+   10.1,
+   9.1,
+   125.5,
+   36.2
+  ],
   "largura_mm": 135.7,
   "altura_mm": 36.3,
   "svg_mm": [
@@ -2514,6 +3456,12 @@
  "AP-040": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-040.svg",
+  "corpo_mm": [
+   10.6,
+   7.8,
+   27.5,
+   126.0
+  ],
   "largura_mm": 38.2,
   "altura_mm": 135.7,
   "svg_mm": [
@@ -2530,6 +3478,12 @@
  "AP-041": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-041.svg",
+  "corpo_mm": [
+   10.8,
+   9.1,
+   78.6,
+   116.8
+  ],
   "largura_mm": 78.7,
   "altura_mm": 126.4,
   "svg_mm": [
@@ -2546,6 +3500,12 @@
  "AP-042": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-042.svg",
+  "corpo_mm": [
+   10.2,
+   9.2,
+   25.5,
+   163.8
+  ],
   "largura_mm": 28.0,
   "altura_mm": 164.0,
   "svg_mm": [
@@ -2562,6 +3522,12 @@
  "AP-043": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-043.svg",
+  "corpo_mm": [
+   10.4,
+   9.1,
+   40.5,
+   138.6
+  ],
   "largura_mm": 51.3,
   "altura_mm": 148.0,
   "svg_mm": [
@@ -2578,6 +3544,12 @@
  "AP-044": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-044.svg",
+  "corpo_mm": [
+   9.1,
+   0.0,
+   124.4,
+   43.0
+  ],
   "largura_mm": 134.1,
   "altura_mm": 52.7,
   "svg_mm": [
@@ -2594,6 +3566,12 @@
  "AP-045": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-045.svg",
+  "corpo_mm": [
+   12.3,
+   0.2,
+   25.5,
+   14.6
+  ],
   "largura_mm": 25.7,
   "altura_mm": 25.0,
   "svg_mm": [
@@ -2610,6 +3588,12 @@
  "AP-046": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote10/AP-046_CX-158.svg",
+  "corpo_mm": [
+   9.9,
+   12.3,
+   55.8,
+   49.3
+  ],
   "largura_mm": 67.2,
   "altura_mm": 56.3,
   "svg_mm": [
@@ -2626,6 +3610,12 @@
  "AP-047": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote10/AP-047_A6-667.svg",
+  "corpo_mm": [
+   1.1,
+   7.2,
+   26.1,
+   64.3
+  ],
   "largura_mm": 38.5,
   "altura_mm": 73.8,
   "svg_mm": [
@@ -2642,6 +3632,12 @@
  "AP-048": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote10/AP-048_A6-230.svg",
+  "corpo_mm": [
+   1.1,
+   9.1,
+   23.9,
+   59.1
+  ],
   "largura_mm": 35.2,
   "altura_mm": 68.4,
   "svg_mm": [
@@ -2658,6 +3654,12 @@
  "AP-049": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote10/AP-049_A4-A-057.svg",
+  "corpo_mm": [
+   14.9,
+   10.1,
+   37.5,
+   40.1
+  ],
   "largura_mm": 38.5,
   "altura_mm": 49.9,
   "svg_mm": [
@@ -2674,6 +3676,12 @@
  "AP-050": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "perfis-cliente-25-11/AP-050.svg",
+  "corpo_mm": [
+   24.1,
+   14.6,
+   40.3,
+   143.5
+  ],
   "largura_mm": 54.7,
   "altura_mm": 143.7,
   "svg_mm": [
@@ -2690,6 +3698,12 @@
  "AP-051": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote10/AP-051_NX-4397.svg",
+  "corpo_mm": [
+   11.6,
+   8.3,
+   91.4,
+   18.5
+  ],
   "largura_mm": 102.4,
   "altura_mm": 27.3,
   "svg_mm": [
@@ -2706,6 +3720,12 @@
  "AP-052": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "perfis-cliente-25-11/AP-052_TRN-009.svg",
+  "corpo_mm": [
+   0.2,
+   10.7,
+   33.7,
+   17.7
+  ],
   "largura_mm": 48.9,
   "altura_mm": 28.2,
   "svg_mm": [
@@ -2722,6 +3742,12 @@
  "AP-053": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-053.svg",
+  "corpo_mm": [
+   11.7,
+   9.8,
+   24.0,
+   22.1
+  ],
   "largura_mm": 28.8,
   "altura_mm": 24.0,
   "svg_mm": [
@@ -2738,6 +3764,12 @@
  "AP-054": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "perfis-cliente-25-11/AP-054.svg",
+  "corpo_mm": [
+   0.2,
+   23.0,
+   40.5,
+   30.2
+  ],
   "largura_mm": 54.1,
   "altura_mm": 41.6,
   "svg_mm": [
@@ -2754,6 +3786,12 @@
  "AP-055": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "perfis-cliente-25-11/AP-055.svg",
+  "corpo_mm": [
+   0.2,
+   23.0,
+   50.1,
+   30.2
+  ],
   "largura_mm": 63.7,
   "altura_mm": 41.6,
   "svg_mm": [
@@ -2770,6 +3808,12 @@
  "AP-056": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "perfis-cliente-25-11-b/AP-056.svg",
+  "corpo_mm": [
+   15.9,
+   0.1,
+   178.6,
+   14.6
+  ],
   "largura_mm": 178.8,
   "altura_mm": 44.1,
   "svg_mm": [
@@ -2786,6 +3830,12 @@
  "AP-057": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "perfis-cliente-25-11-b/AP-057.svg",
+  "corpo_mm": [
+   15.9,
+   0.1,
+   178.6,
+   14.6
+  ],
   "largura_mm": 178.8,
   "altura_mm": 44.1,
   "svg_mm": [
@@ -2802,6 +3852,12 @@
  "AP-058": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-058.svg",
+  "corpo_mm": [
+   0.1,
+   0.2,
+   105.8,
+   40.2
+  ],
   "largura_mm": 116.3,
   "altura_mm": 51.2,
   "svg_mm": [
@@ -2818,6 +3874,12 @@
  "AP-059": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-059.svg",
+  "corpo_mm": [
+   0.1,
+   10.6,
+   86.8,
+   40.8
+  ],
   "largura_mm": 96.2,
   "altura_mm": 49.5,
   "svg_mm": [
@@ -2834,6 +3896,12 @@
  "AP-060": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-060.svg",
+  "corpo_mm": [
+   7.1,
+   7.9,
+   44.5,
+   65.2
+  ],
   "largura_mm": 55.2,
   "altura_mm": 77.5,
   "svg_mm": [
@@ -2850,6 +3918,12 @@
  "AP-0601": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-0601.svg",
+  "corpo_mm": [
+   7.8,
+   6.1,
+   45.0,
+   242.3
+  ],
   "largura_mm": 57.8,
   "altura_mm": 242.4,
   "svg_mm": [
@@ -2866,6 +3940,12 @@
  "AP-0603": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-0603.svg",
+  "corpo_mm": [
+   12.1,
+   6.4,
+   29.3,
+   242.5
+  ],
   "largura_mm": 29.4,
   "altura_mm": 242.6,
   "svg_mm": [
@@ -2882,6 +3962,12 @@
  "AP-061": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-061.svg",
+  "corpo_mm": [
+   0.1,
+   9.2,
+   60.3,
+   16.5
+  ],
   "largura_mm": 68.4,
   "altura_mm": 20.0,
   "svg_mm": [
@@ -2898,6 +3984,12 @@
  "AP-062": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-062.svg",
+  "corpo_mm": [
+   1.1,
+   6.2,
+   61.1,
+   31.8
+  ],
   "largura_mm": 76.7,
   "altura_mm": 41.9,
   "svg_mm": [
@@ -2914,6 +4006,12 @@
  "AP-063": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-063.svg",
+  "corpo_mm": [
+   10.4,
+   0.2,
+   31.0,
+   218.5
+  ],
   "largura_mm": 46.3,
   "altura_mm": 227.0,
   "svg_mm": [
@@ -2930,6 +4028,12 @@
  "AP-064": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-064.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   48.3,
+   141.6
+  ],
   "largura_mm": 61.6,
   "altura_mm": 146.2,
   "svg_mm": [
@@ -2946,6 +4050,12 @@
  "AP-065": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-065.svg",
+  "corpo_mm": [
+   12.9,
+   12.1,
+   129.3,
+   88.9
+  ],
   "largura_mm": 129.4,
   "altura_mm": 89.1,
   "svg_mm": [
@@ -2962,6 +4072,12 @@
  "AP-066": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-066.svg",
+  "corpo_mm": [
+   8.5,
+   8.2,
+   60.7,
+   99.9
+  ],
   "largura_mm": 72.1,
   "altura_mm": 110.2,
   "svg_mm": [
@@ -2978,6 +4094,12 @@
  "AP-067": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-067.svg",
+  "corpo_mm": [
+   0.2,
+   18.4,
+   165.2,
+   40.0
+  ],
   "largura_mm": 165.4,
   "altura_mm": 40.0,
   "svg_mm": [
@@ -2994,6 +4116,12 @@
  "AP-068": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-068.svg",
+  "corpo_mm": [
+   0.1,
+   8.0,
+   25.3,
+   27.9
+  ],
   "largura_mm": 37.7,
   "altura_mm": 36.6,
   "svg_mm": [
@@ -3010,6 +4138,12 @@
  "AP-069": {
   "pacote": "geral-asa",
   "arquivo": "decamp/AP-069_DP-072.svg",
+  "corpo_mm": [
+   12.9,
+   0.1,
+   37.5,
+   19.5
+  ],
   "largura_mm": 37.6,
   "altura_mm": 28.2,
   "svg_mm": [
@@ -3026,6 +4160,12 @@
  "AP-070": {
   "pacote": "geral-asa",
   "arquivo": "avulsos-cliente/AP-070.svg",
+  "corpo_mm": [
+   26.4,
+   0.1,
+   97.8,
+   105.8
+  ],
   "largura_mm": 97.9,
   "altura_mm": 106.2,
   "svg_mm": [
@@ -3042,6 +4182,12 @@
  "AP-071": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-071.svg",
+  "corpo_mm": [
+   1.0,
+   9.3,
+   27.4,
+   25.0
+  ],
   "largura_mm": 39.5,
   "altura_mm": 34.3,
   "svg_mm": [
@@ -3058,6 +4204,12 @@
  "AP-072": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-072.svg",
+  "corpo_mm": [
+   9.9,
+   11.3,
+   53.4,
+   36.9
+  ],
   "largura_mm": 53.6,
   "altura_mm": 43.2,
   "svg_mm": [
@@ -3074,6 +4226,12 @@
  "AP-073": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-073.svg",
+  "corpo_mm": [
+   6.4,
+   5.9,
+   81.9,
+   31.4
+  ],
   "largura_mm": 82.0,
   "altura_mm": 39.6,
   "svg_mm": [
@@ -3090,6 +4248,12 @@
  "AP-074": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-074.svg",
+  "corpo_mm": [
+   6.0,
+   0.1,
+   31.6,
+   117.3
+  ],
   "largura_mm": 40.0,
   "altura_mm": 128.5,
   "svg_mm": [
@@ -3106,6 +4270,12 @@
  "AP-099": {
   "pacote": "folhas-cliente",
   "arquivo": "folhas-cliente/AP-099.svg",
+  "corpo_mm": [
+   11.4,
+   0.2,
+   61.6,
+   45.3
+  ],
   "largura_mm": 61.7,
   "altura_mm": 45.4,
   "svg_mm": [
@@ -3122,6 +4292,12 @@
  "AP-100": {
   "pacote": "folhas-cliente",
   "arquivo": "folhas-cliente/AP-100.svg",
+  "corpo_mm": [
+   10.8,
+   14.9,
+   98.5,
+   38.3
+  ],
   "largura_mm": 98.7,
   "altura_mm": 38.5,
   "svg_mm": [
@@ -3138,6 +4314,12 @@
  "AP-1046": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-1046.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   63.0,
+   50.3
+  ],
   "largura_mm": 71.1,
   "altura_mm": 58.5,
   "svg_mm": [
@@ -3154,6 +4336,12 @@
  "AP-1047": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-1047.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   93.0,
+   50.3
+  ],
   "largura_mm": 101.2,
   "altura_mm": 57.8,
   "svg_mm": [
@@ -3170,6 +4358,12 @@
  "AP-1057": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-1057.svg",
+  "corpo_mm": [
+   7.4,
+   6.8,
+   52.7,
+   29.6
+  ],
   "largura_mm": 60.7,
   "altura_mm": 29.7,
   "svg_mm": [
@@ -3186,6 +4380,12 @@
  "AP-1058": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-1058.svg",
+  "corpo_mm": [
+   7.6,
+   0.1,
+   43.5,
+   34.2
+  ],
   "largura_mm": 51.2,
   "altura_mm": 41.2,
   "svg_mm": [
@@ -3202,6 +4402,12 @@
  "AP-1059": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-1059.svg",
+  "corpo_mm": [
+   7.6,
+   0.1,
+   43.4,
+   27.2
+  ],
   "largura_mm": 50.7,
   "altura_mm": 34.0,
   "svg_mm": [
@@ -3218,6 +4424,12 @@
  "AP-1234": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1234.svg",
+  "corpo_mm": [
+   1.9,
+   9.5,
+   82.1,
+   25.8
+  ],
   "largura_mm": 82.2,
   "altura_mm": 37.4,
   "svg_mm": [
@@ -3234,6 +4446,12 @@
  "AP-1235": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1235.svg",
+  "corpo_mm": [
+   1.9,
+   10.2,
+   82.3,
+   23.5
+  ],
   "largura_mm": 82.4,
   "altura_mm": 35.9,
   "svg_mm": [
@@ -3250,6 +4468,12 @@
  "AP-1236": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1236.svg",
+  "corpo_mm": [
+   2.1,
+   12.4,
+   82.5,
+   25.8
+  ],
   "largura_mm": 82.6,
   "altura_mm": 37.4,
   "svg_mm": [
@@ -3266,6 +4490,12 @@
  "AP-1237": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1237.svg",
+  "corpo_mm": [
+   2.1,
+   9.4,
+   62.8,
+   25.8
+  ],
   "largura_mm": 62.9,
   "altura_mm": 37.4,
   "svg_mm": [
@@ -3282,6 +4512,12 @@
  "AP-1238": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1238.svg",
+  "corpo_mm": [
+   2.0,
+   12.3,
+   62.7,
+   25.8
+  ],
   "largura_mm": 62.8,
   "altura_mm": 37.2,
   "svg_mm": [
@@ -3298,6 +4534,12 @@
  "AP-1239": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1239.svg",
+  "corpo_mm": [
+   6.5,
+   0.1,
+   86.7,
+   32.8
+  ],
   "largura_mm": 89.8,
   "altura_mm": 40.8,
   "svg_mm": [
@@ -3314,6 +4556,12 @@
  "AP-1240": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1240.svg",
+  "corpo_mm": [
+   6.6,
+   0.1,
+   87.0,
+   33.0
+  ],
   "largura_mm": 87.0,
   "altura_mm": 44.8,
   "svg_mm": [
@@ -3330,6 +4578,12 @@
  "AP-1241": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1241.svg",
+  "corpo_mm": [
+   7.2,
+   0.1,
+   68.0,
+   33.0
+  ],
   "largura_mm": 68.1,
   "altura_mm": 41.9,
   "svg_mm": [
@@ -3346,6 +4600,12 @@
  "AP-1242": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1242.svg",
+  "corpo_mm": [
+   17.5,
+   15.6,
+   38.4,
+   34.7
+  ],
   "largura_mm": 46.2,
   "altura_mm": 34.7,
   "svg_mm": [
@@ -3362,6 +4622,12 @@
  "AP-1243": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1243.svg",
+  "corpo_mm": [
+   19.0,
+   16.1,
+   40.0,
+   41.7
+  ],
   "largura_mm": 49.7,
   "altura_mm": 41.8,
   "svg_mm": [
@@ -3378,6 +4644,12 @@
  "AP-1244": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1244.svg",
+  "corpo_mm": [
+   0.1,
+   14.7,
+   21.0,
+   38.5
+  ],
   "largura_mm": 28.0,
   "altura_mm": 38.5,
   "svg_mm": [
@@ -3394,6 +4666,12 @@
  "AP-1245": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1245.svg",
+  "corpo_mm": [
+   0.1,
+   10.4,
+   21.0,
+   33.4
+  ],
   "largura_mm": 28.8,
   "altura_mm": 33.5,
   "svg_mm": [
@@ -3410,6 +4688,12 @@
  "AP-1246": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1246.svg",
+  "corpo_mm": [
+   20.9,
+   12.8,
+   48.2,
+   31.7
+  ],
   "largura_mm": 55.0,
   "altura_mm": 31.7,
   "svg_mm": [
@@ -3426,6 +4710,12 @@
  "AP-1247": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1247.svg",
+  "corpo_mm": [
+   11.7,
+   13.8,
+   39.1,
+   32.6
+  ],
   "largura_mm": 48.4,
   "altura_mm": 32.7,
   "svg_mm": [
@@ -3442,6 +4732,12 @@
  "AP-1248": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1248.svg",
+  "corpo_mm": [
+   0.3,
+   0.2,
+   60.6,
+   18.0
+  ],
   "largura_mm": 68.0,
   "altura_mm": 25.2,
   "svg_mm": [
@@ -3458,6 +4754,12 @@
  "AP-1249": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1249.svg",
+  "corpo_mm": [
+   7.5,
+   6.1,
+   56.7,
+   41.2
+  ],
   "largura_mm": 65.4,
   "altura_mm": 41.4,
   "svg_mm": [
@@ -3474,6 +4776,12 @@
  "AP-1250": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1250.svg",
+  "corpo_mm": [
+   16.0,
+   10.8,
+   28.4,
+   43.1
+  ],
   "largura_mm": 28.5,
   "altura_mm": 43.2,
   "svg_mm": [
@@ -3490,6 +4798,12 @@
  "AP-1251": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1251.svg",
+  "corpo_mm": [
+   10.2,
+   8.1,
+   22.6,
+   45.3
+  ],
   "largura_mm": 22.7,
   "altura_mm": 45.4,
   "svg_mm": [
@@ -3506,6 +4820,12 @@
  "AP-1252": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1252.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   12.5,
+   82.5
+  ],
   "largura_mm": 24.5,
   "altura_mm": 88.3,
   "svg_mm": [
@@ -3522,6 +4842,12 @@
  "AP-1253": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/AP-1253.svg",
+  "corpo_mm": [
+   42.1,
+   6.5,
+   54.5,
+   91.9
+  ],
   "largura_mm": 90.8,
   "altura_mm": 96.7,
   "svg_mm": [
@@ -3538,6 +4864,12 @@
  "AP-1262": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1262_FA-204.svg",
+  "corpo_mm": [
+   9.1,
+   9.0,
+   96.2,
+   47.2
+  ],
   "largura_mm": 105.2,
   "altura_mm": 56.3,
   "svg_mm": [
@@ -3554,6 +4886,12 @@
  "AP-1263": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1263_FA-205.svg",
+  "corpo_mm": [
+   9.0,
+   16.1,
+   96.2,
+   54.2
+  ],
   "largura_mm": 105.2,
   "altura_mm": 63.2,
   "svg_mm": [
@@ -3570,6 +4908,12 @@
  "AP-1264": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1264_FA-206.svg",
+  "corpo_mm": [
+   17.3,
+   9.3,
+   65.4,
+   96.0
+  ],
   "largura_mm": 81.9,
   "altura_mm": 105.0,
   "svg_mm": [
@@ -3586,6 +4930,12 @@
  "AP-1266": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1266_FA-211.svg",
+  "corpo_mm": [
+   22.5,
+   9.0,
+   59.7,
+   96.2
+  ],
   "largura_mm": 69.1,
   "altura_mm": 105.2,
   "svg_mm": [
@@ -3602,6 +4952,12 @@
  "AP-1270": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1270_FA-223.svg",
+  "corpo_mm": [
+   9.4,
+   9.0,
+   92.5,
+   95.6
+  ],
   "largura_mm": 109.1,
   "altura_mm": 104.6,
   "svg_mm": [
@@ -3618,6 +4974,12 @@
  "AP-1273": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1273_FA-228.svg",
+  "corpo_mm": [
+   9.2,
+   16.0,
+   47.9,
+   67.6
+  ],
   "largura_mm": 57.1,
   "altura_mm": 83.7,
   "svg_mm": [
@@ -3634,6 +4996,12 @@
  "AP-1276": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1276_FA-232.svg",
+  "corpo_mm": [
+   16.5,
+   9.0,
+   68.2,
+   47.7
+  ],
   "largura_mm": 84.2,
   "altura_mm": 56.7,
   "svg_mm": [
@@ -3650,6 +5018,12 @@
  "AP-1278": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1278_FA-235.svg",
+  "corpo_mm": [
+   16.0,
+   8.2,
+   71.2,
+   122.6
+  ],
   "largura_mm": 88.0,
   "altura_mm": 131.5,
   "svg_mm": [
@@ -3666,6 +5040,12 @@
  "AP-1279": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1279_FA-237.svg",
+  "corpo_mm": [
+   0.1,
+   9.0,
+   22.3,
+   17.1
+  ],
   "largura_mm": 31.0,
   "altura_mm": 19.1,
   "svg_mm": [
@@ -3682,6 +5062,12 @@
  "AP-1280": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1280_FA-238.svg",
+  "corpo_mm": [
+   9.4,
+   3.5,
+   75.7,
+   28.2
+  ],
   "largura_mm": 75.8,
   "altura_mm": 44.3,
   "svg_mm": [
@@ -3698,6 +5084,12 @@
  "AP-1281": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1281_FA-239A.svg",
+  "corpo_mm": [
+   9.4,
+   8.0,
+   72.7,
+   32.7
+  ],
   "largura_mm": 82.2,
   "altura_mm": 42.2,
   "svg_mm": [
@@ -3714,6 +5106,12 @@
  "AP-1282": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1282_FA-240.svg",
+  "corpo_mm": [
+   2.0,
+   8.9,
+   10.0,
+   30.1
+  ],
   "largura_mm": 19.0,
   "altura_mm": 38.5,
   "svg_mm": [
@@ -3730,6 +5128,12 @@
  "AP-1283": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1283_FA-242.svg",
+  "corpo_mm": [
+   9.1,
+   16.0,
+   96.1,
+   86.2
+  ],
   "largura_mm": 105.2,
   "altura_mm": 86.3,
   "svg_mm": [
@@ -3746,6 +5150,12 @@
  "AP-1284": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1284_FA-401.svg",
+  "corpo_mm": [
+   9.5,
+   9.0,
+   92.3,
+   74.5
+  ],
   "largura_mm": 101.9,
   "altura_mm": 83.5,
   "svg_mm": [
@@ -3762,6 +5172,12 @@
  "AP-1285": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1285_FA-408.svg",
+  "corpo_mm": [
+   9.5,
+   8.0,
+   120.6,
+   32.7
+  ],
   "largura_mm": 130.2,
   "altura_mm": 42.3,
   "svg_mm": [
@@ -3778,6 +5194,12 @@
  "AP-1286": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1286_FA-245.svg",
+  "corpo_mm": [
+   16.2,
+   16.0,
+   54.9,
+   67.6
+  ],
   "largura_mm": 64.1,
   "altura_mm": 83.7,
   "svg_mm": [
@@ -3794,6 +5216,12 @@
  "AP-1288": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1288_FA-260.svg",
+  "corpo_mm": [
+   16.0,
+   8.2,
+   71.2,
+   100.5
+  ],
   "largura_mm": 87.8,
   "altura_mm": 109.4,
   "svg_mm": [
@@ -3810,6 +5238,12 @@
  "AP-1292": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1292_FA-264.svg",
+  "corpo_mm": [
+   16.5,
+   16.1,
+   64.4,
+   81.8
+  ],
   "largura_mm": 81.0,
   "altura_mm": 81.8,
   "svg_mm": [
@@ -3826,6 +5260,12 @@
  "AP-1295": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1295_FA-271.svg",
+  "corpo_mm": [
+   0.1,
+   7.9,
+   50.4,
+   83.1
+  ],
   "largura_mm": 59.4,
   "altura_mm": 92.2,
   "svg_mm": [
@@ -3842,6 +5282,12 @@
  "AP-1300": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1300_FA-278.svg",
+  "corpo_mm": [
+   16.1,
+   9.0,
+   71.3,
+   151.4
+  ],
   "largura_mm": 88.3,
   "altura_mm": 160.4,
   "svg_mm": [
@@ -3858,6 +5304,12 @@
  "AP-1303": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1303_FA-294.svg",
+  "corpo_mm": [
+   9.0,
+   7.1,
+   64.2,
+   67.4
+  ],
   "largura_mm": 80.8,
   "altura_mm": 74.4,
   "svg_mm": [
@@ -3874,6 +5326,12 @@
  "AP-1304": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1304_FA-325.svg",
+  "corpo_mm": [
+   7.1,
+   8.9,
+   73.2,
+   33.6
+  ],
   "largura_mm": 82.6,
   "altura_mm": 43.1,
   "svg_mm": [
@@ -3890,6 +5348,12 @@
  "AP-1305": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1305_FA-326.svg",
+  "corpo_mm": [
+   0.1,
+   9.0,
+   20.3,
+   14.6
+  ],
   "largura_mm": 28.2,
   "altura_mm": 23.7,
   "svg_mm": [
@@ -3906,6 +5370,12 @@
  "AP-1312": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1312_FA-375.svg",
+  "corpo_mm": [
+   9.1,
+   9.0,
+   96.2,
+   129.1
+  ],
   "largura_mm": 110.8,
   "altura_mm": 138.2,
   "svg_mm": [
@@ -3922,6 +5392,12 @@
  "AP-1313": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1313_FA-376.svg",
+  "corpo_mm": [
+   9.3,
+   9.0,
+   91.5,
+   122.9
+  ],
   "largura_mm": 108.2,
   "altura_mm": 132.0,
   "svg_mm": [
@@ -3938,6 +5414,12 @@
  "AP-1315": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1315_FA-400.svg",
+  "corpo_mm": [
+   0.1,
+   8.4,
+   87.2,
+   78.6
+  ],
   "largura_mm": 96.3,
   "altura_mm": 87.6,
   "svg_mm": [
@@ -3954,6 +5436,12 @@
  "AP-1329": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-1329.svg",
+  "corpo_mm": [
+   2.5,
+   7.4,
+   102.7,
+   37.7
+  ],
   "largura_mm": 102.8,
   "altura_mm": 37.7,
   "svg_mm": [
@@ -3970,6 +5458,12 @@
  "AP-1413": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-1413.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   42.2,
+   53.3
+  ],
   "largura_mm": 50.4,
   "altura_mm": 61.1,
   "svg_mm": [
@@ -3986,6 +5480,12 @@
  "AP-1439": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1439_FA-226.svg",
+  "corpo_mm": [
+   0.2,
+   16.5,
+   190.2,
+   91.6
+  ],
   "largura_mm": 190.3,
   "altura_mm": 91.8,
   "svg_mm": [
@@ -4002,6 +5502,12 @@
  "AP-1440": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1440_FA-236.svg",
+  "corpo_mm": [
+   17.1,
+   9.1,
+   78.0,
+   154.6
+  ],
   "largura_mm": 78.1,
   "altura_mm": 170.5,
   "svg_mm": [
@@ -4018,6 +5524,12 @@
  "AP-1503": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1503_FA-200.svg",
+  "corpo_mm": [
+   9.1,
+   9.0,
+   96.2,
+   101.2
+  ],
   "largura_mm": 112.3,
   "altura_mm": 110.2,
   "svg_mm": [
@@ -4034,6 +5546,12 @@
  "AP-1589": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote10/AP-1589_TMR-1589.svg",
+  "corpo_mm": [
+   9.9,
+   0.1,
+   71.3,
+   171.5
+  ],
   "largura_mm": 71.3,
   "altura_mm": 177.8,
   "svg_mm": [
@@ -4050,6 +5568,12 @@
  "AP-1691": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1691_FA-255.svg",
+  "corpo_mm": [
+   8.7,
+   16.0,
+   47.4,
+   74.6
+  ],
   "largura_mm": 64.0,
   "altura_mm": 90.8,
   "svg_mm": [
@@ -4066,6 +5590,12 @@
  "AP-1692": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1692_FA-256.svg",
+  "corpo_mm": [
+   16.5,
+   9.0,
+   75.1,
+   47.7
+  ],
   "largura_mm": 91.5,
   "altura_mm": 63.9,
   "svg_mm": [
@@ -4082,6 +5612,12 @@
  "AP-1693": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1693_FA-258.svg",
+  "corpo_mm": [
+   8.7,
+   16.0,
+   47.4,
+   74.6
+  ],
   "largura_mm": 64.0,
   "altura_mm": 90.8,
   "svg_mm": [
@@ -4098,6 +5634,12 @@
  "AP-1694": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1694_FA-259.svg",
+  "corpo_mm": [
+   16.5,
+   9.0,
+   75.1,
+   47.7
+  ],
   "largura_mm": 91.5,
   "altura_mm": 63.9,
   "svg_mm": [
@@ -4114,6 +5656,12 @@
  "AP-1695": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1695_FA-377.svg",
+  "corpo_mm": [
+   9.4,
+   8.0,
+   100.6,
+   32.7
+  ],
   "largura_mm": 110.2,
   "altura_mm": 42.3,
   "svg_mm": [
@@ -4130,6 +5678,12 @@
  "AP-1717": {
   "pacote": "folhas-cliente",
   "arquivo": "folhas-cliente/AP-1717.svg",
+  "corpo_mm": [
+   10.8,
+   10.3,
+   72.0,
+   16.9
+  ],
   "largura_mm": 72.1,
   "altura_mm": 26.8,
   "svg_mm": [
@@ -4146,6 +5700,12 @@
  "AP-1718": {
   "pacote": "folhas-cliente",
   "arquivo": "folhas-cliente/AP-1718.svg",
+  "corpo_mm": [
+   9.5,
+   12.7,
+   74.7,
+   19.3
+  ],
   "largura_mm": 74.8,
   "altura_mm": 26.8,
   "svg_mm": [
@@ -4162,6 +5722,12 @@
  "AP-1774": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-1774_FA-515.svg",
+  "corpo_mm": [
+   16.0,
+   8.3,
+   71.2,
+   122.7
+  ],
   "largura_mm": 81.5,
   "altura_mm": 131.5,
   "svg_mm": [
@@ -4178,6 +5744,12 @@
  "AP-2769": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-2769.svg",
+  "corpo_mm": [
+   9.8,
+   0.1,
+   124.7,
+   78.9
+  ],
   "largura_mm": 133.4,
   "altura_mm": 85.8,
   "svg_mm": [
@@ -4194,6 +5766,12 @@
  "AP-2770": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-2770.svg",
+  "corpo_mm": [
+   0.2,
+   9.0,
+   115.0,
+   87.2
+  ],
   "largura_mm": 124.6,
   "altura_mm": 87.3,
   "svg_mm": [
@@ -4210,6 +5788,12 @@
  "AP-2771": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-2771.svg",
+  "corpo_mm": [
+   9.4,
+   9.2,
+   122.1,
+   48.7
+  ],
   "largura_mm": 131.0,
   "altura_mm": 48.8,
   "svg_mm": [
@@ -4226,6 +5810,12 @@
  "AP-2773": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-2773.svg",
+  "corpo_mm": [
+   8.7,
+   8.3,
+   121.4,
+   47.3
+  ],
   "largura_mm": 121.5,
   "altura_mm": 47.4,
   "svg_mm": [
@@ -4242,6 +5832,12 @@
  "AP-2774": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-2774.svg",
+  "corpo_mm": [
+   0.1,
+   9.0,
+   112.8,
+   39.2
+  ],
   "largura_mm": 120.8,
   "altura_mm": 47.7,
   "svg_mm": [
@@ -4258,6 +5854,12 @@
  "AP-2775": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/AP-2775.svg",
+  "corpo_mm": [
+   0.1,
+   9.5,
+   117.5,
+   48.8
+  ],
   "largura_mm": 126.2,
   "altura_mm": 55.2,
   "svg_mm": [
@@ -4274,6 +5876,12 @@
  "AP-5634": {
   "pacote": "belmetal-atlanta",
   "arquivo": "belmetal-atlanta/AP-5634_FA-347.svg",
+  "corpo_mm": [
+   16.0,
+   8.2,
+   71.2,
+   100.4
+  ],
   "largura_mm": 80.2,
   "altura_mm": 109.4,
   "svg_mm": [
@@ -4290,6 +5898,12 @@
  "AP-618": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-618_STL-618.svg",
+  "corpo_mm": [
+   6.6,
+   3.4,
+   22.9,
+   18.2
+  ],
   "largura_mm": 23.0,
   "altura_mm": 18.3,
   "svg_mm": [
@@ -4306,6 +5920,12 @@
  "AP-619": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-619_STL-619.svg",
+  "corpo_mm": [
+   10.2,
+   0.2,
+   28.0,
+   46.7
+  ],
   "largura_mm": 28.1,
   "altura_mm": 57.9,
   "svg_mm": [
@@ -4322,6 +5942,12 @@
  "AP-621": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-621_STL-621.svg",
+  "corpo_mm": [
+   10.2,
+   5.6,
+   73.2,
+   38.0
+  ],
   "largura_mm": 73.6,
   "altura_mm": 38.1,
   "svg_mm": [
@@ -4338,6 +5964,12 @@
  "AP-622": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-622_STL-622.svg",
+  "corpo_mm": [
+   0.1,
+   5.6,
+   27.9,
+   69.9
+  ],
   "largura_mm": 32.9,
   "altura_mm": 70.0,
   "svg_mm": [
@@ -4354,6 +5986,12 @@
  "AP-623": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-623_STL-623.svg",
+  "corpo_mm": [
+   0.1,
+   0.6,
+   25.3,
+   35.3
+  ],
   "largura_mm": 33.9,
   "altura_mm": 40.5,
   "svg_mm": [
@@ -4370,6 +6008,12 @@
  "AP-625": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-625_STL-625.svg",
+  "corpo_mm": [
+   0.1,
+   9.1,
+   39.5,
+   81.4
+  ],
   "largura_mm": 46.3,
   "altura_mm": 81.5,
   "svg_mm": [
@@ -4386,6 +6030,12 @@
  "AP-626": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-626_STL-626.svg",
+  "corpo_mm": [
+   10.8,
+   6.6,
+   32.9,
+   36.6
+  ],
   "largura_mm": 33.0,
   "altura_mm": 37.0,
   "svg_mm": [
@@ -4402,6 +6052,12 @@
  "AP-627": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-627_STL-627.svg",
+  "corpo_mm": [
+   0.2,
+   0.1,
+   39.2,
+   20.3
+  ],
   "largura_mm": 47.1,
   "altura_mm": 26.9,
   "svg_mm": [
@@ -4418,6 +6074,12 @@
  "AP-628": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-628_STL-628.svg",
+  "corpo_mm": [
+   0.2,
+   0.1,
+   48.3,
+   22.8
+  ],
   "largura_mm": 53.8,
   "altura_mm": 30.3,
   "svg_mm": [
@@ -4434,6 +6096,12 @@
  "AP-629": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-629_STL-629.svg",
+  "corpo_mm": [
+   5.6,
+   0.4,
+   27.6,
+   42.6
+  ],
   "largura_mm": 27.7,
   "altura_mm": 46.9,
   "svg_mm": [
@@ -4450,6 +6118,12 @@
  "AP-631": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-631_STL-631.svg",
+  "corpo_mm": [
+   0.1,
+   7.0,
+   93.3,
+   39.4
+  ],
   "largura_mm": 101.1,
   "altura_mm": 39.5,
   "svg_mm": [
@@ -4466,6 +6140,12 @@
  "AP-6509": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "muxarabi/AP-6509.svg",
+  "corpo_mm": [
+   12.9,
+   0.2,
+   37.8,
+   50.5
+  ],
   "largura_mm": 38.0,
   "altura_mm": 60.0,
   "svg_mm": [
@@ -4482,6 +6162,12 @@
  "AP-6510": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "muxarabi/AP-6510.svg",
+  "corpo_mm": [
+   12.9,
+   0.2,
+   25.0,
+   25.1
+  ],
   "largura_mm": 25.3,
   "altura_mm": 34.6,
   "svg_mm": [
@@ -4498,6 +6184,12 @@
  "AP-936": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-936_STL-936.svg",
+  "corpo_mm": [
+   0.2,
+   0.1,
+   39.2,
+   27.6
+  ],
   "largura_mm": 45.5,
   "altura_mm": 34.9,
   "svg_mm": [
@@ -4514,6 +6206,12 @@
  "AP-938": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-938_STL-938.svg",
+  "corpo_mm": [
+   9.8,
+   6.6,
+   37.8,
+   101.0
+  ],
   "largura_mm": 46.7,
   "altura_mm": 101.1,
   "svg_mm": [
@@ -4530,6 +6228,12 @@
  "AP-939": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-939_STL-939.svg",
+  "corpo_mm": [
+   7.0,
+   0.1,
+   40.0,
+   94.5
+  ],
   "largura_mm": 40.5,
   "altura_mm": 110.4,
   "svg_mm": [
@@ -4546,6 +6250,12 @@
  "AP-950": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-950_STL-950.svg",
+  "corpo_mm": [
+   0.1,
+   0.3,
+   53.1,
+   35.8
+  ],
   "largura_mm": 63.2,
   "altura_mm": 43.2,
   "svg_mm": [
@@ -4562,6 +6272,12 @@
  "AP-951": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-951_STL-951.svg",
+  "corpo_mm": [
+   6.6,
+   0.5,
+   58.8,
+   20.9
+  ],
   "largura_mm": 58.9,
   "altura_mm": 28.1,
   "svg_mm": [
@@ -4578,6 +6294,12 @@
  "AP-953": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-953_STL-953.svg",
+  "corpo_mm": [
+   7.4,
+   0.6,
+   28.0,
+   52.8
+  ],
   "largura_mm": 28.0,
   "altura_mm": 58.1,
   "svg_mm": [
@@ -4594,6 +6316,12 @@
  "AP-954": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-954_STL-954.svg",
+  "corpo_mm": [
+   7.4,
+   6.0,
+   30.2,
+   82.9
+  ],
   "largura_mm": 30.3,
   "altura_mm": 83.1,
   "svg_mm": [
@@ -4610,6 +6338,12 @@
  "AP-984": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/AP-984_STL-984.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   17.8,
+   43.8
+  ],
   "largura_mm": 24.6,
   "altura_mm": 50.6,
   "svg_mm": [
@@ -4626,6 +6360,12 @@
  "BG-001": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/BG-001.svg",
+  "corpo_mm": [
+   2.5,
+   9.6,
+   15.9,
+   21.9
+  ],
   "largura_mm": 28.1,
   "altura_mm": 26.5,
   "svg_mm": [
@@ -4642,6 +6382,12 @@
  "BG-010": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/BG-010.svg",
+  "corpo_mm": [
+   5.6,
+   1.7,
+   36.5,
+   28.4
+  ],
   "largura_mm": 38.4,
   "altura_mm": 34.1,
   "svg_mm": [
@@ -4658,6 +6404,12 @@
  "BG-011": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/BG-011.svg",
+  "corpo_mm": [
+   9.4,
+   6.4,
+   22.6,
+   21.1
+  ],
   "largura_mm": 25.0,
   "altura_mm": 21.2,
   "svg_mm": [
@@ -4674,6 +6426,12 @@
  "BG-021": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/BG-021.svg",
+  "corpo_mm": [
+   0.2,
+   11.6,
+   26.3,
+   31.3
+  ],
   "largura_mm": 34.9,
   "altura_mm": 36.9,
   "svg_mm": [
@@ -4690,6 +6448,12 @@
  "BG-023": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/BG-023.svg",
+  "corpo_mm": [
+   7.4,
+   8.0,
+   34.5,
+   28.1
+  ],
   "largura_mm": 44.4,
   "altura_mm": 28.6,
   "svg_mm": [
@@ -4706,6 +6470,12 @@
  "BG-036": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/BG-036.svg",
+  "corpo_mm": [
+   9.4,
+   8.3,
+   35.9,
+   28.6
+  ],
   "largura_mm": 36.0,
   "altura_mm": 28.7,
   "svg_mm": [
@@ -4722,6 +6492,12 @@
  "BG-037": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/BG-037.svg",
+  "corpo_mm": [
+   0.2,
+   10.5,
+   27.4,
+   30.3
+  ],
   "largura_mm": 39.7,
   "altura_mm": 40.5,
   "svg_mm": [
@@ -4738,6 +6514,12 @@
  "BG-057": {
   "pacote": "gold",
   "arquivo": "gold/BG-057.svg",
+  "corpo_mm": [
+   0.2,
+   9.3,
+   19.0,
+   27.6
+  ],
   "largura_mm": 33.3,
   "altura_mm": 36.7,
   "svg_mm": [
@@ -4754,6 +6536,12 @@
  "BX-001": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/BX-001_A-022.svg",
+  "corpo_mm": [
+   13.8,
+   12.0,
+   28.1,
+   47.5
+  ],
   "largura_mm": 37.3,
   "altura_mm": 47.6,
   "svg_mm": [
@@ -4770,6 +6558,12 @@
  "BX-002": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/BX-002_I-083.svg",
+  "corpo_mm": [
+   12.7,
+   12.4,
+   26.8,
+   43.1
+  ],
   "largura_mm": 36.2,
   "altura_mm": 43.2,
   "svg_mm": [
@@ -4786,6 +6580,12 @@
  "BX-003": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/BX-003.svg",
+  "corpo_mm": [
+   10.8,
+   8.8,
+   25.0,
+   34.0
+  ],
   "largura_mm": 34.6,
   "altura_mm": 34.2,
   "svg_mm": [
@@ -4802,6 +6602,12 @@
  "BX-005": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/BX-005_Y-105.svg",
+  "corpo_mm": [
+   19.9,
+   16.6,
+   45.9,
+   41.6
+  ],
   "largura_mm": 46.0,
   "altura_mm": 41.9,
   "svg_mm": [
@@ -4818,6 +6624,12 @@
  "BX-006": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/BX-006.svg",
+  "corpo_mm": [
+   12.1,
+   17.8,
+   30.2,
+   45.9
+  ],
   "largura_mm": 30.3,
   "altura_mm": 46.1,
   "svg_mm": [
@@ -4834,6 +6646,12 @@
  "BX-007": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/BX-007.svg",
+  "corpo_mm": [
+   9.3,
+   8.4,
+   44.5,
+   24.1
+  ],
   "largura_mm": 44.6,
   "altura_mm": 31.7,
   "svg_mm": [
@@ -4850,6 +6668,12 @@
  "BX-010": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/BX-010_U-397.svg",
+  "corpo_mm": [
+   0.2,
+   11.8,
+   49.7,
+   61.9
+  ],
   "largura_mm": 65.4,
   "altura_mm": 62.0,
   "svg_mm": [
@@ -4866,6 +6690,12 @@
  "BX-012": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/BX-012.svg",
+  "corpo_mm": [
+   0.1,
+   11.9,
+   17.9,
+   31.9
+  ],
   "largura_mm": 30.2,
   "altura_mm": 32.1,
   "svg_mm": [
@@ -4882,6 +6712,12 @@
  "BX-013": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/BX-013_E-117.svg",
+  "corpo_mm": [
+   14.8,
+   14.0,
+   56.9,
+   31.1
+  ],
   "largura_mm": 57.1,
   "altura_mm": 31.2,
   "svg_mm": [
@@ -4898,6 +6734,12 @@
  "BX-018": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote11/BX-018_STL-049.svg",
+  "corpo_mm": [
+   0.4,
+   0.1,
+   42.0,
+   15.3
+  ],
   "largura_mm": 65.3,
   "altura_mm": 33.2,
   "svg_mm": [
@@ -4914,6 +6756,12 @@
  "BX-019": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote11/BX-019_STL-046A.svg",
+  "corpo_mm": [
+   23.3,
+   15.4,
+   67.1,
+   60.1
+  ],
   "largura_mm": 67.4,
   "altura_mm": 60.2,
   "svg_mm": [
@@ -4930,6 +6778,12 @@
  "BX-020": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote11/BX-020_STL-052.svg",
+  "corpo_mm": [
+   22.5,
+   16.4,
+   36.6,
+   38.5
+  ],
   "largura_mm": 42.9,
   "altura_mm": 38.5,
   "svg_mm": [
@@ -4946,6 +6800,12 @@
  "BX-021": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote11/BX-021_STL-048.svg",
+  "corpo_mm": [
+   16.0,
+   0.5,
+   55.2,
+   22.8
+  ],
   "largura_mm": 55.3,
   "altura_mm": 36.4,
   "svg_mm": [
@@ -4962,6 +6822,12 @@
  "BX-022": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote11/BX-022_STL-053.svg",
+  "corpo_mm": [
+   4.1,
+   0.1,
+   16.1,
+   28.4
+  ],
   "largura_mm": 34.8,
   "altura_mm": 46.8,
   "svg_mm": [
@@ -4978,6 +6844,12 @@
  "BX-029": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/BX-029.svg",
+  "corpo_mm": [
+   7.2,
+   7.6,
+   18.3,
+   33.7
+  ],
   "largura_mm": 19.6,
   "altura_mm": 33.9,
   "svg_mm": [
@@ -4994,6 +6866,12 @@
  "BX-039": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote11/BX-039_A6-L-006.svg",
+  "corpo_mm": [
+   11.3,
+   9.6,
+   45.4,
+   33.5
+  ],
   "largura_mm": 47.3,
   "altura_mm": 43.4,
   "svg_mm": [
@@ -5010,6 +6888,12 @@
  "BX-099": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/BX-099.svg",
+  "corpo_mm": [
+   14.0,
+   0.1,
+   46.1,
+   21.7
+  ],
   "largura_mm": 46.3,
   "altura_mm": 33.4,
   "svg_mm": [
@@ -5026,6 +6910,12 @@
  "BX-100": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/BX-100.svg",
+  "corpo_mm": [
+   1.3,
+   8.1,
+   20.6,
+   28.4
+  ],
   "largura_mm": 29.6,
   "altura_mm": 33.0,
   "svg_mm": [
@@ -5042,6 +6932,12 @@
  "BX-101": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/BX-101.svg",
+  "corpo_mm": [
+   9.1,
+   8.4,
+   39.2,
+   22.4
+  ],
   "largura_mm": 43.9,
   "altura_mm": 32.2,
   "svg_mm": [
@@ -5058,6 +6954,12 @@
  "BX-102": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/BX-102.svg",
+  "corpo_mm": [
+   13.1,
+   10.8,
+   27.4,
+   36.1
+  ],
   "largura_mm": 31.4,
   "altura_mm": 36.2,
   "svg_mm": [
@@ -5074,6 +6976,12 @@
  "BX-105": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/BX-105.svg",
+  "corpo_mm": [
+   11.1,
+   9.8,
+   25.4,
+   40.0
+  ],
   "largura_mm": 30.5,
   "altura_mm": 40.1,
   "svg_mm": [
@@ -5090,6 +6998,12 @@
  "BX-106": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/BX-106.svg",
+  "corpo_mm": [
+   11.6,
+   0.1,
+   29.4,
+   28.1
+  ],
   "largura_mm": 38.5,
   "altura_mm": 36.2,
   "svg_mm": [
@@ -5106,6 +7020,12 @@
  "BX-107": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/BX-107.svg",
+  "corpo_mm": [
+   10.1,
+   9.3,
+   45.2,
+   25.0
+  ],
   "largura_mm": 45.3,
   "altura_mm": 33.0,
   "svg_mm": [
@@ -5122,6 +7042,12 @@
  "BX-108": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/BX-108.svg",
+  "corpo_mm": [
+   10.8,
+   8.6,
+   37.0,
+   33.9
+  ],
   "largura_mm": 37.1,
   "altura_mm": 34.0,
   "svg_mm": [
@@ -5138,6 +7064,12 @@
  "BX-109": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/BX-109.svg",
+  "corpo_mm": [
+   0.3,
+   7.8,
+   49.9,
+   58.1
+  ],
   "largura_mm": 61.5,
   "altura_mm": 58.2,
   "svg_mm": [
@@ -5154,6 +7086,12 @@
  "BX-111": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/BX-111.svg",
+  "corpo_mm": [
+   0.3,
+   10.2,
+   28.1,
+   57.1
+  ],
   "largura_mm": 39.4,
   "altura_mm": 57.1,
   "svg_mm": [
@@ -5170,6 +7108,12 @@
  "BX-112": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/BX-112.svg",
+  "corpo_mm": [
+   0.1,
+   8.5,
+   17.6,
+   28.5
+  ],
   "largura_mm": 28.8,
   "altura_mm": 28.7,
   "svg_mm": [
@@ -5186,6 +7130,12 @@
  "BX-113": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/BX-113.svg",
+  "corpo_mm": [
+   17.7,
+   13.7,
+   64.2,
+   30.1
+  ],
   "largura_mm": 64.3,
   "altura_mm": 30.2,
   "svg_mm": [
@@ -5202,6 +7152,12 @@
  "BX-116": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/BX-116_E-256.svg",
+  "corpo_mm": [
+   12.3,
+   13.8,
+   54.6,
+   30.9
+  ],
   "largura_mm": 54.7,
   "altura_mm": 31.0,
   "svg_mm": [
@@ -5218,6 +7174,12 @@
  "BX-153": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/BX-153.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   43.4,
+   17.2
+  ],
   "largura_mm": 53.3,
   "altura_mm": 26.6,
   "svg_mm": [
@@ -5234,6 +7196,12 @@
  "BX-155": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/BX-155.svg",
+  "corpo_mm": [
+   10.1,
+   14.9,
+   51.8,
+   32.0
+  ],
   "largura_mm": 51.9,
   "altura_mm": 40.2,
   "svg_mm": [
@@ -5250,6 +7218,12 @@
  "BX-204": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/BX-204.svg",
+  "corpo_mm": [
+   8.8,
+   6.1,
+   55.9,
+   68.2
+  ],
   "largura_mm": 56.1,
   "altura_mm": 74.1,
   "svg_mm": [
@@ -5266,6 +7240,12 @@
  "BX-205": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/BX-205.svg",
+  "corpo_mm": [
+   0.1,
+   5.5,
+   20.2,
+   67.6
+  ],
   "largura_mm": 30.4,
   "altura_mm": 75.7,
   "svg_mm": [
@@ -5282,6 +7262,12 @@
  "BX-206": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/BX-206_E-306.svg",
+  "corpo_mm": [
+   13.1,
+   14.7,
+   51.0,
+   40.8
+  ],
   "largura_mm": 51.3,
   "altura_mm": 40.9,
   "svg_mm": [
@@ -5298,6 +7284,12 @@
  "BX-209": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/BX-209.svg",
+  "corpo_mm": [
+   0.1,
+   8.6,
+   24.3,
+   23.1
+  ],
   "largura_mm": 36.2,
   "altura_mm": 34.8,
   "svg_mm": [
@@ -5314,6 +7306,12 @@
  "BX-218": {
   "pacote": "folhas-cliente",
   "arquivo": "folhas-cliente/BX-218.svg",
+  "corpo_mm": [
+   0.1,
+   4.9,
+   50.4,
+   53.2
+  ],
   "largura_mm": 51.7,
   "altura_mm": 61.6,
   "svg_mm": [
@@ -5330,6 +7328,12 @@
  "BX-219": {
   "pacote": "folhas-cliente",
   "arquivo": "folhas-cliente/BX-219.svg",
+  "corpo_mm": [
+   0.1,
+   6.7,
+   75.4,
+   80.7
+  ],
   "largura_mm": 75.5,
   "altura_mm": 89.3,
   "svg_mm": [
@@ -5346,6 +7350,12 @@
  "BX-304": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/BX-304_L-713.svg",
+  "corpo_mm": [
+   4.4,
+   10.9,
+   51.2,
+   72.5
+  ],
   "largura_mm": 58.8,
   "altura_mm": 83.3,
   "svg_mm": [
@@ -5362,6 +7372,12 @@
  "BX-305": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/BX-305_E-512.svg",
+  "corpo_mm": [
+   8.6,
+   11.4,
+   28.5,
+   73.5
+  ],
   "largura_mm": 37.9,
   "altura_mm": 82.4,
   "svg_mm": [
@@ -5378,6 +7394,12 @@
  "CA-001": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CA-001.svg",
+  "corpo_mm": [
+   12.5,
+   0.1,
+   68.9,
+   30.3
+  ],
   "largura_mm": 69.0,
   "altura_mm": 37.3,
   "svg_mm": [
@@ -5394,6 +7416,12 @@
  "CA-002": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CA-002.svg",
+  "corpo_mm": [
+   0.2,
+   4.7,
+   29.9,
+   11.4
+  ],
   "largura_mm": 41.3,
   "altura_mm": 22.8,
   "svg_mm": [
@@ -5410,6 +7438,12 @@
  "CA-005": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/CA-005.svg",
+  "corpo_mm": [
+   0.2,
+   10.0,
+   45.2,
+   55.0
+  ],
   "largura_mm": 56.7,
   "altura_mm": 55.2,
   "svg_mm": [
@@ -5426,6 +7460,12 @@
  "CC-005": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/CC-005_P-274.svg",
+  "corpo_mm": [
+   0.1,
+   0.2,
+   50.2,
+   70.2
+  ],
   "largura_mm": 62.0,
   "altura_mm": 83.8,
   "svg_mm": [
@@ -5442,6 +7482,12 @@
  "CG-003": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CG-003.svg",
+  "corpo_mm": [
+   11.2,
+   9.6,
+   61.3,
+   23.7
+  ],
   "largura_mm": 61.4,
   "altura_mm": 32.5,
   "svg_mm": [
@@ -5458,6 +7504,12 @@
  "CG-004": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CG-004.svg",
+  "corpo_mm": [
+   0.1,
+   8.2,
+   53.2,
+   24.8
+  ],
   "largura_mm": 64.4,
   "altura_mm": 24.9,
   "svg_mm": [
@@ -5474,6 +7526,12 @@
  "CG-006": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CG-006.svg",
+  "corpo_mm": [
+   10.4,
+   8.1,
+   60.5,
+   23.2
+  ],
   "largura_mm": 60.6,
   "altura_mm": 32.8,
   "svg_mm": [
@@ -5490,6 +7548,12 @@
  "CG-011": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/CG-011_D-081.svg",
+  "corpo_mm": [
+   11.9,
+   12.1,
+   47.1,
+   47.2
+  ],
   "largura_mm": 47.2,
   "altura_mm": 47.3,
   "svg_mm": [
@@ -5506,6 +7570,12 @@
  "CG-012": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CG-012.svg",
+  "corpo_mm": [
+   16.7,
+   0.1,
+   42.3,
+   35.2
+  ],
   "largura_mm": 53.2,
   "altura_mm": 43.3,
   "svg_mm": [
@@ -5522,6 +7592,12 @@
  "CG-017": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CG-017.svg",
+  "corpo_mm": [
+   9.1,
+   9.0,
+   48.7,
+   24.2
+  ],
   "largura_mm": 57.9,
   "altura_mm": 24.5,
   "svg_mm": [
@@ -5538,6 +7614,12 @@
  "CG-019": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CG-019.svg",
+  "corpo_mm": [
+   0.2,
+   8.5,
+   37.5,
+   13.4
+  ],
   "largura_mm": 46.2,
   "altura_mm": 21.9,
   "svg_mm": [
@@ -5554,6 +7636,12 @@
  "CG-021": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CG-021.svg",
+  "corpo_mm": [
+   14.6,
+   5.1,
+   28.7,
+   30.3
+  ],
   "largura_mm": 38.6,
   "altura_mm": 39.5,
   "svg_mm": [
@@ -5570,6 +7658,12 @@
  "CG-074": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CG-074.svg",
+  "corpo_mm": [
+   10.8,
+   7.7,
+   65.2,
+   23.3
+  ],
   "largura_mm": 65.4,
   "altura_mm": 31.0,
   "svg_mm": [
@@ -5586,6 +7680,12 @@
  "CG-075": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CG-075.svg",
+  "corpo_mm": [
+   15.7,
+   9.0,
+   35.8,
+   42.2
+  ],
   "largura_mm": 46.0,
   "altura_mm": 42.2,
   "svg_mm": [
@@ -5602,6 +7702,12 @@
  "CG-077": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CG-077.svg",
+  "corpo_mm": [
+   18.3,
+   0.1,
+   69.1,
+   33.5
+  ],
   "largura_mm": 77.8,
   "altura_mm": 45.3,
   "svg_mm": [
@@ -5618,6 +7724,12 @@
  "CG-080": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/CG-080.svg",
+  "corpo_mm": [
+   0.2,
+   0.1,
+   111.7,
+   99.3
+  ],
   "largura_mm": 111.7,
   "altura_mm": 100.2,
   "svg_mm": [
@@ -5634,6 +7746,12 @@
  "CG-083": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CG-083.svg",
+  "corpo_mm": [
+   10.3,
+   10.0,
+   93.7,
+   69.7
+  ],
   "largura_mm": 111.3,
   "altura_mm": 76.7,
   "svg_mm": [
@@ -5650,6 +7768,12 @@
  "CG-087": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/CG-087.svg",
+  "corpo_mm": [
+   7.2,
+   5.4,
+   22.3,
+   35.5
+  ],
   "largura_mm": 32.7,
   "altura_mm": 35.6,
   "svg_mm": [
@@ -5666,6 +7790,12 @@
  "CG-104": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CG-104.svg",
+  "corpo_mm": [
+   12.6,
+   0.1,
+   50.9,
+   50.9
+  ],
   "largura_mm": 51.0,
   "altura_mm": 58.6,
   "svg_mm": [
@@ -5682,6 +7812,12 @@
  "CG-143": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CG-143.svg",
+  "corpo_mm": [
+   13.9,
+   0.3,
+   127.7,
+   106.5
+  ],
   "largura_mm": 143.1,
   "altura_mm": 116.6,
   "svg_mm": [
@@ -5698,6 +7834,12 @@
  "CL-005": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/CL-005_L-332.svg",
+  "corpo_mm": [
+   8.6,
+   9.9,
+   48.6,
+   32.9
+  ],
   "largura_mm": 48.9,
   "altura_mm": 33.0,
   "svg_mm": [
@@ -5714,6 +7856,12 @@
  "CL-006": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/CL-006.svg",
+  "corpo_mm": [
+   9.1,
+   8.9,
+   61.2,
+   61.0
+  ],
   "largura_mm": 71.4,
   "altura_mm": 61.2,
   "svg_mm": [
@@ -5730,6 +7878,12 @@
  "CL-009": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/CL-009.svg",
+  "corpo_mm": [
+   9.7,
+   9.3,
+   76.1,
+   76.2
+  ],
   "largura_mm": 87.0,
   "altura_mm": 76.3,
   "svg_mm": [
@@ -5746,6 +7900,12 @@
  "CL-010": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/CL-010.svg",
+  "corpo_mm": [
+   0.2,
+   0.1,
+   60.6,
+   3.8
+  ],
   "largura_mm": 60.8,
   "altura_mm": 12.8,
   "svg_mm": [
@@ -5762,6 +7922,12 @@
  "CL-011": {
   "pacote": "gold",
   "arquivo": "gold/CL-011.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   50.4,
+   3.8
+  ],
   "largura_mm": 50.5,
   "altura_mm": 16.6,
   "svg_mm": [
@@ -5778,6 +7944,12 @@
  "CL-015": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CL-015.svg",
+  "corpo_mm": [
+   10.8,
+   8.7,
+   44.4,
+   28.7
+  ],
   "largura_mm": 49.9,
   "altura_mm": 35.3,
   "svg_mm": [
@@ -5794,6 +7966,12 @@
  "CL-017": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/CL-017.svg",
+  "corpo_mm": [
+   22.0,
+   14.5,
+   67.3,
+   31.8
+  ],
   "largura_mm": 67.4,
   "altura_mm": 31.9,
   "svg_mm": [
@@ -5810,6 +7988,12 @@
  "CL-022": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CL-022.svg",
+  "corpo_mm": [
+   2.2,
+   8.8,
+   19.3,
+   17.6
+  ],
   "largura_mm": 31.5,
   "altura_mm": 28.6,
   "svg_mm": [
@@ -5826,6 +8010,12 @@
  "CM-001": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/CM-001_E-494.svg",
+  "corpo_mm": [
+   31.3,
+   1.3,
+   100.3,
+   27.9
+  ],
   "largura_mm": 113.3,
   "altura_mm": 43.5,
   "svg_mm": [
@@ -5842,6 +8032,12 @@
  "CM-002": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/CM-002.svg",
+  "corpo_mm": [
+   8.5,
+   10.1,
+   42.0,
+   36.9
+  ],
   "largura_mm": 42.1,
   "altura_mm": 37.0,
   "svg_mm": [
@@ -5858,6 +8054,12 @@
  "CM-003": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/CM-003_E-495.svg",
+  "corpo_mm": [
+   5.8,
+   1.2,
+   88.2,
+   27.8
+  ],
   "largura_mm": 89.3,
   "altura_mm": 40.1,
   "svg_mm": [
@@ -5874,6 +8076,12 @@
  "CM-004": {
   "pacote": "gold",
   "arquivo": "gold/CM-004_CM-0004.svg",
+  "corpo_mm": [
+   26.7,
+   7.9,
+   71.3,
+   34.6
+  ],
   "largura_mm": 80.7,
   "altura_mm": 45.0,
   "svg_mm": [
@@ -5890,6 +8098,12 @@
  "CM-005": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/CM-005.svg",
+  "corpo_mm": [
+   0.1,
+   9.7,
+   28.8,
+   34.0
+  ],
   "largura_mm": 38.0,
   "altura_mm": 34.0,
   "svg_mm": [
@@ -5906,6 +8120,12 @@
  "CM-006": {
   "pacote": "gold",
   "arquivo": "gold/CM-006.svg",
+  "corpo_mm": [
+   0.2,
+   0.1,
+   17.3,
+   40.5
+  ],
   "largura_mm": 37.7,
   "altura_mm": 48.7,
   "svg_mm": [
@@ -5922,6 +8142,12 @@
  "CM-007": {
   "pacote": "gold",
   "arquivo": "gold/CM-007.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   17.2,
+   33.4
+  ],
   "largura_mm": 38.2,
   "altura_mm": 42.6,
   "svg_mm": [
@@ -5938,6 +8164,12 @@
  "CM-008": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CM-008.svg",
+  "corpo_mm": [
+   12.5,
+   10.3,
+   40.6,
+   34.8
+  ],
   "largura_mm": 40.7,
   "altura_mm": 35.2,
   "svg_mm": [
@@ -5954,6 +8186,12 @@
  "CM-013": {
   "pacote": "gold",
   "arquivo": "gold/CM-013.svg",
+  "corpo_mm": [
+   9.8,
+   8.4,
+   34.6,
+   23.6
+  ],
   "largura_mm": 34.7,
   "altura_mm": 23.7,
   "svg_mm": [
@@ -5970,6 +8208,12 @@
  "CM-014": {
   "pacote": "gold",
   "arquivo": "gold/CM-014.svg",
+  "corpo_mm": [
+   8.8,
+   8.1,
+   24.6,
+   23.4
+  ],
   "largura_mm": 29.3,
   "altura_mm": 23.5,
   "svg_mm": [
@@ -5986,6 +8230,12 @@
  "CM-029": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CM-029.svg",
+  "corpo_mm": [
+   8.2,
+   7.4,
+   44.1,
+   33.3
+  ],
   "largura_mm": 53.4,
   "altura_mm": 42.3,
   "svg_mm": [
@@ -6002,6 +8252,12 @@
  "CM-060": {
   "pacote": "gold",
   "arquivo": "gold/CM-060.svg",
+  "corpo_mm": [
+   10.1,
+   6.6,
+   48.4,
+   31.0
+  ],
   "largura_mm": 57.1,
   "altura_mm": 33.3,
   "svg_mm": [
@@ -6018,6 +8274,12 @@
  "CM-063": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/CM-063.svg",
+  "corpo_mm": [
+   11.6,
+   5.9,
+   38.5,
+   30.1
+  ],
   "largura_mm": 49.0,
   "altura_mm": 35.5,
   "svg_mm": [
@@ -6034,6 +8296,12 @@
  "CM-064": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/CM-064.svg",
+  "corpo_mm": [
+   0.2,
+   0.1,
+   26.9,
+   24.3
+  ],
   "largura_mm": 45.7,
   "altura_mm": 37.9,
   "svg_mm": [
@@ -6050,6 +8318,12 @@
  "CM-065": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/CM-065.svg",
+  "corpo_mm": [
+   0.1,
+   10.5,
+   45.5,
+   25.6
+  ],
   "largura_mm": 66.5,
   "altura_mm": 35.2,
   "svg_mm": [
@@ -6066,6 +8340,12 @@
  "CM-067": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "geral-hera/CM-067_MAC-0693.svg",
+  "corpo_mm": [
+   8.4,
+   7.9,
+   63.6,
+   21.1
+  ],
   "largura_mm": 74.0,
   "altura_mm": 21.2,
   "svg_mm": [
@@ -6082,6 +8362,12 @@
  "CM-093": {
   "pacote": "gold",
   "arquivo": "geral-alcoa/CM-093.svg",
+  "corpo_mm": [
+   0.1,
+   15.6,
+   129.9,
+   29.9
+  ],
   "largura_mm": 130.1,
   "altura_mm": 45.2,
   "svg_mm": [
@@ -6098,6 +8384,12 @@
  "CM-098": {
   "pacote": "gold",
   "arquivo": "gold/CM-098_CM098.svg",
+  "corpo_mm": [
+   10.5,
+   9.8,
+   52.0,
+   56.9
+  ],
   "largura_mm": 52.1,
   "altura_mm": 65.4,
   "svg_mm": [
@@ -6114,6 +8406,12 @@
  "CM-110": {
   "pacote": "suprema",
   "arquivo": "suprema/CM-110.svg",
+  "corpo_mm": [
+   8.1,
+   7.4,
+   37.7,
+   32.2
+  ],
   "largura_mm": 49.2,
   "altura_mm": 42.8,
   "svg_mm": [
@@ -6130,6 +8428,12 @@
  "CM-111": {
   "pacote": "suprema",
   "arquivo": "suprema/CM-111.svg",
+  "corpo_mm": [
+   4.8,
+   7.0,
+   17.9,
+   40.6
+  ],
   "largura_mm": 35.1,
   "altura_mm": 40.7,
   "svg_mm": [
@@ -6146,6 +8450,12 @@
  "CM-130": {
   "pacote": "suprema",
   "arquivo": "suprema/CM-130.svg",
+  "corpo_mm": [
+   12.2,
+   9.3,
+   25.2,
+   42.9
+  ],
   "largura_mm": 38.4,
   "altura_mm": 58.2,
   "svg_mm": [
@@ -6162,6 +8472,12 @@
  "CM-151": {
   "pacote": "gold",
   "arquivo": "gold/CM-151_CM151.svg",
+  "corpo_mm": [
+   10.5,
+   9.0,
+   38.7,
+   56.2
+  ],
   "largura_mm": 48.4,
   "altura_mm": 63.4,
   "svg_mm": [
@@ -6178,6 +8494,12 @@
  "CM-169": {
   "pacote": "gold",
   "arquivo": "gold/CM-169.svg",
+  "corpo_mm": [
+   7.8,
+   10.5,
+   52.2,
+   45.8
+  ],
   "largura_mm": 59.8,
   "altura_mm": 54.4,
   "svg_mm": [
@@ -6194,6 +8516,12 @@
  "CX-001": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/CX-001.svg",
+  "corpo_mm": [
+   11.1,
+   12.3,
+   48.6,
+   26.5
+  ],
   "largura_mm": 57.7,
   "altura_mm": 38.8,
   "svg_mm": [
@@ -6210,6 +8538,12 @@
  "CX-002": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/CX-002.svg",
+  "corpo_mm": [
+   9.1,
+   10.0,
+   40.4,
+   24.1
+  ],
   "largura_mm": 50.5,
   "altura_mm": 32.3,
   "svg_mm": [
@@ -6226,6 +8560,12 @@
  "CX-071": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/CX-071.svg",
+  "corpo_mm": [
+   11.6,
+   2.3,
+   67.0,
+   49.4
+  ],
   "largura_mm": 67.1,
   "altura_mm": 60.9,
   "svg_mm": [
@@ -6242,6 +8582,12 @@
  "CX-085": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/CX-085.svg",
+  "corpo_mm": [
+   11.1,
+   6.3,
+   93.8,
+   66.1
+  ],
   "largura_mm": 98.8,
   "altura_mm": 71.4,
   "svg_mm": [
@@ -6258,6 +8604,12 @@
  "CX-1225": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/CX-1225.svg",
+  "corpo_mm": [
+   11.3,
+   0.1,
+   23.5,
+   25.3
+  ],
   "largura_mm": 28.2,
   "altura_mm": 34.7,
   "svg_mm": [
@@ -6274,6 +8626,12 @@
  "CX-1226": {
   "pacote": "suprema",
   "arquivo": "suprema/CX-1226.svg",
+  "corpo_mm": [
+   10.4,
+   0.1,
+   45.6,
+   35.3
+  ],
   "largura_mm": 45.7,
   "altura_mm": 47.5,
   "svg_mm": [
@@ -6290,6 +8648,12 @@
  "CX-5438": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/CX-5438.svg",
+  "corpo_mm": [
+   13.3,
+   12.5,
+   38.5,
+   23.2
+  ],
   "largura_mm": 48.9,
   "altura_mm": 23.3,
   "svg_mm": [
@@ -6306,6 +8670,12 @@
  "D-102": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/D-102.svg",
+  "corpo_mm": [
+   9.3,
+   7.3,
+   47.4,
+   45.3
+  ],
   "largura_mm": 47.5,
   "altura_mm": 45.4,
   "svg_mm": [
@@ -6322,6 +8692,12 @@
  "D-143": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote10/D-143_CX-085.svg",
+  "corpo_mm": [
+   13.3,
+   12.3,
+   96.0,
+   72.1
+  ],
   "largura_mm": 96.1,
   "altura_mm": 81.1,
   "svg_mm": [
@@ -6338,6 +8714,12 @@
  "DS-005": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/DS-005_Z-063.svg",
+  "corpo_mm": [
+   0.1,
+   8.6,
+   38.6,
+   33.2
+  ],
   "largura_mm": 48.4,
   "altura_mm": 33.2,
   "svg_mm": [
@@ -6354,6 +8736,12 @@
  "DS-006": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/DS-006.svg",
+  "corpo_mm": [
+   7.5,
+   0.2,
+   47.7,
+   28.4
+  ],
   "largura_mm": 48.1,
   "altura_mm": 34.3,
   "svg_mm": [
@@ -6370,6 +8758,12 @@
  "DS-015": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/DS-015_E-463.svg",
+  "corpo_mm": [
+   0.2,
+   1.7,
+   34.7,
+   26.9
+  ],
   "largura_mm": 37.0,
   "altura_mm": 32.5,
   "svg_mm": [
@@ -6386,6 +8780,12 @@
  "DS-016": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/DS-016_I-151.svg",
+  "corpo_mm": [
+   1.7,
+   1.7,
+   22.8,
+   30.8
+  ],
   "largura_mm": 31.0,
   "altura_mm": 31.0,
   "svg_mm": [
@@ -6402,6 +8802,12 @@
  "DS-017": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/DS-017_E-252.svg",
+  "corpo_mm": [
+   14.4,
+   13.0,
+   32.6,
+   28.8
+  ],
   "largura_mm": 33.4,
   "altura_mm": 30.5,
   "svg_mm": [
@@ -6418,6 +8824,12 @@
  "DS-020": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/DS-020_I-186.svg",
+  "corpo_mm": [
+   1.7,
+   1.7,
+   34.2,
+   28.9
+  ],
   "largura_mm": 37.5,
   "altura_mm": 29.1,
   "svg_mm": [
@@ -6434,6 +8846,12 @@
  "DS-021": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/DS-021_I-185.svg",
+  "corpo_mm": [
+   3.2,
+   1.1,
+   34.6,
+   28.7
+  ],
   "largura_mm": 37.6,
   "altura_mm": 30.9,
   "svg_mm": [
@@ -6450,6 +8868,12 @@
  "DS-023": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/DS-023.svg",
+  "corpo_mm": [
+   12.9,
+   7.7,
+   29.5,
+   15.7
+  ],
   "largura_mm": 34.3,
   "altura_mm": 24.3,
   "svg_mm": [
@@ -6466,6 +8890,12 @@
  "DS-024": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/DS-024.svg",
+  "corpo_mm": [
+   9.8,
+   6.7,
+   34.7,
+   14.6
+  ],
   "largura_mm": 40.4,
   "altura_mm": 20.2,
   "svg_mm": [
@@ -6482,6 +8912,12 @@
  "DS-027": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/DS-027.svg",
+  "corpo_mm": [
+   4.1,
+   12.6,
+   18.7,
+   34.1
+  ],
   "largura_mm": 27.5,
   "altura_mm": 43.7,
   "svg_mm": [
@@ -6498,6 +8934,12 @@
  "DS-028": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/DS-028_T-180.svg",
+  "corpo_mm": [
+   1.7,
+   3.7,
+   34.0,
+   45.9
+  ],
   "largura_mm": 34.0,
   "altura_mm": 47.6,
   "svg_mm": [
@@ -6514,6 +8956,12 @@
  "DS-030": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/DS-030.svg",
+  "corpo_mm": [
+   8.9,
+   8.5,
+   40.1,
+   43.7
+  ],
   "largura_mm": 50.7,
   "altura_mm": 43.7,
   "svg_mm": [
@@ -6530,6 +8978,12 @@
  "DS-033": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/DS-033.svg",
+  "corpo_mm": [
+   3.6,
+   9.0,
+   56.8,
+   22.8
+  ],
   "largura_mm": 67.4,
   "altura_mm": 40.3,
   "svg_mm": [
@@ -6546,6 +9000,12 @@
  "DS-034": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/DS-034.svg",
+  "corpo_mm": [
+   3.5,
+   9.1,
+   80.3,
+   23.0
+  ],
   "largura_mm": 90.8,
   "altura_mm": 40.8,
   "svg_mm": [
@@ -6562,6 +9022,12 @@
  "DS-152": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/DS-152.svg",
+  "corpo_mm": [
+   9.8,
+   12.0,
+   48.2,
+   50.2
+  ],
   "largura_mm": 59.8,
   "altura_mm": 57.5,
   "svg_mm": [
@@ -6578,6 +9044,12 @@
  "DS-238": {
   "pacote": "gold",
   "arquivo": "gold/DS-238_DS238.svg",
+  "corpo_mm": [
+   0.2,
+   8.4,
+   40.8,
+   55.1
+  ],
   "largura_mm": 41.1,
   "altura_mm": 55.3,
   "svg_mm": [
@@ -6594,6 +9066,12 @@
  "DV-021": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/DV-021.svg",
+  "corpo_mm": [
+   15.5,
+   13.9,
+   56.7,
+   34.1
+  ],
   "largura_mm": 56.8,
   "altura_mm": 34.2,
   "svg_mm": [
@@ -6610,6 +9088,12 @@
  "DV-055": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-tera/DV-055.svg",
+  "corpo_mm": [
+   15.3,
+   6.7,
+   67.9,
+   16.9
+  ],
   "largura_mm": 68.0,
   "altura_mm": 24.5,
   "svg_mm": [
@@ -6626,6 +9110,12 @@
  "DV-071": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/DV-071.svg",
+  "corpo_mm": [
+   12.4,
+   9.9,
+   57.5,
+   27.9
+  ],
   "largura_mm": 57.6,
   "altura_mm": 28.0,
   "svg_mm": [
@@ -6642,6 +9132,12 @@
  "DV-072": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/DV-072.svg",
+  "corpo_mm": [
+   12.8,
+   8.1,
+   57.9,
+   37.2
+  ],
   "largura_mm": 58.0,
   "altura_mm": 37.4,
   "svg_mm": [
@@ -6658,6 +9154,12 @@
  "DV-073": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/DV-073.svg",
+  "corpo_mm": [
+   10.4,
+   13.6,
+   55.5,
+   41.5
+  ],
   "largura_mm": 67.6,
   "altura_mm": 41.6,
   "svg_mm": [
@@ -6674,6 +9176,12 @@
  "DV-074": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/DV-074.svg",
+  "corpo_mm": [
+   17.2,
+   0.2,
+   62.4,
+   29.6
+  ],
   "largura_mm": 75.7,
   "altura_mm": 37.0,
   "svg_mm": [
@@ -6690,6 +9198,12 @@
  "DV-100": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/DV-100.svg",
+  "corpo_mm": [
+   8.6,
+   12.5,
+   61.9,
+   58.2
+  ],
   "largura_mm": 72.5,
   "altura_mm": 58.6,
   "svg_mm": [
@@ -6706,6 +9220,12 @@
  "DV-101": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-tera/DV-101.svg",
+  "corpo_mm": [
+   7.3,
+   6.7,
+   60.5,
+   60.0
+  ],
   "largura_mm": 72.7,
   "altura_mm": 60.1,
   "svg_mm": [
@@ -6722,6 +9242,12 @@
  "DV-102": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/DV-102.svg",
+  "corpo_mm": [
+   11.9,
+   7.7,
+   30.3,
+   60.8
+  ],
   "largura_mm": 41.5,
   "altura_mm": 67.8,
   "svg_mm": [
@@ -6738,6 +9264,12 @@
  "DV-103": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/DV-103.svg",
+  "corpo_mm": [
+   7.7,
+   7.6,
+   59.9,
+   23.7
+  ],
   "largura_mm": 60.0,
   "altura_mm": 32.0,
   "svg_mm": [
@@ -6754,6 +9286,12 @@
  "DV-105": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote9/DV-105_DV-129.svg",
+  "corpo_mm": [
+   8.8,
+   12.8,
+   61.1,
+   33.0
+  ],
   "largura_mm": 70.4,
   "altura_mm": 33.1,
   "svg_mm": [
@@ -6770,6 +9308,12 @@
  "DV-108": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/DV-108.svg",
+  "corpo_mm": [
+   9.3,
+   14.3,
+   46.7,
+   26.4
+  ],
   "largura_mm": 58.0,
   "altura_mm": 32.8,
   "svg_mm": [
@@ -6786,6 +9330,12 @@
  "DV-110": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/DV-110.svg",
+  "corpo_mm": [
+   13.8,
+   0.2,
+   58.9,
+   19.2
+  ],
   "largura_mm": 59.0,
   "altura_mm": 31.2,
   "svg_mm": [
@@ -6802,6 +9352,12 @@
  "DV-111": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/DV-111.svg",
+  "corpo_mm": [
+   0.2,
+   7.9,
+   38.0,
+   19.4
+  ],
   "largura_mm": 45.9,
   "altura_mm": 25.9,
   "svg_mm": [
@@ -6818,6 +9374,12 @@
  "DV-112": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/DV-112.svg",
+  "corpo_mm": [
+   16.5,
+   18.8,
+   51.6,
+   40.4
+  ],
   "largura_mm": 66.7,
   "altura_mm": 40.6,
   "svg_mm": [
@@ -6834,6 +9396,12 @@
  "DV-113": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/DV-113.svg",
+  "corpo_mm": [
+   4.8,
+   7.8,
+   14.9,
+   57.9
+  ],
   "largura_mm": 24.3,
   "altura_mm": 57.9,
   "svg_mm": [
@@ -6850,6 +9418,12 @@
  "DV-115": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/DV-115.svg",
+  "corpo_mm": [
+   4.7,
+   0.2,
+   16.8,
+   64.6
+  ],
   "largura_mm": 26.8,
   "altura_mm": 72.5,
   "svg_mm": [
@@ -6866,6 +9440,12 @@
  "DV-211": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/DV-211.svg",
+  "corpo_mm": [
+   13.8,
+   0.1,
+   17.6,
+   60.1
+  ],
   "largura_mm": 25.5,
   "altura_mm": 60.3,
   "svg_mm": [
@@ -6882,6 +9462,12 @@
  "DV-300": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/DV-300.svg",
+  "corpo_mm": [
+   7.1,
+   11.0,
+   67.6,
+   91.1
+  ],
   "largura_mm": 82.9,
   "altura_mm": 91.2,
   "svg_mm": [
@@ -6898,6 +9484,12 @@
  "DV-302": {
   "pacote": "folhas-cliente",
   "arquivo": "folhas-cliente/DV-302.svg",
+  "corpo_mm": [
+   7.6,
+   8.6,
+   42.8,
+   62.8
+  ],
   "largura_mm": 52.7,
   "altura_mm": 71.8,
   "svg_mm": [
@@ -6914,6 +9506,12 @@
  "DV-400": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/DV-400.svg",
+  "corpo_mm": [
+   9.2,
+   9.3,
+   47.4,
+   19.0
+  ],
   "largura_mm": 47.4,
   "altura_mm": 26.4,
   "svg_mm": [
@@ -6930,6 +9528,12 @@
  "E-484": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/E-484.svg",
+  "corpo_mm": [
+   0.5,
+   1.1,
+   105.7,
+   25.2
+  ],
   "largura_mm": 122.9,
   "altura_mm": 36.6,
   "svg_mm": [
@@ -6946,6 +9550,12 @@
  "E-725": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/E-725_39-1271C.svg",
+  "corpo_mm": [
+   14.4,
+   9.8,
+   60.4,
+   34.9
+  ],
   "largura_mm": 60.6,
   "altura_mm": 35.0,
   "svg_mm": [
@@ -6962,6 +9572,12 @@
  "ES-001": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-001.svg",
+  "corpo_mm": [
+   9.9,
+   9.6,
+   71.5,
+   66.0
+  ],
   "largura_mm": 77.6,
   "altura_mm": 78.0,
   "svg_mm": [
@@ -6978,6 +9594,12 @@
  "ES-002": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-002.svg",
+  "corpo_mm": [
+   15.4,
+   8.7,
+   49.8,
+   83.7
+  ],
   "largura_mm": 63.1,
   "altura_mm": 91.1,
   "svg_mm": [
@@ -6994,6 +9616,12 @@
  "ES-004": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-004.svg",
+  "corpo_mm": [
+   18.5,
+   0.4,
+   61.6,
+   43.9
+  ],
   "largura_mm": 62.4,
   "altura_mm": 51.6,
   "svg_mm": [
@@ -7010,6 +9638,12 @@
  "ES-006": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-006.svg",
+  "corpo_mm": [
+   1.6,
+   7.3,
+   33.6,
+   36.9
+  ],
   "largura_mm": 36.2,
   "altura_mm": 37.0,
   "svg_mm": [
@@ -7026,6 +9660,12 @@
  "ES-010": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-010.svg",
+  "corpo_mm": [
+   0.2,
+   0.1,
+   30.3,
+   34.5
+  ],
   "largura_mm": 39.3,
   "altura_mm": 41.9,
   "svg_mm": [
@@ -7042,6 +9682,12 @@
  "ES-016": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-016.svg",
+  "corpo_mm": [
+   0.4,
+   0.1,
+   61.7,
+   43.5
+  ],
   "largura_mm": 86.1,
   "altura_mm": 54.2,
   "svg_mm": [
@@ -7058,6 +9704,12 @@
  "ES-018": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-018.svg",
+  "corpo_mm": [
+   19.0,
+   10.0,
+   80.8,
+   65.1
+  ],
   "largura_mm": 90.0,
   "altura_mm": 76.2,
   "svg_mm": [
@@ -7074,6 +9726,12 @@
  "ES-019": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-019.svg",
+  "corpo_mm": [
+   22.8,
+   0.4,
+   66.6,
+   56.2
+  ],
   "largura_mm": 68.0,
   "altura_mm": 63.7,
   "svg_mm": [
@@ -7090,6 +9748,12 @@
  "ES-022": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-022.svg",
+  "corpo_mm": [
+   11.0,
+   9.3,
+   42.8,
+   31.6
+  ],
   "largura_mm": 42.9,
   "altura_mm": 31.7,
   "svg_mm": [
@@ -7106,6 +9770,12 @@
  "ES-024": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-024.svg",
+  "corpo_mm": [
+   0.3,
+   7.3,
+   13.6,
+   17.0
+  ],
   "largura_mm": 18.9,
   "altura_mm": 22.1,
   "svg_mm": [
@@ -7122,6 +9792,12 @@
  "ES-028": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-028.svg",
+  "corpo_mm": [
+   26.2,
+   16.0,
+   60.5,
+   108.7
+  ],
   "largura_mm": 72.1,
   "altura_mm": 116.1,
   "svg_mm": [
@@ -7138,6 +9814,12 @@
  "ES-030": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-030.svg",
+  "corpo_mm": [
+   13.6,
+   11.5,
+   60.2,
+   58.6
+  ],
   "largura_mm": 62.5,
   "altura_mm": 65.1,
   "svg_mm": [
@@ -7154,6 +9836,12 @@
  "ES-031": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-031.svg",
+  "corpo_mm": [
+   10.4,
+   14.4,
+   63.0,
+   78.7
+  ],
   "largura_mm": 72.7,
   "altura_mm": 80.7,
   "svg_mm": [
@@ -7170,6 +9858,12 @@
  "ES-033": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-033.svg",
+  "corpo_mm": [
+   10.1,
+   6.0,
+   33.0,
+   31.0
+  ],
   "largura_mm": 46.5,
   "altura_mm": 31.0,
   "svg_mm": [
@@ -7186,6 +9880,12 @@
  "ES-034": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-034.svg",
+  "corpo_mm": [
+   8.3,
+   7.8,
+   41.1,
+   32.7
+  ],
   "largura_mm": 52.0,
   "altura_mm": 32.8,
   "svg_mm": [
@@ -7202,6 +9902,12 @@
  "ES-040": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-040.svg",
+  "corpo_mm": [
+   11.7,
+   0.1,
+   78.7,
+   71.6
+  ],
   "largura_mm": 79.1,
   "altura_mm": 79.3,
   "svg_mm": [
@@ -7218,6 +9924,12 @@
  "ES-042R": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-042R.svg",
+  "corpo_mm": [
+   22.5,
+   0.4,
+   94.3,
+   79.9
+  ],
   "largura_mm": 94.4,
   "altura_mm": 80.0,
   "svg_mm": [
@@ -7234,6 +9946,12 @@
  "ES-046": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-046.svg",
+  "corpo_mm": [
+   19.2,
+   9.1,
+   71.4,
+   104.6
+  ],
   "largura_mm": 80.3,
   "altura_mm": 106.7,
   "svg_mm": [
@@ -7250,6 +9968,12 @@
  "ES-047": {
   "pacote": "lotes-avulsos",
   "arquivo": "euroshow/ES-047.svg",
+  "corpo_mm": [
+   14.7,
+   10.2,
+   67.1,
+   110.5
+  ],
   "largura_mm": 78.0,
   "altura_mm": 110.6,
   "svg_mm": [
@@ -7266,6 +9990,12 @@
  "FC-012": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-012.svg",
+  "corpo_mm": [
+   0.2,
+   0.1,
+   40.1,
+   79.6
+  ],
   "largura_mm": 54.2,
   "altura_mm": 91.6,
   "svg_mm": [
@@ -7282,6 +10012,12 @@
  "FC-013": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-013.svg",
+  "corpo_mm": [
+   0.2,
+   10.7,
+   42.2,
+   30.6
+  ],
   "largura_mm": 52.6,
   "altura_mm": 38.1,
   "svg_mm": [
@@ -7298,6 +10034,12 @@
  "FC-014": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-014.svg",
+  "corpo_mm": [
+   0.1,
+   8.7,
+   40.0,
+   22.8
+  ],
   "largura_mm": 48.9,
   "altura_mm": 22.8,
   "svg_mm": [
@@ -7314,6 +10056,12 @@
  "FC-017": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-017.svg",
+  "corpo_mm": [
+   0.1,
+   0.2,
+   50.7,
+   99.4
+  ],
   "largura_mm": 64.0,
   "altura_mm": 109.6,
   "svg_mm": [
@@ -7330,6 +10078,12 @@
  "FC-085": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-085.svg",
+  "corpo_mm": [
+   0.1,
+   11.8,
+   60.2,
+   19.0
+  ],
   "largura_mm": 60.3,
   "altura_mm": 29.2,
   "svg_mm": [
@@ -7346,6 +10100,12 @@
  "FC-087": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/FC-087.svg",
+  "corpo_mm": [
+   4.9,
+   2.3,
+   154.5,
+   52.3
+  ],
   "largura_mm": 163.3,
   "altura_mm": 60.0,
   "svg_mm": [
@@ -7362,6 +10122,12 @@
  "FC-088": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-088.svg",
+  "corpo_mm": [
+   9.7,
+   13.9,
+   158.7,
+   61.8
+  ],
   "largura_mm": 169.7,
   "altura_mm": 61.9,
   "svg_mm": [
@@ -7378,6 +10144,12 @@
  "FC-202": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-202.svg",
+  "corpo_mm": [
+   13.1,
+   8.5,
+   88.3,
+   105.5
+  ],
   "largura_mm": 105.6,
   "altura_mm": 113.8,
   "svg_mm": [
@@ -7394,6 +10166,12 @@
  "FC-225": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-225.svg",
+  "corpo_mm": [
+   7.9,
+   6.9,
+   52.4,
+   49.3
+  ],
   "largura_mm": 66.1,
   "altura_mm": 49.4,
   "svg_mm": [
@@ -7410,6 +10188,12 @@
  "FC-227": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/FC-227.svg",
+  "corpo_mm": [
+   0.1,
+   13.8,
+   61.8,
+   74.4
+  ],
   "largura_mm": 77.6,
   "altura_mm": 74.5,
   "svg_mm": [
@@ -7426,6 +10210,12 @@
  "FC-228": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-228.svg",
+  "corpo_mm": [
+   10.5,
+   11.4,
+   60.5,
+   46.0
+  ],
   "largura_mm": 70.3,
   "altura_mm": 52.6,
   "svg_mm": [
@@ -7442,6 +10232,12 @@
  "FC-229": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/FC-229.svg",
+  "corpo_mm": [
+   0.2,
+   10.4,
+   84.5,
+   23.5
+  ],
   "largura_mm": 96.0,
   "altura_mm": 32.7,
   "svg_mm": [
@@ -7458,6 +10254,12 @@
  "FC-231": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-231.svg",
+  "corpo_mm": [
+   0.1,
+   11.5,
+   75.3,
+   55.7
+  ],
   "largura_mm": 82.0,
   "altura_mm": 64.8,
   "svg_mm": [
@@ -7474,6 +10276,12 @@
  "FC-232": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/FC-232.svg",
+  "corpo_mm": [
+   0.2,
+   0.4,
+   75.3,
+   57.6
+  ],
   "largura_mm": 76.4,
   "altura_mm": 68.8,
   "svg_mm": [
@@ -7490,6 +10298,12 @@
  "FC-243": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-243.svg",
+  "corpo_mm": [
+   11.8,
+   11.6,
+   109.2,
+   54.1
+  ],
   "largura_mm": 124.4,
   "altura_mm": 65.3,
   "svg_mm": [
@@ -7506,6 +10320,12 @@
  "FC-246": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-246.svg",
+  "corpo_mm": [
+   11.9,
+   11.6,
+   118.1,
+   33.2
+  ],
   "largura_mm": 132.5,
   "altura_mm": 33.3,
   "svg_mm": [
@@ -7522,6 +10342,12 @@
  "FC-249": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-249.svg",
+  "corpo_mm": [
+   15.7,
+   12.3,
+   71.6,
+   75.1
+  ],
   "largura_mm": 79.8,
   "altura_mm": 75.3,
   "svg_mm": [
@@ -7538,6 +10364,12 @@
  "FC-250": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-250.svg",
+  "corpo_mm": [
+   12.8,
+   10.7,
+   135.9,
+   35.6
+  ],
   "largura_mm": 148.3,
   "altura_mm": 35.8,
   "svg_mm": [
@@ -7554,6 +10386,12 @@
  "FC-258": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/FC-258.svg",
+  "corpo_mm": [
+   0.1,
+   1.1,
+   75.0,
+   10.3
+  ],
   "largura_mm": 83.7,
   "altura_mm": 19.4,
   "svg_mm": [
@@ -7570,6 +10408,12 @@
  "FC-261": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-261.svg",
+  "corpo_mm": [
+   11.3,
+   11.0,
+   51.4,
+   45.6
+  ],
   "largura_mm": 65.6,
   "altura_mm": 53.0,
   "svg_mm": [
@@ -7586,6 +10430,12 @@
  "FC-293": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-293.svg",
+  "corpo_mm": [
+   18.3,
+   16.0,
+   73.9,
+   49.6
+  ],
   "largura_mm": 74.2,
   "altura_mm": 49.7,
   "svg_mm": [
@@ -7602,6 +10452,12 @@
  "FC-542": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-542.svg",
+  "corpo_mm": [
+   0.1,
+   8.6,
+   52.7,
+   28.5
+  ],
   "largura_mm": 62.9,
   "altura_mm": 34.6,
   "svg_mm": [
@@ -7618,6 +10474,12 @@
  "FC-543": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/FC-543.svg",
+  "corpo_mm": [
+   0.1,
+   7.0,
+   50.7,
+   21.0
+  ],
   "largura_mm": 60.7,
   "altura_mm": 21.1,
   "svg_mm": [
@@ -7634,6 +10496,12 @@
  "LB-036": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/LB-036.svg",
+  "corpo_mm": [
+   4.2,
+   20.7,
+   172.9,
+   27.2
+  ],
   "largura_mm": 173.0,
   "altura_mm": 37.5,
   "svg_mm": [
@@ -7650,6 +10518,12 @@
  "LB-038": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/LB-038.svg",
+  "corpo_mm": [
+   0.4,
+   0.1,
+   189.0,
+   50.1
+  ],
   "largura_mm": 189.4,
   "altura_mm": 67.7,
   "svg_mm": [
@@ -7666,6 +10540,12 @@
  "LB-050": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/LB-050.svg",
+  "corpo_mm": [
+   9.6,
+   6.1,
+   177.6,
+   11.9
+  ],
   "largura_mm": 178.1,
   "altura_mm": 29.5,
   "svg_mm": [
@@ -7682,6 +10562,12 @@
  "LB-051": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/LB-051_Y-360.svg",
+  "corpo_mm": [
+   0.8,
+   0.1,
+   167.7,
+   7.1
+  ],
   "largura_mm": 168.4,
   "altura_mm": 15.8,
   "svg_mm": [
@@ -7698,6 +10584,12 @@
  "LB-069": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/LB-069.svg",
+  "corpo_mm": [
+   0.1,
+   0.2,
+   45.5,
+   181.2
+  ],
   "largura_mm": 81.8,
   "altura_mm": 196.1,
   "svg_mm": [
@@ -7714,6 +10606,12 @@
  "LB072": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/LB072.svg",
+  "corpo_mm": [
+   9.6,
+   0.2,
+   174.6,
+   38.3
+  ],
   "largura_mm": 174.7,
   "altura_mm": 55.8,
   "svg_mm": [
@@ -7730,6 +10628,12 @@
  "LB073": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/LB073.svg",
+  "corpo_mm": [
+   9.1,
+   0.1,
+   161.8,
+   36.2
+  ],
   "largura_mm": 162.0,
   "altura_mm": 53.0,
   "svg_mm": [
@@ -7746,6 +10650,12 @@
  "LB074": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/LB074.svg",
+  "corpo_mm": [
+   8.8,
+   0.1,
+   185.7,
+   28.2
+  ],
   "largura_mm": 185.9,
   "altura_mm": 45.9,
   "svg_mm": [
@@ -7762,6 +10672,12 @@
  "LG-002": {
   "pacote": "gold",
   "arquivo": "gold/LG-002.svg",
+  "corpo_mm": [
+   9.7,
+   11.2,
+   112.5,
+   37.5
+  ],
   "largura_mm": 123.9,
   "altura_mm": 37.6,
   "svg_mm": [
@@ -7778,6 +10694,12 @@
  "LG-003": {
   "pacote": "gold",
   "arquivo": "gold/LG-003.svg",
+  "corpo_mm": [
+   14.4,
+   12.7,
+   117.2,
+   39.0
+  ],
   "largura_mm": 127.3,
   "altura_mm": 43.7,
   "svg_mm": [
@@ -7794,6 +10716,12 @@
  "LG-004": {
   "pacote": "gold",
   "arquivo": "gold/LG-004.svg",
+  "corpo_mm": [
+   15.1,
+   7.8,
+   116.2,
+   70.3
+  ],
   "largura_mm": 146.6,
   "altura_mm": 80.8,
   "svg_mm": [
@@ -7810,6 +10738,12 @@
  "LG-005": {
   "pacote": "gold",
   "arquivo": "gold/LG-005.svg",
+  "corpo_mm": [
+   0.1,
+   4.5,
+   101.2,
+   92.1
+  ],
   "largura_mm": 101.4,
   "altura_mm": 92.2,
   "svg_mm": [
@@ -7826,6 +10760,12 @@
  "LG-006": {
   "pacote": "gold",
   "arquivo": "gold/LG-006.svg",
+  "corpo_mm": [
+   21.3,
+   10.2,
+   50.1,
+   66.9
+  ],
   "largura_mm": 68.7,
   "altura_mm": 67.0,
   "svg_mm": [
@@ -7842,6 +10782,12 @@
  "LG-007": {
   "pacote": "gold",
   "arquivo": "gold/LG-007.svg",
+  "corpo_mm": [
+   20.0,
+   0.1,
+   48.8,
+   100.7
+  ],
   "largura_mm": 73.0,
   "altura_mm": 100.8,
   "svg_mm": [
@@ -7858,6 +10804,12 @@
  "LG-015": {
   "pacote": "gold",
   "arquivo": "gold/LG-015.svg",
+  "corpo_mm": [
+   9.2,
+   12.0,
+   28.1,
+   30.3
+  ],
   "largura_mm": 40.0,
   "altura_mm": 30.3,
   "svg_mm": [
@@ -7874,6 +10826,12 @@
  "LG-016": {
   "pacote": "gold",
   "arquivo": "gold/LG-016.svg",
+  "corpo_mm": [
+   18.9,
+   11.1,
+   41.0,
+   48.9
+  ],
   "largura_mm": 62.9,
   "altura_mm": 63.6,
   "svg_mm": [
@@ -7890,6 +10848,12 @@
  "LG-017": {
   "pacote": "gold",
   "arquivo": "gold/LG-017.svg",
+  "corpo_mm": [
+   5.1,
+   11.6,
+   74.6,
+   70.6
+  ],
   "largura_mm": 85.5,
   "altura_mm": 94.2,
   "svg_mm": [
@@ -7906,6 +10870,12 @@
  "LG-018": {
   "pacote": "gold",
   "arquivo": "gold/LG-018.svg",
+  "corpo_mm": [
+   9.0,
+   14.6,
+   67.6,
+   83.2
+  ],
   "largura_mm": 81.5,
   "altura_mm": 98.2,
   "svg_mm": [
@@ -7922,6 +10892,12 @@
  "LG-019": {
   "pacote": "gold",
   "arquivo": "gold/LG-019.svg",
+  "corpo_mm": [
+   17.5,
+   20.4,
+   76.0,
+   62.7
+  ],
   "largura_mm": 92.0,
   "altura_mm": 81.9,
   "svg_mm": [
@@ -7938,6 +10914,12 @@
  "LG-020": {
   "pacote": "gold",
   "arquivo": "gold/LG-020.svg",
+  "corpo_mm": [
+   8.2,
+   0.1,
+   82.6,
+   66.1
+  ],
   "largura_mm": 89.3,
   "altura_mm": 83.3,
   "svg_mm": [
@@ -7954,6 +10936,12 @@
  "LG-021": {
   "pacote": "gold",
   "arquivo": "gold/LG-021.svg",
+  "corpo_mm": [
+   9.5,
+   0.1,
+   68.1,
+   87.7
+  ],
   "largura_mm": 85.0,
   "altura_mm": 103.5,
   "svg_mm": [
@@ -7970,6 +10958,12 @@
  "LG-022": {
   "pacote": "gold",
   "arquivo": "gold/LG-022.svg",
+  "corpo_mm": [
+   21.6,
+   0.1,
+   50.4,
+   100.7
+  ],
   "largura_mm": 67.0,
   "altura_mm": 111.6,
   "svg_mm": [
@@ -7986,6 +10980,12 @@
  "LG-023": {
   "pacote": "gold",
   "arquivo": "gold/LG-023.svg",
+  "corpo_mm": [
+   26.1,
+   10.3,
+   60.4,
+   63.7
+  ],
   "largura_mm": 84.9,
   "altura_mm": 99.5,
   "svg_mm": [
@@ -8002,6 +11002,12 @@
  "LG-024": {
   "pacote": "gold",
   "arquivo": "gold/LG-024.svg",
+  "corpo_mm": [
+   6.8,
+   0.2,
+   109.6,
+   64.6
+  ],
   "largura_mm": 121.9,
   "altura_mm": 70.4,
   "svg_mm": [
@@ -8018,6 +11024,12 @@
  "LG-026": {
   "pacote": "gold",
   "arquivo": "gold/LG-026.svg",
+  "corpo_mm": [
+   0.1,
+   9.3,
+   19.0,
+   27.6
+  ],
   "largura_mm": 33.3,
   "altura_mm": 36.7,
   "svg_mm": [
@@ -8034,6 +11046,12 @@
  "LG-027": {
   "pacote": "gold",
   "arquivo": "gold/LG-027.svg",
+  "corpo_mm": [
+   0.3,
+   12.8,
+   19.2,
+   31.0
+  ],
   "largura_mm": 30.5,
   "altura_mm": 40.3,
   "svg_mm": [
@@ -8050,6 +11068,12 @@
  "LG-028": {
   "pacote": "gold",
   "arquivo": "gold/LG-028.svg",
+  "corpo_mm": [
+   0.1,
+   7.7,
+   46.7,
+   31.0
+  ],
   "largura_mm": 57.7,
   "altura_mm": 42.1,
   "svg_mm": [
@@ -8066,6 +11090,12 @@
  "LG-042": {
   "pacote": "gold",
   "arquivo": "gold/LG-042.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   32.5,
+   100.7
+  ],
   "largura_mm": 45.6,
   "altura_mm": 113.9,
   "svg_mm": [
@@ -8082,6 +11112,12 @@
  "LG-043": {
   "pacote": "gold",
   "arquivo": "gold/LG-043.svg",
+  "corpo_mm": [
+   16.9,
+   0.1,
+   49.2,
+   71.2
+  ],
   "largura_mm": 57.8,
   "altura_mm": 84.0,
   "svg_mm": [
@@ -8098,6 +11134,12 @@
  "LG-044": {
   "pacote": "gold",
   "arquivo": "gold/LG-044.svg",
+  "corpo_mm": [
+   11.4,
+   16.0,
+   114.1,
+   52.3
+  ],
   "largura_mm": 123.1,
   "altura_mm": 52.4,
   "svg_mm": [
@@ -8114,6 +11156,12 @@
  "LG-045": {
   "pacote": "gold",
   "arquivo": "gold/LG-045.svg",
+  "corpo_mm": [
+   0.1,
+   12.9,
+   102.9,
+   47.2
+  ],
   "largura_mm": 113.7,
   "altura_mm": 56.4,
   "svg_mm": [
@@ -8130,6 +11178,12 @@
  "LG-046": {
   "pacote": "gold",
   "arquivo": "gold/LG-046.svg",
+  "corpo_mm": [
+   0.2,
+   14.9,
+   49.3,
+   23.3
+  ],
   "largura_mm": 57.2,
   "altura_mm": 34.7,
   "svg_mm": [
@@ -8146,6 +11200,12 @@
  "LG-047": {
   "pacote": "gold",
   "arquivo": "gold/LG-047.svg",
+  "corpo_mm": [
+   21.6,
+   4.9,
+   124.4,
+   51.2
+  ],
   "largura_mm": 145.3,
   "altura_mm": 64.8,
   "svg_mm": [
@@ -8162,6 +11222,12 @@
  "LG-048": {
   "pacote": "gold",
   "arquivo": "gold/LG-048.svg",
+  "corpo_mm": [
+   8.8,
+   7.4,
+   67.4,
+   49.8
+  ],
   "largura_mm": 77.9,
   "altura_mm": 60.9,
   "svg_mm": [
@@ -8178,6 +11244,12 @@
  "LG-049": {
   "pacote": "gold",
   "arquivo": "gold/LG-049.svg",
+  "corpo_mm": [
+   11.0,
+   15.9,
+   69.6,
+   57.9
+  ],
   "largura_mm": 79.5,
   "altura_mm": 73.1,
   "svg_mm": [
@@ -8194,6 +11266,12 @@
  "LG-050": {
   "pacote": "gold",
   "arquivo": "gold/LG-050.svg",
+  "corpo_mm": [
+   12.2,
+   0.1,
+   44.5,
+   69.5
+  ],
   "largura_mm": 65.3,
   "altura_mm": 77.9,
   "svg_mm": [
@@ -8210,6 +11288,12 @@
  "LG-051": {
   "pacote": "gold",
   "arquivo": "gold/LG-051.svg",
+  "corpo_mm": [
+   7.1,
+   15.6,
+   81.6,
+   57.9
+  ],
   "largura_mm": 87.2,
   "altura_mm": 72.6,
   "svg_mm": [
@@ -8226,6 +11310,12 @@
  "LG-052": {
   "pacote": "gold",
   "arquivo": "gold/LG-052.svg",
+  "corpo_mm": [
+   13.8,
+   11.8,
+   72.2,
+   99.3
+  ],
   "largura_mm": 85.7,
   "altura_mm": 99.4,
   "svg_mm": [
@@ -8242,6 +11332,12 @@
  "LG-054": {
   "pacote": "gold",
   "arquivo": "gold/LG-054.svg",
+  "corpo_mm": [
+   9.3,
+   12.5,
+   78.8,
+   90.4
+  ],
   "largura_mm": 87.6,
   "altura_mm": 102.2,
   "svg_mm": [
@@ -8258,6 +11354,12 @@
  "LG-055": {
   "pacote": "gold",
   "arquivo": "gold/LG-055.svg",
+  "corpo_mm": [
+   10.3,
+   9.8,
+   39.2,
+   74.0
+  ],
   "largura_mm": 49.7,
   "altura_mm": 74.1,
   "svg_mm": [
@@ -8274,6 +11376,12 @@
  "LG-056": {
   "pacote": "gold",
   "arquivo": "gold/LG-056.svg",
+  "corpo_mm": [
+   13.1,
+   8.9,
+   53.8,
+   53.8
+  ],
   "largura_mm": 64.5,
   "altura_mm": 63.5,
   "svg_mm": [
@@ -8290,6 +11398,12 @@
  "LG-056R": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/LG-056R.svg",
+  "corpo_mm": [
+   0.1,
+   12.5,
+   44.8,
+   53.0
+  ],
   "largura_mm": 56.9,
   "altura_mm": 61.7,
   "svg_mm": [
@@ -8306,6 +11420,12 @@
  "LG-058": {
   "pacote": "gold",
   "arquivo": "gold/LG-058.svg",
+  "corpo_mm": [
+   9.7,
+   0.1,
+   38.5,
+   57.5
+  ],
   "largura_mm": 49.4,
   "altura_mm": 63.8,
   "svg_mm": [
@@ -8322,6 +11442,12 @@
  "LG-059": {
   "pacote": "gold",
   "arquivo": "gold/LG-059.svg",
+  "corpo_mm": [
+   0.2,
+   8.8,
+   19.0,
+   27.1
+  ],
   "largura_mm": 29.2,
   "altura_mm": 27.2,
   "svg_mm": [
@@ -8338,6 +11464,12 @@
  "LG-060": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote9/LG-060_SI-330.svg",
+  "corpo_mm": [
+   8.4,
+   8.6,
+   38.8,
+   24.7
+  ],
   "largura_mm": 48.1,
   "altura_mm": 34.7,
   "svg_mm": [
@@ -8354,6 +11486,12 @@
  "LG-061": {
   "pacote": "gold",
   "arquivo": "gold/LG-061.svg",
+  "corpo_mm": [
+   14.1,
+   14.4,
+   32.4,
+   36.1
+  ],
   "largura_mm": 45.7,
   "altura_mm": 59.2,
   "svg_mm": [
@@ -8370,6 +11508,12 @@
  "LG-062": {
   "pacote": "gold",
   "arquivo": "gold/LG-062.svg",
+  "corpo_mm": [
+   11.2,
+   15.9,
+   158.8,
+   52.2
+  ],
   "largura_mm": 167.6,
   "altura_mm": 52.3,
   "svg_mm": [
@@ -8386,6 +11530,12 @@
  "LG-063": {
   "pacote": "gold",
   "arquivo": "gold/LG-063.svg",
+  "corpo_mm": [
+   13.2,
+   12.1,
+   58.1,
+   54.4
+  ],
   "largura_mm": 58.2,
   "altura_mm": 69.2,
   "svg_mm": [
@@ -8402,6 +11552,12 @@
  "LG-064": {
   "pacote": "gold",
   "arquivo": "gold/LG-064.svg",
+  "corpo_mm": [
+   11.8,
+   13.5,
+   159.5,
+   47.8
+  ],
   "largura_mm": 170.5,
   "altura_mm": 57.8,
   "svg_mm": [
@@ -8418,6 +11574,12 @@
  "LG-066": {
   "pacote": "gold",
   "arquivo": "gold/LG-066.svg",
+  "corpo_mm": [
+   8.6,
+   0.1,
+   156.2,
+   46.5
+  ],
   "largura_mm": 172.7,
   "altura_mm": 55.8,
   "svg_mm": [
@@ -8434,6 +11596,12 @@
  "LG-068": {
   "pacote": "gold",
   "arquivo": "gold/LG-068_LG-0068.svg",
+  "corpo_mm": [
+   10.4,
+   12.6,
+   47.2,
+   44.6
+  ],
   "largura_mm": 53.3,
   "altura_mm": 65.4,
   "svg_mm": [
@@ -8450,6 +11618,12 @@
  "LG-070": {
   "pacote": "gold",
   "arquivo": "gold/LG-070_LG070.svg",
+  "corpo_mm": [
+   9.9,
+   7.5,
+   44.7,
+   192.4
+  ],
   "largura_mm": 63.0,
   "altura_mm": 200.8,
   "svg_mm": [
@@ -8466,6 +11640,12 @@
  "LG-071": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/LG-071.svg",
+  "corpo_mm": [
+   12.1,
+   4.8,
+   49.3,
+   202.6
+  ],
   "largura_mm": 60.1,
   "altura_mm": 202.7,
   "svg_mm": [
@@ -8482,6 +11662,12 @@
  "LG-072": {
   "pacote": "gold",
   "arquivo": "gold/LG-072_LG072.svg",
+  "corpo_mm": [
+   9.9,
+   0.2,
+   35.1,
+   184.9
+  ],
   "largura_mm": 45.3,
   "altura_mm": 185.0,
   "svg_mm": [
@@ -8498,6 +11684,12 @@
  "LG-074": {
   "pacote": "gold",
   "arquivo": "gold/LG-074_LG-0074.svg",
+  "corpo_mm": [
+   12.7,
+   12.6,
+   76.6,
+   44.6
+  ],
   "largura_mm": 87.4,
   "altura_mm": 64.9,
   "svg_mm": [
@@ -8514,6 +11706,12 @@
  "LG-075": {
   "pacote": "gold",
   "arquivo": "gold/LG-075_LG-0075.svg",
+  "corpo_mm": [
+   9.4,
+   0.1,
+   73.3,
+   75.0
+  ],
   "largura_mm": 83.1,
   "altura_mm": 75.8,
   "svg_mm": [
@@ -8530,6 +11728,12 @@
  "LG-076": {
   "pacote": "gold",
   "arquivo": "gold/LG-076_LG-0076.svg",
+  "corpo_mm": [
+   0.1,
+   8.5,
+   32.1,
+   71.3
+  ],
   "largura_mm": 50.4,
   "altura_mm": 79.9,
   "svg_mm": [
@@ -8546,6 +11750,12 @@
  "LG-077": {
   "pacote": "gold",
   "arquivo": "gold/LG-077_LG-0077.svg",
+  "corpo_mm": [
+   15.5,
+   14.4,
+   53.7,
+   46.4
+  ],
   "largura_mm": 53.8,
   "altura_mm": 60.7,
   "svg_mm": [
@@ -8562,6 +11772,12 @@
  "LG-079": {
   "pacote": "gold",
   "arquivo": "gold/LG-079_LG-0079.svg",
+  "corpo_mm": [
+   11.0,
+   10.4,
+   72.9,
+   42.4
+  ],
   "largura_mm": 73.0,
   "altura_mm": 55.8,
   "svg_mm": [
@@ -8578,6 +11794,12 @@
  "LG-080": {
   "pacote": "gold",
   "arquivo": "gold/LG-080_LG-0080.svg",
+  "corpo_mm": [
+   10.4,
+   0.1,
+   72.3,
+   74.9
+  ],
   "largura_mm": 85.6,
   "altura_mm": 75.7,
   "svg_mm": [
@@ -8594,6 +11816,12 @@
  "LG-082": {
   "pacote": "gold",
   "arquivo": "gold/LG-082_LG-0082.svg",
+  "corpo_mm": [
+   16.2,
+   15.3,
+   54.4,
+   47.3
+  ],
   "largura_mm": 54.5,
   "altura_mm": 48.1,
   "svg_mm": [
@@ -8610,6 +11838,12 @@
  "LG-083": {
   "pacote": "gold",
   "arquivo": "gold/LG-083_LG-0083.svg",
+  "corpo_mm": [
+   0.1,
+   8.5,
+   35.9,
+   40.5
+  ],
   "largura_mm": 54.2,
   "altura_mm": 55.5,
   "svg_mm": [
@@ -8626,6 +11860,12 @@
  "LG-085": {
   "pacote": "gold",
   "arquivo": "gold/LG-085_LG-0085.svg",
+  "corpo_mm": [
+   15.1,
+   10.0,
+   63.3,
+   42.1
+  ],
   "largura_mm": 63.4,
   "altura_mm": 58.1,
   "svg_mm": [
@@ -8642,6 +11882,12 @@
  "LG-091": {
   "pacote": "gold",
   "arquivo": "gold/LG-091_LG-0091.svg",
+  "corpo_mm": [
+   1.5,
+   0.1,
+   25.8,
+   15.2
+  ],
   "largura_mm": 25.9,
   "altura_mm": 25.8,
   "svg_mm": [
@@ -8658,6 +11904,12 @@
  "LG-092": {
   "pacote": "gold",
   "arquivo": "gold/LG-092_LG-0092.svg",
+  "corpo_mm": [
+   1.4,
+   0.1,
+   20.2,
+   21.2
+  ],
   "largura_mm": 23.8,
   "altura_mm": 32.5,
   "svg_mm": [
@@ -8674,6 +11926,12 @@
  "LG-111": {
   "pacote": "gold",
   "arquivo": "gold/LG-111_LG111.svg",
+  "corpo_mm": [
+   0.2,
+   6.2,
+   14.2,
+   13.8
+  ],
   "largura_mm": 14.4,
   "altura_mm": 14.0,
   "svg_mm": [
@@ -8690,6 +11948,12 @@
  "LG-124": {
   "pacote": "gold",
   "arquivo": "gold/LG-124_LG124.svg",
+  "corpo_mm": [
+   10.8,
+   9.2,
+   45.0,
+   111.6
+  ],
   "largura_mm": 45.1,
   "altura_mm": 112.1,
   "svg_mm": [
@@ -8706,6 +11970,12 @@
  "LG-126": {
   "pacote": "gold",
   "arquivo": "gold/LG-126_LG126.svg",
+  "corpo_mm": [
+   17.2,
+   10.8,
+   85.8,
+   69.1
+  ],
   "largura_mm": 87.3,
   "altura_mm": 69.6,
   "svg_mm": [
@@ -8722,6 +11992,12 @@
  "LG-127": {
   "pacote": "gold",
   "arquivo": "gold/LG-127_LG127.svg",
+  "corpo_mm": [
+   9.1,
+   9.3,
+   66.2,
+   94.8
+  ],
   "largura_mm": 76.5,
   "altura_mm": 103.4,
   "svg_mm": [
@@ -8738,6 +12014,12 @@
  "LG-128": {
   "pacote": "gold",
   "arquivo": "gold/LG-128_LG128.svg",
+  "corpo_mm": [
+   8.9,
+   0.2,
+   66.5,
+   40.9
+  ],
   "largura_mm": 76.0,
   "altura_mm": 58.4,
   "svg_mm": [
@@ -8754,6 +12036,12 @@
  "LG-129": {
   "pacote": "gold",
   "arquivo": "gold/LG-129_LG129.svg",
+  "corpo_mm": [
+   16.1,
+   7.2,
+   44.1,
+   105.0
+  ],
   "largura_mm": 54.3,
   "altura_mm": 105.0,
   "svg_mm": [
@@ -8770,6 +12058,12 @@
  "LG-129E": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/LG-129E.svg",
+  "corpo_mm": [
+   9.0,
+   5.8,
+   42.2,
+   106.4
+  ],
   "largura_mm": 52.9,
   "altura_mm": 106.5,
   "svg_mm": [
@@ -8786,6 +12080,12 @@
  "LG-130": {
   "pacote": "gold",
   "arquivo": "gold/LG-130_LG130.svg",
+  "corpo_mm": [
+   9.8,
+   8.6,
+   37.7,
+   63.3
+  ],
   "largura_mm": 47.6,
   "altura_mm": 63.4,
   "svg_mm": [
@@ -8802,6 +12102,12 @@
  "LG-132": {
   "pacote": "gold",
   "arquivo": "gold/LG-132_LG132.svg",
+  "corpo_mm": [
+   8.8,
+   8.6,
+   76.8,
+   40.3
+  ],
   "largura_mm": 76.9,
   "altura_mm": 49.2,
   "svg_mm": [
@@ -8818,6 +12124,12 @@
  "LG-133": {
   "pacote": "gold",
   "arquivo": "gold/LG-133_LG133.svg",
+  "corpo_mm": [
+   6.3,
+   5.7,
+   79.4,
+   47.2
+  ],
   "largura_mm": 86.3,
   "altura_mm": 53.9,
   "svg_mm": [
@@ -8834,6 +12146,12 @@
  "LG-134": {
   "pacote": "gold",
   "arquivo": "gold/LG-134_LG134.svg",
+  "corpo_mm": [
+   10.0,
+   15.7,
+   84.0,
+   81.1
+  ],
   "largura_mm": 100.5,
   "altura_mm": 81.3,
   "svg_mm": [
@@ -8850,6 +12168,12 @@
  "LG-143": {
   "pacote": "gold",
   "arquivo": "gold/LG-143_LG143.svg",
+  "corpo_mm": [
+   8.2,
+   14.7,
+   155.2,
+   42.7
+  ],
   "largura_mm": 172.0,
   "altura_mm": 51.6,
   "svg_mm": [
@@ -8866,6 +12190,12 @@
  "LG-144": {
   "pacote": "gold",
   "arquivo": "gold/LG-144_LG144.svg",
+  "corpo_mm": [
+   9.3,
+   16.4,
+   156.3,
+   49.6
+  ],
   "largura_mm": 156.4,
   "altura_mm": 58.5,
   "svg_mm": [
@@ -8882,6 +12212,12 @@
  "LG-145": {
   "pacote": "gold",
   "arquivo": "gold/LG-145_LG145.svg",
+  "corpo_mm": [
+   9.1,
+   8.9,
+   156.1,
+   43.1
+  ],
   "largura_mm": 156.3,
   "altura_mm": 58.8,
   "svg_mm": [
@@ -8898,6 +12234,12 @@
  "LG-158": {
   "pacote": "gold",
   "arquivo": "gold/LG-158_LG158.svg",
+  "corpo_mm": [
+   14.8,
+   0.3,
+   161.8,
+   26.2
+  ],
   "largura_mm": 161.9,
   "altura_mm": 42.2,
   "svg_mm": [
@@ -8914,6 +12256,12 @@
  "LG-159": {
   "pacote": "gold",
   "arquivo": "gold/LG-159_LG159.svg",
+  "corpo_mm": [
+   9.3,
+   8.1,
+   111.7,
+   54.3
+  ],
   "largura_mm": 121.4,
   "altura_mm": 71.9,
   "svg_mm": [
@@ -8930,6 +12278,12 @@
  "LG-160": {
   "pacote": "gold",
   "arquivo": "gold/LG-160_LG160.svg",
+  "corpo_mm": [
+   10.0,
+   0.1,
+   54.4,
+   184.9
+  ],
   "largura_mm": 64.4,
   "altura_mm": 200.2,
   "svg_mm": [
@@ -8946,6 +12300,12 @@
  "LG-161": {
   "pacote": "gold",
   "arquivo": "gold/LG-161_LG161.svg",
+  "corpo_mm": [
+   9.7,
+   0.2,
+   36.6,
+   185.0
+  ],
   "largura_mm": 58.6,
   "altura_mm": 193.1,
   "svg_mm": [
@@ -8962,6 +12322,12 @@
  "LG-162": {
   "pacote": "gold",
   "arquivo": "gold/LG-162_LG162.svg",
+  "corpo_mm": [
+   8.8,
+   6.5,
+   66.7,
+   57.5
+  ],
   "largura_mm": 75.5,
   "altura_mm": 60.2,
   "svg_mm": [
@@ -8978,6 +12344,12 @@
  "LG-164": {
   "pacote": "gold",
   "arquivo": "gold/LG-164_LG164.svg",
+  "corpo_mm": [
+   0.2,
+   0.2,
+   18.9,
+   18.2
+  ],
   "largura_mm": 27.0,
   "altura_mm": 27.3,
   "svg_mm": [
@@ -8994,6 +12366,12 @@
  "LG-176": {
   "pacote": "gold",
   "arquivo": "gold/LG-176_LG176.svg",
+  "corpo_mm": [
+   10.8,
+   9.0,
+   68.9,
+   111.4
+  ],
   "largura_mm": 69.0,
   "altura_mm": 120.3,
   "svg_mm": [
@@ -9010,6 +12388,12 @@
  "LG-201": {
   "pacote": "gold",
   "arquivo": "gold/LG-201_LG201.svg",
+  "corpo_mm": [
+   17.6,
+   0.3,
+   86.5,
+   85.6
+  ],
   "largura_mm": 86.8,
   "altura_mm": 92.6,
   "svg_mm": [
@@ -9026,6 +12410,12 @@
  "LG-233": {
   "pacote": "gold",
   "arquivo": "gold/LG-233_LG233.svg",
+  "corpo_mm": [
+   0.2,
+   9.3,
+   66.2,
+   156.8
+  ],
   "largura_mm": 76.1,
   "altura_mm": 167.0,
   "svg_mm": [
@@ -9042,6 +12432,12 @@
  "LG-234": {
   "pacote": "gold",
   "arquivo": "gold/LG-234_LG234.svg",
+  "corpo_mm": [
+   8.7,
+   5.6,
+   155.6,
+   31.7
+  ],
   "largura_mm": 155.8,
   "altura_mm": 47.1,
   "svg_mm": [
@@ -9058,6 +12454,12 @@
  "LG-570": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote9/LG-570_MG32-126.svg",
+  "corpo_mm": [
+   0.2,
+   0.2,
+   32.6,
+   212.7
+  ],
   "largura_mm": 44.3,
   "altura_mm": 219.4,
   "svg_mm": [
@@ -9074,6 +12476,12 @@
  "LG-571": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote9/LG-571.svg",
+  "corpo_mm": [
+   0.3,
+   0.3,
+   46.3,
+   236.3
+  ],
   "largura_mm": 61.0,
   "altura_mm": 248.7,
   "svg_mm": [
@@ -9090,6 +12498,12 @@
  "LG-572": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote9/LG-572_MG32-127.svg",
+  "corpo_mm": [
+   0.2,
+   0.2,
+   23.6,
+   212.7
+  ],
   "largura_mm": 36.4,
   "altura_mm": 218.9,
   "svg_mm": [
@@ -9106,6 +12520,12 @@
  "LM-002": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/LM-002.svg",
+  "corpo_mm": [
+   8.7,
+   9.5,
+   158.9,
+   29.5
+  ],
   "largura_mm": 170.0,
   "altura_mm": 37.9,
   "svg_mm": [
@@ -9122,6 +12542,12 @@
  "MB-001": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/MB-001.svg",
+  "corpo_mm": [
+   8.1,
+   7.9,
+   58.8,
+   45.6
+  ],
   "largura_mm": 69.6,
   "altura_mm": 54.9,
   "svg_mm": [
@@ -9138,6 +12564,12 @@
  "MB-002": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/MB-002.svg",
+  "corpo_mm": [
+   4.7,
+   8.6,
+   55.4,
+   36.6
+  ],
   "largura_mm": 72.2,
   "altura_mm": 50.4,
   "svg_mm": [
@@ -9154,6 +12586,12 @@
  "MB-003": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/MB-003.svg",
+  "corpo_mm": [
+   10.0,
+   0.1,
+   61.6,
+   15.7
+  ],
   "largura_mm": 61.8,
   "altura_mm": 27.0,
   "svg_mm": [
@@ -9170,6 +12608,12 @@
  "MB-004": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/MB-004.svg",
+  "corpo_mm": [
+   0.2,
+   7.0,
+   75.8,
+   44.6
+  ],
   "largura_mm": 85.8,
   "altura_mm": 56.1,
   "svg_mm": [
@@ -9186,6 +12630,12 @@
  "MB-005": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/MB-005.svg",
+  "corpo_mm": [
+   0.2,
+   6.9,
+   75.8,
+   35.1
+  ],
   "largura_mm": 84.1,
   "altura_mm": 48.9,
   "svg_mm": [
@@ -9202,6 +12652,12 @@
  "MB-006": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/MB-006.svg",
+  "corpo_mm": [
+   10.4,
+   0.1,
+   87.1,
+   15.8
+  ],
   "largura_mm": 87.5,
   "altura_mm": 26.6,
   "svg_mm": [
@@ -9218,6 +12674,12 @@
  "MB-009": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/MB-009.svg",
+  "corpo_mm": [
+   8.6,
+   9.3,
+   25.4,
+   31.6
+  ],
   "largura_mm": 30.2,
   "altura_mm": 42.5,
   "svg_mm": [
@@ -9234,6 +12696,12 @@
  "MB-011": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/MB-011.svg",
+  "corpo_mm": [
+   12.4,
+   0.1,
+   27.3,
+   38.8
+  ],
   "largura_mm": 39.4,
   "altura_mm": 52.6,
   "svg_mm": [
@@ -9250,6 +12718,12 @@
  "MB-013": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/MB-013.svg",
+  "corpo_mm": [
+   0.3,
+   0.3,
+   31.6,
+   16.5
+  ],
   "largura_mm": 42.5,
   "altura_mm": 27.8,
   "svg_mm": [
@@ -9266,6 +12740,12 @@
  "MB-014": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/MB-014.svg",
+  "corpo_mm": [
+   8.8,
+   0.1,
+   39.2,
+   22.0
+  ],
   "largura_mm": 49.7,
   "altura_mm": 33.6,
   "svg_mm": [
@@ -9282,6 +12762,12 @@
  "MB-015": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/MB-015.svg",
+  "corpo_mm": [
+   8.6,
+   0.3,
+   38.9,
+   32.5
+  ],
   "largura_mm": 48.4,
   "altura_mm": 43.3,
   "svg_mm": [
@@ -9298,6 +12784,12 @@
  "MB-016": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/MB-016.svg",
+  "corpo_mm": [
+   9.1,
+   10.8,
+   39.4,
+   32.6
+  ],
   "largura_mm": 50.9,
   "altura_mm": 41.6,
   "svg_mm": [
@@ -9314,6 +12806,12 @@
  "MB-017": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/MB-017.svg",
+  "corpo_mm": [
+   11.0,
+   11.5,
+   41.4,
+   34.7
+  ],
   "largura_mm": 54.1,
   "altura_mm": 40.6,
   "svg_mm": [
@@ -9330,6 +12828,12 @@
  "MB-023": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/MB-023.svg",
+  "corpo_mm": [
+   9.8,
+   0.7,
+   31.7,
+   22.4
+  ],
   "largura_mm": 32.5,
   "altura_mm": 33.6,
   "svg_mm": [
@@ -9346,6 +12850,12 @@
  "ME-013": {
   "pacote": "suprema",
   "arquivo": "suprema/ME-013.svg",
+  "corpo_mm": [
+   15.2,
+   14.7,
+   55.2,
+   41.9
+  ],
   "largura_mm": 69.3,
   "altura_mm": 51.2,
   "svg_mm": [
@@ -9362,6 +12872,12 @@
  "ME-092": {
   "pacote": "gold",
   "arquivo": "gold/ME-092.svg",
+  "corpo_mm": [
+   4.7,
+   7.7,
+   16.9,
+   31.0
+  ],
   "largura_mm": 28.0,
   "altura_mm": 39.5,
   "svg_mm": [
@@ -9378,6 +12894,12 @@
  "MM-008": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/MM-008.svg",
+  "corpo_mm": [
+   0.1,
+   10.8,
+   22.8,
+   47.8
+  ],
   "largura_mm": 32.8,
   "altura_mm": 47.9,
   "svg_mm": [
@@ -9394,6 +12916,12 @@
  "MM-010": {
   "pacote": "base-prototipo",
   "arquivo": "desenhos/MM-010.svg",
+  "corpo_mm": [
+   8.6,
+   0.1,
+   27.2,
+   55.5
+  ],
   "largura_mm": 27.3,
   "altura_mm": 63.9,
   "svg_mm": [
@@ -9410,6 +12938,12 @@
  "MN-001": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/MN-001.svg",
+  "corpo_mm": [
+   0.1,
+   9.8,
+   134.3,
+   45.9
+  ],
   "largura_mm": 146.6,
   "altura_mm": 45.9,
   "svg_mm": [
@@ -9426,6 +12960,12 @@
  "MN-002": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/MN-002.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   105.7,
+   12.8
+  ],
   "largura_mm": 116.1,
   "altura_mm": 23.9,
   "svg_mm": [
@@ -9442,6 +12982,12 @@
  "MN-003": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/MN-003.svg",
+  "corpo_mm": [
+   10.9,
+   0.1,
+   145.2,
+   21.5
+  ],
   "largura_mm": 145.3,
   "altura_mm": 32.6,
   "svg_mm": [
@@ -9458,6 +13004,12 @@
  "MN-005": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/MN-005.svg",
+  "corpo_mm": [
+   9.1,
+   7.7,
+   88.7,
+   113.9
+  ],
   "largura_mm": 107.3,
   "altura_mm": 114.1,
   "svg_mm": [
@@ -9474,6 +13026,12 @@
  "MN-006": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/MN-006.svg",
+  "corpo_mm": [
+   0.0,
+   0.1,
+   77.3,
+   108.0
+  ],
   "largura_mm": 94.4,
   "altura_mm": 116.0,
   "svg_mm": [
@@ -9490,6 +13048,12 @@
  "MN-007": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/MN-007.svg",
+  "corpo_mm": [
+   14.6,
+   10.8,
+   69.1,
+   41.3
+  ],
   "largura_mm": 69.2,
   "altura_mm": 47.2,
   "svg_mm": [
@@ -9506,6 +13070,12 @@
  "MN-008": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/MN-008.svg",
+  "corpo_mm": [
+   0.1,
+   15.7,
+   58.6,
+   190.8
+  ],
   "largura_mm": 82.6,
   "altura_mm": 206.6,
   "svg_mm": [
@@ -9522,6 +13092,12 @@
  "MN-010": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/MN-010.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   134.3,
+   54.8
+  ],
   "largura_mm": 146.5,
   "altura_mm": 63.9,
   "svg_mm": [
@@ -9538,6 +13114,12 @@
  "MN-015": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/MN-015.svg",
+  "corpo_mm": [
+   0.1,
+   12.3,
+   59.3,
+   71.5
+  ],
   "largura_mm": 78.3,
   "altura_mm": 71.6,
   "svg_mm": [
@@ -9554,6 +13136,12 @@
  "MN-023": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/MN-023.svg",
+  "corpo_mm": [
+   9.3,
+   0.1,
+   110.5,
+   28.0
+  ],
   "largura_mm": 120.3,
   "altura_mm": 28.1,
   "svg_mm": [
@@ -9570,6 +13158,12 @@
  "MN-027": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/MN-027.svg",
+  "corpo_mm": [
+   0.1,
+   9.6,
+   76.7,
+   33.8
+  ],
   "largura_mm": 86.4,
   "altura_mm": 33.9,
   "svg_mm": [
@@ -9586,6 +13180,12 @@
  "MN-030": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/MN-030.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   134.3,
+   73.7
+  ],
   "largura_mm": 148.3,
   "altura_mm": 82.7,
   "svg_mm": [
@@ -9602,6 +13202,12 @@
  "MN-031": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/MN-031.svg",
+  "corpo_mm": [
+   0.1,
+   7.8,
+   32.5,
+   167.6
+  ],
   "largura_mm": 45.4,
   "altura_mm": 175.7,
   "svg_mm": [
@@ -9618,6 +13224,12 @@
  "MN-032": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/MN-032.svg",
+  "corpo_mm": [
+   0.1,
+   10.7,
+   56.1,
+   187.1
+  ],
   "largura_mm": 72.3,
   "altura_mm": 199.1,
   "svg_mm": [
@@ -9634,6 +13246,12 @@
  "MN-039": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/MN-039.svg",
+  "corpo_mm": [
+   14.6,
+   9.1,
+   59.1,
+   213.2
+  ],
   "largura_mm": 59.2,
   "altura_mm": 213.3,
   "svg_mm": [
@@ -9650,6 +13268,12 @@
  "MN-050": {
   "pacote": "gold",
   "arquivo": "gold/MN-050_MN050.svg",
+  "corpo_mm": [
+   0.1,
+   8.0,
+   98.2,
+   43.2
+  ],
   "largura_mm": 107.1,
   "altura_mm": 51.8,
   "svg_mm": [
@@ -9666,6 +13290,12 @@
  "MN-055": {
   "pacote": "gold",
   "arquivo": "gold/MN-055_MN055.svg",
+  "corpo_mm": [
+   11.9,
+   1.1,
+   23.2,
+   49.1
+  ],
   "largura_mm": 34.2,
   "altura_mm": 49.2,
   "svg_mm": [
@@ -9682,6 +13312,12 @@
  "PC-000": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/PC-000.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   49.8,
+   49.7
+  ],
   "largura_mm": 62.9,
   "altura_mm": 59.0,
   "svg_mm": [
@@ -9698,6 +13334,12 @@
  "PC-001": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/PC-001_E-363.svg",
+  "corpo_mm": [
+   14.6,
+   10.4,
+   111.5,
+   60.5
+  ],
   "largura_mm": 111.6,
   "altura_mm": 60.6,
   "svg_mm": [
@@ -9714,6 +13356,12 @@
  "PC-002": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/PC-002.svg",
+  "corpo_mm": [
+   12.3,
+   11.0,
+   63.8,
+   36.8
+  ],
   "largura_mm": 66.9,
   "altura_mm": 48.3,
   "svg_mm": [
@@ -9730,6 +13378,12 @@
  "PC-003": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/PC-003.svg",
+  "corpo_mm": [
+   13.8,
+   10.8,
+   90.0,
+   49.0
+  ],
   "largura_mm": 93.0,
   "altura_mm": 58.8,
   "svg_mm": [
@@ -9746,6 +13400,12 @@
  "PC-004": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/PC-004.svg",
+  "corpo_mm": [
+   11.6,
+   10.9,
+   62.5,
+   49.2
+  ],
   "largura_mm": 65.7,
   "altura_mm": 56.8,
   "svg_mm": [
@@ -9762,6 +13422,12 @@
  "PC-005": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/PC-005_E-365.svg",
+  "corpo_mm": [
+   11.1,
+   8.6,
+   97.2,
+   35.2
+  ],
   "largura_mm": 97.3,
   "altura_mm": 35.4,
   "svg_mm": [
@@ -9778,6 +13444,12 @@
  "PC-006": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/PC-006.svg",
+  "corpo_mm": [
+   0.1,
+   11.9,
+   48.7,
+   38.7
+  ],
   "largura_mm": 63.5,
   "altura_mm": 39.0,
   "svg_mm": [
@@ -9794,6 +13466,12 @@
  "PC-009": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/PC-009.svg",
+  "corpo_mm": [
+   15.1,
+   7.7,
+   116.9,
+   58.6
+  ],
   "largura_mm": 116.9,
   "altura_mm": 58.7,
   "svg_mm": [
@@ -9810,6 +13488,12 @@
  "PC-010": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/PC-010.svg",
+  "corpo_mm": [
+   12.1,
+   7.6,
+   82.6,
+   60.9
+  ],
   "largura_mm": 96.8,
   "altura_mm": 69.6,
   "svg_mm": [
@@ -9826,6 +13510,12 @@
  "PC-011": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/PC-011.svg",
+  "corpo_mm": [
+   9.4,
+   8.8,
+   69.4,
+   59.7
+  ],
   "largura_mm": 77.2,
   "altura_mm": 67.5,
   "svg_mm": [
@@ -9842,6 +13532,12 @@
  "PC-070": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/PC-070_78-778.svg",
+  "corpo_mm": [
+   10.4,
+   8.8,
+   48.6,
+   88.8
+  ],
   "largura_mm": 60.5,
   "altura_mm": 99.1,
   "svg_mm": [
@@ -9858,6 +13554,12 @@
  "PC-071": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/PC-071_78-777.svg",
+  "corpo_mm": [
+   5.8,
+   8.2,
+   90.8,
+   46.6
+  ],
   "largura_mm": 90.8,
   "altura_mm": 56.0,
   "svg_mm": [
@@ -9874,6 +13576,12 @@
  "PMO-023": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/PMO-023_MG20-107.svg",
+  "corpo_mm": [
+   0.1,
+   0.2,
+   24.2,
+   64.3
+  ],
   "largura_mm": 35.5,
   "altura_mm": 64.4,
   "svg_mm": [
@@ -9890,6 +13598,12 @@
  "PMO-024": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/PMO-024_MG20-105.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   61.2,
+   43.3
+  ],
   "largura_mm": 76.8,
   "altura_mm": 57.1,
   "svg_mm": [
@@ -9906,6 +13620,12 @@
  "PP-002": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/PP-002.svg",
+  "corpo_mm": [
+   10.7,
+   8.1,
+   59.9,
+   13.1
+  ],
   "largura_mm": 60.0,
   "altura_mm": 16.1,
   "svg_mm": [
@@ -9922,6 +13642,12 @@
  "PP-004": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/PP-004.svg",
+  "corpo_mm": [
+   9.2,
+   0.1,
+   59.2,
+   10.0
+  ],
   "largura_mm": 59.3,
   "altura_mm": 19.0,
   "svg_mm": [
@@ -9938,6 +13664,12 @@
  "PP-005": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/PP-005.svg",
+  "corpo_mm": [
+   0.1,
+   11.8,
+   50.4,
+   16.1
+  ],
   "largura_mm": 50.7,
   "altura_mm": 16.1,
   "svg_mm": [
@@ -9954,6 +13686,12 @@
  "PV-001": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/PV-001.svg",
+  "corpo_mm": [
+   3.5,
+   7.1,
+   15.6,
+   34.1
+  ],
   "largura_mm": 30.9,
   "altura_mm": 49.0,
   "svg_mm": [
@@ -9970,6 +13708,12 @@
  "PV-002": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/PV-002.svg",
+  "corpo_mm": [
+   13.1,
+   7.9,
+   33.1,
+   15.8
+  ],
   "largura_mm": 33.2,
   "altura_mm": 24.1,
   "svg_mm": [
@@ -9986,6 +13730,12 @@
  "SI-348": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/SI-348.svg",
+  "corpo_mm": [
+   0.1,
+   15.4,
+   57.9,
+   51.3
+  ],
   "largura_mm": 70.5,
   "altura_mm": 62.5,
   "svg_mm": [
@@ -10002,6 +13752,12 @@
  "SI-349": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/SI-349.svg",
+  "corpo_mm": [
+   0.1,
+   13.6,
+   57.9,
+   47.4
+  ],
   "largura_mm": 67.9,
   "altura_mm": 60.0,
   "svg_mm": [
@@ -10018,6 +13774,12 @@
  "SI-369": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/SI-369.svg",
+  "corpo_mm": [
+   14.8,
+   8.6,
+   52.5,
+   28.6
+  ],
   "largura_mm": 62.6,
   "altura_mm": 39.4,
   "svg_mm": [
@@ -10034,6 +13796,12 @@
  "ST-001": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-001.svg",
+  "corpo_mm": [
+   9.1,
+   8.3,
+   21.3,
+   88.4
+  ],
   "largura_mm": 29.7,
   "altura_mm": 88.5,
   "svg_mm": [
@@ -10050,6 +13818,12 @@
  "ST-002": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-002.svg",
+  "corpo_mm": [
+   9.5,
+   8.3,
+   26.5,
+   71.0
+  ],
   "largura_mm": 34.9,
   "altura_mm": 71.1,
   "svg_mm": [
@@ -10066,6 +13840,12 @@
  "ST-004": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-004.svg",
+  "corpo_mm": [
+   15.4,
+   15.3,
+   51.2,
+   49.2
+  ],
   "largura_mm": 60.6,
   "altura_mm": 57.6,
   "svg_mm": [
@@ -10082,6 +13862,12 @@
  "ST-008": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-008.svg",
+  "corpo_mm": [
+   15.3,
+   8.3,
+   62.4,
+   29.5
+  ],
   "largura_mm": 77.8,
   "altura_mm": 37.7,
   "svg_mm": [
@@ -10098,6 +13884,12 @@
  "ST-009": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-009.svg",
+  "corpo_mm": [
+   15.4,
+   15.3,
+   51.1,
+   42.3
+  ],
   "largura_mm": 60.5,
   "altura_mm": 50.7,
   "svg_mm": [
@@ -10114,6 +13906,12 @@
  "ST-010": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-010.svg",
+  "corpo_mm": [
+   9.4,
+   15.3,
+   26.9,
+   58.5
+  ],
   "largura_mm": 35.3,
   "altura_mm": 67.5,
   "svg_mm": [
@@ -10130,6 +13928,12 @@
  "ST-011": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-011.svg",
+  "corpo_mm": [
+   16.1,
+   8.3,
+   63.3,
+   41.9
+  ],
   "largura_mm": 79.8,
   "altura_mm": 57.2,
   "svg_mm": [
@@ -10146,6 +13950,12 @@
  "ST-013": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-013.svg",
+  "corpo_mm": [
+   8.4,
+   8.3,
+   44.0,
+   78.4
+  ],
   "largura_mm": 60.5,
   "altura_mm": 86.8,
   "svg_mm": [
@@ -10162,6 +13972,12 @@
  "ST-014": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-014.svg",
+  "corpo_mm": [
+   9.4,
+   15.3,
+   26.9,
+   75.4
+  ],
   "largura_mm": 35.3,
   "altura_mm": 84.3,
   "svg_mm": [
@@ -10178,6 +13994,12 @@
  "ST-015": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-015.svg",
+  "corpo_mm": [
+   9.3,
+   8.4,
+   26.8,
+   43.5
+  ],
   "largura_mm": 35.2,
   "altura_mm": 52.1,
   "svg_mm": [
@@ -10194,6 +14016,12 @@
  "ST-016": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-016.svg",
+  "corpo_mm": [
+   9.5,
+   8.3,
+   69.7,
+   58.4
+  ],
   "largura_mm": 78.1,
   "altura_mm": 66.8,
   "svg_mm": [
@@ -10210,6 +14038,12 @@
  "ST-017": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-017.svg",
+  "corpo_mm": [
+   9.3,
+   15.3,
+   69.4,
+   42.4
+  ],
   "largura_mm": 77.8,
   "altura_mm": 50.7,
   "svg_mm": [
@@ -10226,6 +14060,12 @@
  "ST-018": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-018.svg",
+  "corpo_mm": [
+   8.4,
+   8.3,
+   35.5,
+   68.4
+  ],
   "largura_mm": 43.9,
   "altura_mm": 76.7,
   "svg_mm": [
@@ -10242,6 +14082,12 @@
  "ST-019": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-019.svg",
+  "corpo_mm": [
+   9.6,
+   8.3,
+   99.7,
+   58.4
+  ],
   "largura_mm": 108.1,
   "altura_mm": 73.7,
   "svg_mm": [
@@ -10258,6 +14104,12 @@
  "ST-020": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-020.svg",
+  "corpo_mm": [
+   8.4,
+   15.3,
+   98.5,
+   42.3
+  ],
   "largura_mm": 108.0,
   "altura_mm": 50.7,
   "svg_mm": [
@@ -10274,6 +14126,12 @@
  "ST-021": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-021.svg",
+  "corpo_mm": [
+   8.4,
+   8.3,
+   35.5,
+   98.4
+  ],
   "largura_mm": 43.9,
   "altura_mm": 106.7,
   "svg_mm": [
@@ -10290,6 +14148,12 @@
  "ST-022": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-022.svg",
+  "corpo_mm": [
+   8.0,
+   8.3,
+   35.1,
+   98.4
+  ],
   "largura_mm": 43.5,
   "altura_mm": 106.7,
   "svg_mm": [
@@ -10306,6 +14170,12 @@
  "ST-024": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-024.svg",
+  "corpo_mm": [
+   9.3,
+   8.3,
+   37.0,
+   37.9
+  ],
   "largura_mm": 53.4,
   "altura_mm": 53.9,
   "svg_mm": [
@@ -10322,6 +14192,12 @@
  "ST-027": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-027.svg",
+  "corpo_mm": [
+   9.3,
+   15.3,
+   112.4,
+   55.4
+  ],
   "largura_mm": 120.8,
   "altura_mm": 64.1,
   "svg_mm": [
@@ -10338,6 +14214,12 @@
  "ST-028": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-028.svg",
+  "corpo_mm": [
+   9.2,
+   15.3,
+   43.6,
+   33.2
+  ],
   "largura_mm": 51.9,
   "altura_mm": 33.3,
   "svg_mm": [
@@ -10354,6 +14236,12 @@
  "ST-030": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-030.svg",
+  "corpo_mm": [
+   16.7,
+   0.2,
+   28.7,
+   20.0
+  ],
   "largura_mm": 37.8,
   "altura_mm": 28.6,
   "svg_mm": [
@@ -10370,6 +14258,12 @@
  "ST-031": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-031.svg",
+  "corpo_mm": [
+   9.2,
+   7.8,
+   90.0,
+   40.0
+  ],
   "largura_mm": 98.4,
   "altura_mm": 43.7,
   "svg_mm": [
@@ -10386,6 +14280,12 @@
  "ST-040": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-040.svg",
+  "corpo_mm": [
+   9.5,
+   8.4,
+   36.5,
+   47.8
+  ],
   "largura_mm": 52.9,
   "altura_mm": 63.5,
   "svg_mm": [
@@ -10402,6 +14302,12 @@
  "ST-050": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/ST-050.svg",
+  "corpo_mm": [
+   15.4,
+   15.3,
+   35.9,
+   45.5
+  ],
   "largura_mm": 44.8,
   "altura_mm": 54.4,
   "svg_mm": [
@@ -10418,6 +14324,12 @@
  "STL-221": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "stelman-avulso/STL-221_AP-221.svg",
+  "corpo_mm": [
+   0.2,
+   8.5,
+   97.6,
+   45.8
+  ],
   "largura_mm": 108.7,
   "altura_mm": 54.0,
   "svg_mm": [
@@ -10434,6 +14346,12 @@
  "SU-001": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-001.svg",
+  "corpo_mm": [
+   14.0,
+   10.0,
+   85.6,
+   43.3
+  ],
   "largura_mm": 110.9,
   "altura_mm": 43.4,
   "svg_mm": [
@@ -10450,6 +14368,12 @@
  "SU-002": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-002.svg",
+  "corpo_mm": [
+   13.5,
+   0.2,
+   85.0,
+   47.4
+  ],
   "largura_mm": 113.8,
   "altura_mm": 65.4,
   "svg_mm": [
@@ -10466,6 +14390,12 @@
  "SU-003": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-003.svg",
+  "corpo_mm": [
+   14.1,
+   18.6,
+   85.7,
+   44.9
+  ],
   "largura_mm": 107.9,
   "altura_mm": 57.9,
   "svg_mm": [
@@ -10482,6 +14412,12 @@
  "SU-004": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-004.svg",
+  "corpo_mm": [
+   14.6,
+   14.5,
+   85.8,
+   44.8
+  ],
   "largura_mm": 105.8,
   "altura_mm": 44.9,
   "svg_mm": [
@@ -10498,6 +14434,12 @@
  "SU-005": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-005.svg",
+  "corpo_mm": [
+   0.3,
+   9.1,
+   70.1,
+   55.5
+  ],
   "largura_mm": 94.5,
   "altura_mm": 66.1,
   "svg_mm": [
@@ -10514,6 +14456,12 @@
  "SU-006": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-006.svg",
+  "corpo_mm": [
+   0.1,
+   0.7,
+   69.8,
+   61.2
+  ],
   "largura_mm": 94.4,
   "altura_mm": 70.9,
   "svg_mm": [
@@ -10530,6 +14478,12 @@
  "SU-007": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-007.svg",
+  "corpo_mm": [
+   0.1,
+   10.8,
+   71.3,
+   37.0
+  ],
   "largura_mm": 92.8,
   "altura_mm": 49.1,
   "svg_mm": [
@@ -10546,6 +14500,12 @@
  "SU-008": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/SU-008.svg",
+  "corpo_mm": [
+   26.5,
+   0.2,
+   42.4,
+   29.3
+  ],
   "largura_mm": 66.1,
   "altura_mm": 44.9,
   "svg_mm": [
@@ -10562,6 +14522,12 @@
  "SU-009": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-009.svg",
+  "corpo_mm": [
+   14.3,
+   9.2,
+   84.1,
+   61.5
+  ],
   "largura_mm": 96.4,
   "altura_mm": 63.3,
   "svg_mm": [
@@ -10578,6 +14544,12 @@
  "SU-010": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-010.svg",
+  "corpo_mm": [
+   12.3,
+   12.4,
+   118.5,
+   45.6
+  ],
   "largura_mm": 143.8,
   "altura_mm": 45.7,
   "svg_mm": [
@@ -10594,6 +14566,12 @@
  "SU-011": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-011.svg",
+  "corpo_mm": [
+   12.0,
+   4.3,
+   118.2,
+   51.5
+  ],
   "largura_mm": 135.9,
   "altura_mm": 64.4,
   "svg_mm": [
@@ -10610,6 +14588,12 @@
  "SU-012": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-012.svg",
+  "corpo_mm": [
+   10.3,
+   11.7,
+   116.6,
+   37.9
+  ],
   "largura_mm": 149.2,
   "altura_mm": 62.1,
   "svg_mm": [
@@ -10626,6 +14610,12 @@
  "SU-013": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-013.svg",
+  "corpo_mm": [
+   13.9,
+   0.1,
+   120.3,
+   26.4
+  ],
   "largura_mm": 132.2,
   "altura_mm": 45.9,
   "svg_mm": [
@@ -10642,6 +14632,12 @@
  "SU-014": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-014.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   106.5,
+   26.5
+  ],
   "largura_mm": 106.5,
   "altura_mm": 51.6,
   "svg_mm": [
@@ -10658,6 +14654,12 @@
  "SU-015": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/SU-015_MG25-015.svg",
+  "corpo_mm": [
+   12.7,
+   11.0,
+   118.8,
+   44.1
+  ],
   "largura_mm": 118.9,
   "altura_mm": 52.7,
   "svg_mm": [
@@ -10674,6 +14676,12 @@
  "SU-016": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/SU-016_MG25-016.svg",
+  "corpo_mm": [
+   0.1,
+   0.2,
+   106.2,
+   47.3
+  ],
   "largura_mm": 117.9,
   "altura_mm": 58.2,
   "svg_mm": [
@@ -10690,6 +14698,12 @@
  "SU-017": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/SU-017.svg",
+  "corpo_mm": [
+   7.0,
+   9.9,
+   21.7,
+   29.2
+  ],
   "largura_mm": 22.0,
   "altura_mm": 40.4,
   "svg_mm": [
@@ -10706,6 +14720,12 @@
  "SU-018": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-018.svg",
+  "corpo_mm": [
+   12.1,
+   11.9,
+   118.3,
+   42.2
+  ],
   "largura_mm": 129.3,
   "altura_mm": 56.9,
   "svg_mm": [
@@ -10722,6 +14742,12 @@
  "SU-019": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-019.svg",
+  "corpo_mm": [
+   19.6,
+   0.1,
+   124.6,
+   59.6
+  ],
   "largura_mm": 136.1,
   "altura_mm": 73.4,
   "svg_mm": [
@@ -10738,6 +14764,12 @@
  "SU-023": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/SU-023.svg",
+  "corpo_mm": [
+   0.2,
+   0.1,
+   103.5,
+   26.5
+  ],
   "largura_mm": 103.5,
   "altura_mm": 39.2,
   "svg_mm": [
@@ -10754,6 +14786,12 @@
  "SU-039": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-039.svg",
+  "corpo_mm": [
+   14.3,
+   9.3,
+   67.0,
+   34.5
+  ],
   "largura_mm": 78.1,
   "altura_mm": 46.3,
   "svg_mm": [
@@ -10770,6 +14808,12 @@
  "SU-040": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-040.svg",
+  "corpo_mm": [
+   0.1,
+   8.1,
+   42.7,
+   39.0
+  ],
   "largura_mm": 58.8,
   "altura_mm": 48.1,
   "svg_mm": [
@@ -10786,6 +14830,12 @@
  "SU-041": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-041.svg",
+  "corpo_mm": [
+   7.8,
+   0.1,
+   50.4,
+   33.2
+  ],
   "largura_mm": 57.3,
   "altura_mm": 48.5,
   "svg_mm": [
@@ -10802,6 +14852,12 @@
  "SU-042": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-042.svg",
+  "corpo_mm": [
+   13.0,
+   5.6,
+   55.6,
+   44.4
+  ],
   "largura_mm": 75.1,
   "altura_mm": 44.5,
   "svg_mm": [
@@ -10818,6 +14874,12 @@
  "SU-043": {
   "pacote": "suprema",
   "arquivo": "centenario-tms/SU-043_TMS-043.svg",
+  "corpo_mm": [
+   16.8,
+   11.6,
+   67.6,
+   60.6
+  ],
   "largura_mm": 77.9,
   "altura_mm": 69.6,
   "svg_mm": [
@@ -10834,6 +14896,12 @@
  "SU-044": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-044.svg",
+  "corpo_mm": [
+   16.1,
+   0.1,
+   68.8,
+   52.3
+  ],
   "largura_mm": 80.1,
   "altura_mm": 63.1,
   "svg_mm": [
@@ -10850,6 +14918,12 @@
  "SU-047": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-047.svg",
+  "corpo_mm": [
+   12.3,
+   8.5,
+   54.7,
+   77.3
+  ],
   "largura_mm": 67.0,
   "altura_mm": 89.3,
   "svg_mm": [
@@ -10866,6 +14940,12 @@
  "SU-048": {
   "pacote": "perfis-cliente-25-11",
   "arquivo": "perfis-cliente-25-11/SU-048_ISU-048.svg",
+  "corpo_mm": [
+   0.2,
+   12.4,
+   66.1,
+   54.9
+  ],
   "largura_mm": 77.6,
   "altura_mm": 71.3,
   "svg_mm": [
@@ -10882,6 +14962,12 @@
  "SU-049": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-049.svg",
+  "corpo_mm": [
+   13.9,
+   0.1,
+   56.5,
+   71.3
+  ],
   "largura_mm": 72.3,
   "altura_mm": 85.0,
   "svg_mm": [
@@ -10898,6 +14984,12 @@
  "SU-050": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-050.svg",
+  "corpo_mm": [
+   20.5,
+   0.1,
+   42.9,
+   100.4
+  ],
   "largura_mm": 55.8,
   "altura_mm": 107.2,
   "svg_mm": [
@@ -10914,6 +15006,12 @@
  "SU-053": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-053.svg",
+  "corpo_mm": [
+   20.4,
+   4.6,
+   42.9,
+   55.7
+  ],
   "largura_mm": 59.3,
   "altura_mm": 67.5,
   "svg_mm": [
@@ -10930,6 +15028,12 @@
  "SU-055": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-055.svg",
+  "corpo_mm": [
+   18.8,
+   9.2,
+   68.0,
+   34.3
+  ],
   "largura_mm": 79.9,
   "altura_mm": 43.0,
   "svg_mm": [
@@ -10946,6 +15050,12 @@
  "SU-056": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-056.svg",
+  "corpo_mm": [
+   15.4,
+   12.3,
+   54.5,
+   44.3
+  ],
   "largura_mm": 66.5,
   "altura_mm": 44.4,
   "svg_mm": [
@@ -10962,6 +15072,12 @@
  "SU-057": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-057.svg",
+  "corpo_mm": [
+   11.4,
+   13.0,
+   50.5,
+   51.8
+  ],
   "largura_mm": 67.3,
   "altura_mm": 51.9,
   "svg_mm": [
@@ -10978,6 +15094,12 @@
  "SU-058": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-058.svg",
+  "corpo_mm": [
+   14.3,
+   8.6,
+   56.9,
+   40.7
+  ],
   "largura_mm": 67.9,
   "altura_mm": 53.9,
   "svg_mm": [
@@ -10994,6 +15116,12 @@
  "SU-060": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-060.svg",
+  "corpo_mm": [
+   11.3,
+   11.4,
+   60.7,
+   63.7
+  ],
   "largura_mm": 78.8,
   "altura_mm": 75.8,
   "svg_mm": [
@@ -11010,6 +15138,12 @@
  "SU-061": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-061.svg",
+  "corpo_mm": [
+   25.1,
+   15.5,
+   64.4,
+   85.8
+  ],
   "largura_mm": 64.5,
   "altura_mm": 96.4,
   "svg_mm": [
@@ -11026,6 +15160,12 @@
  "SU-068": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-068.svg",
+  "corpo_mm": [
+   2.9,
+   0.1,
+   55.7,
+   25.3
+  ],
   "largura_mm": 66.9,
   "altura_mm": 36.5,
   "svg_mm": [
@@ -11042,6 +15182,12 @@
  "SU-069": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-069.svg",
+  "corpo_mm": [
+   11.8,
+   3.7,
+   54.3,
+   42.6
+  ],
   "largura_mm": 62.8,
   "altura_mm": 50.4,
   "svg_mm": [
@@ -11058,6 +15204,12 @@
  "SU-070": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-070.svg",
+  "corpo_mm": [
+   15.2,
+   0.1,
+   57.8,
+   33.2
+  ],
   "largura_mm": 57.9,
   "altura_mm": 44.2,
   "svg_mm": [
@@ -11074,6 +15226,12 @@
  "SU-071": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-071.svg",
+  "corpo_mm": [
+   21.3,
+   8.4,
+   51.4,
+   37.6
+  ],
   "largura_mm": 63.2,
   "altura_mm": 49.5,
   "svg_mm": [
@@ -11090,6 +15248,12 @@
  "SU-072": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-072.svg",
+  "corpo_mm": [
+   15.8,
+   9.6,
+   58.3,
+   34.8
+  ],
   "largura_mm": 70.8,
   "altura_mm": 45.9,
   "svg_mm": [
@@ -11106,6 +15270,12 @@
  "SU-073": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-073.svg",
+  "corpo_mm": [
+   26.0,
+   5.6,
+   48.4,
+   48.8
+  ],
   "largura_mm": 62.9,
   "altura_mm": 61.5,
   "svg_mm": [
@@ -11122,6 +15292,12 @@
  "SU-074": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-074.svg",
+  "corpo_mm": [
+   13.3,
+   0.1,
+   69.7,
+   30.8
+  ],
   "largura_mm": 70.6,
   "altura_mm": 41.9,
   "svg_mm": [
@@ -11138,6 +15314,12 @@
  "SU-079": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-079.svg",
+  "corpo_mm": [
+   11.2,
+   3.5,
+   40.0,
+   38.7
+  ],
   "largura_mm": 51.5,
   "altura_mm": 51.9,
   "svg_mm": [
@@ -11154,6 +15336,12 @@
  "SU-080": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-080.svg",
+  "corpo_mm": [
+   14.1,
+   13.0,
+   39.2,
+   43.0
+  ],
   "largura_mm": 59.9,
   "altura_mm": 43.2,
   "svg_mm": [
@@ -11170,6 +15358,12 @@
  "SU-081": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-081.svg",
+  "corpo_mm": [
+   8.7,
+   19.2,
+   51.7,
+   45.6
+  ],
   "largura_mm": 68.0,
   "altura_mm": 54.9,
   "svg_mm": [
@@ -11186,6 +15380,12 @@
  "SU-082": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-082.svg",
+  "corpo_mm": [
+   14.1,
+   3.5,
+   37.8,
+   33.7
+  ],
   "largura_mm": 59.5,
   "altura_mm": 51.5,
   "svg_mm": [
@@ -11202,6 +15402,12 @@
  "SU-083": {
   "pacote": "gold",
   "arquivo": "geral-alcoa/SU-083.svg",
+  "corpo_mm": [
+   0.2,
+   16.5,
+   33.2,
+   45.5
+  ],
   "largura_mm": 40.4,
   "altura_mm": 45.9,
   "svg_mm": [
@@ -11218,6 +15424,12 @@
  "SU-084": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-084.svg",
+  "corpo_mm": [
+   14.2,
+   27.4,
+   40.5,
+   43.0
+  ],
   "largura_mm": 40.6,
   "altura_mm": 54.8,
   "svg_mm": [
@@ -11234,6 +15446,12 @@
  "SU-085": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-085.svg",
+  "corpo_mm": [
+   17.6,
+   0.1,
+   46.3,
+   57.2
+  ],
   "largura_mm": 46.4,
   "altura_mm": 57.3,
   "svg_mm": [
@@ -11250,6 +15468,12 @@
  "SU-086": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-086.svg",
+  "corpo_mm": [
+   11.3,
+   9.1,
+   68.4,
+   37.7
+  ],
   "largura_mm": 68.5,
   "altura_mm": 55.0,
   "svg_mm": [
@@ -11266,6 +15490,12 @@
  "SU-088": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-088.svg",
+  "corpo_mm": [
+   14.3,
+   0.1,
+   39.4,
+   32.3
+  ],
   "largura_mm": 51.8,
   "altura_mm": 39.1,
   "svg_mm": [
@@ -11282,6 +15512,12 @@
  "SU-089": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/SU-089.svg",
+  "corpo_mm": [
+   13.5,
+   17.8,
+   38.6,
+   54.7
+  ],
   "largura_mm": 51.5,
   "altura_mm": 63.1,
   "svg_mm": [
@@ -11298,6 +15534,12 @@
  "SU-090": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-090.svg",
+  "corpo_mm": [
+   22.2,
+   17.0,
+   61.8,
+   43.5
+  ],
   "largura_mm": 75.8,
   "altura_mm": 59.3,
   "svg_mm": [
@@ -11314,6 +15556,12 @@
  "SU-091": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-091.svg",
+  "corpo_mm": [
+   16.2,
+   0.1,
+   41.6,
+   26.8
+  ],
   "largura_mm": 58.0,
   "altura_mm": 42.1,
   "svg_mm": [
@@ -11330,6 +15578,12 @@
  "SU-093": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-093.svg",
+  "corpo_mm": [
+   15.5,
+   21.6,
+   40.7,
+   48.8
+  ],
   "largura_mm": 55.8,
   "altura_mm": 60.9,
   "svg_mm": [
@@ -11346,6 +15600,12 @@
  "SU-094": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-094.svg",
+  "corpo_mm": [
+   15.3,
+   14.9,
+   40.6,
+   35.1
+  ],
   "largura_mm": 52.2,
   "altura_mm": 50.3,
   "svg_mm": [
@@ -11362,6 +15622,12 @@
  "SU-096": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-096.svg",
+  "corpo_mm": [
+   0.1,
+   20.5,
+   26.8,
+   45.6
+  ],
   "largura_mm": 45.8,
   "altura_mm": 60.4,
   "svg_mm": [
@@ -11378,6 +15644,12 @@
  "SU-097": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-097.svg",
+  "corpo_mm": [
+   15.7,
+   19.0,
+   44.5,
+   57.9
+  ],
   "largura_mm": 68.0,
   "altura_mm": 65.8,
   "svg_mm": [
@@ -11394,6 +15666,12 @@
  "SU-098": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-098.svg",
+  "corpo_mm": [
+   16.7,
+   0.1,
+   45.4,
+   38.9
+  ],
   "largura_mm": 58.8,
   "altura_mm": 51.7,
   "svg_mm": [
@@ -11410,6 +15688,12 @@
  "SU-099": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-099.svg",
+  "corpo_mm": [
+   14.6,
+   11.5,
+   41.8,
+   34.8
+  ],
   "largura_mm": 55.7,
   "altura_mm": 51.6,
   "svg_mm": [
@@ -11426,6 +15710,12 @@
  "SU-100": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-100.svg",
+  "corpo_mm": [
+   13.2,
+   14.5,
+   42.1,
+   30.2
+  ],
   "largura_mm": 58.7,
   "altura_mm": 56.3,
   "svg_mm": [
@@ -11442,6 +15732,12 @@
  "SU-102": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-102.svg",
+  "corpo_mm": [
+   8.3,
+   12.6,
+   25.9,
+   28.5
+  ],
   "largura_mm": 40.3,
   "altura_mm": 64.5,
   "svg_mm": [
@@ -11458,6 +15754,12 @@
  "SU-103": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-103.svg",
+  "corpo_mm": [
+   6.6,
+   12.0,
+   28.8,
+   30.9
+  ],
   "largura_mm": 44.1,
   "altura_mm": 47.6,
   "svg_mm": [
@@ -11474,6 +15776,12 @@
  "SU-107": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-107.svg",
+  "corpo_mm": [
+   12.7,
+   0.1,
+   38.5,
+   26.8
+  ],
   "largura_mm": 38.5,
   "altura_mm": 38.0,
   "svg_mm": [
@@ -11490,6 +15798,12 @@
  "SU-108": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-108.svg",
+  "corpo_mm": [
+   27.1,
+   9.2,
+   43.0,
+   33.0
+  ],
   "largura_mm": 67.8,
   "altura_mm": 48.6,
   "svg_mm": [
@@ -11506,6 +15820,12 @@
  "SU-110": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-110.svg",
+  "corpo_mm": [
+   21.8,
+   4.7,
+   44.2,
+   55.8
+  ],
   "largura_mm": 56.8,
   "altura_mm": 65.4,
   "svg_mm": [
@@ -11522,6 +15842,12 @@
  "SU-111": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-111.svg",
+  "corpo_mm": [
+   0.1,
+   10.6,
+   62.2,
+   35.8
+  ],
   "largura_mm": 71.7,
   "altura_mm": 49.4,
   "svg_mm": [
@@ -11538,6 +15864,12 @@
  "SU-120": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-120.svg",
+  "corpo_mm": [
+   10.3,
+   12.1,
+   53.5,
+   37.3
+  ],
   "largura_mm": 61.8,
   "altura_mm": 52.7,
   "svg_mm": [
@@ -11554,6 +15886,12 @@
  "SU-121": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-121.svg",
+  "corpo_mm": [
+   8.7,
+   10.5,
+   149.9,
+   43.8
+  ],
   "largura_mm": 167.7,
   "altura_mm": 43.9,
   "svg_mm": [
@@ -11570,6 +15908,12 @@
  "SU-122": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-122.svg",
+  "corpo_mm": [
+   8.7,
+   0.1,
+   149.9,
+   47.3
+  ],
   "largura_mm": 157.5,
   "altura_mm": 56.7,
   "svg_mm": [
@@ -11586,6 +15930,12 @@
  "SU-123": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-123.svg",
+  "corpo_mm": [
+   0.1,
+   17.7,
+   141.2,
+   44.0
+  ],
   "largura_mm": 142.6,
   "altura_mm": 58.1,
   "svg_mm": [
@@ -11602,6 +15952,12 @@
  "SU-186": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-186.svg",
+  "corpo_mm": [
+   25.9,
+   18.9,
+   47.7,
+   65.4
+  ],
   "largura_mm": 61.5,
   "altura_mm": 77.8,
   "svg_mm": [
@@ -11618,6 +15974,12 @@
  "SU-187": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-187.svg",
+  "corpo_mm": [
+   21.3,
+   0.1,
+   43.7,
+   51.3
+  ],
   "largura_mm": 43.7,
   "altura_mm": 62.8,
   "svg_mm": [
@@ -11634,6 +15996,12 @@
  "SU-188": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-188.svg",
+  "corpo_mm": [
+   22.7,
+   11.6,
+   44.4,
+   60.4
+  ],
   "largura_mm": 57.1,
   "altura_mm": 72.8,
   "svg_mm": [
@@ -11650,6 +16018,12 @@
  "SU-190": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/SU-190.svg",
+  "corpo_mm": [
+   14.0,
+   11.2,
+   64.3,
+   36.2
+  ],
   "largura_mm": 85.8,
   "altura_mm": 49.9,
   "svg_mm": [
@@ -11666,6 +16040,12 @@
  "SU-191": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/SU-191.svg",
+  "corpo_mm": [
+   18.7,
+   30.0,
+   72.6,
+   55.0
+  ],
   "largura_mm": 88.6,
   "altura_mm": 71.0,
   "svg_mm": [
@@ -11682,6 +16062,12 @@
  "SU-192": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/SU-192.svg",
+  "corpo_mm": [
+   19.4,
+   29.2,
+   73.3,
+   54.2
+  ],
   "largura_mm": 92.3,
   "altura_mm": 72.0,
   "svg_mm": [
@@ -11698,6 +16084,12 @@
  "SU-200": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-200.svg",
+  "corpo_mm": [
+   8.7,
+   12.8,
+   54.6,
+   39.5
+  ],
   "largura_mm": 69.8,
   "altura_mm": 49.2,
   "svg_mm": [
@@ -11714,6 +16106,12 @@
  "SU-202": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/SU-202.svg",
+  "corpo_mm": [
+   15.4,
+   11.0,
+   32.8,
+   30.3
+  ],
   "largura_mm": 44.7,
   "altura_mm": 30.3,
   "svg_mm": [
@@ -11730,6 +16128,12 @@
  "SU-203": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-203.svg",
+  "corpo_mm": [
+   23.1,
+   14.8,
+   43.2,
+   30.7
+  ],
   "largura_mm": 57.4,
   "altura_mm": 66.7,
   "svg_mm": [
@@ -11746,6 +16150,12 @@
  "SU-225": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-225.svg",
+  "corpo_mm": [
+   20.7,
+   0.1,
+   43.4,
+   100.3
+  ],
   "largura_mm": 51.5,
   "altura_mm": 109.9,
   "svg_mm": [
@@ -11762,6 +16172,12 @@
  "SU-226": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-226.svg",
+  "corpo_mm": [
+   20.6,
+   0.1,
+   43.2,
+   96.8
+  ],
   "largura_mm": 55.1,
   "altura_mm": 109.5,
   "svg_mm": [
@@ -11778,6 +16194,12 @@
  "SU-227": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-227.svg",
+  "corpo_mm": [
+   25.0,
+   2.7,
+   47.4,
+   60.0
+  ],
   "largura_mm": 63.2,
   "altura_mm": 73.1,
   "svg_mm": [
@@ -11794,6 +16216,12 @@
  "SU-228": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-228.svg",
+  "corpo_mm": [
+   35.5,
+   12.0,
+   104.0,
+   49.1
+  ],
   "largura_mm": 145.6,
   "altura_mm": 71.4,
   "svg_mm": [
@@ -11810,6 +16238,12 @@
  "SU-230": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-230.svg",
+  "corpo_mm": [
+   10.7,
+   3.1,
+   114.1,
+   40.2
+  ],
   "largura_mm": 130.4,
   "altura_mm": 52.2,
   "svg_mm": [
@@ -11826,6 +16260,12 @@
  "SU-231": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/SU-231.svg",
+  "corpo_mm": [
+   0.4,
+   14.0,
+   96.4,
+   48.9
+  ],
   "largura_mm": 104.5,
   "altura_mm": 49.0,
   "svg_mm": [
@@ -11842,6 +16282,12 @@
  "SU-238": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-238.svg",
+  "corpo_mm": [
+   6.3,
+   11.1,
+   67.7,
+   36.7
+  ],
   "largura_mm": 78.5,
   "altura_mm": 49.2,
   "svg_mm": [
@@ -11858,6 +16304,12 @@
  "SU-239": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-239.svg",
+  "corpo_mm": [
+   0.1,
+   20.1,
+   61.5,
+   52.3
+  ],
   "largura_mm": 90.7,
   "altura_mm": 52.4,
   "svg_mm": [
@@ -11874,6 +16326,12 @@
  "SU-241": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-241.svg",
+  "corpo_mm": [
+   8.8,
+   13.1,
+   70.3,
+   38.6
+  ],
   "largura_mm": 83.0,
   "altura_mm": 47.7,
   "svg_mm": [
@@ -11890,6 +16348,12 @@
  "SU-242": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-242.svg",
+  "corpo_mm": [
+   14.6,
+   0.1,
+   79.6,
+   34.9
+  ],
   "largura_mm": 79.6,
   "altura_mm": 53.4,
   "svg_mm": [
@@ -11906,6 +16370,12 @@
  "SU-243": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-243.svg",
+  "corpo_mm": [
+   11.0,
+   7.7,
+   76.0,
+   40.1
+  ],
   "largura_mm": 85.5,
   "altura_mm": 51.9,
   "svg_mm": [
@@ -11922,6 +16392,12 @@
  "SU-244": {
   "pacote": "geral-stelman",
   "arquivo": "geral-stelman/SU-244.svg",
+  "corpo_mm": [
+   5.7,
+   11.2,
+   80.7,
+   36.9
+  ],
   "largura_mm": 88.0,
   "altura_mm": 39.2,
   "svg_mm": [
@@ -11938,6 +16414,12 @@
  "SU-245": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-245.svg",
+  "corpo_mm": [
+   10.1,
+   0.1,
+   75.5,
+   27.5
+  ],
   "largura_mm": 75.6,
   "altura_mm": 45.2,
   "svg_mm": [
@@ -11954,6 +16436,12 @@
  "SU-250": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-250.svg",
+  "corpo_mm": [
+   12.2,
+   10.3,
+   64.9,
+   62.4
+  ],
   "largura_mm": 75.3,
   "altura_mm": 62.6,
   "svg_mm": [
@@ -11970,6 +16458,12 @@
  "SU-260": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-260.svg",
+  "corpo_mm": [
+   0.1,
+   11.8,
+   68.5,
+   35.0
+  ],
   "largura_mm": 84.0,
   "altura_mm": 51.1,
   "svg_mm": [
@@ -11986,6 +16480,12 @@
  "SU-271": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-271.svg",
+  "corpo_mm": [
+   0.1,
+   10.1,
+   25.2,
+   33.2
+  ],
   "largura_mm": 46.0,
   "altura_mm": 33.3,
   "svg_mm": [
@@ -12002,6 +16502,12 @@
  "SU-272": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-272.svg",
+  "corpo_mm": [
+   0.1,
+   10.1,
+   42.7,
+   33.2
+  ],
   "largura_mm": 59.8,
   "altura_mm": 33.2,
   "svg_mm": [
@@ -12018,6 +16524,12 @@
  "SU-276": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-276.svg",
+  "corpo_mm": [
+   10.1,
+   0.1,
+   43.1,
+   26.3
+  ],
   "largura_mm": 43.2,
   "altura_mm": 26.4,
   "svg_mm": [
@@ -12034,6 +16546,12 @@
  "SU-279": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-279.svg",
+  "corpo_mm": [
+   12.2,
+   9.8,
+   53.6,
+   43.2
+  ],
   "largura_mm": 60.7,
   "altura_mm": 64.2,
   "svg_mm": [
@@ -12050,6 +16568,12 @@
  "SU-280": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-280.svg",
+  "corpo_mm": [
+   9.8,
+   0.1,
+   74.8,
+   58.0
+  ],
   "largura_mm": 74.9,
   "altura_mm": 76.5,
   "svg_mm": [
@@ -12066,6 +16590,12 @@
  "SU-281": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/SU-281.svg",
+  "corpo_mm": [
+   12.0,
+   9.0,
+   67.1,
+   84.0
+  ],
   "largura_mm": 67.2,
   "altura_mm": 96.7,
   "svg_mm": [
@@ -12082,6 +16612,12 @@
  "SU-289": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-289.svg",
+  "corpo_mm": [
+   21.3,
+   13.8,
+   86.5,
+   83.1
+  ],
   "largura_mm": 86.6,
   "altura_mm": 95.1,
   "svg_mm": [
@@ -12098,6 +16634,12 @@
  "SU-290": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-290.svg",
+  "corpo_mm": [
+   0.1,
+   15.2,
+   65.4,
+   86.8
+  ],
   "largura_mm": 82.6,
   "altura_mm": 97.5,
   "svg_mm": [
@@ -12114,6 +16656,12 @@
  "SU-291": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-291.svg",
+  "corpo_mm": [
+   0.1,
+   1.4,
+   28.7,
+   17.8
+  ],
   "largura_mm": 43.0,
   "altura_mm": 33.2,
   "svg_mm": [
@@ -12130,6 +16678,12 @@
  "SU-292": {
   "pacote": "suprema",
   "arquivo": "suprema/SU-292.svg",
+  "corpo_mm": [
+   12.1,
+   15.4,
+   37.3,
+   44.4
+  ],
   "largura_mm": 47.1,
   "altura_mm": 48.2,
   "svg_mm": [
@@ -12146,6 +16700,12 @@
  "SU-500": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/SU-500.svg",
+  "corpo_mm": [
+   8.8,
+   10.1,
+   26.4,
+   26.1
+  ],
   "largura_mm": 36.2,
   "altura_mm": 33.7,
   "svg_mm": [
@@ -12162,6 +16722,12 @@
  "SU-521": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/SU-521.svg",
+  "corpo_mm": [
+   7.9,
+   10.2,
+   41.2,
+   186.4
+  ],
   "largura_mm": 46.1,
   "altura_mm": 186.5,
   "svg_mm": [
@@ -12178,6 +16744,12 @@
  "SU-522": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/SU-522.svg",
+  "corpo_mm": [
+   0.1,
+   10.2,
+   47.3,
+   186.4
+  ],
   "largura_mm": 52.5,
   "altura_mm": 186.5,
   "svg_mm": [
@@ -12194,6 +16766,12 @@
  "SU-523": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/SU-523.svg",
+  "corpo_mm": [
+   0.1,
+   12.0,
+   26.4,
+   188.1
+  ],
   "largura_mm": 37.3,
   "altura_mm": 195.4,
   "svg_mm": [
@@ -12210,6 +16788,12 @@
  "T-734": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote10/T-734_CA-004.svg",
+  "corpo_mm": [
+   7.1,
+   3.7,
+   67.9,
+   8.0
+  ],
   "largura_mm": 68.0,
   "altura_mm": 19.7,
   "svg_mm": [
@@ -12226,6 +16810,12 @@
  "TSL-001": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/TSL-001.svg",
+  "corpo_mm": [
+   11.6,
+   7.9,
+   61.7,
+   58.0
+  ],
   "largura_mm": 69.2,
   "altura_mm": 69.8,
   "svg_mm": [
@@ -12242,6 +16832,12 @@
  "TSL-002": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote10/TSL-002.svg",
+  "corpo_mm": [
+   13.6,
+   0.0,
+   67.8,
+   28.9
+  ],
   "largura_mm": 80.2,
   "altura_mm": 40.3,
   "svg_mm": [
@@ -12258,6 +16854,12 @@
  "TSL-003": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/TSL-003.svg",
+  "corpo_mm": [
+   18.5,
+   7.8,
+   68.6,
+   57.9
+  ],
   "largura_mm": 76.9,
   "altura_mm": 67.8,
   "svg_mm": [
@@ -12274,6 +16876,12 @@
  "TSL-004": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote9/TSL-004.svg",
+  "corpo_mm": [
+   10.1,
+   13.9,
+   63.0,
+   43.8
+  ],
   "largura_mm": 74.5,
   "altura_mm": 57.4,
   "svg_mm": [
@@ -12290,6 +16898,12 @@
  "TSL-006": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote9/TSL-006.svg",
+  "corpo_mm": [
+   13.5,
+   0.6,
+   66.9,
+   29.5
+  ],
   "largura_mm": 67.0,
   "altura_mm": 40.6,
   "svg_mm": [
@@ -12306,6 +16920,12 @@
  "TSL-007": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/TSL-007.svg",
+  "corpo_mm": [
+   0.2,
+   5.6,
+   53.7,
+   20.6
+  ],
   "largura_mm": 63.2,
   "altura_mm": 30.3,
   "svg_mm": [
@@ -12322,6 +16942,12 @@
  "TSL-008": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/TSL-008.svg",
+  "corpo_mm": [
+   12.1,
+   10.3,
+   65.9,
+   63.3
+  ],
   "largura_mm": 77.5,
   "altura_mm": 76.9,
   "svg_mm": [
@@ -12338,6 +16964,12 @@
  "TSL-009": {
   "pacote": "lotes-avulsos",
   "arquivo": "lote10/TSL-009_DV-428.svg",
+  "corpo_mm": [
+   11.6,
+   6.9,
+   65.4,
+   51.8
+  ],
   "largura_mm": 65.4,
   "altura_mm": 58.6,
   "svg_mm": [
@@ -12354,6 +16986,12 @@
  "U-1048": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/U-1048.svg",
+  "corpo_mm": [
+   12.4,
+   11.4,
+   67.6,
+   71.5
+  ],
   "largura_mm": 67.6,
   "altura_mm": 71.6,
   "svg_mm": [
@@ -12370,6 +17008,12 @@
  "VZ-006": {
   "pacote": "gold",
   "arquivo": "gold/VZ-006.svg",
+  "corpo_mm": [
+   0.1,
+   22.2,
+   23.0,
+   96.7
+  ],
   "largura_mm": 38.5,
   "altura_mm": 112.2,
   "svg_mm": [
@@ -12386,6 +17030,12 @@
  "VZ-024": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/VZ-024.svg",
+  "corpo_mm": [
+   10.7,
+   6.5,
+   20.5,
+   79.9
+  ],
   "largura_mm": 28.5,
   "altura_mm": 80.1,
   "svg_mm": [
@@ -12402,6 +17052,12 @@
  "VZ-051": {
   "pacote": "suprema",
   "arquivo": "suprema/VZ-051.svg",
+  "corpo_mm": [
+   4.7,
+   8.0,
+   17.2,
+   82.1
+  ],
   "largura_mm": 36.1,
   "altura_mm": 112.8,
   "svg_mm": [
@@ -12418,6 +17074,12 @@
  "VZ-060": {
   "pacote": "geral-alcoa",
   "arquivo": "geral-alcoa/VZ-060.svg",
+  "corpo_mm": [
+   12.1,
+   7.4,
+   42.1,
+   75.9
+  ],
   "largura_mm": 55.6,
   "altura_mm": 76.1,
   "svg_mm": [
@@ -12434,6 +17096,12 @@
  "Y-181": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/Y-181.svg",
+  "corpo_mm": [
+   0.2,
+   13.6,
+   42.8,
+   55.2
+  ],
   "largura_mm": 60.5,
   "altura_mm": 55.3,
   "svg_mm": [
@@ -12450,6 +17118,12 @@
  "Z-169": {
   "pacote": "pendentes-padronizados",
   "arquivo": "pendentes/Z-169.svg",
+  "corpo_mm": [
+   14.7,
+   13.5,
+   26.4,
+   83.6
+  ],
   "largura_mm": 38.0,
   "altura_mm": 83.7,
   "svg_mm": [
@@ -12466,6 +17140,12 @@
  "Z-248": {
   "pacote": "geral-asa",
   "arquivo": "geral-asa/Z-248.svg",
+  "corpo_mm": [
+   0.1,
+   0.1,
+   42.2,
+   50.3
+  ],
   "largura_mm": 55.0,
   "altura_mm": 60.3,
   "svg_mm": [

@@ -6,7 +6,8 @@ em branco que alguns SVGs têm. Os desenhos estão na escala do catálogo do
 fabricante (1:1 na grande maioria — ver scripts/validar_escala.py).
 
 Grava dados/medidas-desenhos.json: código Alplan → pacote, arquivo, largura e
-altura do desenho (mm) e o recorte (viewBox, em unidades do SVG) que o gerador
+altura do desenho (mm), o corpo do perfil sem as cotas (corpo_mm: x0, y0, x1, y1
+em mm a partir do canto do recorte, usado para alinhar perfis na página) e o recorte (viewBox, em unidades do SVG) que o gerador
 do PDF usa para enquadrar só o desenho.
 
 Uso: python3 scripts/medir_desenhos.py
@@ -19,6 +20,7 @@ import subprocess
 import zipfile
 
 import numpy as np
+from scipy import ndimage
 from PIL import Image
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -60,7 +62,20 @@ def medir(svg_bytes):
     # px → unidades declaradas (pt) → unidades do viewBox
     sx, sy = vw / w, vh / h
     recorte = [vx + x0 / ZOOM * sx, vy + y0 / ZOOM * sy, (x1 - x0) / ZOOM * sx, (y1 - y0) / ZOOM * sy]
+    # Corpo do perfil (sem cotas): abertura morfológica apaga linhas de cota e
+    # números (traços finos); ficam as paredes do perfil, que são grossas.
+    # Peças pequenas que sobram (pontas de seta) são descartadas pela área.
+    corpo = None
+    aberto = ndimage.binary_opening(img[y0:y1, x0:x1], structure=np.ones((5, 5)))
+    rot, n = ndimage.label(aberto)
+    if n:
+        areas = ndimage.sum(aberto, rot, range(1, n + 1))
+        manter = [i + 1 for i, a in enumerate(areas) if a >= 0.05 * areas.max()]
+        cy, cx = np.where(np.isin(rot, manter))
+        k = PT_MM / ZOOM
+        corpo = [round(cx.min() * k, 1), round(cy.min() * k, 1), round((cx.max() + 1) * k, 1), round((cy.max() + 1) * k, 1)]
     return {
+        "corpo_mm": corpo,
         "largura_mm": round((x1 - x0) / ZOOM * PT_MM, 1),
         "altura_mm": round((y1 - y0) / ZOOM * PT_MM, 1),
         "svg_mm": [round(w * PT_MM, 1), round(h * PT_MM, 1)],
