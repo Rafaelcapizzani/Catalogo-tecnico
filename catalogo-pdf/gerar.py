@@ -201,6 +201,7 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
         if len(itens) < 2 or any(not medidas[e["codigo"]].get("corpo_mm") for e, _ in itens):
             return {}
         larg = itens[0][0]["largura"]
+        melhor = None
         for lado in (2, 0):  # borda direita do corpo; senão a esquerda
             refs = [medidas[e["codigo"]]["corpo_mm"][lado] * t[2] for e, t in itens]
             lo = max(faixa_x(e, t)[0] + r for (e, t), r in zip(itens, refs))
@@ -210,7 +211,13 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
                 b = max(t[0] - r for (_, t), r in zip(itens, refs))
                 X = min(max(larg / 2 - (a + b) / 2, lo), hi)
                 return {e["codigo"]: X - r for (e, _), r in zip(itens, refs)}
-        return {}
+            if melhor is None or lo - hi < melhor[0]:
+                melhor = (lo - hi, refs, (lo + hi) / 2)
+        # Não dá para alinhar sem um desenho sair do espaço: chega o mais perto
+        # possível (cada desenho vai até o limite do seu espaço).
+        _, refs, X = melhor
+        return {e["codigo"]: min(max(X - r, faixa_x(e, t)[0]), faixa_x(e, t)[1])
+                for (e, t), r in zip(itens, refs)}
 
     for np_, pag in enumerate(paginas, 1):
         colunas = {}
