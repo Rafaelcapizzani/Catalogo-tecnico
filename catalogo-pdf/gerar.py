@@ -186,6 +186,8 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
         if esc < 0.995:
             lw = e["largura"] - TEXTO_LADO - MARGEM_LADO
             lh = e["altura"] - 2 * MARGEM_LADO
+            if m["altura_mm"] > lh:
+                lh = e["altura"] - 1  # desenho muito alto: usa quase toda a altura (LG-571)
             esc_l = min(1.0, lw / m["largura_mm"], lh / m["altura_mm"])
             if esc_l > esc:
                 return m["largura_mm"] * esc_l, m["altura_mm"] * esc_l, esc_l, True

@@ -20,12 +20,15 @@
  *  - Desenho sempre na escala em que foi preparado (nunca ampliado).
  */
 
-export type Tipologia = "1-1" | "1-2 H" | "1-2 V" | "1-3 H" | "1-3 V" | "1-4" | "1-6";
+export type Tipologia = "1-1" | "2-3 V" | "1-2 H" | "1-2 V" | "1-3 H" | "1-3 V" | "1-4" | "1-6";
 export type TipologiaOuTabelado = Tipologia | "TABELADO";
 
 /** Tamanho de cada tipologia em células da grade 6×6 (largura × altura). */
 export const CELULAS: Record<Tipologia, { w: number; h: number }> = {
   "1-1": { w: 6, h: 6 },
+  // 2/3 da página na vertical; o 1/3 que sobra recebe 1-3 V, 1-6 etc.
+  // Só manual (cliente 27/11: LG-571 + LG-572 na mesma página); não é sugerida.
+  "2-3 V": { w: 4, h: 6 },
   "1-2 H": { w: 6, h: 3 },
   "1-2 V": { w: 3, h: 6 },
   "1-3 H": { w: 6, h: 2 },
@@ -61,6 +64,9 @@ export function areaDesenho(t: Tipologia) {
 }
 
 /** Quantos perfis por página (quanto maior, mais econômica). */
+/** Tipologias que só entram por escolha manual. */
+const SO_MANUAL: Tipologia[] = ["2-3 V"];
+
 const porPagina = (t: Tipologia) => 36 / (CELULAS[t].w * CELULAS[t].h);
 
 /**
@@ -71,6 +77,7 @@ const porPagina = (t: Tipologia) => 36 / (CELULAS[t].w * CELULAS[t].h);
 export function sugerirTipologia(larguraMm: number, alturaMm: number, reducaoMaxima = 1) {
   // reducaoMaxima = 1 → escala real (regra atual). Ex.: 0,8 permite reduzir o desenho até 80%.
   const candidatas = (Object.keys(CELULAS) as Tipologia[])
+    .filter((t) => !SO_MANUAL.includes(t))
     .map((t) => {
       const a = areaDesenho(t);
       const cabe = larguraMm * reducaoMaxima <= a.largura && alturaMm * reducaoMaxima <= a.altura;
@@ -137,7 +144,7 @@ export type Pagina =
  * 3º código.
  * A ordem das famílias entre si é mantida.
  */
-export const ORDEM_TIPOLOGIA: TipologiaOuTabelado[] = ["1-1", "1-2 H", "1-2 V", "1-3 H", "1-3 V", "1-4", "1-6", "TABELADO"];
+export const ORDEM_TIPOLOGIA: TipologiaOuTabelado[] = ["1-1", "2-3 V", "1-2 H", "1-2 V", "1-3 H", "1-3 V", "1-4", "1-6", "TABELADO"];
 
 export function ordenarItens(itens: Item[]): Item[] {
   const familias: string[] = [];
@@ -173,7 +180,11 @@ const familia = (i: Item) => `${i.categoria}|${i.subcategoria}|${i.linha}`;
 function espacosPrincipais(t: Tipologia) {
   const c = CELULAS[t];
   const r: { cx: number; cy: number; w: number; h: number }[] = [];
-  for (let cy = 0; cy + c.h <= 6; cy += c.h) for (let cx = 0; cx + c.w <= 6; cx += c.w) r.push({ cx, cy, w: c.w, h: c.h });
+  for (let cy = 0; cy + c.h <= 6; cy += c.h) {
+    let cx = 0;
+    for (; cx + c.w <= 6; cx += c.w) r.push({ cx, cy, w: c.w, h: c.h });
+    if (cx < 6) r.push({ cx, cy, w: 6 - cx, h: c.h }); // sobra na largura (ex.: 2-3 V deixa 1/3)
+  }
   return r;
 }
 

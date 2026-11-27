@@ -1,5 +1,5 @@
 {
- "_motivo": "Tipologia escolhida pelo cliente (27/11). Se o desenho não couber com o texto em cima, o texto vai para a coluna da esquerda e o desenho continua em escala real. 27/11: LG-133, LG-132, LG-127 e LG-128 juntos numa página de 4 (LG-126 vai para 1/2 página ao lado do LG-134 para isso).",
+ "_motivo": "Tipologia escolhida pelo cliente (27/11). Se o desenho não couber com o texto em cima, o texto vai para a coluna da esquerda e o desenho continua em escala real. 27/11: LG-133, LG-132, LG-127 e LG-128 juntos numa página de 4 (LG-126 vai para 1/2 página ao lado do LG-134 para isso). 27/11: LG-571 (2/3 da página) e LG-572 (1/3) na mesma página.",
  "LG-047": "1-3 H",
  "LG-159": "1-3 H",
  "LG-024": "1-3 H",
@@ -8,5 +8,7 @@
  "LG-132": "1-4",
  "LG-127": "1-4",
  "LG-128": "1-4",
- "LG-126": "1-2 H"
+ "LG-126": "1-2 H",
+ "LG-571": "2-3 V",
+ "LG-572": "1-3 V"
 }
