@@ -283,7 +283,8 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
                 src = "data:image/svg+xml;base64," + base64.b64encode(svg_do_desenho(m)).decode()
                 corpo = (f'<img class="des" src="{src}" style="left:{x:.2f}mm;top:{y:.2f}mm;'
                          f'width:{w:.2f}mm;height:{h:.2f}mm">')
-                esc_txt = "escala real" if escala >= 0.995 else f"reduzido a {round(escala * 100)}%"
+                # sem marcação quando está em escala real (cliente 27/11); só avisa se reduziu
+                esc_txt = "" if escala >= 0.995 else f"reduzido a {round(escala * 100)}%"
             else:
                 corpo = '<div class="vazio">Desenho sob consulta</div>'
             sit = '<div class="sit">Sob consulta</div>' if p["situacao"] != "ativo" else ""
