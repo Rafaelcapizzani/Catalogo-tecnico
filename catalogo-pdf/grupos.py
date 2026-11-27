@@ -7,6 +7,52 @@ Ordem: 2 planos, 3 planos, 4 planos, 5 planos, montante, mão de amigo, demais.
 import re
 import unicodedata
 
+# Ordem da peça dentro de cada grupo (proposta 27/11/2026, a confirmar com o cliente).
+# A primeira expressão que casar com a descrição decide; o que não casar vai para o fim.
+PECAS = [
+    ("marco superior", r"marco superior"),
+    ("marco inferior", r"marco inferior"),
+    ("marco lateral", r"marco lateral"),
+    ("marco bandeira / peitoril", r"marco (bandeira|peitoril)"),
+    ("trilho superior", r"trilho superior"),
+    ("trilho inferior", r"trilho inferior"),
+    ("lateral do trilho", r"later\w* p\.?\s*t\w*lho|lateral (do |p/? ?)?trilho"),
+    ("travessa bandeira", r"travessa bandeira"),
+    ("travessa peitoril", r"travessa peitoril"),
+    ("montante central", r"montante central"),
+    ("montante da folha", r"montante (da )?folha"),
+    ("montante travessa", r"montante travessa"),
+    ("montante", r"^montante"),
+    ("coluna", r"^coluna"),
+    ("marco", r"^marco"),
+    ("travessa superior da folha", r"travessa superior"),
+    ("travessa central da folha", r"travessa central"),
+    ("travessa inferior da folha", r"travessa inferior"),
+    ("travessa", r"^travessa"),
+    ("complemento", r"^complemento"),
+    ("mata junta", r"mata ?junta"),
+    ("inversor", r"^inversor"),
+    ("baguete", r"^baguete"),
+    ("porta palheta", r"porta palheta"),
+    ("tampa", r"^tampa"),
+    ("pingadeira", r"^pingadeira"),
+    ("clic", r"^clic"),
+]
+
+
+def peca(descricao):
+    d = _simples(descricao)
+    for i, (_, rx) in enumerate(PECAS):
+        if re.search(rx, d):
+            return i
+    return len(PECAS)
+
+
+def chave(descricao):
+    """Chave numérica de ordenação: grupo, depois peça (vai no campo "grupo" do motor)."""
+    return grupo(descricao) * 100 + peca(descricao)
+
+
 ROTULOS = ["2 planos", "3 planos", "4 planos", "5 planos", "montante", "mão de amigo", "demais"]
 
 
