@@ -96,15 +96,21 @@ def montar(args):
         if cod in perfis:
             perfis[cod]["descricao"] = desc
 
+    # Sistema (correr, maxim-ar, giro, complementos) vem antes de tudo e não se
+    # mistura na página (cliente 27/11) — dados/sistemas.json
+    sistemas = json.load(open(os.path.join(RAIZ, "dados", "sistemas.json"), encoding="utf-8"))
+    ordem_sis = sistemas["_ordem"]
     itens = []
     for linha in args.linhas:
         # ordem final (tipologia, tamanho, código) é aplicada pelo motor (ordenarItens)
         sel = [p for p in perfis.values() if p["linha"] == linha and not p["tabelado"] and p["codigo"] not in fora]
+        sel.sort(key=lambda p: ordem_sis.index(sistemas.get(p["codigo"], ordem_sis[-1])))
         for p in sel:
             m = medidas.get(p["codigo"])
+            sis = sistemas.get(p["codigo"])
             itens.append({
                 "codigo": p["codigo"],
-                "familia": linha,
+                "familia": f"{linha} · {sis}" if sis else linha,
                 "larguraMm": m["largura_mm"] if m else 0,
                 "alturaMm": m["altura_mm"] if m else 0,
                 "grupo": chave(p.get("descricao")),
