@@ -200,6 +200,29 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
         fim = e["largura"] - (MARGEM_LADO if lado else RES_LAT) - w
         return ini, fim
 
+    def corpo_de(e, t):
+        """Caixa do corpo do perfil (sem cotas) já na escala do desenho, em mm
+        a partir do canto do desenho: (x0, y0, x1, y1). Sem medida → desenho todo."""
+        c = medidas[e["codigo"]].get("corpo_mm")
+        return tuple(v * t[2] for v in c) if c else (0, 0, t[0], t[1])
+
+    def centro_area(e, t):
+        """Centro da área onde o desenho pode ficar (mm, dentro do espaço)."""
+        if t[3]:
+            return TEXTO_LADO + (e["largura"] - TEXTO_LADO - MARGEM_LADO) / 2, e["altura"] / 2
+        return e["largura"] / 2, (RES_TOPO + e["altura"] - RES_BASE) / 2
+
+    def posicao_padrao(e, t):
+        """Perfil sozinho: o CORPO fica no centro da área (as cotas em volta),
+        sem deixar o desenho sair do espaço (cliente 27/11: LG-015, LG-026, LG-164)."""
+        b = corpo_de(e, t)
+        cx, cy = centro_area(e, t)
+        x0, x1 = faixa_x(e, t)
+        y0, y1 = faixa_y(e, t)
+        x = min(max(cx - (b[0] + b[2]) / 2, x0), max(x0, x1))
+        y = min(max(cy - (b[1] + b[3]) / 2, y0), max(y0, y1))
+        return x, y
+
     def alinhar_coluna(itens):
         """Alinhamento pedido pelo cliente (27/11): na mesma coluna da página,
         o CORPO dos perfis (sem as cotas) fica alinhado pela borda direita
@@ -213,8 +236,8 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
             lo = max(faixa_x(e, t)[0] + r for (e, t), r in zip(itens, refs))
             hi = min(faixa_x(e, t)[1] + r for (e, t), r in zip(itens, refs))
             if lo <= hi + 0.01:
-                a = min(-r for r in refs)
-                b = max(t[0] - r for (_, t), r in zip(itens, refs))
+                a = min(corpo_de(e, t)[0] - r for (e, t), r in zip(itens, refs))
+                b = max(corpo_de(e, t)[2] - r for (e, t), r in zip(itens, refs))
                 X = min(max(larg / 2 - (a + b) / 2, lo), hi)
                 return {e["codigo"]: X - r for (e, _), r in zip(itens, refs)}
         return {}  # não cabe alinhar: cada um fica centralizado no seu espaço
@@ -231,15 +254,21 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
         LG-051 e LG-017). Se não couber, cada um fica centralizado."""
         if len(itens) < 2 or any(medidas[e["codigo"]].get("parede_h_mm") is None for e, _ in itens):
             return {}
-        alt = itens[0][0]["altura"]
         refs = [medidas[e["codigo"]]["parede_h_mm"] * t[2] for e, t in itens]
+        # só alinha se a parede de referência está do mesmo lado do corpo em todos
+        # (todas em cima ou todas embaixo); senão cada um fica centralizado
+        lados = {(r - corpo_de(e, t)[1]) / max(corpo_de(e, t)[3] - corpo_de(e, t)[1], 0.1) < 0.5
+                 for (e, t), r in zip(itens, refs)}
+        if len(lados) > 1:
+            return {}
         lo = max(faixa_y(e, t)[0] + r for (e, t), r in zip(itens, refs))
         hi = min(faixa_y(e, t)[1] + r for (e, t), r in zip(itens, refs))
         if lo > hi + 0.01:
             return {}
-        a = min(-r for r in refs)
-        b = max(t[1] - r for (_, t), r in zip(itens, refs))
-        Y = min(max(alt / 2 - (a + b) / 2, lo), hi)
+        a = min(corpo_de(e, t)[1] - r for (e, t), r in zip(itens, refs))
+        b = max(corpo_de(e, t)[3] - r for (e, t), r in zip(itens, refs))
+        cy = centro_area(*itens[0])[1]
+        Y = min(max(cy - (a + b) / 2, lo), hi)
         return {e["codigo"]: Y - r for (e, _), r in zip(itens, refs)}
 
     for np_, pag in enumerate(paginas, 1):
@@ -267,15 +296,7 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
             lado = False
             if m:
                 w, h, escala, lado = tamanho(e)
-                if lado:
-                    lw = e["largura"] - TEXTO_LADO - MARGEM_LADO
-                    x = TEXTO_LADO + (lw - w) / 2
-                    y = (e["altura"] - h) / 2
-                else:
-                    aw = e["largura"] - 2 * RES_LAT
-                    ah = e["altura"] - RES_TOPO - RES_BASE
-                    x = RES_LAT + (aw - w) / 2
-                    y = RES_TOPO + (ah - h) / 2
+                x, y = posicao_padrao(e, (w, h, escala, lado))
                 x = x_alinhado.get(e["codigo"], x)
                 y = y_alinhado.get(e["codigo"], y)
                 aj = ajuste.get(e["codigo"], {})
