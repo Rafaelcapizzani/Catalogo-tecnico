@@ -37,6 +37,9 @@ AQUI = os.path.join(RAIZ, "catalogo-pdf")
 AREA_L, AREA_A = 189, 250
 MARGEM_X, TOPO = (210 - AREA_L) / 2, 24
 RES_TOPO, RES_BASE, RES_LAT = 16, 6, 3  # iguais ao CONFIG do motor
+# Texto ao lado: quando o desenho não cabe com o texto em cima/embaixo, o código,
+# o peso e a descrição vão para uma coluna à esquerda e o desenho usa a altura toda.
+TEXTO_LADO, MARGEM_LADO = 38, 3
 
 URL_BASE = "https://www.alplanaluminio.com.br/catalogo/p/"  # provisório até o domínio final
 RODAPE_CONTATO = "WhatsApp (número a informar)  ·  (12) 3901-4255  ·  Rua Dinamarca, 201"
@@ -84,6 +87,7 @@ def montar(args):
     medidas = json.load(open(os.path.join(RAIZ, "dados", "medidas-desenhos.json"), encoding="utf-8"))
     atual = json.load(open(os.path.join(RAIZ, "dados", "tipologia-atual.json"), encoding="utf-8"))
     fora = json.load(open(os.path.join(RAIZ, "dados", "fora-do-catalogo.json"), encoding="utf-8"))
+    forcada = json.load(open(os.path.join(RAIZ, "dados", "tipologia-forcada.json"), encoding="utf-8"))
     # correções de descrição informadas pelo cliente (valem até o ERP ser corrigido)
     for cod, desc in json.load(open(os.path.join(RAIZ, "dados", "descricoes-corrigidas.json"), encoding="utf-8")).items():
         if cod in perfis:
@@ -101,7 +105,8 @@ def montar(args):
                 "larguraMm": m["largura_mm"] if m else 0,
                 "alturaMm": m["altura_mm"] if m else 0,
                 "grupo": chave(p.get("descricao")),
-                "tipologia": atual.get(p["codigo"]) if args.atual and atual.get(p["codigo"], "TABELADO") != "TABELADO" else None,
+                "tipologia": (atual.get(p["codigo"]) if args.atual and atual.get(p["codigo"], "TABELADO") != "TABELADO"
+                              else forcada.get(p["codigo"])),
             })
 
     with tempfile.TemporaryDirectory() as tmp:
@@ -139,6 +144,8 @@ body {{ font-family: 'Bahnschrift', sans-serif; color: #3d3d3d; }}
 .esp .esc {{ position: absolute; right: 2.5mm; bottom: 1.6mm; font-size: 6.5pt; color: #9a9a9a; }}
 .esp .desc {{ position: absolute; left: 2.5mm; right: 14mm; bottom: 1.6mm; font-size: 7.5pt; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
 .esp img.des {{ position: absolute; }}
+.esp.lado .desc {{ right: auto; width: {TEXTO_LADO - 5}mm; bottom: 6mm; white-space: normal; line-height: 1.25; }}
+.esp.lado .esc {{ right: auto; left: 2.5mm; }}
 .esp .vazio {{ position: absolute; left: 0; right: 0; top: 45%; text-align: center; font-size: 8pt; color: #9a9a9a; }}
 .rod {{ position: absolute; left: {MARGEM_X}mm; right: {MARGEM_X}mm; bottom: 7mm; height: 15mm; border-top: 0.3mm solid #2F4396;
         display: flex; align-items: center; justify-content: space-between; font-size: 7.5pt; }}
@@ -164,13 +171,20 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
 <div class="barra"></div></div>""")
 
     def tamanho(e):
+        """(largura, altura, escala, ao_lado) do desenho no espaço."""
         m = medidas.get(e["codigo"])
         if not m:
             return None
         aw = e["largura"] - 2 * RES_LAT
         ah = e["altura"] - RES_TOPO - RES_BASE
         esc = min(1.0, aw / m["largura_mm"], ah / m["altura_mm"])
-        return m["largura_mm"] * esc, m["altura_mm"] * esc, esc
+        if esc < 0.995:
+            lw = e["largura"] - TEXTO_LADO - MARGEM_LADO
+            lh = e["altura"] - 2 * MARGEM_LADO
+            esc_l = min(1.0, lw / m["largura_mm"], lh / m["altura_mm"])
+            if esc_l > esc:
+                return m["largura_mm"] * esc_l, m["altura_mm"] * esc_l, esc_l, True
+        return m["largura_mm"] * esc, m["altura_mm"] * esc, esc, False
 
     for np_, pag in enumerate(paginas, 1):
         # Alinhamento: na mesma coluna da página, os desenhos começam na mesma
@@ -178,7 +192,7 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
         maior_na_coluna = {}
         for e in pag["espacos"]:
             t = tamanho(e)
-            if t:
+            if t and not t[3]:
                 k = (round(e["x"], 1), round(e["largura"], 1))
                 maior_na_coluna[k] = max(maior_na_coluna.get(k, 0), t[0])
         espacos = []
@@ -187,13 +201,19 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
             m = medidas.get(e["codigo"])
             corpo = ""
             esc_txt = ""
+            lado = False
             if m:
-                aw = e["largura"] - 2 * RES_LAT
-                ah = e["altura"] - RES_TOPO - RES_BASE
-                w, h, escala = tamanho(e)
-                larg_col = maior_na_coluna[(round(e["x"], 1), round(e["largura"], 1))]
-                x = RES_LAT + (aw - larg_col) / 2
-                y = RES_TOPO + (ah - h) / 2
+                w, h, escala, lado = tamanho(e)
+                if lado:
+                    lw = e["largura"] - TEXTO_LADO - MARGEM_LADO
+                    x = TEXTO_LADO + (lw - w) / 2
+                    y = (e["altura"] - h) / 2
+                else:
+                    aw = e["largura"] - 2 * RES_LAT
+                    ah = e["altura"] - RES_TOPO - RES_BASE
+                    larg_col = maior_na_coluna[(round(e["x"], 1), round(e["largura"], 1))]
+                    x = RES_LAT + (aw - larg_col) / 2
+                    y = RES_TOPO + (ah - h) / 2
                 src = "data:image/svg+xml;base64," + base64.b64encode(svg_do_desenho(m)).decode()
                 corpo = (f'<img class="des" src="{src}" style="left:{x:.2f}mm;top:{y:.2f}mm;'
                          f'width:{w:.2f}mm;height:{h:.2f}mm">')
@@ -203,7 +223,7 @@ Desenhos padronizados a partir dos catálogos dos fabricantes. Barras de 6 m.</p
             sit = '<div class="sit">Sob consulta</div>' if p["situacao"] != "ativo" else ""
             peso = peso_br(p.get("peso_kg_m"))
             espacos.append(
-                f'<div class="esp" style="left:{e["x"]:.2f}mm;top:{e["y"]:.2f}mm;width:{e["largura"]:.2f}mm;height:{e["altura"]:.2f}mm">'
+                f'<div class="esp{" lado" if lado else ""}" style="left:{e["x"]:.2f}mm;top:{e["y"]:.2f}mm;width:{e["largura"]:.2f}mm;height:{e["altura"]:.2f}mm">'
                 f'{corpo}<div class="cod">{html.escape(p["codigo"])}</div>'
                 f'<div class="peso">{peso + " kg/m" if peso else ""}</div>{sit}'
                 f'<div class="desc">{html.escape(p.get("descricao") or "")}</div>'
