@@ -8866,49 +8866,49 @@
  "LG-144": {
   "pacote": "gold",
   "arquivo": "gold/LG-144_LG144.svg",
-  "largura_mm": 61.6,
-  "altura_mm": 156.0,
+  "largura_mm": 156.4,
+  "altura_mm": 58.5,
   "svg_mm": [
-   63.8,
-   158.3
+   158.3,
+   63.8
   ],
   "recorte": [
-   3.0,
    2.75,
-   174.75,
-   442.25
+   8.75,
+   443.25,
+   165.75
   ]
  },
  "LG-145": {
   "pacote": "gold",
   "arquivo": "gold/LG-145_LG145.svg",
-  "largura_mm": 61.9,
-  "altura_mm": 156.2,
+  "largura_mm": 156.3,
+  "altura_mm": 58.8,
   "svg_mm": [
-   64.3,
-   158.0
+   158.0,
+   64.3
   ],
   "recorte": [
-   3.5,
    2.5,
-   175.5,
-   442.75
+   7.25,
+   443.0,
+   166.75
   ]
  },
  "LG-158": {
   "pacote": "gold",
   "arquivo": "gold/LG-158_LG158.svg",
-  "largura_mm": 44.0,
-  "altura_mm": 161.8,
+  "largura_mm": 161.9,
+  "altura_mm": 42.2,
   "svg_mm": [
-   46.3,
-   163.8
+   163.8,
+   46.3
   ],
   "recorte": [
    2.5,
-   2.75,
-   124.75,
-   458.75
+   2.5,
+   459.0,
+   119.75
   ]
  },
  "LG-159": {
@@ -9042,17 +9042,17 @@
  "LG-234": {
   "pacote": "gold",
   "arquivo": "gold/LG-234_LG234.svg",
-  "largura_mm": 48.7,
-  "altura_mm": 155.8,
+  "largura_mm": 155.8,
+  "altura_mm": 47.1,
   "svg_mm": [
-   51.1,
-   157.6
+   157.6,
+   51.1
   ],
   "recorte": [
    2.75,
    2.75,
-   138.0,
-   441.5
+   441.5,
+   133.5
   ]
  },
  "LG-570": {

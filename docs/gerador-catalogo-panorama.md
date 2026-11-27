@@ -41,6 +41,9 @@ Analisado em 23/11/2026 a partir dos arquivos em "Gerador Catalogo/". Atualizado
 - Descrições padronizadas (folhas → planos, acentuação, maiúsculas): planilha dados/descricoes-atual-x-sugerida.xlsx para o cliente aprovar (337 de 931 mudam; 84 sem descrição). O catálogo usa as descrições atuais até a aprovação.
 - ALINHAMENTO (APROVADO 26/11): na mesma coluna da página, os desenhos começam na mesma margem esquerda (a do mais largo) e o conjunto fica centralizado (catalogo-pdf/gerar.py).
 - LG-050 girado 90° horário a pedido do cliente (scripts/girar_desenho.py; números das cotas mantidos na orientação original; registro em dados/rotacoes.json).
+- GRUPO "SEM BAGUETE" (cliente 27/11): perfis com "sem baguete" na descrição ficam juntos num grupo próprio, depois de mão de amigo e antes de demais. Peças novas na ordem: montante lateral (após montante central), marco de giro e marco Max (antes de marco).
+- LG-144, LG-145, LG-158 e LG-234 girados 90° horário (cliente 27/11): passam a 1-3 H (190×84 mm) em escala real. scripts/girar_desenho.py corrigido: o número é desgirado no lugar, sem sair do recorte (antes, números escondidos de vizinhos apareciam).
+- DESCRIÇÕES CORRIGIDAS pelo cliente (27/11) em dados/descricoes-corrigidas.json: LG-017, 051, 133, 042, 050, 043, 127, 085, 128, 056, 056R, 068, 083, 129, 130, 132, 134, 126 ("Tarvessa" lido como Travessa; "Marcos de giro" do LG-056R lido como Marco de giro).
 - ORDEM POR PEÇA (pedido do cliente 27/11; ordem das peças proposta, a confirmar): dentro de cada grupo (2…5 planos, montante, mão de amigo, demais) os perfis seguem a peça — marco superior → marco inferior → marco lateral → marco bandeira/peitoril → trilho superior → trilho inferior → lateral do trilho → travessa bandeira → travessa peitoril → montante central → montante da folha → montante travessa → montante → coluna → marco → travessa superior/central/inferior da folha → travessa → complemento → mata junta → inversor → baguete → porta palheta → tampa → pingadeira → clic → sem descrição. Depois tipologia, tamanho e código (catalogo-pdf/grupos.py: PECAS). Gold foi de 32 para 35 páginas.
 - LG-133, LG-144 e LG-145 (relato do cliente 26/11): linhas e cotas de desenhos vizinhos removidas (dados/correcoes-desenhos.json; no LG-133 saíram também os números 8,1 e 33 que eram de outro perfil — scripts/limpar_desenhos.py ganhou "remover_textos").
 - LG-234 é de 3 folhas: descrição corrigida em dados/descricoes-corrigidas.json (vale até o ERP ser corrigido).
@@ -72,6 +75,7 @@ Analisado em 23/11/2026 a partir dos arquivos em "Gerador Catalogo/". Atualizado
 - Número do WhatsApp; PDF do catálogo (aguardando liberação); destino dos pedidos de orçamento (a discutir); validar os 123 pesos; revisar a organização (28 itens); export MySQL ItensEstoque atualizado (Danilo).
 
 ## Pendências para o time do ERP
+- Atualizar no ERP as descrições corrigidas pelo cliente em 27/11 (lista em dados/descricoes-corrigidas.json).
 - LG-234: descrição está "correr 2 folhas", o correto é 3 folhas (informado pelo cliente 26/11).
 - LG-129E: cadastro duplicado (sem descrição), é o mesmo perfil do LG-129 — avaliar inativar no ERP. Já fora do catálogo (dados/fora-do-catalogo.json).
 - CANCELAR o cadastro de "tipologia da página" no ERP (campo tipologia_da_pagina): a tipologia passa a ser calculada e ajustada no site. Não remover antes de o site novo assumir a paginação (o ASP atual ainda lê esse campo).

@@ -53,13 +53,10 @@ def girar(svg, graus=90):
     grupos = agrupar(gs)
     corpo_ini = svg.index("</defs>") + len("</defs>") if "</defs>" in svg else cab.end()
     corpo_fim = svg.rindex("</svg>")
-    corpo = svg[corpo_ini:corpo_fim]
-    # tira os glifos do corpo e reinsere agrupados, com o "desgiro"
-    for g in sorted(gs, key=lambda g: g["ini"], reverse=True):
-        if g["ini"] >= corpo_ini:
-            i, f = g["ini"] - corpo_ini, g["fim"] - corpo_ini
-            corpo = corpo[:i] + corpo[f:]
-    textos = []
+    # Cada número é "desgirado" no próprio lugar (compondo a matriz do glifo),
+    # para não tirar o glifo do grupo/recorte (clip-path) em que ele está:
+    # glifos fora do recorte continuam invisíveis.
+    novos = {}
     for gr in grupos:
         esc = gr[0]["esc"]
         x0 = min(g["x"] for g in gr)
@@ -67,14 +64,24 @@ def girar(svg, graus=90):
         y0 = min(g["y"] for g in gr) - 0.7 * esc
         y1 = max(g["y"] for g in gr)
         cx, cy = (x0 + x1) / 2, (y0 + y1) / 2
-        textos.append(f'<g transform="rotate(-90 {cx:.3f} {cy:.3f})">' + "".join(g["txt"] for g in gr) + "</g>")
+        for g in gr:
+            t = re.search(r'matrix\(([^)]*)\)', g["txt"])
+            a, b, c, d, e, f = (float(v) for v in re.split(r'[ ,]+', t.group(1).strip()))
+            m = f"matrix({b:.6f},{-a:.6f},{d:.6f},{-c:.6f},{f + cx - cy:.6f},{-e + cx + cy:.6f})"
+            novos[g["ini"]] = (g["fim"], g["txt"][:t.start()] + m + g["txt"][t.end():])
+    partes, pos = [], corpo_ini
+    for i in sorted(k for k in novos if k >= corpo_ini):
+        partes += [svg[pos:i], novos[i][1]]
+        pos = novos[i][0]
+    partes.append(svg[pos:corpo_fim])
+    corpo = "".join(partes)
     # giro horário de 90° em torno da origem do viewBox + translação para caber
     novo_vb = f'{vy:.3f} {vx:.3f} {vh:.3f} {vw:.3f}'
     gir = f'<g transform="translate({vh + 2 * vy:.3f} 0) rotate(90)">'
     novo_cab = re.sub(r'\swidth="[^"]*"', f' width="{h}"', cab.group(0))
     novo_cab = re.sub(r'\sheight="[^"]*"', f' height="{w}"', novo_cab)
     novo_cab = re.sub(r'viewBox="[^"]*"', f'viewBox="{novo_vb}"', novo_cab) if vb else novo_cab
-    return (svg[:cab.start()] + novo_cab + svg[cab.end():corpo_ini] + gir + corpo + "".join(textos) + "</g>\n" + svg[corpo_fim:])
+    return (svg[:cab.start()] + novo_cab + svg[cab.end():corpo_ini] + gir + corpo + "</g>\n" + svg[corpo_fim:])
 
 
 def main():
